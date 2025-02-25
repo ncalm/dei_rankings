@@ -15,7 +15,7 @@ from selenium import webdriver
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-from rankings import logging_config
+from dei_rankings import logging_config
 
 
 logger = logging_config.logger

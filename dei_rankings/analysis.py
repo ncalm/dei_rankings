@@ -6,8 +6,7 @@ Functions:
 """
 import os
 import pandas as pd
-# from rankings 
-import logging_config
+from dei_rankings import logging_config
 
 logger = logging_config.logger
 

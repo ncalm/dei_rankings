@@ -3,8 +3,9 @@ This script is used to scrape the data from the rankings page and save it to a f
 """
 import sys
 import pandas as pd
-import web_scraping as ws
-import analysis as ra
+import dei_rankings.scrape as ws
+import dei_rankings.analysis as ra
+import dei_rankings.utils as utils
 
 # sys.path.append('..')
 
@@ -65,10 +66,10 @@ country_map = get_token_map('country_map')
 links = ws.get_available_rankings()
 
 # the core part of the URL for each dataset
-core_parts = datasets.url.apply(ws.get_core_url_part)
+core_parts = datasets.url.apply(utils.get_core_url_part)
 
 # check if the available URL retrieved is already in the file or not
-output = {link: (core_parts == ws.get_core_url_part(link)).any() for link in links}
+output = {link: (core_parts == utils.get_core_url_part(link)).any() for link in links}
 
 # return the links that are not in the file
 new_urls = {k: v for k, v in output.items() if not v}
@@ -76,14 +77,14 @@ new_urls = {k: v for k, v in output.items() if not v}
 # loop through the new URLs and add them to the datasets file
 if new_urls:
     for url in new_urls:
-        core_part = ws.get_core_url_part(url)
-        result = ws.predict_country_study_year(core_part=core_part,
+        core_part = utils.get_core_url_part(url)
+        result = utils.predict_country_study_year(core_part=core_part,
                                             country_map=country_map,
                                             study_map=study_map)
 
         data_dict = dict(zip(['country', 'study', 'year'], result))
         data_dict['url'] = url
-        new_row = ws.add_new_dataset(data_dict=data_dict)
+        new_row = utils.add_new_dataset(data_dict=data_dict)
 else:
     ws.logger.info("There were no new urls to add to the datasets file.")
     sys.exit(0)
@@ -95,7 +96,7 @@ for index, row in datasets.loc[datasets.link_valid == 1].iterrows():
     filename = '..\\' + row['filename']
 
     # scrape from, save to, refresh file if exists?
-    ws.to_csv(url, filename, False)
+    ws.to_csv(url=url, filename=filename)
 
 # load the data
 df_filedata = ra.get_rankings_data()
