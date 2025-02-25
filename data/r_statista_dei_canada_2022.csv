@@ -1,0 +1,151 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Hydro-Québec,1944,"10,001 - 50,000",92.62,Sophie Brochu,Quebec,Montreal,Utilities
+2,University of New Brunswick,1785,"1,001 - 5,000",92.22,Allison D. McCain,New Brunswick,Fredericton,Education
+3,National Bank of Canada,1859,"10,001 - 50,000",91.69,Louis Vachon,Quebec,Montreal,Banking and Financial Services
+4,Nike,1964,"50,001 - 100,000",91.62,John Donahoe,Ontario,Toronto,Clothing  (Manufacturing and Retail)
+5,Lush Fresh Handmade Cosmetics,1995,"1,001 - 5,000",90.91,Mark Wolverton,British Columbia,Vancouver,Retail and Wholesale
+6,Memorial University of Newfoundland,1925,"1,001 - 5,000",90.76,Vianne Timmons,Newfoundland and Labrador,St. John's,Education
+7,Waste Management,1968,"1,001 - 5,000",90.56,"James Fish, Jr.",Ontario,Brampton,Utilities
+8,FedEx Canada,1987,"10,001 - 50,000",90.41,Frederick Smith,Ontario,Mississauga,Transportation and Logistics
+9,Toronto Metropolitan University,1948,"1,001 - 5,000",90.31,Janice Fukakusa,Ontario,Toronto,Education
+10,Sheridan College,1967,"1,001 - 5,000",90.16,Janet Morrison,Ontario,Oakville,Education
+11,Marsh & McLennan Companies,1905,"50,001 - 100,000",89.87,Dan Glaser,New York,New York,"Professional Services (e.g. Consulting, Accounting)"
+12,Best Buy,1966,"10,001 - 50,000",88.84,Corie Barry,Minnesota,Richfield,Retail and Wholesale
+13,Samsung Electronics,1969,"501 - 1,000",88.08,Jeff Jo,Ontario,Mississauga,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+14,Purolator,1960,"10,001 - 50,000",87.91,John Ferguson,Ontario,Mississauga,Transportation and Logistics
+15,Ikea,1943,"5,001 - 10,000",87.70,Jesper Brodin,Ontario,Burlington,Retail and Wholesale
+16,Roots,1973,"1,001 - 5,000",87.41,Meghan Roach,Ontario,Toronto,Clothing  (Manufacturing and Retail)
+17,Canada Goose,1957,"1,001 - 5,000",87.41,Dani Reiss,Ontario,Toronto,Clothing  (Manufacturing and Retail)
+18,Ford,1904,"10,001 - 50,000",87.28,Jim Farley,Ontario,Oakville,Automotive (Automotive and Suppliers)
+19,Ardène,1982,"1,001 - 5,000",87.27,Arden Dervishian,Quebec,Montreal,Clothing  (Manufacturing and Retail)
+20,Cisco Systems,1990,"1,001 - 5,000",87.20,Chuck Robbins,Ontario,Toronto,"IT, Internet, Software & Services"
+21,ATB Financial,1938,"1,001 - 5,000",87.10,Curtis Stange,Alberta,Edmonton,Banking and Financial Services
+22,Sinai Health System,2015,"5,001 - 10,000",87.08,Dr. Gary Newton,Ontario,Toronto,Healthcare & Social
+23,BASF,1865,"1,001 - 5,000",86.77,Martin Brudermüller,Ontario,Mississauga,"Construction, Oil & Gas Operations, Mining and Chemicals"
+24,Disney,1923,"100,001 - 500,000",86.64,Bob Chapek,California,Burbank,Media & Advertising
+25,McMaster University,1887,"5,001 - 10,000",86.17,David Farrar,Ontario,Hamilton,Education
+26,Bruce Power,1960,"1,001 - 5,000",86.09,Mike Rencheck,Ontario,Tiverton,Utilities
+27,Canada Life,1847,"10,001 - 50,000",86.08,Paul Mahon,Manitoba,Winnipeg,Insurances
+28,UPS,1907,"10,001 - 50,000",86.07,Carol B. Tomé,Washington,Seattle,Transportation and Logistics
+29,Apple,1976,"100,001 - 500,000",85.99,Tim Cook,Ontario,Toronto,"IT, Internet, Software & Services"
+30,MNP,1958,"5,001 - 10,000",85.96,Jason Tuffs,Alberta,Calgary,"Professional Services (e.g. Consulting, Accounting)"
+31,Humber River Hospital,1997,"1,001 - 5,000",85.88,Barb Collins,Ontario,Toronto,Healthcare & Social
+32,KPMG,1987,"5,001 - 10,000",85.84,Elio Luongo,Ontario,Toronto,"Professional Services (e.g. Consulting, Accounting)"
+33,Longo's,1956,"5,001 - 10,000",85.83,Anthony Longo,Ontario,Vaughan,Retail and Wholesale
+34,Nokia,1865,"1,001 - 5,000",85.75,Rajeev Suri,Ontario,Ottawa,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+35,Intact Financial Corporation,1809,"10,001 - 50,000",85.50,Charles Brindamour,Ontario,Toronto,Insurances
+36,CIUSSS de la Capitale-Nationale,2015,"10,001 - 50,000",85.33,Guy Thibodeau,Quebec,Québec,Healthcare & Social
+37,LifeWorks,1966,"5,001 - 10,000",85.30,Stephen Liptrap,Ontario,Toronto,Business Services & Supplies
+38,SaskTel,1908,"1,001 - 5,000",85.24,Doug Burnett,Saskatchewan,Regina,"Telecommunications Services, Cable Supplier"
+39,La Maison Simons,1840,"1,001 - 5,000",85.06,Peter Simons,Quebec,Québec,Clothing  (Manufacturing and Retail)
+40,Canon,1937,"1,001 - 5,000",85.05,Nobuhiko Kitajima,Ontario,Brampton,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+41,University of Guelph,1874,"1,001 - 5,000",84.82,Charlotte Yates,Ontario,Guelph,Education
+42,Central Health Newfoundland,1993,"1,001 - 5,000",84.69,Andrée Robichaud,Newfoundland and Labrador,Grand Falls-Windsor,Healthcare & Social
+43,Shopify,2004,"5,001 - 10,000",84.67,Tobi Lütke,Ontario,Ottawa,"IT, Internet, Software & Services"
+44,DHL,1969,"1,001 - 5,000",84.57,Frank Appel,Ontario,Brampton,Transportation and Logistics
+45,BC Hydro,1860,"5,001 - 10,000",84.46,Chris O’Riley,British Columbia,Vancouver,Utilities
+46,LifeLabs,1958,"5,001 - 10,000",84.38,Charles Brown,Ontario,Toronto,Health Care Equipment & Services
+47,Royal Victoria Regional Health Centre,1891,"1,001 - 5,000",84.35,Gail Hunt,Ontario,Barrie,Healthcare & Social
+48,American Express,1850,"1,001 - 5,000",84.23,Stephen J. Squeri,Ontario,Markham,Banking and Financial Services
+49,A&W Food Services,1956,"10,001 - 50,000",84.17,Kevin Bazner,British Columbia,North Vancouver,Restaurants
+50,Wawanesa Insurance,1896,"5,001 - 10,000",84.14,Jeff Goy,Manitoba,Winnipeg,Insurances
+51,HSBC Bank Canada,1981,"5,001 - 10,000",84.13,Linda Seymour,British Columbia,Vancouver,Banking and Financial Services
+52,London Health Sciences Centre,1995,"10,001 - 50,000",83.95,Jackie Schleifer Taylor,Ontario,London,Healthcare & Social
+53,Ubisoft,1997,"10,001 - 50,000",83.91,Yves Guillemot,Quebec,Montreal,Media & Advertising
+54,Aviva,2003,"1,001 - 5,000",83.71,Amanda Blanc,Ontario,Markham,Insurances
+55,Dalhousie University,1818,"5,001 - 10,000",83.59,Deep Saini,Nova Scotia,Halifax,Education
+56,Sunnybrook Health Sciences Centre,1943,"5,001 - 10,000",83.58,Andy Smith,Ontario,Toronto,Healthcare & Social
+57,Telus,1990,"10,001 - 50,000",83.54,Darren Entwistle,British Columbia,Vancouver,"Telecommunications Services, Cable Supplier"
+58,Abbotsford School District,1906,"1,001 - 5,000",83.30,Kevin Godden,British Columbia,Abbotsford,Education
+59,Gap,1969,"1,001 - 5,000",83.28,Sonia Syngal,Ontario,Toronto,Clothing  (Manufacturing and Retail)
+60,Starbucks,1987,"10,001 - 50,000",83.07,Kevin Johnson,Ontario,Toronto,Restaurants
+61,Holt Renfrew,1837,"1,001 - 5,000",83.03,Sebastian Picardo,Ontario,Toronto,Retail and Wholesale
+62,Microsoft,1985,"1,001 - 5,000",83.02,Satya Nadella,Ontario,Mississauga,"IT, Internet, Software & Services"
+63,Hamilton Health Sciences,1996,"10,001 - 50,000",82.93,Rob MacIsaac,Ontario,Hamilton,Healthcare & Social
+64,Western Health,2003,"1,001 - 5,000",82.79,Michelle House,Newfoundland and Labrador,Corner Brook,Healthcare & Social
+65,Coca Cola Canada Bottling Limited,1896,"5,001 - 10,000",82.76,Todd Parsons,Ontario,Toronto,"Food, Soft Beverages, Alcohol & Tobacco (including agriculture production)"
+66,Pet Valu,1976,"1,001 - 5,000",82.57,Richard Maltsbarger,Ontario,Markham,Retail and Wholesale
+67,PetSmart,1986,"10,001 - 50,000",82.22,J.K. Symancyk,Ontario,Burlington,Retail and Wholesale
+68,Subway,1965,"501 - 1,000",82.20,Guy Laframboise,Connecticut,Milford,Restaurants
+69,Chatham-Kent Health Alliance,2018,"1,001 - 5,000",82.17,Lori Marshall,Ontario,Chatham,Healthcare & Social
+70,Société de l'assurance automobile du Québec,1978,"1,001 - 5,000",81.75,Nathalie  Tremblay,Quebec,Québec,Banking and Financial Services
+71,University of Alberta,1908,"10,001 - 50,000",81.75,Peggy Grritty,Alberta,Edmonton,Education
+72,Whole Foods Market,1980,"50,001 - 100,000",81.65,John Mackey,Texas,Austin,Retail and Wholesale
+73,The Mosaic Company,2004,"501 - 1,000",81.64,James C. O'Rourke,Florida,Tampa,"Construction, Oil & Gas Operations, Mining and Chemicals"
+74,Health Sciences Centre Winnipeg,1973,"5,001 - 10,000",81.62,Adam Topp,Manitoba,Winnipeg,Healthcare & Social
+75,University of British Columbia,1908,"10,001 - 50,000",81.62,Santa J. Ono,British Columbia,Vancouver,Education
+76,TJX Companies,1956,"100,001 - 500,000",81.59,Ernie Herrman,Ontario,Mississauga,Retail and Wholesale
+77,University of Waterloo,1957,"1,001 - 5,000",81.47,Feridun Hamdullahpur,Ontario,Waterloo,Education
+78,Groupe Dynamite,1975,"1,001 - 5,000",81.41,Elizabeth Edmiston,Quebec,Ville Mont-Royal,Retail and Wholesale
+79,Surrey School District,1906,"10,001 - 50,000",81.36,Mark Pearmain,British Columbia,Surrey,Education
+80,Canadian Mental Health Association,1918,"1,001 - 5,000",81.20,Margaret Eaton,Ontario,Toronto,Healthcare & Social
+81,Economical Insurance,1871,"1,001 - 5,000",81.16,Rowan Saunders,Ontario,Waterloo,Insurances
+82,Canadian Tire,1922,"10,001 - 50,000",81.11,Greg Hicks,Ontario,Toronto,Retail and Wholesale
+83,Accor Hotels,1960,"100,001 - 500,000",80.96,Sebastien Bazin,Ontario,Mississauga,Travel & Leisure
+84,Shoppers Drug Mart,1962,"1,001 - 5,000",80.91,Jeff Leger,Ontario,Toronto,Retail and Wholesale
+85,Google,1998,"1,001 - 5,000",80.89,Sundar Pichai,Ontario,Toronto,"IT, Internet, Software & Services"
+86,Tata Consultancy Services,1968,"5,001 - 10,000",80.79,Soumen Roy,Ontario,Toronto,"Professional Services (e.g. Consulting, Accounting)"
+87,Domtar,1848,"1,001 - 5,000",80.78,John D. Williams,South Carolina,Fort Mill,"Engineering, Manufacturing"
+88,The Co-operators,1945,"5,001 - 10,000",80.77,Rob Wesseling,Ontario,Guelph,Insurances
+89,American Eagle Outfitters,1977,"10,001 - 50,000",80.75,Jay Schottenstein,Pennsylvania,Pittsburgh,Retail and Wholesale
+90,SickKids,1875,"10,001 - 50,000",80.72,Dr. Ronald Cohn,Ontario,Toronto,Healthcare & Social
+91,Bath & Body Works,1963,"50,001 - 100,000",80.62,Sarah Nash,Ohio,Reynoldsburg,Clothing  (Manufacturing and Retail)
+92,PCL Construction,1906,"1,001 - 5,000",80.59,Dave Filipchuk,Alberta,Edmonton,"Construction, Oil & Gas Operations, Mining and Chemicals"
+93,Allstate Insurance,1931,"1,001 - 5,000",80.58,London Bradley,Ontario,Markham,Insurances
+94,ADP,1949,"1,001 - 5,000",80.57,Holger Kormann,New Jersey,Roseland,"IT, Internet, Software & Services"
+95,CIBC,1961,"10,001 - 50,000",80.57,Victor G. Dodig,Ontario,Toronto,Banking and Financial Services
+96,Hudson's Bay,1670,"10,001 - 50,000",80.35,Richard A. Baker,Ontario,Brampton,Retail and Wholesale
+97,Revera,1961,"10,001 - 50,000",80.28,Thomas G. Wellner,Ontario,Mississauga,Healthcare & Social
+98,Dollarama,1992,"10,001 - 50,000",80.14,Neil Rossy,Quebec,Montreal,Retail and Wholesale
+99,Oracle,1984,"100,001 - 500,000",80.11,Safra Catz,Ontario,Mississauga,"IT, Internet, Software & Services"
+100,Reitmans,1926,"5,001 - 10,000",79.95,Stephen F. Reitman,Quebec,Montreal,Retail and Wholesale
+101,Desjardins,1900,"10,001 - 50,000",79.95,Guy Cormier,Quebec,Lévis,Banking and Financial Services
+102,Enterprise Rent-A-Car,1957,"5,001 - 10,000",79.92,Andrew C. Taylor,Ontario,Scarborough,Travel & Leisure
+103,Winnipeg School Division,1877,"1,001 - 5,000",79.60,Karin Siler,Manitoba,Winnipeg,Education
+104,Sephora,1970,"1,001 - 5,000",79.58,Gregory Bruyer,Ontario,Toronto,Retail and Wholesale
+105,J.D. Irving,1882,"10,001 - 50,000",79.54,James D. Irving,New Brunswick,Saint John,"Engineering, Manufacturing"
+106,IBM,1911,"1,001 - 5,000",79.53,Arvind Krishna,Ontario,Markham,"IT, Internet, Software & Services"
+107,Boeing,1929,"1,001 - 5,000",79.50,Dave Calhoun,Manitoba,Winnipeg,Aerospace & Defense
+108,Royal LePage,1913,"10,001 - 50,000",79.48,Philip Soper,Ontario,Toronto,"Professional Services (e.g. Consulting, Accounting)"
+109,General Motors,1908,"5,001 - 10,000",79.20,Mary T. Barra,Ontario,Oshawa,Automotive (Automotive and Suppliers)
+110,Metrolinx,2006,"1,001 - 5,000",78.79,Phil Verster,Ontario,Toronto,Transportation and Logistics
+111,Lululemon Athletica,1998,"5,001 - 10,000",78.75,Calvin McDonald,British Columbia,Vancouver,Clothing  (Manufacturing and Retail)
+112,Yum! Brands,1997,">1,000,000",78.47,David Gibbs,Kentucky,Louisville,Restaurants
+113,Marriott Hotels,1927,"100,001 - 500,000",78.42,Anthony Capuano,Ontario,Mississauga,Travel & Leisure
+114,Bank of Canada,1935,"1,001 - 5,000",78.32,Tiff Macklem,Ontario,Ottawa,Banking and Financial Services
+115,CISSS de Laval,2015,"10,001 - 50,000",78.29,Isaac Israel,Quebec,Laval,Healthcare & Social
+116,CarePartners,1984,"1,001 - 5,000",78.27,Linda Knight,Ontario,Kitchener,Healthcare & Social
+117,Toronto Transit Commission,1921,"10,001 - 50,000",78.11,Rick Leary,Ontario,Toronto,Transportation and Logistics
+118,Suncor Energy,1967,"10,001 - 50,000",78.10,Mark Little,Alberta,Calgary,"Construction, Oil & Gas Operations, Mining and Chemicals"
+119,London District Catholic School Board,1999,"1,001 - 5,000",78.09,Vince Romeo,Ontario,London,Education
+120,Compass Group,1941,"10,001 - 50,000",78.05,Dominic Blakemore,Ontario,Mississauga,Business Services & Supplies
+121,Canadian National Railway,1832,"10,001 - 50,000",78.04,Jean-Jacques Ruest,Quebec,Montreal,Transportation and Logistics
+122,Wendy’s,1969,"10,001 - 50,000",77.87,Todd A. Penegor,Ontario,Oakville,Restaurants
+123,RE/MAX,1973,"10,001 - 50,000",77.82,Adam Contos,Ontario,Mississauga,Business Services & Supplies
+124,H&M,1947,"1,001 - 5,000",77.82,Helena Helmersson,Ontario,Toronto,Clothing  (Manufacturing and Retail)
+125,Concordia University,1974,"5,001 - 10,000",77.76,Graham Carr,Quebec,Montreal,Education
+126,TD Bank Group,1855,"50,001 - 100,000",77.70,Bharat Masrani,Ontario,Toronto,Banking and Financial Services
+127,Intel,1968,"100,001 - 500,000",77.62,Patrick Gelsinger,British Columbia,Vancouver,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+128,University of Toronto,1827,"10,001 - 50,000",77.40,Meric Gertler,Ontario,Toronto,Education
+129,Fraser Health,2001,"10,001 - 50,000",77.30,Dr. Victoria Lee,British Columbia,Surrey,Healthcare & Social
+130,Oak Valley Health,1958,"1,001 - 5,000",77.25,Jo-anne Marr,Ontario,Uxbridge,Healthcare & Social
+131,Dell Canada,1979,"100,001 - 500,000",77.05,Michael Dell,Ontario,North York,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+132,Rogers Communications,1960,"10,001 - 50,000",77.01,Tony Staffieri,Ontario,Toronto,"Telecommunications Services, Cable Supplier"
+133,Michaels Stores,1973,"10,001 - 50,000",76.92,Ashley Buchanan,Texas,Irving,Retail and Wholesale
+134,CIUSSS de l'Estrie,2015,"10,001 - 50,000",76.81,Stéphane Tremblay,Quebec,Sherbrooke,Healthcare & Social
+135,Shell,1911,"1,001 - 5,000",76.81,Ben van Beurden,Alberta,Calgary,"Construction, Oil & Gas Operations, Mining and Chemicals"
+136,Home Depot,1994,"10,001 - 50,000",76.74,Michael Rowe,Ontario,Toronto,Retail and Wholesale
+137,Thomson Reuters,1851,"1,001 - 5,000",76.69,Steve Hasker,Ontario,Toronto,Media & Advertising
+138,Scotiabank,1832,"50,001 - 100,000",76.54,Brian J. Porter,Ontario,Toronto,Banking and Financial Services
+139,CGI Group,1976,"50,001 - 100,000",76.49,George D. Schindler,Quebec,Montreal,Business Services & Supplies
+140,Restaurant Brands International,2014,"5,001 - 10,000",76.45,Daniel Schwartz,Ontario,Toronto,Restaurants
+141,Nestlé,1866,"1,001 - 5,000",76.21,Ulf Mark Schneider,Ontario,Toronto,"Food, Soft Beverages, Alcohol & Tobacco (including agriculture production)"
+142,Accenture,1989,"5,001 - 10,000",76.17,Jimmy Etheredge,Alberta,Calgary,"Professional Services (e.g. Consulting, Accounting)"
+143,Indigo Books & Music,1996,"1,001 - 5,000",76.06,Heather Reisman,Ontario,Toronto,Retail and Wholesale
+144,PwC,1849,"5,001 - 10,000",76.01,Nicolas Marcoux,Ontario,Toronto,"Professional Services (e.g. Consulting, Accounting)"
+145,Mount Royal University,1910,"1,001 - 5,000",75.91,Dawn Farrell,Alberta,Calgary,Education
+146,General Electric,1892,"1,001 - 5,000",75.88,H. Lawrence Culp Jr.,Ontario,Mississauga,"Engineering, Manufacturing"
+147,Federated Co-operatives,1944,"10,001 - 50,000",75.85,Scott Banda,Saskatchewan,Saskatoon,Retail and Wholesale
+148,RBC,1864,"50,001 - 100,000",75.84,David McKay,Ontario,Toronto,Banking and Financial Services
+149,Air Canada,1937,"10,001 - 50,000",75.80,Michael Rousseau,Quebec,Montreal,Transportation and Logistics
+150,Manitoba Hydro,1961,"1,001 - 5,000",75.41,Jay Grewal,Manitoba,Winnipeg,Utilities

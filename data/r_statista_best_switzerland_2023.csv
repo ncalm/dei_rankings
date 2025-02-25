@@ -1,0 +1,251 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Zweifel Pomy-Chips,1958,201 - 500,8.96,Christoph Zweifel,Zürich,Zürich,Manufacture of Food and other Consumer Goods
+2,Schindler,1874,"1,001 - 5,000",8.70,Patrick Hess,Lucerne,Ebikon,Mechanical and Plant Engineering
+3,Rolex,1905,"5,001 - 10,000",8.63,Jean-Frédéric Dufour,Geneva,Genf,Watches and Jewelry
+4,Breitling,1884,"501 - 1,000",8.56,Georges Kern,Solothurn,Grenchen,Watches and Jewelry
+5,Microsoft Schweiz,1989,"501 - 1,000",8.41,Catrin Hinkel,Zürich,Zürich,"Internet, Telecommunications and IT"
+6,Schweizerische Südostbahn,2001,"501 - 1,000",8.33,Thomas Küchler,St. Gallen,St. Gallen,Transportation and Logistics
+7,EPFL Eidgenössische Technische Hochschule Lausanne,1969,"5,001 - 10,000",8.28,Martin Vetterli,Vaud,Lausanne,Education and Research
+8,Geberit,1874,"1,001 - 5,000",8.27,Christian Buhl,St. Gallen,Jona,Production and Processing of Raw and Building Materials
+9,Roche,1896,"10,001 - 50,000",8.25,Dr. Severin Schwan,Basle-City,Basel,Chemicals and Pharmaceuticals
+10,Apple Schweiz,1976,"501 - 1,000",8.20,Rolf Weiss,Zürich,Zürich,Retail
+11,Google,1998,"1,001 - 5,000",8.19,Patrick Warnking,Zürich,Zürich,"Internet, Telecommunications and IT"
+12,Emmi Gruppe,1907,"5,001 - 10,000",8.19,Urs Riedener,Lucerne,Luzern,Manufacture of Food and other Consumer Goods
+13,IKEA Schweiz,1943,"1,001 - 5,000",8.16,Jessica Anderen,Aargau,Spreitenbach,Retail
+14,Landi Schweiz,1989,201 - 500,8.15,Ernst Hunkeler,Bern,Dotzigen,Retail
+15,BLS,1906,"1,001 - 5,000",8.12,Daniel Schafer,Bern,Bern,Transportation and Logistics
+16,Swissquote Bank,1996,"501 - 1,000",8.11,Marc Bürki,Vaud,Gland,International and Investment Banking
+17,Zurich,1872,"5,001 - 10,000",8.11,Juan Beer,Zürich,Zürich,Insurance
+18,Delica,1928,"1,001 - 5,000",8.10,Raphael Gugerli,St. Gallen,Buchs,Manufacture of Food and other Consumer Goods
+19,Leica Geosystems,1997,"1,001 - 5,000",8.08,Thomas Harring,St. Gallen,Heerbrugg,"Electronics, Electrical Engineering, Medical Devices"
+20,Swiss Re,1863,"1,001 - 5,000",8.08,Christian Mumenthaler,Zürich,Zürich,Insurance
+21,Die Mobiliar,1826,"5,001 - 10,000",8.08,Michèle Rodoni,Bern,Bern,Insurance
+22,Schweizerisches Rotes Kreuz,1866,201 - 500,8.04,Markus Mader,Bern,Bern,Healthcare and Social
+23,ETH Eidgenössische Technische Hochschule Zürich,1855,"10,001 - 50,000",8.02,Joël Mesot,Zürich,Zürich,Education and Research
+24,CERN,1954,"1,001 - 5,000",8.02,Fabiola Gianotti,Geneva,Genf,Education and Research
+25,Rhätische Bahn,1888,"1,001 - 5,000",8.02,Renato Fasciati,Grisons,Chur,Transportation and Logistics
+26,BKW,1898,"5,001 - 10,000",7.99,Suzanne Thoma,Bern,Bern,Energy and Communal Services
+27,Schweizer Reisekasse (Reka),1939,"501 - 1,000",7.99,Roger Seifritz,Bern,Bern,"Restaurants, Tourism, Sports and Recreational Services"
+28,Audika,2016,201 - 500,7.94,Michael Grathwohl,Zürich,Urdorf,Retail
+29,Oswald Nahrungsmittel,1951,201 - 500,7.92,Lea Paessens,Zug,Steinhausen,Manufacture of Food and other Consumer Goods
+30,Sensirion,1998,"501 - 1,000",7.92,Marc von Waldkirch,Zürich,Stäfa,"Electronics, Electrical Engineering, Medical Devices"
+31,Belimo,1975,"501 - 1,000",7.91,Lars van der Haegen,Zürich,Hinwil,"Electronics, Electrical Engineering, Medical Devices"
+32,CSS Versicherung,1899,"1,001 - 5,000",7.89,Philomena Colatrella,Lucerne,Luzern,Insurance
+33,ABB,1988,"1,001 - 5,000",7.89,Björn Rosengren,Zürich,Zürich,Mechanical and Plant Engineering
+34,Graubündner Kantonalbank,1870,"501 - 1,000",7.88,Daniel Fust,Grisons,Chur,Regional and Savings Banks
+35,Decathlon,1976,"501 - 1,000",7.87,Christian Ollier,Geneva,Genf,Retail
+36,Victorinox,1884,"1,001 - 5,000",7.86,Carl Elsener junior,Schwyz,Ibach-Schwyz,Watches and Jewelry
+37,LGT,1920,"501 - 1,000",7.86,Heinrich Henckel,Basle-City,Basel,International and Investment Banking
+38,Universität Neuenburg,1909,"1,001 - 5,000",7.84,Kilian Stoffel,Neuchâtel,Neuenburg,Education and Research
+39,PSI Paul Scherrer Institut,1988,"1,001 - 5,000",7.83,Prof. Dr. Christian Rüegg,Aargau,Villigen,Education and Research
+40,Kenny's Auto-Center,1976,201 - 500,7.83,Marc Eichenberger,Aargau,Wettingen,Automotive and Vehicle Manufacturing and Sales
+41,BLKB Basellandschaftliche Kantonalbank,1864,"501 - 1,000",7.82,John Häfelfinger,Basle-Country,Liestal,Regional and Savings Banks
+42,Liebherr,1949,"1,001 - 5,000",7.81,"Willi Liebherr, Jan Liebherr",Fribourg,Bulle,Mechanical and Plant Engineering
+43,Lombard Odier,2002,"1,001 - 5,000",7.81,Jean-Pascal Porcherot,Geneva,Genf,International and Investment Banking
+44,EKZ Elektrizitätswerke des Kantons Zürich,1908,"1,001 - 5,000",7.80,Urs Rengel,Zürich,Zürich,Energy and Communal Services
+45,Novartis,1996,"10,001 - 50,000",7.80,Vasant Narasimhan,Basle-City,Basel,Chemicals and Pharmaceuticals
+46,ICRC International Committee of the Red Cross,1863,"1,001 - 5,000",7.79,Stephan Maurer,Geneva,Genf,Healthcare and Social
+47,Solina,1883,"501 - 1,000",7.78,Patric Bhend,Bern,Spiez,Healthcare and Social
+48,Merck,1929,"1,001 - 5,000",7.78,Florian Schick,Zug,Zug,Chemicals and Pharmaceuticals
+49,Confiserie Bachmann,1897,201 - 500,7.75,"Daniel Weber, Jacqueline Di Marco",Lucerne,Luzern,Manufacture of Food and other Consumer Goods
+50,Schwyzer Kantonalbank,1890,"501 - 1,000",7.74,Susanne Thellung,Schwyz,Schwyz,Regional and Savings Banks
+51,Tchibo Schweiz,2001,201 - 500,7.71,Marcel R. Saluz,Zürich,Wallisellen,Retail
+52,Baloise Group,1863,"1,001 - 5,000",7.71,Gert De Winter,Basle-City,Basel,Insurance
+53,Ramseier Suisse,1910,201 - 500,7.70,Christoph Richli,Lucerne,Sursee,Manufacture of Food and other Consumer Goods
+54,VBZ Verkehrsbetriebe Zürich,1896,"1,001 - 5,000",7.70,Marco Lüthi,Zürich,Zürich,Transportation and Logistics
+55,Schroders,1967,201 - 500,7.69,Andreas Markwalder,Zürich,Zürich,International and Investment Banking
+56,Bayer,1863,"1,001 - 5,000",7.69,Werner Baumann,Zürich,Zürich,Chemicals and Pharmaceuticals
+57,HEP Vaud Pädagogische Hochschule Waadt,2001,>200,7.69,Guillaume Vanhulst,Vaud,Lausanne,Education and Research
+58,Takeda Pharmaceuticals International,1981,"1,001 - 5,000",7.69,Christophe Weber,Zürich,Opfikon,Chemicals and Pharmaceuticals
+59,Alterszentren Zug,1959,>200,7.66,Peter Arnold,Zug,Zug,Healthcare and Social
+60,Skyguide,1922,"1,001 - 5,000",7.63,Alex Bristol,Geneva,Genf,Transportation and Logistics
+61,Matterhorn Gotthard Bahn,1891,201 - 500,7.62,Fernando Lehner,Valais,Brig,Transportation and Logistics
+62,Zur Rose,1993,"501 - 1,000",7.61,Walter Hess,Thurgovia,Frauenfeld,Wholesale
+63,Swiss Life,1857,"1,001 - 5,000",7.60,Markus Leibundgut,Zürich,Zürich,Insurance
+64,Pictet & Cie,1805,"1,001 - 5,000",7.60,Renaud de Planta,Geneva,Genf,International and Investment Banking
+65,FHNW Fachhochschule Nordwestschweiz,2006,"1,001 - 5,000",7.60,Pierre Tulowitzki,Aargau,Windisch,Education and Research
+66,EMPA,1880,"1,001 - 5,000",7.59,Tanja Zimmermann,Zürich,Dübendorf,Education and Research
+67,Kantonsspital Baden,1891,"1,001 - 5,000",7.58,Adrian Schmitter,Aargau,Baden,Healthcare and Social
+68,Müller Martini Gruppe,1946,"501 - 1,000",7.57,Bruno Müller,Aargau,Zofingen,Mechanical and Plant Engineering
+69,Bucher Industries,1807,"501 - 1,000",7.56,Jacques Sanche,Zürich,Niederweningen,Automotive and Vehicle Manufacturing and Sales
+70,Coop,1890,"10,001 - 50,000",7.55,Joos Sutter,Basle-City,Basel,Retail
+71,Güdel,1954,"501 - 1,000",7.55,Hans Gut,Bern,Langenthal,Mechanical and Plant Engineering
+72,Richemont,1988,"5,001 - 10,000",7.55,Jérôme Lambert,Geneva,Bellevue,Watches and Jewelry
+73,UMB,1996,"501 - 1,000",7.55,Martin Gartmann,Zug,Cham,"Internet, Telecommunications and IT"
+74,Universität Genf,1559,"5,001 - 10,000",7.55,Yves Flückiger,Geneva,Genf,Education and Research
+75,Abacus Research,1985,"501 - 1,000",7.54,Claudio Hintermann,St. Gallen,Wittenbach,"Internet, Telecommunications and IT"
+76,Holcim Schweiz,1912,"1,001 - 5,000",7.53,Simon Kronenberg,Zürich,Zürich,Production and Processing of Raw and Building Materials
+77,FOJ - Fondation Officielle de la jeunesse,1898,201 - 500,7.53,David Crisafulli,Geneva,Lancy,Education and Research
+78,Bischofszell Nahrungsmittel,1909,"1,001 - 5,000",7.52,Peter Hinder,Thurgovia,Bischofszell,Manufacture of Food and other Consumer Goods
+79,Sanitas Krankenversicherung,1958,"501 - 1,000",7.52,Dr. Andreas Schönenberger,Zürich,Zürich,Insurance
+80,Ferrum,1917,201 - 500,7.52,Ulrich Debrunner,Aargau,Schafisheim,Mechanical and Plant Engineering
+81,SWICA Gesundheitsorganisation,1993,"1,001 - 5,000",7.52,Carlo Conti,Zürich,Winterthur,Insurance
+82,Burckhardt+Partner,1951,201 - 500,7.52,Samuel Schultze,Basle-City,Basel,Construction
+83,PHZH Pädagogische Hochschule Zürich,2002,"501 - 1,000",7.51,Heinz Rhyn,Zürich,Zürich,Education and Research
+84,Import Parfümerie,1976,"501 - 1,000",7.50,Michael Susta,Basle-City,Basel,Retail
+85,Eben-Hézer-Stiftung,1936,"1,001 - 5,000",7.50,Dominique Praplan,Vaud,Lausanne,Healthcare and Social
+86,Hamilton Bonaduz,1966,"1,001 - 5,000",7.49,Martin Frey,Grisons,Bonaduz,"Electronics, Electrical Engineering, Medical Devices"
+87,Allianz,1890,"1,001 - 5,000",7.49,Ruedi Kubat,Zürich,Wallisellen,Insurance
+88,SCHOTT Schweiz,1884,"501 - 1,000",7.48,Dr. Frank Heinricht,St. Gallen,St. Gallen,Production and Processing of Raw and Building Materials
+89,Spital Thun,1873,"1,001 - 5,000",7.47,Bruno Guggisberg,Bern,Thun,Healthcare and Social
+90,Hotelplan Suisse,1935,"501 - 1,000",7.47,Laura Meyer,Zürich,Glattbrugg,"Restaurants, Tourism, Sports and Recreational Services"
+91,Lindenhofgruppe,1908,"1,001 - 5,000",7.47,Guido Speck,Bern,Bern,Healthcare and Social
+92,Edmond de Rothschild,1923,"501 - 1,000",7.45,François Pauly,Geneva,Genf,International and Investment Banking
+93,ThyssenKrupp,1999,>200,7.44,Martina Merz,St. Gallen,Bronschhofen,Mechanical and Plant Engineering
+94,MSC Mediterranean Shipping Company,1970,>200,7.44,Soren Toft,Geneva,Genf,Transportation and Logistics
+95,AXA Versicherungen,1875,"1,001 - 5,000",7.44,Fabrizio Petrillo,Zürich,Winterthur,Insurance
+96,Touring Club Schweiz,1896,"1,001 - 5,000",7.44,Jürg Wittwer,Geneva,Vernier,"Restaurants, Tourism, Sports and Recreational Services"
+97,Bürgenstock Hotel,1871,"501 - 1,000",7.44,Christian Sack,Nidwalden,Obbürgen,"Restaurants, Tourism, Sports and Recreational Services"
+98,Lonza,1897,"1,001 - 5,000",7.43,Pierre-Alain Ruffieux,Basle-City,Basel,Chemicals and Pharmaceuticals
+99,JOWA,1931,"1,001 - 5,000",7.43,Hans-Rudolf Christen,Zürich,Volketswil,Manufacture of Food and other Consumer Goods
+100,Noser Group,1984,>200,7.41,Herbert Ender,Zürich,Zürich,"Internet, Telecommunications and IT"
+101,Marti Gruppe,1922,>200,7.40,Hermann Walpen,Bern,Moosseedorf,Construction
+102,Ergon Informatik,1984,201 - 500,7.40,Gabriela Keller,Zürich,Zürich,"Internet, Telecommunications and IT"
+103,Huber+Suhner,1864,"1,001 - 5,000",7.39,Urs Ryffel,Appenzell Ausserrhoden,Herisau,"Electronics, Electrical Engineering, Medical Devices"
+104,Universität St. Gallen,1898,"1,001 - 5,000",7.38,Bernhard Ehrenzeller,St. Gallen,St. Gallen,Education and Research
+105,ITRIS Gruppe,1986,201 - 500,7.38,Alfred Winkler,Zürich,Spreitenbach,"Internet, Telecommunications and IT"
+106,adesso,1985,201 - 500,7.38,Hansjörg Süess,Zürich,Zürich,"Internet, Telecommunications and IT"
+107,Hornbach,1877,"1,001 - 5,000",7.37,Alessandro Pellegrini,Lucerne,Sursee,Retail
+108,Bernmobil,1900,"1,001 - 5,000",7.37,René Schmied,Bern,Bern,Transportation and Logistics
+109,Engel,1876,201 - 500,7.37,Markus Berger,Bern,Biel,Retail
+110,Bell,1869,"1,001 - 5,000",7.37,Lorenz Wyss,Basle-City,Basel,Manufacture of Food and other Consumer Goods
+111,Universität Basel,1460,"5,001 - 10,000",7.37,Andrea Schenker-Wicki,Basle-City,Basel,Education and Research
+112,SIX Group,1930,"1,001 - 5,000",7.35,Jos Dijsselhof,Zürich,Zürich,"Internet, Telecommunications and IT"
+113,Axpo,2001,"1,001 - 5,000",7.35,Christoph Brand,Aargau,Baden,Energy and Communal Services
+114,Tesla,2003,>200,7.35,Elon Musk,Multiple Locations,Multiple Locations,Automotive and Vehicle Manufacturing and Sales
+115,Universität Zürich,1833,"5,001 - 10,000",7.33,Michael Schaepman,Zürich,Zürich,Education and Research
+116,SFS Group,1928,"1,001 - 5,000",7.32,Jens Breu,St. Gallen,Heerbrugg,Production and Processing of Raw and Building Materials
+117,Zürcher Kantonalbank,1869,"5,001 - 10,000",7.32,Martin Scholl,Zürich,Zürich,Regional and Savings Banks
+118,Jansen,1923,201 - 500,7.31,"Priska Jansen, Christoph Jansen",St. Gallen,Oberriet,Production and Processing of Raw and Building Materials
+119,Pilatus Flugzeugwerke,1939,"1,001 - 5,000",7.31,Markus Bucher,Nidwalden,Stans,Automotive and Vehicle Manufacturing and Sales
+120,Ricola,1930,201 - 500,7.30,Thomas P. Meier,Basle-Country,Laufen,Manufacture of Food and other Consumer Goods
+121,Basler Kantonalbank,1899,"501 - 1,000",7.29,Basil Heeb,Basle-City,Basel,Regional and Savings Banks
+122,Bio Partner Schweiz,2007,201 - 500,7.29,Andreas Lieberherr,Aargau,Seon,Wholesale
+123,Stiftung Bühl,1870,201 - 500,7.29,Brigitte Steimen,Zürich,Wädenswil,Healthcare and Social
+124,CHUV,1890,"10,001 - 50,000",7.29,Philippe Eckert,Vaud,Lausanne,Healthcare and Social
+125,DSM,1902,"501 - 1,000",7.28,"Geraldine Matchett, Dimitri de Vreeze",Aargau,Kaiseraugst,Manufacture of Food and other Consumer Goods
+126,Universitätsspital Genf,1995,"10,001 - 50,000",7.27,Bertrand Levrat,Geneva,Genf,Healthcare and Social
+127,Komax,1975,"501 - 1,000",7.27,Matijas Meyer,Lucerne,Dierikon,Mechanical and Plant Engineering
+128,Galliker Transport,1918,"1,001 - 5,000",7.26,Peter Galliker,Lucerne,Altishofen,Transportation and Logistics
+129,Burckhardt Compression,1844,"501 - 1,000",7.26,Fabrice Billard,Zürich,Winterthur,Mechanical and Plant Engineering
+130,BDO,1932,"1,001 - 5,000",7.26,Thomas Studhalter,Zürich,Zürich,Consulting
+131,BMW,1916,201 - 500,7.26,Paul de Courtois,Zürich,Dielsdorf,Automotive and Vehicle Manufacturing and Sales
+132,Dosenbach-Ochsner,1865,"1,001 - 5,000",7.25,Jürgen Pinggera,Zürich,Dietikon,Retail
+133,Visana,1996,"1,001 - 5,000",7.24,Angelo Eggli,Bern,Bern,Insurance
+134,Deloitte,1845,"1,001 - 5,000",7.24,Reto Savoia,Zürich,Zürich,Consulting
+135,Hug,1877,201 - 500,7.23,Anna Hug,Lucerne,Malters,Manufacture of Food and other Consumer Goods
+136,Aare Seeland Mobil,1999,201 - 500,7.23,Fredy Miller,Bern,Langenthal,Transportation and Logistics
+137,Pro Senectute,1917,"1,001 - 5,000",7.23,Alain Huber,Zürich,Zürich,Healthcare and Social
+138,The Swatch Group,1931,"10,001 - 50,000",7.23,Nick Hayek,Bern,Biel,Watches and Jewelry
+139,Kantonsspital Uri,1872,"501 - 1,000",7.23,Fortunat von Planta,Uri,Altdorf,Healthcare and Social
+140,Schweizerische Bundesbahnen SBB,1902,"10,001 - 50,000",7.21,Vincent Ducrot,Bern,Bern,Transportation and Logistics
+141,Universität Lausanne,1537,"1,001 - 5,000",7.20,Frédéric Herman,Vaud,Lausanne,Education and Research
+142,Georg Fischer,1802,"1,001 - 5,000",7.19,Andreas Müller,Schaffhausen,Schaffhausen,Automotive and Vehicle Manufacturing and Sales
+143,PostFinance,1906,"1,001 - 5,000",7.18,Hansruedi Köng,Bern,Bern,International and Investment Banking
+144,Kliniken Valens,1970,"1,001 - 5,000",7.18,Till Hornung,St. Gallen,Valens,Healthcare and Social
+145,Oerlikon,1906,"501 - 1,000",7.18,Roland Fischer,Schwyz,Pfäffikon,Production and Processing of Raw and Building Materials
+146,Emil Egger,1931,"501 - 1,000",7.17,Michael Egger,St. Gallen,St. Gallen,Transportation and Logistics
+147,Ypsomed,1984,"1,001 - 5,000",7.17,Simon Michel,Bern,Burgdorf,"Electronics, Electrical Engineering, Medical Devices"
+148,Migros,1925,"50,001 - 100,000",7.17,Fabrice Zumbrunnen,Zürich,Zürich,Retail
+149,ZHAW Zürcher Hochschule für Angewandte Wissenschaften,2007,"1,001 - 5,000",7.17,Silvia Steiner,Zürich,Winterthur,Education and Research
+150,Vaudoise Versicherungen,1895,"1,001 - 5,000",7.16,Jean-Daniel Laffely,Vaud,Lausanne,Insurance
+151,Swiss Medical Network,2002,"1,001 - 5,000",7.15,Dino Cauzza,Vaud,Genolier,Healthcare and Social
+152,Van Graaf,1911,"501 - 1,000",7.15,Dirk Stephan,Aargau,Spreitenbach,Retail
+153,Fritz Studer,1912,"1,001 - 5,000",7.13,Jens Bleher,Bern,Steffisburg,Mechanical and Plant Engineering
+154,Kinderspital Zürich,1874,"1,001 - 5,000",7.12,Georg Schäppi,Zürich,Zürich,Healthcare and Social
+155,TPG Transports Public Genevois,1883,"1,001 - 5,000",7.11,Denis Berdoz,Geneva,Genf,Transportation and Logistics
+156,zb Zentralbahn,2005,201 - 500,7.11,Michael Schürch,Nidwalden,Stansstad,Transportation and Logistics
+157,Swisscom,1997,"10,001 - 50,000",7.10,Christoph Aeschlimann,Bern,Bern,"Internet, Telecommunications and IT"
+158,Bühler,1860,"1,001 - 5,000",7.10,Stefan Scheiber,St. Gallen,Uzwil,Mechanical and Plant Engineering
+159,Müller Schweiz,2005,"1,001 - 5,000",7.09,"Erwin Müller, Günther Helm",Aargau,Oberentfelden,Retail
+160,Valiant Bank,1997,"1,001 - 5,000",7.09,Ewald Burgener,Bern,Bern,Regional and Savings Banks
+161,V-ZUG,1913,"1,001 - 5,000",7.09,Peter Spirig,Zug,Zug,Retail
+162,Helvetia Versicherungen,1858,"1,001 - 5,000",7.08,Philipp Gmür,Basle-City,Basel,Insurance
+163,Losinger Marazzi,1917,"501 - 1,000",7.08,Pascal Bärtschi,Bern,Bern,Construction
+164,Fielmann,1972,"1,001 - 5,000",7.07,Marc Fielmann,Basle-City,Basel,Retail
+165,Interdiscount,1970,"1,001 - 5,000",7.06,Pierre Wenger,Bern,Jegenstorf,Retail
+166,Die Schweizerische Post,1849,"10,001 - 50,000",7.06,Roberto Cirillo,Bern,Bern,Transportation and Logistics
+167,Adecco,1996,"501 - 1,000",7.04,Marcel Keller,Zürich,Zürich,Consulting
+168,MSD Merck Sharp & Dohme,1891,"1,001 - 5,000",7.04,Ans Heirman,Lucerne,Luzern,Chemicals and Pharmaceuticals
+169,Qualipet,1991,"501 - 1,000",7.04,Rolf Boffa,Basle-City,Basel,Retail
+170,BEKB Berner Kantonalbank,1834,"1,001 - 5,000",7.04,Armin Brun,Bern,Bern,Regional and Savings Banks
+171,CSD-Ingenieure,1970,"501 - 1,000",7.03,Jean-Pascal Gendre,Zürich,Zürich,Consulting
+172,Spital Thurgau,1999,"1,001 - 5,000",7.02,Rolf Zehnder,Thurgovia,Münsterlingen,Healthcare and Social
+173,Migros Bank,1958,"1,001 - 5,000",7.02,Manuel Kunzelmann,Zürich,Zürich,Regional and Savings Banks
+174,EAO,1947,201 - 500,7.02,Kurt Loosli,Solothurn,Olten,"Electronics, Electrical Engineering, Medical Devices"
+175,Sanatorium Kilchberg,1867,"501 - 1,000",7.01,Peter Hösly,Zürich,Kilchberg,Healthcare and Social
+176,Helsana Gruppe,1996,"1,001 - 5,000",7.01,Ronny Bächtold,Zürich,Dübendorf,Insurance
+177,Bouygues Energies & Services,1952,"1,001 - 5,000",7.00,Pierre Vanstoflegatte,Bern,Bern,Consulting
+178,Suva,1912,"1,001 - 5,000",7.00,Felix Weber,Lucerne,Luzern,Insurance
+179,Würth-Gruppe,1945,"1,001 - 5,000",6.99,Robert Friedmann,Basle-Country,Arlesheim,Wholesale
+180,Sika,1910,"1,001 - 5,000",6.98,Thomas Hasler,Zürich,Zürich,Production and Processing of Raw and Building Materials
+181,Raiffeisen Gruppe,1899,"5,001 - 10,000",6.98,Heinz Huber,St. Gallen,St. Gallen,Regional and Savings Banks
+182,Johnson & Johnson,1959,"1,001 - 5,000",6.98,Andrea Ostinelli,Basle-City,Basel,Chemicals and Pharmaceuticals
+183,AMAG Group,1945,"5,001 - 10,000",6.97,Helmut Ruhl,Zug,Cham,Automotive and Vehicle Manufacturing and Sales
+184,UniversitätsSpital Zürich,1204,"5,001 - 10,000",6.97,Prof. Dr. med. Gregor Zünd,Zürich,Zürich,Healthcare and Social
+185,Aargauische Kantonalbank,1854,"501 - 1,000",6.97,Dieter Widmer,Aargau,Aarau,Regional and Savings Banks
+186,PricewaterhouseCoopers,1998,"1,001 - 5,000",6.95,Andreas Staubli,Zürich,Zürich,Consulting
+187,SICPA,1927,"501 - 1,000",6.95,Philippe Amon,Vaud,Prilly,Chemicals and Pharmaceuticals
+188,AVASAD Association Vaudoise d’Aide et de Soins à Domicile,1988,"1,001 - 5,000",6.95,Susana Garcia,Vaud,Lausanne,Healthcare and Social
+189,Syngenta,2000,"1,001 - 5,000",6.94,J. Erik Fyrwald,Basle-City,Basel,Chemicals and Pharmaceuticals
+190,Implenia,2006,>200,6.94,André Wyss,Zürich,Opfikon,Construction
+191,Home Instead,2007,"1,001 - 5,000",6.93,Paul Fritz,Aargau,Rheinfelden,Healthcare and Social
+192,Siegfried,1873,"501 - 1,000",6.92,Dr. Wolfgang Wienand,Aargau,Zofingen,Chemicals and Pharmaceuticals
+193,Schweizerische Nationalbank,1906,"501 - 1,000",6.92,Thomas J. Jordan,Zürich,Zürich,International and Investment Banking
+194,Hirslanden Gruppe,1932,"10,001 - 50,000",6.92,Dr. Daniel Liedtke,Zürich,Zürich,Healthcare and Social
+195,Romande Energie,1997,"1,001 - 5,000",6.91,Petit Christian,Vaud,Morges,Energy and Communal Services
+196,Stiftung für Schwerbehinderte,1971,"501 - 1,000",6.91,Pius Bernet,Lucerne,Emmen,Healthcare and Social
+197,Dreischiibe,1984,201 - 500,6.90,Christoph Härter,Appenzell Ausserrhoden,Herisau,Healthcare and Social
+198,Universität Bern,1834,"5,001 - 10,000",6.89,Prof. Dr. Christian Leumann,Bern,Bern,Education and Research
+199,Gewerkschaft Unia,2005,"1,001 - 5,000",6.88,Vania Alleva,Bern,Bern,Healthcare and Social
+200,Debrunner Koenig,1755,"1,001 - 5,000",6.88,Thomas Liner,St. Gallen,St. Gallen,Wholesale
+201,EF Education First,1965,>200,6.87,Edward Hult,Lucerne,Luzern,Education and Research
+202,Elektrizitätswerk der Stadt Zürich,1892,"1,001 - 5,000",6.87,Benedikt Loepfe,Zürich,Zürich,Energy and Communal Services
+203,C&A,1841,"1,001 - 5,000",6.87,Giny Boer,Zug,Baar,Retail
+204,TUI,1923,201 - 500,6.87,Philipp von Czapiewski,Zürich,Zürich,"Restaurants, Tourism, Sports and Recreational Services"
+205,Frutiger Gruppe,1948,"1,001 - 5,000",6.86,Rudolf Lagger,Bern,Bern,Construction
+206,Digitec Galaxus,2001,"1,001 - 5,000",6.86,Florian Teuteberg,Zürich,Zürich,Retail
+207,Kantonsspital Baselland,2012,"1,001 - 5,000",6.86,Norbert Schnitzler,Basle-Country,Liestal,Healthcare and Social
+208,Mercedes-Benz Schweiz,1948,201 - 500,6.85,Marc Langenbrinck,Zürich,Schlieren,Automotive and Vehicle Manufacturing and Sales
+209,Groupe E,2005,"1,001 - 5,000",6.85,Jacques Mauron,Fribourg,Freiburg,Energy and Communal Services
+210,4B,1962,"501 - 1,000",6.84,Jean-Marc Devaud,Zug,Zug,Construction
+211,adidas,1949,201 - 500,6.84,Kasper Rorsted,Lucerne,Root,Retail
+212,Centris,2002,201 - 500,6.84,Patrick Progin,Solothurn,Solothurn,"Internet, Telecommunications and IT"
+213,FFHS Fernfachhochschule Schweiz,1998,"501 - 1,000",6.84,Michael Zurwerra,Valais,Brig,Education and Research
+214,Julius Baer,1890,"1,001 - 5,000",6.84,Philipp Rickenbacher,Zürich,Zürich,International and Investment Banking
+215,Insel Gruppe,2016,"10,001 - 50,000",6.83,Dr. med. h.c. Uwe E. Jocham,Bern,Bern,Healthcare and Social
+216,Luzerner Psychiatrie,2006,"1,001 - 5,000",6.83,Peter Schwegler,Lucerne,Luzern,Healthcare and Social
+217,Zuger Kantonsspital,1861,"1,001 - 5,000",6.82,Daniel Staffelbach,Zug,Baar,Healthcare and Social
+218,Flughafen Genf,1919,"10,001 - 50,000",6.82,André Schneider,Geneva,Genf,Transportation and Logistics
+219,EHL - École hôtelière de Lausanne,1893,"501 - 1,000",6.82,Markus Venzin,Vaud,Lausanne,Education and Research
+220,PH Luzern Pädagogische Hochschule Luzern,2003,"501 - 1,000",6.81,Kathrin Krammer,Lucerne,Luzern,Education and Research
+221,Zehnder Group,1895,"1,001 - 5,000",6.81,Matthias Huenerwadel,Aargau,Gränichen,"Electronics, Electrical Engineering, Medical Devices"
+222,L'Oréal,1942,201 - 500,6.81,Sophie Berrest,Geneva,Genf,Manufacture of Food and other Consumer Goods
+223,Galderma,1981,201 - 500,6.80,Flemming Ørnskov,Vaud,Lausanne,Chemicals and Pharmaceuticals
+224,JYSK,1979,>200,6.80,Rami Jensen,Aargau,Oftringen,Retail
+225,Bindella Gruppe,1909,"1,001 - 5,000",6.79,Rudi Bindella & Rudi Bindella jr.,Zürich,Zürich,"Restaurants, Tourism, Sports and Recreational Services"
+226,tl - transport publics Lausannois,1894,"1,001 - 5,000",6.79,Patricia Solioz Mathys,Vaud,Lausanne,Transportation and Logistics
+227,Franke Gruppe,1911,>200,6.79,Patrik Wohlhauser,Aargau,Aarburg,"Electronics, Electrical Engineering, Medical Devices"
+228,Sonova,1947,"1,001 - 5,000",6.78,Arnd Kaldowski,Zürich,Stäfa,"Electronics, Electrical Engineering, Medical Devices"
+229,Compass Group,1941,"1,001 - 5,000",6.78,Thomas Truttmann,Zürich,Kloten,"Restaurants, Tourism, Sports and Recreational Services"
+230,CONCORDIA,1913,"1,001 - 5,000",6.78,Nikolai Dittli,Lucerne,Luzern,Insurance
+231,ALDI Suisse,2005,"1,001 - 5,000",6.78,Jérôme Meyer,St. Gallen,Jonschwil,Retail
+232,UBS,1998,"10,001 - 50,000",6.78,Ralph Hamers,Zürich,Zürich,International and Investment Banking
+233,Bechtle,1983,"501 - 1,000",6.77,Christian Speck,Aargau,Mägenwil,"Internet, Telecommunications and IT"
+234,F. Murpf,1962,201 - 500,6.77,Fridolin Murpf,Solothurn,Hägendorf,Transportation and Logistics
+235,Ems-Chemie,1936,"501 - 1,000",6.77,Magdalena Martullo,Zürich,Herrliberg,Chemicals and Pharmaceuticals
+236,Amberg Group,1966,201 - 500,6.76,Svein G. Vatslid,Grisons,Chur,Construction
+237,Bank Vontobel,1924,"1,001 - 5,000",6.76,Dr. Zeno Staub,Zürich,Zürich,International and Investment Banking
+238,Medbase,2001,"1,001 - 5,000",6.76,Marcel Napierala,Zürich,Winterthur,Healthcare and Social
+239,GEWA Stiftung für berufliche Integration,1986,"501 - 1,000",6.75,Bernhard Zaugg,Bern,Zollifoken,Healthcare and Social
+240,Owiba,1939,201 - 500,6.75,Johann Pintarich,Bern,Bolligen,Wholesale
+241,Siemens Schweiz,1894,"5,001 - 10,000",6.74,Matthias Rebellius,Zürich,Zürich,Automotive and Vehicle Manufacturing and Sales
+242,KPMG,1890,"1,001 - 5,000",6.74,Stefan Pfister,Zürich,Zürich,Consulting
+243,Thurbo,2001,201 - 500,6.74,Claudia Bossert,Thurgovia,Kreuzlingen,Transportation and Logistics
+244,Services industriels de Genève,1896,>200,6.74,Christian Brunier,Geneva,Genf,Energy and Communal Services
+245,Nestlé,1905,"10,001 - 50,000",6.71,Ulf Mark Schneider,Vaud,Vevey,Manufacture of Food and other Consumer Goods
+246,BASF,1865,"501 - 1,000",6.71,Martin Brudermüller,Basle-City,Basel,Chemicals and Pharmaceuticals
+247,Bergbahnen Destination Gstaad,2004,201 - 500,6.71,Matthias In-Albon,Bern,Saanen,Transportation and Logistics
+248,Luzerner Kantonalbank,1850,"1,001 - 5,000",6.71,Daniel Salzmann,Lucerne,Luzern,Regional and Savings Banks
+249,Kantonsspital St.Gallen,1873,"5,001 - 10,000",6.71,Stefan Lichtensteiger,St. Gallen,St. Gallen,Healthcare and Social
+250,Derendinger,1930,201 - 500,6.70,Kurt Schnyder,Zug,Cham,Automotive and Vehicle Manufacturing and Sales

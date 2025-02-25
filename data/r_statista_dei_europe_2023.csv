@@ -1,0 +1,851 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Infineon,1999,>250,8.45,Jochen Hanebeck,Germany,Neubiberg,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+2,Start People,1977,>250,8.40,Ann Martens,Netherlands,Almere,Business Services and Supplies
+3,Techint Group,1945,>250,8.39,Paolo Rocca,Luxembourg,Luxembourg,"Manufacture and Processing of Materials, Metals and Paper"
+4,Finecobank Banca Fineco,1999,>250,8.22,Alessandro Foti,Italy,Milan,Banking and Financial Services
+5,Giorgio Armani,1975,>250,8.19,Giorgio Armani,Italy,Milan,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+6,Allegro,1999,>250,8.15,Francois Nuyts,Poland,Poznan,Retail
+7,Cd Projekt,1994,>250,8.15,Adam Kiciński,Poland,Warsaw,"IT, Internet, Software and Services"
+8,Fleury Michon,1905,>250,8.14,Billy Salha,France,Pouzauges,"Food, Soft Beverages, Alcohol and Tobacco"
+9,Hermès,1837,>250,8.13,Axel Dumas,France,Paris,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+10,Keysight Technologies,1938,>250,8.11,Ron Nersesian,Germany,Böblingen,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+11,Prada Group,1913,>250,8.09,"Miuccia Prada, Patrizio Bertelli",Italy,Milan,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+12,Club Méditerranée,1950,>250,8.09,Henri Giscard d'Estaing,France,Paris,Travel and Leisure
+13,Merit Medical,1987,>250,8.09,Fred Lampropoulos,Ireland,Galway,"IT, Internet, Software and Services"
+14,Agilent Technologies,1999,>250,8.09,Mike McMullen,Germany,Waldbronn,Health Care Equipment and Services
+15,ADM,1902,>250,8.09,Juan R. Luciano,Switzerland,Rolle,"Food, Soft Beverages, Alcohol and Tobacco"
+16,IKEA,1943,>250,8.08,Jon Abrahamsson Ring,Netherlands,Delft,Retail
+17,Disneyland Paris,1992,>250,8.05,Natacha Rafalski,France,Chessy,Travel and Leisure
+18,Avanade,2000,>250,8.05,Pamela Maynard,United Kingdom,London,"IT, Internet, Software and Services"
+19,Fiducia & GAD IT,1924,>250,8.05,Martin Beyer,Germany,Münster,"IT, Internet, Software and Services"
+20,State Street Bank International,1970,>250,8.04,Ronald P. O'Hanley,Germany,Frankfurt am Main,Banking and Financial Services
+21,Salesforce,1999,>250,8.04,Marc Benioff,Switzerland,Staines,"IT, Internet, Software and Services"
+22,La Cassa di Ravenna,1840,>250,8.02,Antonio Patuelli,Italy,Ravenna,Banking and Financial Services
+23,MAIF,1934,>250,8.01,Yves Pellicier,France,Niort,Insurance
+24,Google,1998,>250,8.01,Sundar Pichai,Ireland,Dublin,"IT, Internet, Software and Services"
+25,Hyatt Hotels Corporation,1957,>250,8.00,Mark Hoplamazian,United Kingdom,London,Travel and Leisure
+26,PayPal,1998,>250,8.00,Dan Schulman,Luxembourg,Luxembourg,Banking and Financial Services
+27,Techem,1952,>250,7.98,Matthias Hartmann,Germany,Eschborn,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+28,AbbVie,2013,>250,7.98,Richard A. Gonzalez,Germany,Ludwigshafen,Drugs and Biotechnology
+29,Microsoft,1975,>250,7.98,Satya Nadella,Germany,Unterschleißheim,"IT, Internet, Software and Services"
+30,Salling Group,1906,>250,7.97,Per Bank,Denmark,Brabrand,Retail
+31,Hugo Boss,1924,>250,7.97,Daniel Grieder,Germany,Metzingen,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+32,Barilla,1877,>250,7.96,Claudio Colzani,Italy,Parma,"Food, Soft Beverages, Alcohol and Tobacco"
+33,alight,2017,>250,7.96,Stephan Scholl,United Kingdom,London,"IT, Internet, Software and Services"
+34,Groupe Atlantic,1968,>250,7.96,Pierre-Louis Francois,France,La Roche-sur-Yon,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+35,Radiometer Medical,1935,>250,7.94,Henrik Schimmell,Denmark,Copenhagen,Health Care Equipment and Services
+36,GRDF,2008,>250,7.94,Edouard Sauvage,France,Paris,Utilities
+37,Bristol Myers Squibb,1819,>250,7.94,Giovanni Caforio,France,Rueil-Malmaison,Drugs and Biotechnology
+38,Sartorius,1870,>250,7.94,Joachim Kreuzburg,Germany,Goettingen,Drugs and Biotechnology
+39,wagamama,1992,>250,7.93,Thomas Heier,United Kingdom,London,Restaurants
+40,EnBW,1997,>250,7.93,Frank Mastiaux,Germany,Karlsruhe,Utilities
+41,S Group (S-ryhmä),1904,>250,7.93,Hannu Krook,Finland,Helsinki,Business Services and Supplies
+42,Orkla,2004,>250,7.92,Nils K. Selte,Norway,Oslo,"Food, Soft Beverages, Alcohol and Tobacco"
+43,Cummins,1919,>250,7.91,Jennifer Rumsey,United Kingdom,Wellingborough,"Engineering, Manufacturing"
+44,Cmc,2003,>250,7.91,Barbara Smith,Poland,Zawiercie,"Manufacture and Processing of Materials, Metals and Paper"
+45,Rexel,1967,>250,7.90,Guillaume Texier,France,Paris,Wholesale
+46,Lush,1995,>250,7.90,Mark Constantine,United Kingdom,Poole,Retail
+47,IBM,1911,>250,7.90,Arvind Krishna,France,Paris,"IT, Internet, Software and Services"
+48,ams,1981,>250,7.90,Alexander Everke,Austria,Styria,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+49,Erste Bank,1819,>250,7.89,Willibald Cernko,Austria,Vienna,Banking and Financial Services
+50,American Express Company (AmEx),1850,>250,7.89,Stephen J. Squeri,United Kingdom,Brighton,Banking and Financial Services
+51,Indeed,2004,>250,7.89,Chris Hyams,Ireland,Dublin,"IT, Internet, Software and Services"
+52,Radboudumc,1951,>250,7.87,Bertine Lahuis,Netherlands,Nimwegen,Healthcare (Social)
+53,Bricoman,1999,>250,7.87,Maziar Golkhosravi,France,Lille,Retail
+54,Clifford Chance,1987,>250,7.87,Caroline Firstbrook,United Kingdom,London,Consulting and Accounting
+55,Roche,1896,>250,7.86,Severin Schwan,Switzerland,Basel,Drugs and Biotechnology
+56,LINZ AG,2000,>250,7.86,Erich Haider,Austria,Linz,Utilities
+57,AGCO,1990,>250,7.86,Eric P. Hansotia,Switzerland,Neuhausen am Rheinfall,"Aerospace, Defence, Manufacture of Transport Equipment"
+58,Boston Scientific,1979,>250,7.86,Michael F. Mahoney,France,Voisins-le-Bretonneux,Health Care Equipment and Services
+59,Lilly,1876,>250,7.85,David A. Ricks,United Kingdom,Basingstoke,Drugs and Biotechnology
+60,Arrow Electronics,1935,>250,7.85,Sean J. Kerins,Germany,Neu-Isenburg,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+61,Practice Plus Group,1982,>250,7.85,Andrew Knight,United Kingdom,Colchester,Healthcare (Social)
+62,TK Maxx,1994,>250,7.84,Ernie Herrman,United Kingdom,Watford,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+63,Landesbank Baden-Württemberg,1818,>250,7.84,Rainer Neske,Germany,Stuttgart,Banking and Financial Services
+64,AstraZeneca,1999,>250,7.84,Pascal Soriot,United Kingdom,Cambridge,Drugs and Biotechnology
+65,Cisco,1984,>250,7.84,Chuck Robbins,Netherlands,Amsterdam,"IT, Internet, Software and Services"
+66,Solita,1996,>250,7.84,Ossi Lindroos,Finland,Tampere,"IT, Internet, Software and Services"
+67,Deutsche Bundesbank,1957,>250,7.83,Jens Weidmann,Germany,Frankfurt am Main,Banking and Financial Services
+68,Scania,1891,>250,7.83,Christian Levin,Sweden,Södertälje,Automotive (Producers and Suppliers)
+69,Chevron,1879,>250,7.83,Michael Wirth,United Kingdom,London,"Oil and Gas Operations, Mining, and Chemicals"
+70,Rolls-Royce Motor Cars,1904,>250,7.83,Torsten Müller-Ötvös,United Kingdom,"Goodwood, Westhampnett",Automotive (Producers and Suppliers)
+71,Louis Vuitton,1854,>250,7.82,Michael Burke,France,Paris,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+72,GVB,1900,>250,7.82,Claudia Zuiderwijk,Netherlands,Amsterdam,Transportation and Logistics
+73,Nationwide Building Society,1846,>250,7.82,Debbie Crosbie,United Kingdom,Swindon,Banking and Financial Services
+74,Whitbread,1742,>250,7.82,Alison Brittain,United Kingdom,Dunstable,Travel and Leisure
+75,Universitätsklinikum Münster,1774,>250,7.82,Christoph Hoppenheit,Germany,Münster,Healthcare (Social)
+76,Booking.com,1996,>250,7.82,Glenn Fogel,Netherlands,Amsterdam,Travel and Leisure
+77,SAP,1972,>250,7.81,Christian Klein,Germany,Walldorf,"IT, Internet, Software and Services"
+78,Volvo Car Group,1927,>250,7.81,Jim Rowan,Sweden,Göteborg,Automotive (Producers and Suppliers)
+79,Fnac Darty,1954,>250,7.81,Enrique Martinez,France,Ivry-sur-Seine,Retail
+80,Icon Plc,1990,>250,7.80,Steve Cutler,Ireland,Dublin,Drugs and Biotechnology
+81,Hilton Hotels & Resorts,1925,>250,7.80,Christopher J. Nassetta,United Kingdom,Watford,Travel and Leisure
+82,InterContinental Hotels Group,1777,>250,7.80,Keith Barr,United Kingdom,Buckinghamshire,Travel and Leisure
+83,Fronius International,1945,>250,7.80,Elisabeth Engelbrechtsmüller-Strauß,Austria,Pettenbach,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+84,Helvetia,1858,>250,7.80,Philipp Gmür,Switzerland,St. Gallen,Insurance
+85,Unipol Gruppo Finanziario,1963,>250,7.79,Carlo Cimbri,Italy,Bologna,Insurance
+86,Merck,1668,>250,7.79,Belén Garijo,Germany,Darmstadt,Drugs and Biotechnology
+87,Fidelity Worldwide Investment,1969,>250,7.79,Anne Richards,United Kingdom,London,Banking and Financial Services
+88,Grupo Social Once,1938,>250,7.79,D. Miguel Carballeda Piñeiro,Spain,Madrid,Healthcare (Social)
+89,United Utilities,1989,>250,7.79,Steve Mogford,United Kingdom,Warrington,Utilities
+90,Apple,1976,>250,7.79,Tim Cook,Ireland,Cork,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+91,The Kellogg Company,1894,>250,7.78,Steven Cahillane,United Kingdom,London,"Food, Soft Beverages, Alcohol and Tobacco"
+92,Facebook,2004,>250,7.78,Mark Zuckerberg,Ireland,Dublin,"IT, Internet, Software and Services"
+93,Dow,1897,>250,7.78,Jim Fitterling,Switzerland,Horgen,"Oil and Gas Operations, Mining, and Chemicals"
+94,Budimex,1968,>250,7.78,Artur Popko,Poland,Warsaw,Construction
+95,Nordic Choice Hotels,1997,>250,7.78,Torgeir Silseth,Norway,Oslo,Travel and Leisure
+96,Hewlett Packard Enterprise,1939,>250,7.78,Antonio Neri,Switzerland,Geneva,"IT, Internet, Software and Services"
+97,Alexander Mann Solutions,1996,>250,7.78,David Leigh,United Kingdom,London,Business Services and Supplies
+98,Pfizer,1849,>250,7.77,Albert Bourla,United Kingdom,Kent,Drugs and Biotechnology
+99,DNB,1822,>250,7.77,Kjerstin Braathen,Norway,Oslo,Banking and Financial Services
+100,Wolters Kluwer,1836,>250,7.77,Nancy McKinstry,Netherlands,Alphen aan den Rijn,Media and Advertising
+101,Fazer,1891,>250,7.77,Christoph Vitzthum,Finland,Vantaa,"Food, Soft Beverages, Alcohol and Tobacco"
+102,Yahoo!,1994,>250,7.77,Jim Lanzone,Ireland,Dublin,"IT, Internet, Software and Services"
+103,Easyjet,1995,>250,7.77,Johan Lundgren,United Kingdom,London,Transportation and Logistics
+104,NTT Data,1988,>250,7.77,Yo Honma,United Kingdom,London,"IT, Internet, Software and Services"
+105,Akamai Technologies,1995,>250,7.77,Tom Leighton,Switzerland,Zurich,"IT, Internet, Software and Services"
+106,Swiss Re,1863,>250,7.77,Christian Mumenthaler,Switzerland,Zurich,Insurance
+107,Medtronic,1949,>250,7.77,Geoffry Martha,Switzerland,Tolochenaz,Health Care Equipment and Services
+108,RheinEnergie,1872,>250,7.77,Andreas Feicht,Germany,Cologne,Utilities
+109,Bestseller,1975,>250,7.77,Anders Holch Povlsen,Denmark,Brande,Retail
+110,Norauto,1970,>250,7.76,Matthieu Foucart,France,Sainghin-en-Mélantois,Retail
+111,Miele,1899,>250,7.76,Markus Miele,Germany,Gütersloh,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+112,Admiral Group,1993,>250,7.76,Milena Mondini de Focatiis,United Kingdom,Cardiff,Insurance
+113,Moody's Corporation,1900,>250,7.76,Rob Fauber,United Kingdom,London,Banking and Financial Services
+114,Sage,1981,>250,7.76,Steve Hare,United Kingdom,Newcastle Upon Tyne,"IT, Internet, Software and Services"
+115,Swedbank,1820,>250,7.75,Jens Henriksson,Sweden,Stockholm,Banking and Financial Services
+116,DATEV,1966,>250,7.75,Robert Mayr,Germany,Nuremberg,"IT, Internet, Software and Services"
+117,Monzo Bank,2015,>250,7.75,Tom Blomfield,United Kingdom,London,Banking and Financial Services
+118,Logitech International,1981,>250,7.75,Bracken Darrell,Switzerland,Lausanne,"IT, Internet, Software and Services"
+119,Ferrari,1947,>250,7.75,Benedetto Vigna,Italy,Maranello,Automotive (Producers and Suppliers)
+120,Johnson & Johnson,1886,>250,7.74,Joaquin Duato,United Kingdom,Prague,Drugs and Biotechnology
+121,Lloyds Banking Group,1765,>250,7.74,Charlie Nunn,United Kingdom,London,Banking and Financial Services
+122,Mercadona,1981,>250,7.74,Juan Roig,Spain,Valencia,Retail
+123,Citigroup,1812,>250,7.74,Jane Fraser,United Kingdom,London,Banking and Financial Services
+124,Achmea,1811,>250,7.74,Bianca Tetteroo,Netherlands,Zeist,Banking and Financial Services
+125,LinkedIn,2003,>250,7.73,Jeff Weiner,Ireland,Dublin,"IT, Internet, Software and Services"
+126,Sky,1989,>250,7.73,Dana Strong,United Kingdom,Middlesex,Media and Advertising
+127,Adobe,1982,>250,7.73,Shantanu Narayen,United Kingdom,Maidenhead,"IT, Internet, Software and Services"
+128,EE,2012,>250,7.73,Marc Allera,United Kingdom,London,"Telecommunications Services, Cable Supplier"
+129,Aviva,2000,>250,7.73,Amanda Blanc,United Kingdom,London,Insurance
+130,PUMA,1948,>250,7.73,Bjørn Gulden,Germany,Herzogenaurach,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+131,Biocoop,1986,>250,7.73,Pierrick De Ronne,France,Paris,Retail
+132,Amazon,1994,>250,7.73,Andy Jassy,Luxembourg,Luxembourg,Retail
+133,Asics,1949,>250,7.73,Yasuhito Hirota,Netherlands,Hoofddorp,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+134,Air France-KLM Group,2004,>250,7.72,Benjamin Smith,France,Roissy Charles de Gaulle cedex,Transportation and Logistics
+135,Boulanger,1954,>250,7.72,Emmanuel Deschamps,France,Lesquin,Retail
+136,Willmott Dixon,1852,>250,7.72,Rick Willmott,United Kingdom,Letchworth Garden City,Construction
+137,3M,1902,>250,7.72,Mike Roman,Germany,Neuss,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+138,Pret A Manger,1986,>250,7.72,Pano Christou,United Kingdom,London,Restaurants
+139,Cdiscount,1998,>250,7.72,Emmanuel Grenier,France,Bordeaux,Retail
+140,Dell Technologies,1984,>250,7.72,Michael Dell,Ireland,Dublin,"IT, Internet, Software and Services"
+141,Covéa Group,2003,>250,7.71,Thierry Derez,France,Paris,Insurance
+142,Expedia,1996,>250,7.71,Peter Kern,United Kingdom,London,Travel and Leisure
+143,SJ,2001,>250,7.71,Monica Lingegård,Sweden,Stockholm,Transportation and Logistics
+144,Travelodge,1985,>250,7.71,Jo Boydell,United Kingdom,Thame,Travel and Leisure
+145,Aalberts Surface Treatment,1983,>250,7.71,Holger Rohrer,Germany,Kerpen,"Oil and Gas Operations, Mining, and Chemicals"
+146,Essity,2017,>250,7.71,Magnus Groth,Sweden,Stockholm,Packaged Goods
+147,Aktia Bank,1991,>250,7.71,Mikko Ayub,Finland,Helsinki,Banking and Financial Services
+148,Fujitsu,1935,>250,7.71,Takahito Tokita,United Kingdom,London,"IT, Internet, Software and Services"
+149,Perstorp,1881,>250,7.70,Jan Secher,Sweden,Malmö,"Oil and Gas Operations, Mining, and Chemicals"
+150,KBC,1998,>250,7.70,Johan Thijs,Belgium,Brussels,Banking and Financial Services
+151,Accenture,1955,>250,7.70,Julie Sweet,Ireland,Dublin,"IT, Internet, Software and Services"
+152,Eaton,1911,>250,7.70,Craig Arnold,Ireland,Dublin,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+153,Proximus Group,1930,>250,7.70,Guillaume Boutin,Belgium,Brussels,"Telecommunications Services, Cable Supplier"
+154,Epiroc,1873,>250,7.70,Helena Hedblom,Sweden,Stockholm,"Oil and Gas Operations, Mining, and Chemicals"
+155,Orange,1994,>250,7.69,Christel Heydemann,France,Issy-les-Moulineaux,"Telecommunications Services, Cable Supplier"
+156,HP (Hewlett-Packard),1939,>250,7.69,Enrique Lores,Switzerland,Geneva,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+157,Cognizant,1994,>250,7.69,Brian Humphries,United Kingdom,London,"IT, Internet, Software and Services"
+158,Comarch,1993,>250,7.69,Janusz Filipiak,Poland,Kraków,"IT, Internet, Software and Services"
+159,Severn Trent,1974,>250,7.69,Liv Garfield,United Kingdom,Coventry,Utilities
+160,Givaudan,1895,>250,7.68,Gilles Andrier,Switzerland,Geneva,Packaged Goods
+161,Next,1981,>250,7.68,Lord Wolfson Of Aspley Guise,United Kingdom,Leicester,Retail
+162,Brother,1908,>250,7.68,Toshikazu Koike,United Kingdom,Manchester,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+163,PEAB,1959,>250,7.68,Jesper Goransson,Sweden,Förslöv,Construction
+164,RAG,1968,>250,7.68,Bernd Tönjes,Germany,Essen,"Oil and Gas Operations, Mining, and Chemicals"
+165,Jacobs Engineering,1947,>250,7.68,Steven J. Demetriou,United Kingdom,Wokingham,"Engineering, Manufacturing"
+166,Bauer Media Group,1875,>250,7.67,Yvonne Bauer,Germany,Hamburg,Media and Advertising
+167,Well Pharmacy,1945,>250,7.67,Seb Hobbs,United Kingdom,Manchester,Drugs and Biotechnology
+168,AXIS Communications,1984,>250,7.67,Ray Mauritsson,Sweden,Lund,"IT, Internet, Software and Services"
+169,Vienna Insurance Group (VIG),1824,>250,7.67,Elisabeth Stadler,Austria,Vienna,Insurance
+170,Amadori,1969,>250,7.67,Massimo Romani,Italy,Cesena,"Food, Soft Beverages, Alcohol and Tobacco"
+171,Melia Hotels International,1956,>250,7.67,Gabriel Escarrer Jaume,Spain,Palma de Mallorca,Travel and Leisure
+172,Rossmann,1972,>250,7.66,Michael Rybak,Germany,Burgwedel,Retail
+173,RATP,1949,>250,7.66,Catherine Guillouard,France,Paris,Transportation and Logistics
+174,Boehringer Ingelheim,1885,>250,7.66,Hubertus von Baumbach,Germany,Ingelheim,Drugs and Biotechnology
+175,Hapag-Lloyd,1970,>250,7.66,Rolf Habben Jansen,Germany,Hamburg,Transportation and Logistics
+176,adidas,1949,>250,7.66,Kasper Rorsted,Germany,Herzogenaurach,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+177,Husqvarna,1689,>250,7.66,Henric Andersson,Sweden,Stockholm,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+178,John Lewis Partnership,1929,>250,7.65,Andrew Murphy,United Kingdom,London,Retail
+179,Coventry Building Society,1884,>250,7.65,Steve Hughes,United Kingdom,Coventry,Banking and Financial Services
+180,Novartis,1996,>250,7.65,Vasant Narasimhan,Switzerland,Basel,Drugs and Biotechnology
+181,Enedis,2008,>250,7.65,Marianne Laigneau,France,Paris-La Défense,Utilities
+182,Polsat Box,2001,>250,7.65,Mirosław Błaszczyk,Poland,Warsaw,Media and Advertising
+183,OVO Energy,2009,>250,7.65,Raman Bhatia,United Kingdom,London,Utilities
+184,Heidelberg Cement Group,1873,>250,7.65,Dominik von Achten,Germany,Heidelberg,"Manufacture and Processing of Materials, Metals and Paper"
+185,Allianz,1890,>250,7.65,Oliver Bäte,Germany,Munich,Insurance
+186,Decathlon,1976,>250,7.65,Barbara Martin Coppola,France,Villeneuve-d'Ascq,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+187,Deutsche Telekom,1995,>250,7.65,Timotheus Höttges,Germany,Bonn,"Telecommunications Services, Cable Supplier"
+188,Wickes,1972,>250,7.65,David Wood,United Kingdom,Northampton,Retail
+189,Ericsson,1876,>250,7.64,Börje Ekholm,Sweden,Stockholm,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+190,L'Oréal,1909,>250,7.64,Nicolas Hieronimus,France,Paris,Packaged Goods
+191,Leeds Building Society,1875,>250,7.64,Richard Fearon,United Kingdom,Leeds,Banking and Financial Services
+192,Beiersdorf,1882,>250,7.64,Vincent Warnery,Germany,Hamburg,Packaged Goods
+193,RELX Group,1880,>250,7.64,Erik Engstrom,United Kingdom,London,Media and Advertising
+194,Alior Bank,2008,>250,7.64,Grzegorz Olszewski,Poland,Warsaw,Banking and Financial Services
+195,Latour,1985,>250,7.64,Johan Hjertonsson,Sweden,Göteborg,Banking and Financial Services
+196,Pandora,1982,>250,7.64,Alexander Lacik,Denmark,Copenhagen,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+197,Sephora,1969,>250,7.64,Jean-André Rougeot,France,Neuilly sur Seine,Retail
+198,PPG,1883,>250,7.63,Michael H. McGarry,Switzerland,Rolle,"Oil and Gas Operations, Mining, and Chemicals"
+199,Rusta,1986,>250,7.63,Christof Sauck,Sweden,Upplands Väsby,Retail
+200,Henkel,1876,>250,7.63,Carsten Knobel,Germany,Düsseldorf,Packaged Goods
+201,Marriott International,1927,>250,7.63,Anthony Capuano,Ireland,Dublin,Travel and Leisure
+202,Kearney,1926,>250,7.62,Martin Eisenhut,Germany,Düsseldorf,Consulting and Accounting
+203,Citrix Systems,1989,>250,7.62,Bob Calderoni,Switzerland,Schaffhausen,"IT, Internet, Software and Services"
+204,Direct Line Group,1985,>250,7.62,Penny James,United Kingdom,Bromley,Insurance
+205,Lpp,1991,>250,7.62,Marek Piechocki,Poland,Gdansk,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+206,Willis Towers Watson,2016,>250,7.62,Carl Hess,United Kingdom,London,Consulting and Accounting
+207,Banca Mediolanum,1982,>250,7.62,Massimo Antonio Doris,Italy,Milan,Banking and Financial Services
+208,EssilorLuxottica,2018,>250,7.62,Francesco Milleri,France,Paris,Health Care Equipment and Services
+209,Safran Group,2005,>250,7.62,Olivier Andriès,France,Paris,"Aerospace, Defence, Manufacture of Transport Equipment"
+210,SWISS,2002,>250,7.61,Dieter Vranckx,Switzerland,Zurich,Transportation and Logistics
+211,Ingram Micro,1979,>250,7.61,Alain Monié,Germany,Aschheim,Wholesale
+212,AT&T,1983,>250,7.61,John Stankey,United Kingdom,London,"Telecommunications Services, Cable Supplier"
+213,Apotek,2010,>250,7.61,Eric Lundberg,Sweden,Stockholm,Retail
+214,Civica,2001,>250,7.61,Wayne Story,United Kingdom,London,"IT, Internet, Software and Services"
+215,Arnold Clark Automobiles,1954,>250,7.61,Eddie Hawthorne,United Kingdom,Glasgow,Retail
+216,Anticimex,1934,>250,7.61,Staffan Pehrson,Sweden,Stockholm,Health Care Equipment and Services
+217,Schneider Electric,1836,>250,7.61,Jean-Pascal Tricoire,France,Paris,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+218,Pets at Home Group,1991,>250,7.61,Lyssa McGowan,United Kingdom,Wilmslow,Retail
+219,TietoEVRY,1968,>250,7.61,Kimmo Alkio,Finland,Helsinki,"IT, Internet, Software and Services"
+220,Red Hat,1993,>250,7.61,Paul Cormier,Germany,Munich,"IT, Internet, Software and Services"
+221,Dalata Hotel Group,2007,>250,7.61,Dermot Crowley,Ireland,Dublin,Travel and Leisure
+222,SWM Stadtwerke München,1998,>250,7.61,Florian Bieberbach,Germany,Munich,Utilities
+223,Abanca,2014,>250,7.61,Francisco Botas Ratera,Spain,Betanzos,Banking and Financial Services
+224,APRR,1961,>250,7.61,Philippe Nourry,France,Genay,"Aerospace, Defence, Manufacture of Transport Equipment"
+225,BP,1909,>250,7.60,Bernard Looney,United Kingdom,London,"Oil and Gas Operations, Mining, and Chemicals"
+226,Tesla,2003,>250,7.60,Elon Musk,Netherlands,Tilburg,Automotive (Producers and Suppliers)
+227,William Hill,1934,>250,7.60,Ulrik Bengtsson,United Kingdom,London,Travel and Leisure
+228,Aareal Bank,1923,>250,7.60,Jochen Klösges,Germany,Wiesbaden,Banking and Financial Services
+229,DuPont,1809,>250,7.60,Edward Breen,Netherlands,Leiden,"Oil and Gas Operations, Mining, and Chemicals"
+230,Chiesi,1935,>250,7.60,Ugo Di Francesco,Italy,Parma,Drugs and Biotechnology
+231,Philip Morris International,1847,>250,7.60,Jacek Olczak,Switzerland,Lausanne,"Food, Soft Beverages, Alcohol and Tobacco"
+232,Logista,1999,>250,7.60,Íñigo Meirás Amusco​,Spain,Madrid,Wholesale
+233,Carnival,1972,>250,7.60,Josh Weinstein,United Kingdom,Southampton,Travel and Leisure
+234,Twitter,2006,>250,7.60,Parag Agrawal,Ireland,Dublin,"IT, Internet, Software and Services"
+235,Abbott,1888,>250,7.60,Robert B. Ford,Ireland,Dublin,Health Care Equipment and Services
+236,B. Braun Melsungen,1839,>250,7.60,Anna Maria Braun,Germany,Melsungen,Health Care Equipment and Services
+237,Nissan Motor Corporation,1933,>250,7.60,Makoto Uchida,Switzerland,Rolle,Automotive (Producers and Suppliers)
+238,Nike,1964,>250,7.60,John Donahoe,Netherlands,Hilversum,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+239,PageGroup,1976,>250,7.60,Steve Ingham,United Kingdom,London,Business Services and Supplies
+240,Dunelm,1979,>250,7.60,Nick Wilkinson,United Kingdom,Leicester,Retail
+241,Cineworld Group,1995,>250,7.60,Moshe (Mooky) Greidinger,United Kingdom,London,Travel and Leisure
+242,Adform,2002,>250,7.59,Troels Philip Jensen,Denmark,Copenhagen,"IT, Internet, Software and Services"
+243,Saga,1951,>250,7.59,Euan Sutherland,Germany,Folkestone,Insurance
+244,RWE,1898,>250,7.59,Markus Krebber,Germany,Essen,Utilities
+245,Zurich,1872,>250,7.59,Mario Greco,Switzerland,Zurich,Insurance
+246,Microchip,1989,>250,7.59,Ganesh Moorthy,United Kingdom,Winnersh,"IT, Internet, Software and Services"
+247,River Island,1948,>250,7.59,Will Kernan,United Kingdom,London,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+248,Zalando,2008,>250,7.59,David Schneider,Germany,Berlin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+249,Damartex Group,1953,>250,7.59,Patrick Seghin,France,Roubaix,Retail
+250,Savencia Fromage & Dairy,1956,>250,7.59,Olivier Delamea,France,Viroflay,"Food, Soft Beverages, Alcohol and Tobacco"
+251,Colgate-Palmolive,1806,>250,7.59,Noel Wallas,Switzerland,Therwil,Packaged Goods
+252,GrandVision,1891,>250,7.59,Leonardo Del Vacchio,Netherlands,Schipol,Retail
+253,Tesco,1919,>250,7.58,Ken Murphy,United Kingdom,Welwyn Garden City,Retail
+254,CSS Versicherung,1899,>250,7.58,Philomena Colatrella,Switzerland,Lucerne,Insurance
+255,ING,1991,>250,7.58,Steven van Rijswijk,Netherlands,Amsterdam,Banking and Financial Services
+256,Swedish Match,1915,>250,7.58,Lars Dahlgren,Sweden,Stockholm,"Food, Soft Beverages, Alcohol and Tobacco"
+257,Ford Motor Company,1903,>250,7.58,"James D. Farley, Jr.",United Kingdom,Laindon,Automotive (Producers and Suppliers)
+258,Barmenia Versicherungen,1904,>250,7.58,Andreas Eurich,Germany,Wuppertal,Insurance
+259,Royal BAM Group,1869,>250,7.58,R.J.M. (Ruud) Joosten,Netherlands,Bunnik,Construction
+260,Vodafone,1982,>250,7.58,Nick Read,United Kingdom,Newbury,"Telecommunications Services, Cable Supplier"
+261,St. James's Place Wealth Management,1991,>250,7.58,Andrew Croft,United Kingdom,Cirencester,Banking and Financial Services
+262,Air Products,1940,>250,7.57,Seifi Ghasemi,United Kingdom,Walton-on-Thames,"Oil and Gas Operations, Mining, and Chemicals"
+263,Schweizerische Mobiliar,1826,>250,7.57,Michèle Rodoni,Switzerland,Bern,Insurance
+264,Zabka Polska,1998,>250,7.57,Tomasz Suchański,Poland,Poznan,Retail
+265,Enterprise Rent-A-Car,1957,>250,7.57,Chrissy Taylor,United Kingdom,Egham,Travel and Leisure
+266,Renfe,2005,>250,7.57,Isaías Táboas Suárez,Spain,Madrid,Transportation and Logistics
+267,GSK (GlaxoSmithKline),1715,>250,7.57,Emma Walmsley,United Kingdom,Brentford,Drugs and Biotechnology
+268,KUKA,1898,>250,7.57,Peter Mohnen,Germany,Augsburg,"Engineering, Manufacturing"
+269,Bosch,1886,>250,7.57,"Stefan Ferber, Yvonne Reckling",Germany,Gerlingen-Schillerhöhe,Automotive (Producers and Suppliers)
+270,Home Instead,1994,>250,7.57,Seth Sternberg,United Kingdom,Warrington,Healthcare (Social)
+271,Knorr-Bremse,1905,>250,7.57,Frank Markus Weber,Germany,Munich,Automotive (Producers and Suppliers)
+272,The Co-op Group,1863,>250,7.57,Shirine Khoury-Haq,United Kingdom,Manchester,Retail
+273,ADP,1949,>250,7.57,Carlos Rodriguez,France,Nanterre,Business Services and Supplies
+274,Picard Surgelés,1973,>250,7.57,Cathy Collart Geiger,France,Fontainebleau,Retail
+275,Micro Focus,1976,>250,7.56,Stephen Murdoch,United Kingdom,Newbury,"IT, Internet, Software and Services"
+276,Intel,1968,>250,7.56,Patrick Gelsinger,Germany,Meudon,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+277,Lenzing,1938,>250,7.56,Stephan Sielaff,Austria,Lenzing,"Manufacture and Processing of Materials, Metals and Paper"
+278,Hofer,1968,>250,7.56,Horst Leitner,Austria,Sattledt,Retail
+279,Procter & Gamble,1837,>250,7.56,Jon R. Moeller,Switzerland,Geneva,Packaged Goods
+280,Kingfisher,1982,>250,7.56,Thierry Garnier,United Kingdom,London,Retail
+281,Intesa Sanpaolo,2007,>250,7.56,Carlo Messina,Italy,Turin,Banking and Financial Services
+282,Midroc,1996,>250,7.56,Roger Wikström,Sweden,Solna,Construction
+283,Desigual,1984,>250,7.56,Thomas Meyer,Spain,Barcelona,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+284,Mondi,1967,>250,7.55,Andrew King,Austria,Vienna,"Manufacture and Processing of Materials, Metals and Paper"
+285,Action,1993,>250,7.55,Hajir Hajji,Netherlands,Zwaagdijk-Oost,Retail
+286,Hutchison 3G,2003,>250,7.55,Robert Finnegan,United Kingdom,Reading,"Telecommunications Services, Cable Supplier"
+287,Pinsent Masons,1769,>250,7.55,Richard Foley,United Kingdom,London,Consulting and Accounting
+288,PKN Orlen,1999,>250,7.55,Daniel Obajtek,Poland,Płock,"Oil and Gas Operations, Mining, and Chemicals"
+289,Texas Instruments,1930,>250,7.55,Rich Templeton,Germany,Freising,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+290,Concentrix,1983,>250,7.70,Chris Caldwell,United Kingdom,Belfast,Business Services and Supplies
+291,Atria,1903,>250,7.55,Juha Gröhn,Finland,Seinäjoki,"Food, Soft Beverages, Alcohol and Tobacco"
+292,Liebherr,1949,>250,7.55,Jan Liebherr,Switzerland,Bulle,"Aerospace, Defence, Manufacture of Transport Equipment"
+293,Sony,1946,>250,7.55,Hideyuki Furumi,United Kingdom,Weybridge,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+294,Sika,1910,>250,7.55,Martin Keller,Switzerland,Zurich,"Oil and Gas Operations, Mining, and Chemicals"
+295,Network Rail,2002,>250,7.54,Andrew Haines,United Kingdom,Milton Keynes,Transportation and Logistics
+296,Scandic Hotels,1963,>250,7.54,Jens Mathiesen,Sweden,Stockholm,Travel and Leisure
+297,VKB Versicherungskammer Bayern,1811,>250,7.54,Frank Walthes,Germany,Munich,Insurance
+298,Sainsbury's,1869,>250,7.54,Simon Roberts,United Kingdom,London,Retail
+299,Inditex,1963,>250,7.54,Óscar García Maceiras,Spain,Arteixo,Retail
+300,Airbus,1970,>250,7.54,Guillaume Faury,Netherlands,Leiden,"Aerospace, Defence, Manufacture of Transport Equipment"
+301,Symrise,1874,>250,7.54,Heinz-Jürgen Bertram,Germany,Holzminden,"Oil and Gas Operations, Mining, and Chemicals"
+302,Rheinmetall,1889,>250,7.54,Armin Papperger,Germany,Düsseldorf,Automotive (Producers and Suppliers)
+303,Diageo,1997,>250,7.53,Ivan Menezes,United Kingdom,London,"Food, Soft Beverages, Alcohol and Tobacco"
+304,RSA Insurance,1996,>250,7.53,Ken Norgrove,United Kingdom,Horsham,Insurance
+305,Computacenter,1981,>250,7.53,Mike Norris,United Kingdom,Hatfield,"IT, Internet, Software and Services"
+306,Alfa Laval,1883,>250,7.53,Dennis Jönsson,Sweden,Lund,"Engineering, Manufacturing"
+307,Lujabetoni,1953,>250,7.53,Mikko Isotalo,Finland,Siilinjärvi,"Manufacture and Processing of Materials, Metals and Paper"
+308,Primark,1969,>250,7.53,Paul Marchant,United Kingdom,London,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+309,Chanel,1910,>250,7.53,Leena Nair,United Kingdom,London,Packaged Goods
+310,Philips,1891,>250,7.53,Frans van Houten,Netherlands,Amsterdam,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+311,BMW,1916,>250,7.53,Oliver Zipse,Germany,Munich,Automotive (Producers and Suppliers)
+312,Solvay,1863,>250,7.53,Ilham Kadri,Belgium,Brussels,"Oil and Gas Operations, Mining, and Chemicals"
+313,Deutsche Vermögensberatung,1975,>250,7.53,Andreas Pohl,Germany,Frankfurt am Main,Banking and Financial Services
+314,Avery Dennison,1935,>250,7.53,Mitch Butier,Netherlands,Oegstgeest,"Manufacture and Processing of Materials, Metals and Paper"
+315,Merlin Entertainments,1999,>250,7.53,Nick Varney,United Kingdom,Poole,Travel and Leisure
+316,Hitachi,1910,>250,7.53,Keiji Kojima,United Kingdom,London,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+317,Bank of Ireland,1783,>250,7.53,Francesca McDonagh,Ireland,Dublin,Banking and Financial Services
+318,Mars,1911,>250,7.52,Grant F. Reid,United Kingdom,Surrey,"Food, Soft Beverages, Alcohol and Tobacco"
+319,dm-drogerie markt,1973,>250,7.52,Christoph Werner,Germany,Karlsruhe,Retail
+320,Unilever,1929,>250,7.52,Alan Jope,United Kingdom,London,"Food, Soft Beverages, Alcohol and Tobacco"
+321,Toyota Motor Corporation,1937,>250,7.52,Matt Harrison,Belgium,Brussels,Automotive (Producers and Suppliers)
+322,Ocado Group,2000,>250,7.52,Tim Steiner,United Kingdom,Hatfield,Retail
+323,Goodyear Dunlop,1898,>250,7.52,Richard J. Kramer,United Kingdom,Diegem,Automotive (Producers and Suppliers)
+324,Benetton Group,1965,>250,7.52,Massimo Renon,Italy,Ponzano Veneto,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+325,Cepsa,1929,>250,7.51,Maarten Wetselaar,Spain,Madrid,"Oil and Gas Operations, Mining, and Chemicals"
+326,EDF,1946,>250,7.51,Jean-Bernard Levy,France,Paris,Utilities
+327,"BD (Becton, Dickinson and Co.)",1897,>250,7.51,Tom Polen,Switzerland,Eysins,Health Care Equipment and Services
+328,Taylor Wimpey,2007,>250,7.51,Jennie Daly,United Kingdom,High Wycombe,Construction
+329,Brenntag,1874,>250,7.51,Christian Kohlpaintner,Germany,Essen,Wholesale
+330,Zürcher Kantonalbank,1870,>250,7.51,Urs Baumann,Switzerland,Zurich,Banking and Financial Services
+331,COWI,1930,>250,7.51,Lars-Peter Søbye,Denmark,Lyngby,Consulting and Accounting
+332,SCA,1929,>250,7.51,åsa bergman,Sweden,Sundsvall,"Oil and Gas Operations, Mining, and Chemicals"
+333,Telenet,1996,>250,7.51,John Porter,Belgium,Mechelen,"IT, Internet, Software and Services"
+334,Starbucks,1971,>250,7.51,Howard Schultz,United Kingdom,London,Restaurants
+335,West Midlands Trains,2017,>250,7.50,Ian McConnell,United Kingdom,Birmingham,Transportation and Logistics
+336,Rolls-Royce,1906,>250,7.50,Warren East,United Kingdom,London,"Aerospace, Defence, Manufacture of Transport Equipment"
+337,Blue Arrow,1959,>250,7.50,Andy Hart,United Kingdom,Luton,Business Services and Supplies
+338,Expleo,1966,>250,7.50,Rajesh Murthy,France,Montigny-le-Bretonneux,"Engineering, Manufacturing"
+339,Parker Hannifin,1917,>250,7.50,Thomas Williams,Switzerland,Etoy,"Engineering, Manufacturing"
+340,Helsana,1899,>250,7.50,Roman Sonderegger,Switzerland,Dübendorf,Insurance
+341,Cool Blue,1999,>250,7.49,Pieter Zwart,Netherlands,Rotterdam,Retail
+342,Carlsberg,1847,>250,7.49,Cees 'T Hart,Denmark,Copenhagen,"Food, Soft Beverages, Alcohol and Tobacco"
+343,EWE,1943,>250,7.49,Stefan Dohler,Germany,Oldenburg,Utilities
+344,J.P. Morgan,2000,>250,7.49,Jamie Dimon,United Kingdom,London,Banking and Financial Services
+345,Kghm Miedz,1961,>250,7.49,Marcin Chludziński,Poland,Lubin,"Oil and Gas Operations, Mining, and Chemicals"
+346,Telia Company,1853,>250,7.49,Allison Kirkby,Sweden,Solna,"Telecommunications Services, Cable Supplier"
+347,AT&S,1987,>250,7.49,Andreas Gerstenmayer,Austria,Leoben,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+348,Amadeus,1987,>250,7.49,Luis Maroto,Spain,Madrid,"IT, Internet, Software and Services"
+349,RB (Reckitt Benckiser),1938,>250,7.49,Laxman Narasimhan,United Kingdom,Slough,"Food, Soft Beverages, Alcohol and Tobacco"
+350,Takeda,1781,>250,7.49,Christophe Weber,Switzerland,Zurich,Drugs and Biotechnology
+351,Lufthansa,1953,>250,7.64,Carsten Spohr,Germany,Frankfurt am Main,Transportation and Logistics
+352,PORR,1869,>250,7.49,Karl-Heinz Strauss,Austria,Vienna,Construction
+353,Marks & Spencer,1884,>250,7.49,Stuart Machin,United Kingdom,London,Retail
+354,Generali,1831,>250,7.49,Philippe Donnet,Italy,Trieste,Insurance
+355,H&M Hennes & Mauritz,1947,>250,7.49,Helena Helmersson,Sweden,Stockholm,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+356,eBay,1995,>250,7.48,Jamie Iannone,Germany,Kleinmachnow,"IT, Internet, Software and Services"
+357,BT Group,1980,>250,7.48,Philip Jansen,United Kingdom,London,"Telecommunications Services, Cable Supplier"
+358,Axfood,1958,>250,7.48,Klas Balkow,Sweden,Stockholm,Retail
+359,Otto Group,1949,>250,7.48,Alexander Birken,Germany,Hamburg,Retail
+360,Equiniti,2007,>250,7.48,Paul Lynam,United Kingdom,Reading,"IT, Internet, Software and Services"
+361,Grupa PZU,1803,>250,7.48,Beata Kozłowska - Chyła,Poland,Warsaw,Insurance
+362,Free,1999,>250,7.48,Thomas Reynaud,France,Paris,"Telecommunications Services, Cable Supplier"
+363,Liseberg,1923,>250,7.48,Andreas Andersen,Sweden,Gothenburg,Travel and Leisure
+364,South Western Railway,2017,>250,7.48,Claire Mann,United Kingdom,London,Transportation and Logistics
+365,Telefónica O2,1924,>250,7.48,Jose-Maria-Alvarez-Pallete,Spain,Madrid,"Telecommunications Services, Cable Supplier"
+366,University Hospitals Of Leicester,2000,>250,7.63,Richard Mitchell,United Kingdom,Leicester,Healthcare (Social)
+367,Nkt,1891,>250,7.48,Alexander Kara,Denmark,Copenhagen,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+368,Adva Optical Networking,1994,>250,7.48,Brian Protiva,Germany,Munich,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+369,Atlas Copco,1873,>250,7.48,Mats Rahmström,Sweden,Stockholm,"Engineering, Manufacturing"
+370,Bank of Scotland,1695,>250,7.47,Charlie Nunn,United Kingdom,Edinburgh,Banking and Financial Services
+371,Trumpf,1923,>250,7.47,Nicola Leibinger-Kammüller,Germany,Ditzingen,"Manufacture and Processing of Materials, Metals and Paper"
+372,General Electric,1892,>250,7.47,"H. Lawrence Culp, Jr.",France,Paris,"Engineering, Manufacturing"
+373,Lexmark,1991,>250,7.47,Allen Waugerman,United Kingdom,Geneve,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+374,LV= (Liverpool Victoria),1843,>250,7.47,Mark Hartigan,United Kingdom,Bournemouth,Insurance
+375,National Grid,1990,>250,7.47,John Pettigrew,United Kingdom,London,Utilities
+376,Ageas,1824,>250,7.47,Hans De Cuyper,Belgium,Brussels,Insurance
+377,Vivantes,2001,>250,7.47,Johannes Danckert,Germany,Berlin,Healthcare (Social)
+378,Air Europa,1986,>250,7.46,Juan José Hidalgo,Spain,Llucmajor,Transportation and Logistics
+379,AXA,1958,>250,7.46,Thomas Buberl,France,Paris,Insurance
+380,Bank Millennium,1989,>250,7.46,Joao Bras Jorge,Poland,Warsaw,Banking and Financial Services
+381,Air Liquide,1902,>250,7.46,François Jackow,France,Paris,"Oil and Gas Operations, Mining, and Chemicals"
+382,EY (Ernest & Young),1989,>250,7.46,Carmine Di Sibio,United Kingdom,London,Consulting and Accounting
+383,About You,2014,>250,7.46,Tarek Müller,Germany,Hamburg,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+384,Brittany Ferries,1989,>250,7.46,Christophe Mathieu,United Kingdom,Brittany,Transportation and Logistics
+385,Adeslas,1994,>250,7.46,Jose Antonio Garcia Morales,Spain,Madrid,Healthcare (Social)
+386,Acea,1909,>250,7.46,Giuseppe Gola,Italy,Rome,Utilities
+387,Capgemini,1967,>250,7.46,Aiman Ezzat,France,Paris,"IT, Internet, Software and Services"
+388,Ralph Lauren,1967,>250,7.46,Ralph Lauren,Switzerland,Plan-les-Ouates,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+389,NFU Mutual,1910,>250,7.46,Nick Turner,United Kingdom,Stratford upon Avon,Insurance
+390,Iberia,1927,>250,7.46,Javier Sánchez-Prieto,Spain,Madrid,Transportation and Logistics
+391,CBRE,1906,>250,7.46,Bob Sulentic,United Kingdom,Schiphol,Business Services and Supplies
+392,McLaren Automotive,1963,>250,7.46,Michael Leiters,United Kingdom,Woking,Automotive (Producers and Suppliers)
+393,DSM,1902,>250,7.46,Geraldine Matchett,Netherlands,Maastricht,Drugs and Biotechnology
+394,John Deere,1837,>250,7.46,John C. May,Germany,Walldorf,"Aerospace, Defence, Manufacture of Transport Equipment"
+395,Asda,1920,>250,7.45,Mohsin Issa CBE,United Kingdom,Leeds,Retail
+396,Bupa,1947,>250,7.45,Iñaki Ereño,Spain,London,Healthcare (Social)
+397,Raytheon Technologies,1922,>250,7.45,Gregory J. Hayes,Germany,Harlow,"Aerospace, Defence, Manufacture of Transport Equipment"
+398,Nordea Bank,1820,>250,7.45,Frank Vang-Jensen,Finland,Helsinki,Banking and Financial Services
+399,Newsquest,1996,>250,7.45,Henry Faure Walker,United Kingdom,London,Media and Advertising
+400,BASF,1865,>250,7.45,Kurt Bock,Germany,Ludwigshafen,"Oil and Gas Operations, Mining, and Chemicals"
+401,Nestlé,1866,>250,7.45,Mark Schneider,Switzerland,Vevey,"Food, Soft Beverages, Alcohol and Tobacco"
+402,Samsung,1969,>250,7.45,Man Young Kim,Germany,Schwalbach,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+403,McDonald's,1940,>250,7.45,Alistair Macrow,United Kingdom,London,Restaurants
+404,Fortum,1998,>250,7.45,Markus Rauramo,Finland,Fortum,Utilities
+405,Tetra Pak International,1952,>250,7.45,Adolfo Orive,Switzerland,Pully,"Manufacture and Processing of Materials, Metals and Paper"
+406,Schindler,1874,>250,7.45,Silvio Napoli,Switzerland,Ebikon,"Engineering, Manufacturing"
+407,ZF Friedrichshafen,1908,>250,7.45,Wolf-Henning Scheider,Germany,Friedrichshafen,Automotive (Producers and Suppliers)
+408,Bourne Leisure,1964,>250,7.45,Paul Flaum,United Kingdom,Hertfordshire,Travel and Leisure
+409,Oberbank,1869,>250,7.44,Dr. Franz Gasselsberger,Austria,Linz,Banking and Financial Services
+410,Douglas,1821,>250,7.44,Tina Müller,Germany,Düsseldorf,Retail
+411,Webhelp,2000,>250,7.44,Olivier Duha,France,Paris,Business Services and Supplies
+412,Daimler,1886,>250,7.44,Ola Källenius,Germany,Stuttgart,Automotive (Producers and Suppliers)
+413,OP Financial Group,1902,>250,7.44,Timo Ritakallio,Finland,Helsinki,Banking and Financial Services
+414,Sunrise Communications,2000,>250,7.44,André Krause,Switzerland,Glattpark,"Telecommunications Services, Cable Supplier"
+415,Shell,1907,>250,7.44,Ben van Beurden,United Kingdom,London,"Oil and Gas Operations, Mining, and Chemicals"
+416,Bertelsmann,1835,>250,7.44,Thomas Rabe,Germany,Gütersloh,Media and Advertising
+417,Maersk,1928,>250,7.44,Søren Skou,Denmark,Copenhagen,Transportation and Logistics
+418,Techniker Krankenkasse,1884,>250,7.44,Dr. Jens Baas,Germany,Hamburg,Insurance
+419,TalkTalk,2002,>250,7.44,Tristia Harrison,United Kingdom,Salford,"Telecommunications Services, Cable Supplier"
+420,Arla Foods,1987,>250,7.44,Peder Tuborgh,Denmark,Viby J,"Food, Soft Beverages, Alcohol and Tobacco"
+421,Groupe Bigard,1968,>250,7.43,Jean-Paul Bigard,France,Quimperlé,"Food, Soft Beverages, Alcohol and Tobacco"
+422,Sanofi,1973,>250,7.43,Paul Hudson,France,Paris,Drugs and Biotechnology
+423,Mediaset,1996,>250,7.43,Pier Silvio Berlusconi,Italy,Milan,Media and Advertising
+424,Actief,1988,>250,7.43,Mark Maesen,Belgium,Limburg,Business Services and Supplies
+425,OMV,1956,>250,7.43,Alfred Stern,Austria,Wien,"Oil and Gas Operations, Mining, and Chemicals"
+426,Commerzbank,1870,>250,7.43,Manfred Knof,Germany,Frankfurt am Main,Banking and Financial Services
+427,BlackRock,1988,>250,7.43,Larry Fink,United Kingdom,London,Banking and Financial Services
+428,Angelini,1919,>250,7.43,Sergio Marullo di Condojanni,Italy,Rome,Drugs and Biotechnology
+429,Telenor,1855,>250,7.43,Sigve Brekke,Norway,Fornebu,"Telecommunications Services, Cable Supplier"
+430,NTV Italo,2006,>250,7.43,Luca Cordero Di Montezemolo,Italy,Rome,Transportation and Logistics
+431,Keolis,1977,>250,7.43,Frédéric Baverez,France,Paris,Transportation and Logistics
+432,Thales Group,1918,>250,7.43,Patrice Caine,France,Paris-La Défense,"Aerospace, Defence, Manufacture of Transport Equipment"
+433,Evonik Industries,2007,>250,7.43,Christian Kullmann,Germany,Essen,"Oil and Gas Operations, Mining, and Chemicals"
+434,Santander,1857,>250,7.43,José Antonio Álvarez Álvarez,Spain,Boadilla del Monte,Banking and Financial Services
+435,The Coca-Cola Company,2016,>250,7.43,Damian Gammell,United Kingdom,Uxbridge,"Food, Soft Beverages, Alcohol and Tobacco"
+436,LVM Versicherung,1896,>250,7.42,Dr. Mathias Kleuker,Germany,Münster,Insurance
+437,BBVA,1857,>250,7.41,Onur Genç,Spain,Madrid,Banking and Financial Services
+438,Volkswagen,1937,>250,7.42,Thomas Schäfer,Germany,Wolfsburg,Automotive (Producers and Suppliers)
+439,Auto Trader,1988,>250,7.42,Nathan Coe,United Kingdom,Manchester,Retail
+440,Caisse des Dépôts,1816,>250,7.42,Eric Lombard,France,Paris,Banking and Financial Services
+441,Nando's,1992,>250,7.42,Rob Papps,United Kingdom,London,Restaurants
+442,ABB,1988,>250,7.42,Björn Rosengren,Switzerland,Zurich,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+443,Schibsted,1839,>250,7.42,Kristin Skogen Lund,Norway,Oslo,Media and Advertising
+444,Enel Group,1962,>250,7.42,Francesco Starace,Italy,Rome,Utilities
+445,NatWest,1970,>250,7.57,Alison Rose,United Kingdom,Edinburgh,Banking and Financial Services
+446,Aon,1982,>250,7.42,Greg Case,United Kingdom,London,Insurance
+447,Österreichischen Bundesbahnen (ÖBB),2004,>250,7.42,Andreas Matthä,Austria,Wien,Transportation and Logistics
+448,FM Logistic,1967,>250,7.41,Jean-Christophe Machet,France,Phalsbourg,Transportation and Logistics
+449,Ahold Delhaize,2016,>250,7.41,Frans Muller,Netherlands,Zaandam,Retail
+450,Berliner Sparkasse,1818,>250,7.41,Dr. Johannes Evers,Germany,Berlin,Banking and Financial Services
+451,Farmfoods,1954,>250,7.41,George Herd,United Kingdom,Birmingham,Retail
+452,MAHLE,1920,>250,7.41,Michael Frick,Germany,Stuttgart,Automotive (Producers and Suppliers)
+453,The Works,1981,>250,7.41,Gavin Peck,United Kingdom,Birmingham,Retail
+454,Yit,1912,>250,7.41,Markku Moilanen,Finland,Helsinki,Construction
+455,Lego,1932,>250,7.41,Niels B. Christiansen,Denmark,Billund,Travel and Leisure
+456,Barclays Bank,1690,>250,7.41,C.S. Venkatakrishnan,United Kingdom,London,Banking and Financial Services
+457,STEF,1920,>250,7.41,Stanislas Lemor,France,Paris,Transportation and Logistics
+458,Tokmanni,1974,>250,7.41,Mika Rautiainen,Finland,Mäntsälä,Retail
+459,Jabil,1966,>250,7.40,Mark T. Mondello,Spain,Livingston,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+460,HCA International,1995,>250,7.40,John Reay,United Kingdom,London,Healthcare (Social)
+461,Kering,1963,>250,7.40,François-Henri Pinault,France,Paris,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+462,HEMA,1926,>250,7.40,Saskia Egas Reparaz,Netherlands,Amsterdam,Retail
+463,Uber,2009,>250,7.55,Dara Khosrowshahi,Netherlands,Amsterdam,Travel and Leisure
+464,Hyundai Motor Company,1967,>250,7.40,Michael Cole,Germany,Offenbach,Automotive (Producers and Suppliers)
+465,Guardian Media Group,1907,>250,7.40,Anna Bateson,United Kingdom,London,Media and Advertising
+466,Martin&Servera,2012,>250,7.40,Liv Forhaug,Sweden,Stockholm,Business Services and Supplies
+467,Sandvik,1862,>250,7.40,Stefan Widing,Sweden,Stockholm,"Engineering, Manufacturing"
+468,Kapsch Group,1892,>250,7.40,Georg Kapsch,Austria,Vienna,Transportation and Logistics
+469,HSBC Bank,1865,>250,7.40,Noel Quinn,United Kingdom,London,Banking and Financial Services
+470,Brembo,1961,>250,7.40,Daniele Schillaci,Italy,Curno,Automotive (Producers and Suppliers)
+471,Deutsche Bank,1870,>250,7.40,Christian Sewing,Germany,Frankfurt am Main,Banking and Financial Services
+472,Framatome,1958,>250,7.40,Bernard Fontana,France,Courbevoie,Utilities
+473,Michelin,1889,>250,7.55,Florent Menegaux,France,Clermont-Ferrand,Automotive (Producers and Suppliers)
+474,Pepsico,1965,>250,7.40,Ramon L. Laguarta,Switzerland,Geneva,"Food, Soft Beverages, Alcohol and Tobacco"
+475,Halifax,1853,>250,7.40,James Crosby,United Kingdom,Leeds,Banking and Financial Services
+476,MAX Burgers,1968,>250,7.40,Richard Bergfors,Sweden,Lulea,Restaurants
+477,LeasePlan,1963,>250,7.39,Tex Gunning,Netherlands,Amsterdam,Banking and Financial Services
+478,Die Schweizerische Post,1998,>250,7.39,Roberto Cirillo,Switzerland,Bern,Transportation and Logistics
+479,E.on,2000,>250,7.39,Leonhard Birnbaum,Germany,Essen,Utilities
+480,Grupa Azoty,1927,>250,7.39,Tomasz Hinc,Poland,Tarnow,"Oil and Gas Operations, Mining, and Chemicals"
+481,Colruyt Group,1928,>250,7.39,Jef Colruy,Belgium,Halle,Retail
+482,ExxonMobil,1999,>250,7.39,Darren W. Woods,Belgium,Brussels,"Oil and Gas Operations, Mining, and Chemicals"
+483,Tim Telecom,1994,>250,7.39,Pietro Labriola,Italy,Rome,"IT, Internet, Software and Services"
+484,Banca Monte Dei Paschi Di Siena,1472,>250,7.39,Luigi Lovaglio,Italy,Siena,Banking and Financial Services
+485,Heathrow Airport Holdings,1946,>250,7.39,John Holland-Kaye,United Kingdom,Hounslow,Transportation and Logistics
+486,Greggs,1939,>250,7.39,Roisin Currie,United Kingdom,Newcastle upon Tyne,Restaurants
+487,Broadcom,1961,>250,7.39,Hock E. Tan,Germany,Munich,"IT, Internet, Software and Services"
+488,Crédit Agricole,1894,>250,7.39,Philippe Brassac,France,Montrouge,Banking and Financial Services
+489,KFC | Kentucky Fried Chicken,1952,>250,7.39,Sabir Sami,United Kingdom,Woking,Restaurants
+490,Brakes,1958,>250,7.38,Hugo Mahoney,United Kingdom,Ashford,Wholesale
+491,KNAPP,1952,>250,7.38,Gerald Hofer,Austria,Hart bei Graz,"Engineering, Manufacturing"
+492,Lacoste,1933,>250,7.38,Thierry Guibert,France,Paris,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+493,Heinz,1869,>250,7.38,Miguel Patricio,United Kingdom,London,"Food, Soft Beverages, Alcohol and Tobacco"
+494,Teleperformance,1978,>250,7.38,Daniel Julien,France,Paris,Business Services and Supplies
+495,MTU Aero Engines,1913,>250,7.38,Reiner Winkler,Germany,Munich,"Aerospace, Defence, Manufacture of Transport Equipment"
+496,Schweizerische Bundesbahnen (SBB),1902,>250,7.38,Vincent Ducrot,Switzerland,Bern,Transportation and Logistics
+497,Repsol,1927,>250,7.38,Josu Jon Imaz,Spain,Madrid,"Oil and Gas Operations, Mining, and Chemicals"
+498,SE Trains,2006,>250,7.38,Steve White,United Kingdom,London,Transportation and Logistics
+499,Gothaer,1820,>250,7.37,Oliver Schoeller,Germany,Cologne,Insurance
+500,Coca-Cola European Partners,1904,>250,7.37,Damian Gammell,United Kingdom,Uxbridge,"Food, Soft Beverages, Alcohol and Tobacco"
+501,PizzaExpress,1965,>250,7.37,Paula MacKenzie,United Kingdom,Uxbridge,Restaurants
+502,AVEVA Group,1967,>250,7.37,Peter Herweck,United Kingdom,Cambridge,"IT, Internet, Software and Services"
+503,STMicroelectronics,1987,>250,7.37,Jean-Marc Chery,Switzerland,Geneva,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+504,AccorHotels,1967,>250,7.37,Sébastien Bazin,France,Evry Cedex,Travel and Leisure
+505,MBDA,2001,>250,7.37,Éric Béranger,Germany,Robinson,"Aerospace, Defence, Manufacture of Transport Equipment"
+506,Rabobank,1898,>250,7.37,Wiebe Draijer,Netherlands,Utrecht,Banking and Financial Services
+507,Oracle,1977,>250,7.37,Larry Ellison,United Kingdom,Reading,"IT, Internet, Software and Services"
+508,BAE Systems,1999,>250,7.37,Charles Woodburn,United Kingdom,London,"Aerospace, Defence, Manufacture of Transport Equipment"
+509,Audi,1899,>250,7.37,Markus Duesmann,Germany,Ingolstadt,Automotive (Producers and Suppliers)
+510,Danone,1919,>250,7.36,Antoine de Saint-Affrique,France,Paris,"Food, Soft Beverages, Alcohol and Tobacco"
+511,DKV Deutsche Krankenversicherung,1927,>250,7.36,Clemens Muth,Germany,Cologne,Insurance
+512,Bouygues,1952,>250,7.36,Edward Bouygues,France,Paris,"Telecommunications Services, Cable Supplier"
+513,Voyage Care,1988,>250,7.36,Andrew Cannon,United Kingdom,Lichfield,Healthcare (Social)
+514,Kiabi,1978,>250,7.36,Patrick Stassi,France,Hem,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+515,Harmonie Mutuelle,2013,>250,7.36,Catherine Touvrey,France,Paris,Insurance
+516,Electrolux,1919,>250,7.36,Jonas Samuelson,Sweden,Stockholm,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+517,Ahlens,1899,>250,7.36,Annica Hagen,Sweden,Stockholm,Retail
+518,Belron,1897,>250,7.36,Gary Lubner,United Kingdom,Egham,Retail
+519,SNCF,1995,>250,7.36,Jean Pierre Farandou,France,Saint-Denis,Transportation and Logistics
+520,Vattenfall,1909,>250,7.36,Anna Borg,Sweden,Stockholm,Utilities
+521,TUI,1923,>250,7.36,Friedrich Joussen,Germany,Hanover,Travel and Leisure
+522,Prudential PLC,1848,>250,7.36,Mark FitzPatrick,United Kingdom,London,Insurance
+523,Lonza,1897,>250,7.36,Pierre-Alain Ruffieux,Switzerland,Basel,Drugs and Biotechnology
+524,Swedavia Airports,2010,>250,7.36,Åke Svensson,Sweden,Stockholm,Transportation and Logistics
+525,Siemens,1847,>250,7.36,Roland Busch,Germany,Munich,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+526,API Restauration,1956,>250,7.36,Damien Debosque,France,Mons-en-Baroeul,Restaurants
+527,SEB (Skandinaviska Enskilda Banken) Group,1856,>250,7.36,Johan Torgeby,Sweden,Stockholm,Banking and Financial Services
+528,New Look,1969,>250,7.35,Helen Connolly,United Kingdom,Weymouth,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+529,SOS International,1957,>250,7.35,Jan Sigurdur Christensen,Denmark,Copenhagen,Insurance
+530,JLL,1999,>250,7.35,Christian Ulbrich,United Kingdom,London,Business Services and Supplies
+531,Bayer,1863,>250,7.35,Werner Baumann,Germany,Leverkusen,Drugs and Biotechnology
+532,The Boston Consulting Group (BCG),1963,>250,7.35,Christoph Schweizer,United Kingdom,London,Consulting and Accounting
+533,McKinsey & Company,1926,>250,7.35,Bob Sternfels,Germany,Düsseldorf,Consulting and Accounting
+534,AECOM,1990,>250,7.35,Troy Rudd,United Kingdom,London,"Engineering, Manufacturing"
+535,Insel Gruppe,2016,>250,7.35,Bernhard Pulver,Switzerland,Bern,Healthcare (Social)
+536,Deloitte,1895,>250,7.35,Punit Renjen,United Kingdom,London,Consulting and Accounting
+537,Thames Water,1989,>250,7.35,Sarah Bentley,United Kingdom,Reading,Utilities
+538,Iberdrola,1992,>250,7.35,Ignacio S. Galan,Spain,Bilbao,Utilities
+539,Mace,1990,>250,7.35,Mark Reynolds,United Kingdom,London,Construction
+540,Scottish Power,1989,>250,7.35,Keith Anderson,United Kingdom,Glasgow,Utilities
+541,GXO Logistics,2021,>250,7.35,Malcolm Wilson,France,Neuilly-Sur-Seine,Transportation and Logistics
+542,ICA Gruppen,1938,>250,7.34,Nina Jönsson,Sweden,Solna,"Food, Soft Beverages, Alcohol and Tobacco"
+543,A.S. Watson Group,1841,>250,7.34,Malina Ngai,Netherlands,Renswoude,Retail
+544,Total,1924,>250,7.34,Patrick Pouyanné,France,Paris,"Oil and Gas Operations, Mining, and Chemicals"
+545,SSE (Scottish and Southern Energy),1998,>250,7.34,Alistair Phillips-Davies,United Kingdom,Perth,Utilities
+546,BioNTech,2008,>250,7.34,Ugur Sahin,Germany,Mainz,Drugs and Biotechnology
+547,Centrica,1997,>250,7.34,Chris O’Shea,United Kingdom,Windsor,Utilities
+548,Voith,1867,>250,7.34,Dr. Toralf Haag,Germany,Heidenheim,"Engineering, Manufacturing"
+549,Thermo Fisher Scientific,1956,>250,7.34,Marc N. Casper,United Kingdom,Uppsala,Drugs and Biotechnology
+550,Avon Cosmetics,1886,>250,7.34,Angela Cretu,United Kingdom,Northampton,Packaged Goods
+551,Visma,1996,>250,7.34,Merete Hverven,Norway,Oslo,"IT, Internet, Software and Services"
+552,Legrand,1865,>250,7.34,Benoît Coquart,France,Limoges,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+553,CGI,1976,>250,7.34,George D. Schindler,France,Rotterdam,Consulting and Accounting
+554,Adecco Group,1996,>250,7.34,Denis Machuel,Switzerland,Zurich,Business Services and Supplies
+555,Stora Enso,1998,>250,7.34,Annica Bresky,Finland,Stockholm + Helsinki,"Manufacture and Processing of Materials, Metals and Paper"
+556,Verkehrsbüro Group,1917,>250,7.34,Martin Winkler,Austria,Wien,Travel and Leisure
+557,LähiTapiola,2013,>250,7.34,Juha Koponen,Finland,Espoo,Insurance
+558,TF1 Group,1974,>250,7.34,Gilles Pelisson,France,Boulogne-Billancourt,Media and Advertising
+559,Mondadori,1975,>250,7.34,Antonio Porro,Italy,Segrate,Media and Advertising
+560,Rentokil Initial,1925,>250,7.34,Andy Ranson,United Kingdom,West Sussex,Business Services and Supplies
+561,Hiscox,1901,>250,7.33,Aki Hussain,France,Paris,Insurance
+562,Wind Tre,2015,>250,7.33,"Gianluca Corti, Benoit Hanssen",Italy,Rho,"IT, Internet, Software and Services"
+563,Hays Travel,1980,>250,7.33,Irene Hays,United Kingdom,Sunderland,Travel and Leisure
+564,MAG (Manchester Airport Group),1938,>250,7.33,Charlie Cornish,United Kingdom,Manchester,Transportation and Logistics
+565,Pko Bank Polski,1919,>250,7.32,Iwona Duda,Poland,Warsaw,Banking and Financial Services
+566,Fastweb,1999,>250,7.32,Alberto Calcagno,Italy,Milan,"IT, Internet, Software and Services"
+567,Teva Pharmaceuticals,1901,>250,7.32,Kåre Schultz,Israel,Tel Aviv-Jaffa,Drugs and Biotechnology
+568,The Body Shop,1976,>250,7.32,David Boynton,United Kingdom,London,Retail
+569,Unieuro,1937,>250,7.32,Giancarlo Nicosanti Monterastelli,Italy,Forlì,Retail
+570,Grant Thornton,1924,>250,7.32,Seth L. Siegel,United Kingdom,London,Consulting and Accounting
+571,Asus,1989,>250,7.32,"S.Y. Hsu, Samson Hu",Netherlands,Amsterdam,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+572,Linklaters,1838,>250,7.32,Paul Lewis,United Kingdom,London,Consulting and Accounting
+573,Ferrero,1964,>250,7.31,Giovanni Ferrero,Italy,Alba,"Food, Soft Beverages, Alcohol and Tobacco"
+574,Volvo Group,1927,>250,7.31,Martin Lundstedt,Sweden,Gothenburg,Automotive (Producers and Suppliers)
+575,Spar,1932,>250,7.31,Brett Botten,Netherlands,Amsterdam,Retail
+576,STADA Arzneimittel,1895,>250,7.31,Peter Goldschmidt,Germany,Bad Vilbel,Drugs and Biotechnology
+577,Mitsubishi Electric,1921,>250,7.31,Kei Uruma,Germany,Ratingen,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+578,Calzedonia,1986,>250,7.31,Sandro Veronesi,Italy,Dossobuono di Villafranca (VR),"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+579,Fraport,1924,>250,7.31,Stefan Schulte,Germany,Frankfurt am Main,Transportation and Logistics
+580,WSP,1885,>250,7.31,Alexandre L’Heureux,United Kingdom,London,Consulting and Accounting
+581,Standard Chartered,1969,>250,7.31,Bill Winters,United Kingdom,London,Banking and Financial Services
+582,Renault,1898,>250,7.31,Luca de Meo,France,Boulogne-Billancourt,Automotive (Producers and Suppliers)
+583,Honeywell,1885,>250,7.31,Darius Adamczyk,Belgium,Bracknell,"Engineering, Manufacturing"
+584,Mazars,1945,>250,7.31,Hervé Hélias,France,Paris-La Défense,Consulting and Accounting
+585,Motorola Solutions,2011,>250,7.31,Greg Brown,United Kingdom,London,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+586,McAfee,1987,>250,7.31,Greg Johnson,Germany,Cork,"IT, Internet, Software and Services"
+587,Universitätsklinikum Essen,1963,>250,7.30,Jochen A. Werner,Germany,Essen,Healthcare (Social)
+588,TAURON,2006,>250,7.30,Paweł Szczeszek,Poland,Tarnow,Utilities
+589,Elisa,1882,>250,7.30,Veli-Matti Mattila,Finland,Helsinki,"IT, Internet, Software and Services"
+590,John Paul Construction,1949,>250,7.30,Liam Kenny,Ireland,Dublin,Construction
+591,Mitchells & Butlers,1898,>250,7.30,Phil Urban,United Kingdom,Birmingham,Restaurants
+592,Armatis,1989,>250,7.30,Krzysztof Lewinski,France,Boulogne-Billancourt,Business Services and Supplies
+593,Bam Contractors,1958,>250,7.30,Jan Folens,Belgium,Brussels,"Engineering, Manufacturing"
+594,Schott,1884,>250,7.30,Dr. Frank Heinricht,Germany,Mainz,"Manufacture and Processing of Materials, Metals and Paper"
+595,Baxter,1931,>250,7.30,José E. Almeida,Switzerland,Zurich,Drugs and Biotechnology
+596,Raiffeisen Schweiz,1899,>250,7.30,Heinz Huber,Switzerland,St. Gallen,Banking and Financial Services
+597,Colt Technology Services,1931,>250,7.30,Keri Gilder,United Kingdom,Petersfield,"Telecommunications Services, Cable Supplier"
+598,Skanska,1887,>250,7.30,Anders Danielsson,Sweden,Stockholm,Construction
+599,Virgin Group,1970,>250,7.30,Josh Bayliss,United Kingdom,London,"Telecommunications Services, Cable Supplier"
+600,adesso,1997,>250,7.29,Michael Kenfenheuer,Germany,Dortmund,"IT, Internet, Software and Services"
+601,Auchan,1960,>250,7.29,Yves Claude,France,Croix,Retail
+602,Bridgestone,1930,>250,7.29,Shuichi ISHIBASHI,Belgium,Zaventem,Automotive (Producers and Suppliers)
+603,Hilti,1941,>250,7.29,Michael Hilti,Liechtenstein,Schaan,Wholesale
+604,Infosys,1981,>250,7.29,Salil Parekh,United Kingdom,London,"IT, Internet, Software and Services"
+605,Swisscom,1998,>250,7.29,Christoph Aeschlimann,Switzerland,Bern,"Telecommunications Services, Cable Supplier"
+606,Publicis,1926,>250,7.29,Arthur Sadoun,France,Paris,Media and Advertising
+607,Canon,1937,>250,7.29,Yuichi Ishizuka,United Kingdom,Uxbridge,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+608,Honda,1948,>250,7.29,Takahiro Hachigo,United Kingdom,Bracknell,Automotive (Producers and Suppliers)
+609,All Service Unternehmensgruppe für Gebäudemanagement,1958,>250,7.29,Christian Jäkel,Germany,Frankfurt am Main,Business Services and Supplies
+610,Société Générale,1864,>250,7.29,Frédéric Oudéa,France,Paris,Banking and Financial Services
+611,Koninklijke KPN,2016,>250,7.29,Martijn Snoep,Netherlands,Rotterdam,"Telecommunications Services, Cable Supplier"
+612,"Groupe Rocher (Yves Rocher, Petit Bateau)",1930,>250,7.29,Bris Rocher,France,La Gacilly,Packaged Goods
+613,Prysmian Group,1879,>250,7.29,Valerio Battista,Italy,Milan,"Manufacture and Processing of Materials, Metals and Paper"
+614,Plastic Omnium,1946,>250,7.29,Laurent Burelle,France,Levallois,Automotive (Producers and Suppliers)
+615,Viessmann,1917,>250,7.28,Maximilian Viessmann,Germany,Allendorf,"Engineering, Manufacturing"
+616,Deka-Gruppe,1918,>250,7.28,Dr. Georg Stocker,Germany,Frankfurt am Main,Banking and Financial Services
+617,La Poste,1991,>250,7.28,ERIC LOMBARD,France,Paris,Transportation and Logistics
+618,KappAhl,1953,>250,7.28,Elisabeth Peregi,Sweden,Molndal,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+619,Uniklinik Köln,1908,>250,7.28,Prof. Dr. Edgar Schömig,Germany,Köln,Healthcare (Social)
+620,United Internet,1988,>250,7.28,Ralph Dommermuth,Germany,Montabaur,"IT, Internet, Software and Services"
+621,CooperVision,1958,>250,7.27,Jerry Warner,Netherlands,Gelderland,Health Care Equipment and Services
+622,SIG Biz,1853,>250,7.27,Samuel Sigrist,Switzerland,Neuhausen,"Manufacture and Processing of Materials, Metals and Paper"
+623,Software AG,1969,>250,7.27,Sanjay Brahmawar,Germany,Darmstadt,"IT, Internet, Software and Services"
+624,Arkema,2004,>250,7.27,Thierry Le Hénaff,France,Colombes,"Oil and Gas Operations, Mining, and Chemicals"
+625,Worldline,1973,>250,7.27,Gilles Grapinet,France,Paris,Banking and Financial Services
+626,Costco,1976,>250,7.27,W. Craig Jelinek,United Kingdom,Watford,Retail
+627,Danfoss,1933,>250,7.27,Kim Fausing,Denmark,Nordborg,"Engineering, Manufacturing"
+628,Swiss Life,1857,>250,7.27,Patrick Frost,Switzerland,Zurich,Insurance
+629,Cloetta,1862,>250,7.27,Henri de Sauvage Nolting,Sweden,Sundbyberg,"Food, Soft Beverages, Alcohol and Tobacco"
+630,FirstGroup,1986,>250,7.26,Graham Sutherland,United Kingdom,Aberdeen,Transportation and Logistics
+631,Bureau Veritas,1828,>250,7.26,Didier Michaud-Daniel,France,Neuilly-sur-Seine,Consulting and Accounting
+632,Morgan Stanley,1935,>250,7.26,James P. Gorman,United Kingdom,London,Banking and Financial Services
+633,Groupe Carrefour,1959,>250,7.26,Alexandre Bompard,France,Massy,Retail
+634,AG2R La Mondiale,2008,>250,7.26,Bruno Angles,France,Paris,Insurance
+635,Macdonald Hotels,1990,>250,7.26,Donald MacDonald,United Kingdom,West Lothian,Travel and Leisure
+636,Superdrug,1964,>250,7.26,Peter Macnab,United Kingdom,Croydon,Retail
+637,Trelleborg,1905,>250,7.26,Peter Nilsson,Sweden,Trelleborg,"Manufacture and Processing of Materials, Metals and Paper"
+638,Babcock International,1891,>250,7.25,David Lockwood,United Kingdom,London,"Engineering, Manufacturing"
+639,Cargill International,1870,>250,7.25,David MacLennan,Belgium,Mouscron,"Food, Soft Beverages, Alcohol and Tobacco"
+640,Transcom,1995,>250,7.25,Jonas Dahlberg,Sweden,Stockholm,Business Services and Supplies
+641,Eroski,1969,>250,7.25,Agustin Markaide,Spain,Elorrio,Retail
+642,Finanz Informatik,2008,>250,7.25,Andreas Schelling,Germany,Frankfurt am Main,"IT, Internet, Software and Services"
+643,Würth Group,1945,>250,7.25,Dr. Jan Allmann,Germany,Gaisbach,Wholesale
+644,Junge Die Bäckerei,1897,>250,7.25,Tobias Schulz,Germany,Lübeck,Retail
+645,Bundesimmobiliengesellschaft,1992,>250,7.24,Wolfgang Gleissner,Austria,Wien,Business Services and Supplies
+646,Kantar Media,1992,>250,7.24,Chris Jansen,Germany,Munich,Media and Advertising
+647,Phoenix Group,1782,>250,7.24,Andy Briggs,United Kingdom,London,Banking and Financial Services
+648,Heineken,1864,>250,7.24,Dolf van den Brink,Netherlands,Amsterdam,"Food, Soft Beverages, Alcohol and Tobacco"
+649,France Télévisions,2000,>250,7.24,Delphine Ernotte Cunci,France,Paris,Media and Advertising
+650,Nexity,2000,>250,7.24,Véronique Bédague,France,Paris,Business Services and Supplies
+651,OVS,1972,>250,7.24,Franco Moscetti,Italy,Mestre Venezia,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+652,SKF Group,1907,>250,7.24,Rickard Gustafson,Sweden,Göteborg,"Manufacture and Processing of Materials, Metals and Paper"
+653,KPMG,1987,>250,7.24,Stephanie Hottenhuis,Netherlands,Amstelveen,Consulting and Accounting
+654,Schaeffler-Gruppe,1946,>250,7.24,Klaus Rosenfeld,Germany,Herzogenaurach,Automotive (Producers and Suppliers)
+655,GPI,1988,>250,7.24,Fausto Manzana,Italy,Trento,Health Care Equipment and Services
+656,Volksbank Mittelhessen,1858,>250,7.24,Dr. Peter Hanker,Germany,Gießen,Banking and Financial Services
+657,Nielsen,1923,>250,7.23,David Kenny,Sweden,Stockholm,Consulting and Accounting
+658,Eversheds Sutherland,1924,>250,7.23,Lee Ranson,United Kingdom,Salford,Consulting and Accounting
+659,CNH Industrial,1842,>250,7.23,Scott Wine,United Kingdom,London,Automotive (Producers and Suppliers)
+660,Groupe BPCE,1818,>250,7.23,Laurent Mignon,France,Paris,Banking and Financial Services
+661,Recipharm,1995,>250,7.23,Mark Funk,Sweden,Stockholm,Drugs and Biotechnology
+662,Continental,1871,>250,7.23,Nikolai Setzer,Germany,Hanover,Automotive (Producers and Suppliers)
+663,Munich RE,1880,>250,7.23,Dr. Joachim Wenning,Germany,Munich,Insurance
+664,Eni,1953,>250,7.23,Claudio Descalzi,Italy,Rome,"Oil and Gas Operations, Mining, and Chemicals"
+665,Alcon,1945,>250,7.23,Dr. Benedikt Hoffmann,Germany,Freiburg,Drugs and Biotechnology
+666,NCC,1989,>250,7.23,Tomas Carlsson,Sweden,Solna,Construction
+667,Radisson,1960,>250,7.23,Federico J. González,Belgium,Brussels,Travel and Leisure
+668,Neuca,1990,>250,7.23,Piotr Sucharski,Poland,Toruń,Wholesale
+669,Argos,1973,>250,7.23,Simon Roberts,United Kingdom,Milton Keynes,Retail
+670,Valmet,1750,>250,7.22,Pasi Laine,Finland,Espoo,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+671,The Walt Disney Company,1923,>250,7.22,Jan Koeppen,United Kingdom,London,Media and Advertising
+672,Aubay,1998,>250,7.22,Philippe Rabasse,France,Boulogne-Billancourt,"IT, Internet, Software and Services"
+673,Balfour Beatty,1909,>250,7.22,Leo Quinn,United Kingdom,London,"Aerospace, Defence, Manufacture of Transport Equipment"
+674,DS Smith,1940,>250,7.22,Miles Roberts,United Kingdom,London,"Manufacture and Processing of Materials, Metals and Paper"
+675,ANDRITZ,1852,>250,7.22,Joachim Schönbeck,Austria,Graz,"Engineering, Manufacturing"
+676,Mondelēz International,2012,>250,7.22,Dirk Van De Put,Switzerland,Glattpark,"Food, Soft Beverages, Alcohol and Tobacco"
+677,Etteplan,1983,>250,7.22,Juha Näkki,Finland,Espoo,"Engineering, Manufacturing"
+678,Sitel,1985,>250,7.22,Laurent Uberti,United Kingdom,Watford,Business Services and Supplies
+679,Suva,1918,>250,7.22,Felix Weber,Switzerland,Lucerne,Insurance
+680,TÜV NORD,1869,>250,7.22,Dr. Dirk Stenkamp,Germany,Hanover,Business Services and Supplies
+681,Abrdn plc,1825,>250,7.22,Stephen Bird,United Kingdom,Edinburgh,Banking and Financial Services
+682,Caterpillar,1925,>250,7.22,Jim Umpleby,United Kingdom,Belfast,"Aerospace, Defence, Manufacture of Transport Equipment"
+683,BayWa,1923,>250,7.22,Klaus Josef Lutz,Germany,Munich,Utilities
+684,Deichmann,1913,>250,7.22,Heinrich Otto Deichmann,Germany,Essen,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+685,Greene King,1799,>250,7.22,Nick Mackenzie,United Kingdom,Bury St Edmunds,"Food, Soft Beverages, Alcohol and Tobacco"
+686,DZ Bank Group,1883,>250,7.22,Uwe Fröhlich & Dr. Cornelius Riese,Germany,Frankfurt am Main,Banking and Financial Services
+687,Humana Group,2001,>250,7.21,Johanna Rastad,Sweden,Stockholm,Healthcare (Social)
+688,BMI Healthcare,2004,>250,7.21,Paolo Pieri,United Kingdom,London,Healthcare (Social)
+689,SEAT,1950,>250,7.21,Wayne Griffiths,Spain,Barcelona,Automotive (Producers and Suppliers)
+690,Deutsche Bahn,1994,>250,7.21,Richard Lutz,Germany,Berlin,Transportation and Logistics
+691,Alstom,1928,>250,7.21,Henri Poupart-Lafarge,France,Saint-Ouen,"Aerospace, Defence, Manufacture of Transport Equipment"
+692,MTR Corporation,1966,>250,7.21,Steve Murphy,United Kingdom,London,Transportation and Logistics
+693,Crédit Mutuel,1882,>250,7.21,Pierre-Edouard Batard,France,Paris,Banking and Financial Services
+694,Iceland Foods,1970,>250,7.21,Malcolm Walker,United Kingdom,Deeside,Retail
+695,Arcadis,1888,>250,7.21,Peter Oosterveer,Netherlands,Amsterdam,Consulting and Accounting
+696,UNIQA,1811,>250,7.21,Andreas Brandstetter,Austria,Vienna,Insurance
+697,Baloise Group,1863,>250,7.21,Gert De Winter,Switzerland,Basel,Insurance
+698,Eurofins,1987,>250,7.21,Gilles Martin,Luxembourg,Luxembourg,Drugs and Biotechnology
+699,Redrow,1974,>250,7.20,Matthew Pratt,United Kingdom,Ewloe,Construction
+700,CTDI,1975,>250,7.20,Leo Parsons,Germany,Malsch,"Telecommunications Services, Cable Supplier"
+701,Fraunhofer,1949,>250,7.20,Reimund Neugebauer,Germany,Munich,Consulting and Accounting
+702,Allen & Overy,1930,>250,7.20,Sally Dewar,United Kingdom,London,Consulting and Accounting
+703,Unicredit,1870,>250,7.20,Andrea Orcel,Italy,Milan,Banking and Financial Services
+704,Bombardier Group,1942,>250,7.20,Éric Martel,United Kingdom,Belfast,"Aerospace, Defence, Manufacture of Transport Equipment"
+705,Grupo MASMOVIL,2006,>250,7.20,Meinrad Spenger,Spain,Madrid,"Telecommunications Services, Cable Supplier"
+706,Pizza Hut,1958,>250,7.20,Aaron Powell,Spain,St Albans,Restaurants
+707,De Zorggroep,2008,>250,7.20,Geraline Leusink,Netherlands,Venlo,Healthcare (Social)
+708,Raiffeisen Bank,1927,>250,7.20,Johann Strobl,Austria,Vienna,Banking and Financial Services
+709,Kaufland,1930,>250,7.20,Frank Schumann,Germany,Neckarsulm,Retail
+710,Neuberger Berman,1939,>250,7.19,George H. Walker,United Kingdom,London,Banking and Financial Services
+711,Riot Games,2006,>250,7.19,Nicolo Laurent,Ireland,Dublin,"IT, Internet, Software and Services"
+712,SAS Scandinavian Airlines System,1946,>250,7.19,Anko Van der Werff,Sweden,Stockholm,Transportation and Logistics
+713,Alcoa,1888,>250,7.19,Roy Harvey,Spain,Lausanne,"Manufacture and Processing of Materials, Metals and Paper"
+714,Migros,1925,>250,7.19,Fabrice Zumbrunnen,Switzerland,Zurich,Retail
+715,A2A,2008,>250,7.19,Renato Mazzoncini,Italy,Milan,Utilities
+716,SAS,1976,>250,7.19,Jim Goodnight,Germany,Heidelberg,"IT, Internet, Software and Services"
+717,BBC (British Broadcasting Corporation),1922,>250,7.19,Tim Davie,United Kingdom,London,Media and Advertising
+718,Bell,1869,>250,7.19,Lorenz Wyss,Switzerland,Basel,"Food, Soft Beverages, Alcohol and Tobacco"
+719,Esselunga,1957,>250,7.18,Marina Caprotti,Italy,Milan,Retail
+720,Novo Nordisk,1923,>250,7.18,Lars Fruergaard Jørgensen,Denmark,Bagsvaerd,Drugs and Biotechnology
+721,B·A·D Gesundheitsvorsorge und Sicherheitstechnik,1976,>250,7.18,André Panienka,Germany,Bonn,Health Care Equipment and Services
+722,Printemps,1865,>250,7.18,Jean-Marc Bellaiche,France,Paris,Retail
+723,National Express Group,1992,>250,7.18,Ignacio Garat,United Kingdom,Birmingham,Transportation and Logistics
+724,ENGIE,2008,>250,7.18,Catherine MacGregor,France,Paris,Utilities
+725,The Swatch Group,1983,>250,7.18,Nick Hayek,Switzerland,Biel,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+726,Škoda Auto,1895,>250,7.17,Klaus Zellmer,Czech Republic,Mladá Boleslav,Automotive (Producers and Suppliers)
+727,Alleanza Assicurazioni,1898,>250,7.17,Davide Passero,Italy,Milan,Insurance
+728,PwC (PricewaterhouseCoopers),1998,>250,7.32,Robert Moritz,United Kingdom,London,Consulting and Accounting
+729,Konica Minolta,1873,>250,7.17,Toshimitsu Taiko,Italy,Milan,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+730,Check24,1999,>250,7.17,Stefan Eckhardt,Germany,Munich,Banking and Financial Services
+731,Sodexo,1966,>250,7.17,Sophie Bellon,France,Issy-Les-Moulineaux,Business Services and Supplies
+732,BNP Paribas,1848,>250,7.16,Jean-Laurent Bonnafe,France,Paris,Banking and Financial Services
+733,Natixis,2006,>250,7.16,Nicolas Namias,France,Paris,Banking and Financial Services
+734,El Corte Ingles,1935,>250,7.16,Vaijes El Corte Inglés,Spain,Madrid,Retail
+735,3B Dienstleistungen,1982,>250,7.16,Daniel Noraman,Germany,Berlin,Business Services and Supplies
+736,Voestalpine,1939,>250,7.16,Herbert Eibensteiner,Austria,Linz,"Manufacture and Processing of Materials, Metals and Paper"
+737,Ramsay Health Care,1964,>250,7.16,Craig McNally,France,Paris,Healthcare (Social)
+738,ATOS Group,2011,>250,7.16,Nourdine Bihmane,France,Bezons,"IT, Internet, Software and Services"
+739,Nobina,1911,>250,7.16,Magnus Rosén,Sweden,Solna,Transportation and Logistics
+740,tesa,2001,>250,7.16,Norman Goldberg,Germany,Norderstedt,"Manufacture and Processing of Materials, Metals and Paper"
+741,Monoprix,1932,>250,7.16,Guillaume Seneclauze,France,Clichy,Retail
+742,KONE,1910,>250,7.16,Henrik Ehrnrooth,Finland,Espoo,"Engineering, Manufacturing"
+743,Aptiv,1881,>250,7.16,Kevin P. Clark,Ireland,Dublin,Automotive (Producers and Suppliers)
+744,Saab Group,1937,>250,7.15,Micael Johansson,Sweden,Stockholm,"Aerospace, Defence, Manufacture of Transport Equipment"
+745,Western Union,1851,>250,7.15,Devin McGranahan,Austria,Vienna,Banking and Financial Services
+746,Irwin Mitchell,1912,>250,7.15,Andrew Tucker,United Kingdom,Sheffield,Consulting and Accounting
+747,Metro Bank,2010,>250,7.15,Daniel Frumkin,United Kingdom,London,Banking and Financial Services
+748,Malakoff Médéric Humanis,2020,>250,7.15,Thomas Saunier,France,Paris,Insurance
+749,MRW,1977,>250,7.15,-,Spain,Barcelona,Transportation and Logistics
+750,Ipsos,1975,>250,7.14,Ralf Ganzenmüller,France,Paris,Media and Advertising
+751,Panasonic,1962,>250,7.14,Junichi Suzuki,Germany,Ottobrun,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+752,BLG Logistics,1877,>250,7.14,Frank Dreeke,Germany,Bremen,Transportation and Logistics
+753,Just Eat Takeaway.com,2000,>250,7.13,Jitse Groen,Netherlands,Amsterdam,Travel and Leisure
+754,Continentale Krankenversicherung,1926,>250,7.13,Christoph Helmich,Germany,Dortmund,Insurance
+755,Akzo Nobel,1994,>250,7.13,Thierry Vanlancker,Netherlands,Amsterdam,"Oil and Gas Operations, Mining, and Chemicals"
+756,Porsche,1931,>250,7.28,Oliver Blume,Germany,Stuttgart,Automotive (Producers and Suppliers)
+757,Metso,1999,>250,7.13,Pekka Vauramo,Finland,Helsinki,"Oil and Gas Operations, Mining, and Chemicals"
+758,Morgan Sindall,1977,>250,7.13,John Morgan,United Kingdom,London,Construction
+759,KAEFER,1918,>250,7.13,"Ro­land Gärber, Steen E. Hansen",Germany,Bremen,Construction
+760,Lassila & Tikanoja,1905,>250,7.13,Tina Hellstadius,Finland,Helsinki,Business Services and Supplies
+761,Estée Lauder,1960,>250,7.12,Fabrizio Freda,France,Paris,Packaged Goods
+762,Nokia,1865,>250,7.12,Pekka Lundmark,Finland,Espoo,"Telecommunications Services, Cable Supplier"
+763,Billerudkorsnäs,2012,>250,7.12,Christoph Michalski,Sweden,Solna,"Manufacture and Processing of Materials, Metals and Paper"
+764,Automobili Lamborghini,1963,>250,7.12,Stephan Winkelmann,Italy,Bologna,Automotive (Producers and Suppliers)
+765,Grupo Acciona,1997,>250,7.12,José Manuel Entrecanales Domecq,Spain,Madrid,Construction
+766,Banco Sabadell,1881,>250,7.12,César González-Bueno Mayer,Spain,Alicante,Banking and Financial Services
+767,Stihl,1926,>250,7.12,Michael Traub,Germany,Dieburg,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+768,Jaguar Landrover,1922,>250,7.26,Thierry Bolloré,United Kingdom,Coventry,Automotive (Producers and Suppliers)
+769,Correos,1716,>250,7.12,Juan Manuel Serrano,Spain,Madrid,Transportation and Logistics
+770,KSB,1871,>250,7.12,Stephan Timmermann,Germany,Frankenthal,"Manufacture and Processing of Materials, Metals and Paper"
+771,Magna,1957,>250,7.11,Seetarama (Swamy) Kotagiri,Germany,Sailauf,Automotive (Producers and Suppliers)
+772,Nationale-Nederlanden (NN),1863,>250,7.11,David Knibbe,Netherlands,The Hague,Banking and Financial Services
+773,Navantia,2005,>250,7.11,Ricardo Domínguez García-Baquero,Spain,Madrid,"Aerospace, Defence, Manufacture of Transport Equipment"
+774,DXC Technology,2017,>250,7.11,Mike Salvino,United Kingdom,London,"IT, Internet, Software and Services"
+775,Debeka,1905,>250,7.11,Thomas Brahm,Germany,Koblenz,Insurance
+776,ArcelorMittal,2006,>250,7.11,Reiner Blaschek,Luxembourg,Lusembourg,"Manufacture and Processing of Materials, Metals and Paper"
+777,SSAB,1878,>250,7.11,Martin Lindqvist,Sweden,Stockholm,"Manufacture and Processing of Materials, Metals and Paper"
+778,Zeiss,1846,>250,7.11,Dr. Karl Lamprecht,Germany,Oberkochen,Health Care Equipment and Services
+779,Caixabank,1904,>250,7.11,Gonzalo Gortázar,Spain,Valencia,Banking and Financial Services
+780,Augustinum,1954,>250,7.11,Hans Günther Bonk,Germany,Munich,Healthcare (Social)
+781,Strabag,1835,>250,7.11,Thomas Birtel,Austria,Vienna,Construction
+782,Valeo,1923,>250,7.11,Christope Périllat,France,Paris,Automotive (Producers and Suppliers)
+783,mastercard,1966,>250,7.11,Michael Miebach,Belgium,Waterloo,Banking and Financial Services
+784,LNER (London North Eastern Railway),2018,>250,7.10,David Horne,United Kingdom,York,Transportation and Logistics
+785,Aldi Nord,1961,>250,7.10,Robin Arnemann,Germany,Essen,Retail
+786,Spotify,2006,>250,7.10,Daniel Ek,Sweden,Stockholm,"IT, Internet, Software and Services"
+787,Destia Fin,1799,>250,7.10,Tero Kiviniemi,Finland,Vantaa,Construction
+788,MGEN,1946,>250,7.10,Fabrice Heyriès,France,Paris,Insurance
+789,Trenitalia,2000,>250,7.10,Luigi Corradi,Italy,Rome,Transportation and Logistics
+790,Eurest,1974,>250,7.09,Gerhard Marschitz,Germany,Eschborn,Restaurants
+791,knowit,1997,>250,7.09,Stefan Gardefjord,Sweden,Stockholm,"IT, Internet, Software and Services"
+792,Tech Data,1974,>250,7.09,Patrick Zammit,Germany,Munich,"IT, Internet, Software and Services"
+793,Hok-Elanto,1905,>250,7.09,Veli-Matti Liimatainen,Finland,Helsinki,Retail
+794,Smith & Nephew,1856,>250,7.09,Deepak Nath,United Kingdom,Watford,Health Care Equipment and Services
+795,Mann + Hummel,1938,>250,7.08,Kurk Wilks,Germany,Ludwigsburg,Automotive (Producers and Suppliers)
+796,Deutsche Post,1490,>250,7.08,Dr Frank Appel,Germany,Bonn,Transportation and Logistics
+797,Dixons Carphone,1884,>250,7.23,Alex Baldock,United Kingdom,London,Retail
+798,Leoni,1917,>250,7.08,Aldo Kamper,Germany,Nuremberg,Automotive (Producers and Suppliers)
+799,Huawei,1987,>250,7.22,Vincent (Bo) Pang,Belgium,Brussels,"Telecommunications Services, Cable Supplier"
+800,Netflix,1997,>250,7.08,Reed Hastings,Netherlands,Amsterdam,Media and Advertising
+801,Morrison Supermarkets,1899,>250,7.07,David Potts,United Kingdom,Bradford,Retail
+802,Saint-Gobain,1665,>250,7.07,Benoit Bazin,France,La Défense,"Manufacture and Processing of Materials, Metals and Paper"
+803,BNY Mellon,1784,>250,7.06,Hani Kablawi,Belgium,Brussels,Banking and Financial Services
+804,Pro BTP,1993,>250,7.06,Hervé Naerhuysen,France,Paris,Insurance
+805,TÜV Rheinland,1872,>250,7.06,Dr.-Ing. Michael Fübi,Germany,Cologne,Business Services and Supplies
+806,TCS (Tata Consultancy Services),1992,>250,7.06,Rajesh Gopinathan,Netherlands,Amsterdam,Consulting and Accounting
+807,BTC,2000,>250,7.05,Dr. Jörg Ritter,Germany,Oldenburg,Consulting and Accounting
+808,Galeries Lafayette,1894,>250,7.05,Nicolas Houzé,France,Paris,Retail
+809,UPS (United Parcel Service),1907,>250,7.04,Daniel Carrera,Belgium,Brussels,Transportation and Logistics
+810,Tchibo,1949,>250,7.04,Werner Weber,Germany,Hamburg,"Food, Soft Beverages, Alcohol and Tobacco"
+811,msg,1980,>250,7.04,Dr. Stephan Frohnhoff,Germany,Ismaning,"IT, Internet, Software and Services"
+812,Smurfit Kappa,1934,>250,7.03,Tony Smurfit,Ireland,Dublin,"Manufacture and Processing of Materials, Metals and Paper"
+813,Knappschaft-Bahn-See (KBS),1300,>250,7.03,Bettina am Orde,Germany,Bochum,Insurance
+814,Leonardo,1864,>250,7.02,Alessandro Profumo,Italy,Milan,"Aerospace, Defence, Manufacture of Transport Equipment"
+815,Dillinger,1685,>250,7.02,Karlheinz Blessing,Germany,Dillingen,"Manufacture and Processing of Materials, Metals and Paper"
+816,Inpost,1999,>250,7.02,Rafał Brzoska,Poland,Kraków,Transportation and Logistics
+817,Handelsbanken,1871,>250,7.02,Carina Åkerström,Sweden,Stockholm,Banking and Financial Services
+818,Greencore Group,1991,>250,7.02,Dalton Philips,Ireland,Dublin,"Food, Soft Beverages, Alcohol and Tobacco"
+819,Foot Locker,1974,>250,7.02,Mary Dillon,Netherlands,Vianen,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+820,Engineering Ingegneria Informatica,1980,>250,7.01,Maximo Ibarra,Italy,Rome,"IT, Internet, Software and Services"
+821,Olympus,1919,>250,7.01,Constantin Zangemeister,Germany,Hamburg,Health Care Equipment and Services
+822,amplifon,1950,>250,7.01,Enrico Vita,Italy,Milan,Health Care Equipment and Services
+823,Mango,1984,>250,7.01,Toni Ruiz,Spain,Barcelona,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+824,Lloyd's of London,1652,>250,7.01,John Neal,United Kingdom,London,Insurance
+825,LCL (Crédit Lyonnais),1863,>250,7.01,Michel Mathieu,France,Villejuif,Banking and Financial Services
+826,John Menzies,1833,>250,7.01,Philipp Joeinig,United Kingdom,Edinburgh,Transportation and Logistics
+827,FedEx,1984,>250,7.00,Karen Reddington,France,Hoofddorp,Transportation and Logistics
+828,Camaïeu,1984,>250,7.00,Wilhem Hubner,France,Roubaix,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+829,Dräxlmaier,1958,>250,7.00,Stephan Brandl,Germany,Vilsbiburg,Automotive (Producers and Suppliers)
+830,RFI,2001,>250,7.00,Vera Fiorani,Italy,Rome,Transportation and Logistics
+831,Domino's Pizza,1960,>250,7.00,Russel Weiner,Netherlands,Amsterdam,Restaurants
+832,AEGON,1844,>250,7.00,Lard Friese,Netherlands,The Hague,Insurance
+833,ITV,1955,>250,7.00,Julian Bellamy,United Kingdom,London,Media and Advertising
+834,Velux,1941,>250,6.99,Anders Götzsche,Denmark,Hørsholm,Construction
+835,Boeing,1916,>250,6.98,Martin Donnelly,United Kingdom,London,"Aerospace, Defence, Manufacture of Transport Equipment"
+836,KTM,1934,>250,6.98,Stefan Pierer,Austria,Mattighofen,Automotive (Producers and Suppliers)
+837,Levi Strauss & Co,1853,>250,6.98,Chip Bergh,Belgium,Brussels,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+838,Food Delivery Brands,1987,>250,6.97,Pablo Juantegui,Spain,Madrid,Restaurants
+839,Eddie Stobart,1970,>250,6.97,Alex Laffey,United Kingdom,Appleton,Transportation and Logistics
+840,Berenberg Bank,1590,>250,6.97,Henrik Riehmer,Germany,Hamburg,Banking and Financial Services
+841,Doka,1956,>250,6.96,Robert Hauser,Austria,Amstetten,Construction
+842,Agfa-Gevaert,1867,>250,6.96,Pascal Juéry,Belgium,Mortsel,"IT, Internet, Software and Services"
+843,Mapfre,1933,>250,6.95,Antonio Huertas,Spain,Madrid,Insurance
+844,Trenkwalder,1985,>250,6.95,Mark Pollok,Austria,Vienna,Business Services and Supplies
+845,Xerox,1906,>250,6.94,Steve Bandrwoczak,United Kingdom,Uxbridge,Packaged Goods
+846,GSF (Groupe Services France),1963,>250,6.93,Jean Louis Noisiez,France,Sophia Antipolis,Business Services and Supplies
+847,Groupe ADP (Aéroports de Paris),1945,>250,6.93,Augustin de Romanet,France,Paris,Transportation and Logistics
+848,GKN,1759,>250,6.93,Simon Peckham,United Kingdom,Redditch,Automotive (Producers and Suppliers)
+849,Toshiba,1965,>250,6.93,Taro Shimada,Germany,Düsseldorf,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+850,Specsavers,1984,>250,6.92,John Perkins,United Kingdom,St. Andrew,Retail

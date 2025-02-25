@@ -1,0 +1,301 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Mercedes-Benz,1950,201 - 500,8.29,"Thomas Mann, Drazen Ivancic",Salzburg,Eugendorf,Automotive (Producers and Suppliers)
+2,Hilti,1941,"501 - 1,000",8.29,Dr. Manfred Gutternigg,Vienna,Wien,Finished Goods and Consumer Goods
+3,Energie AG Oberösterreich,1892,"1,001 - 5,000",8.19,Dr. Leonhard Schitter,Upper Austria,Linz,"Raw Materials, Utilities"
+4,Netzwerk Telekom Service (NTS),1995,201 - 500,8.19,Alexander Albler,Styria,Raaba-Grambach,"IT, Internet, Telecommunication"
+5,Institute of Science and Technology Austria,2006,"501 - 1,000",8.19,Thomas A. Henzinger,Lower Austria,Klosterneuburg,Education and Research
+6,Microsoft,1991,201 - 500,8.18,Hermann Erlach,Vienna,Wien,"IT, Internet, Telecommunication"
+7,Philips,1926,201 - 500,8.17,"Michaela Latzelsberger, Johannes Ebner",Vienna,Wien,Finished Goods and Consumer Goods
+8,Energie Steiermark,1996,"1,001 - 5,000",8.16,"Christian Purrer, Martin Graf",Styria,Graz,"Raw Materials, Utilities"
+9,Zaunergroup,1998,"501 - 1,000",8.12,Roman Zauner,Upper Austria,Wallern an der Trattnach,"Engineering, Manufacturing"
+10,LINZ AG,2000,"1,001 - 5,000",8.06,Eric Haider,Upper Austria,Linz,"Raw Materials, Utilities"
+11,SAP,1986,201 - 500,8.05,Christina Wilfinger,Vienna,Wien,"IT, Internet, Telecommunication"
+12,Oberösterreichische Versicherung,1974,"501 - 1,000",8.03,Mag. Othmar Nagl,Upper Austria,Linz,Insurance
+13,Porsche Holding,1947,"5,001 - 10,000",8.03,"Hans Peter Schützinger, Rainer Schroll",Salzburg,Salzburg,Wholesale
+14,Erste Bank,1819,"10,001 - 50,000",8.01,"Gerda Holzinger-Burgstaller, Alexandra Habeler-Drabek",Vienna,Wien,Banking and Financial Services
+15,Dynatrace,2005,"501 - 1,000",8.00,"Richard Bowers, Craig Newfield",Upper Austria,Linz,"IT, Internet, Telecommunication"
+16,Helvetia,1858,"501 - 1,000",8.00,Thomas Neusiedler,Vienna,Wien,Insurance
+17,ZAMG – Zentrum für Meteorologie und Geodynamik,1851,201 - 500,7.98,Andreas Schaffhauser,Vienna,Wien,Education and Research
+18,Wiener Stadtwerke,1999,"10,001 - 50,000",7.98,Martin Krajcsir,Vienna,Wien,"Raw Materials, Utilities"
+19,BMD Systemhaus,1972,"501 - 1,000",7.98,Dr. Markus Knasmüller,Upper Austria,Steyr,"IT, Internet, Telecommunication"
+20,IT-Services der Sozialversicherung (ITSV),2004,"501 - 1,000",7.96,"Hubert Wackerle, Erwin Fleischhacker",Vienna,Wien,"IT, Internet, Telecommunication"
+21,Raiffeisenlandesbank Kärnten,1895,"1,001 - 5,000",7.95,"Peter Gauper, Georg Messner",Carinthia,Klagenfurt am Wörthersee,Banking and Financial Services
+22,Roche,1907,201 - 500,7.93,Susanne Erkens-Reck,Vienna,Wien,Chemicals and Pharmaceuticals
+23,Austrian Power Grid (APG),1998,"501 - 1,000",7.93,"Gerhard Christiner, Thomas Karall",Vienna,Wien,"Raw Materials, Utilities"
+24,ASFINAG,1982,"1,001 - 5,000",7.93,"Josef Fiala, Hartwig Hufnagl",Vienna,Wien,Construction
+25,Illwerke vkw,1924,"1,001 - 5,000",7.93,Dr. Ludwig Summer,Vorarlberg,Bregenz,"Raw Materials, Utilities"
+26,Boehringer Ingelheim,1948,"1,001 - 5,000",7.89,"Philipp von Lattorff, Derek O’Leary",Vienna,Wien,Chemicals and Pharmaceuticals
+27,BearingPoint,2009,201 - 500,7.88,"Andreas Unger, Björn Grosser",Vienna,Wien,"Consulting and Audit, Agencies and Legal Services"
+28,Austrian Institute of Technology (AIT),1956,"1,001 - 5,000",7.87,"Prof. Dr. Wolfgang Knoll, DI Anton Plimon",Vienna,Wien,Education and Research
+29,Swietelsky,1936,"5,001 - 10,000",7.87,Karl Weidlinger,Upper Austria,Linz,Construction
+30,willhaben,2006,201 - 500,7.86,Sylvia Dellantonio,Vienna,Wien,"IT, Internet, Telecommunication"
+31,Sony DADC Europe,1986,201 - 500,7.85,Dietmar Tanzer,Salzburg,Thalgau,"Electronics, Electrical Engineering, Medical Devices"
+32,Sparkasse Oberösterreich,1849,"1,001 - 5,000",7.84,"Mag. Stefanie Christina Huber, Maximilian Pointner",Upper Austria,Linz,Banking and Financial Services
+33,Habau,1988,"1,001 - 5,000",7.83,Hubert Wetschnig,Upper Austria,Perg,Construction
+34,Rhomberg Bau,1886,"501 - 1,000",7.83,"Martin Summer, Rupert Grienberger",Vorarlberg,Bregenz,Construction
+35,EREMA,1983,>200,7.82,"Michael Heitzinger, Markus Huber-Lindinger",Upper Austria,Ansfelden,"Engineering, Manufacturing"
+36,SKF,1907,"1,001 - 5,000",7.81,Robert Zeilinger,Upper Austria,Steyr,"Engineering, Manufacturing"
+37,KSV1870,1870,201 - 500,7.80,Ricardo-José Vybiral,Vienna,Wien,Banking and Financial Services
+38,TÜV Austria,1872,"1,001 - 5,000",7.79,Stefan Haas,Lower Austria,Brunn am Gebirge,"Consulting and Audit, Agencies and Legal Services"
+39,Generali,1831,"1,001 - 5,000",7.79,Gregor Pilgram,Vienna,Wien,Insurance
+40,Brau Union Österreich,1998,"1,001 - 5,000",7.78,Klaus Schörghofer,Upper Austria,Linz,"Food, Soft Beverages, FMCG"
+41,OVB Österreich,1992,201 - 500,7.77,"Bianca Konrath-Gocumyan, Jürgen Kotulla",Salzburg,Wals,Banking and Financial Services
+42,dm drogerie markt,1976,"5,001 - 10,000",7.75,"Martin Engelmann, Manfred Kühner",Salzburg,Wals,Retail and Retail Services
+43,Leyrer + Graf,1926,"1,001 - 5,000",7.74,Stefan Graf,Lower Austria,Gmünd,Construction
+44,BMW Motoren Steyr,1979,"1,001 - 5,000",7.74,Alexander Susanek,Upper Austria,Steyr,Automotive (Producers and Suppliers)
+45,3M,1961,201 - 500,7.74,Carmen Greider,Vienna,Wien,Finished Goods and Consumer Goods
+46,Würth,1962,"501 - 1,000",7.73,Alfred Wurmbrand,Lower Austria,Böheimkirchen,Wholesale
+47,"Österreichischer Automobil-, Motorrad- und Touringclub (ÖAMTC)",1946,"1,001 - 5,000",7.73,Gottfried Wanitschek,Vienna,Wien,Insurance
+48,HDI Versicherung,1875,201 - 500,7.72,"Günther Weiß (Vorsitzender), Ing. Thomas Lackner",Vienna,Wien,Insurance
+49,EBCONT group,2000,"501 - 1,000",7.72,"Alexander Deles, Johannes Litschauer",Lower Austria,Neulengbach,"IT, Internet, Telecommunication"
+50,Verbund,1947,"1,001 - 5,000",7.72,Michael Strugl,Vienna,Wien,"Raw Materials, Utilities"
+51,Miele,1955,"501 - 1,000",7.71,Sandra Kolleth,Salzburg,Wals,Finished Goods and Consumer Goods
+52,Strabag,1835,"10,001 - 50,000",7.71,Dr. Thomas Birtel,Vienna,Wien,Construction
+53,Jungheinrich,1953,201 - 500,7.68,Andreas Ausweger,Vienna,Wien,"Engineering, Manufacturing"
+54,Flex,1969,"501 - 1,000",7.68,Revathi Advaithi,Carinthia,Althofen,"Electronics, Electrical Engineering, Medical Devices"
+55,Prefa,1946,201 - 500,7.68,"Leopold Pasquali, Mag. Dieter Kirchknopf",Lower Austria,Marktl,Construction
+56,VACE,1981,"501 - 1,000",7.67,"Andreas Obermüller, Franz Humer",Upper Austria,Linz,"Engineering, Manufacturing"
+57,Palfinger,1932,"1,001 - 5,000",7.65,Andreas Klauser,Salzburg,Bergheim,"Engineering, Manufacturing"
+58,Eaton,1911,"501 - 1,000",7.65,"Günter Idinger, Gerhard Dischner​​",Lower Austria,Schrems,"Electronics, Electrical Engineering, Medical Devices"
+59,Hypo Oberösterreich,1891,201 - 500,7.64,"Klaus Kumpfmüller, Thomas Wolfsgruber",Upper Austria,Linz,Banking and Financial Services
+60,Universität Innsbruck,1669,"5,001 - 10,000",7.64,Dr. Werner Ritter,Tyrol,Innsbruck,Education and Research
+61,Porr,1869,"5,001 - 10,000",7.63,"Josef-Dieter Deix, Kurt Lackner",Vienna,Wien,Construction
+62,Technische Universität Wien,1815,"5,001 - 10,000",7.62,Jörg P. Ponier,Vienna,Wien,Education and Research
+63,Fronius International,1945,"1,001 - 5,000",7.61,Elisabeth Engelbrechtsmüller-Strauß,Upper Austria,Wels,"Electronics, Electrical Engineering, Medical Devices"
+64,Kröswang,1974,201 - 500,7.60,"Manfred Kröswang, Christian Toberer",Upper Austria,Grieskirchen,Wholesale
+65,Maschinenring,1961,"501 - 1,000",7.60,Gertraud Weigl,Upper Austria,Linz,"Business Services (HR, Real Estate, Call-Centers)"
+66,Universität Graz,1585,"1,001 - 5,000",7.59,Ralph Zettl,Styria,Graz,Education and Research
+67,Universität für Bodenkultur Wien (BOKU),1872,"1,001 - 5,000",7.59,Hubert Hasenauer,Vienna,Wien,Education and Research
+68,Schachermayer,1838,"1,001 - 5,000",7.59,Mag. Gerd Schachermayer,Upper Austria,Linz,Wholesale
+69,Stieglbrauerei zu Salzburg,1492,"501 - 1,000",7.58,"Dr. Dieter Moser, Dipl. Brmst. Christian Pöpperl",Salzburg,Salzburg,"Food, Soft Beverages, FMCG"
+70,ÖBB (Österreichische Bundesbahnen),1923,"10,001 - 50,000",7.58,Andreas Matthä,Vienna,Wien,Transportation and Logistics
+71,Berner,1969,201 - 500,7.58,Wolfgang Sageder,Upper Austria,Braunau am Inn,Wholesale
+72,Pöttinger,1871,"1,001 - 5,000",7.57,"Dr. Markus Baldinger, Gregor Dietachmayr",Upper Austria,Grieskirchen,"Engineering, Manufacturing"
+73,Fröschl,1937,"1,001 - 5,000",7.57,"Eduard Fröschl, Franz Fröschl",Tyrol,Hall in Tirol,Construction
+74,Baumit,1911,"501 - 1,000",7.57,"Georg Bursik, Manfred Tish",Lower Austria,Waldegg,Manufacture and Processing of Materials
+75,Raiffeisenlandesbank Vorarlberg,1889,201 - 500,7.56,Michael Alge,Vorarlberg,Bregenz,Banking and Financial Services
+76,Holter,1873,"501 - 1,000",7.55,"Jasmin Holter-Hofer, Michael Holter",Upper Austria,Wels,Wholesale
+77,A.T.U – Die Meisterwerkstatt,1985,>200,7.54,Sascha Bopp,Salzburg,Salzburg,Retail and Retail Services
+78,FERCHAU,1966,201 - 500,7.53,"Frank Ferchau, Alexander Schulz",Upper Austria,Linz,Automotive (Producers and Suppliers)
+79,Norske Skog Bruck,1996,201 - 500,7.53,Enzo Zadra,Styria,Bruck an der Mur,Manufacture and Processing of Materials
+80,ALPLA,1955,>200,7.53,Philipp Lehner,Vorarlberg,Hard,Finished Goods and Consumer Goods
+81,Red Bull,1984,"1,001 - 5,000",7.52,Dietrich Mateschitz,Salzburg,Fuschl am See,"Food, Soft Beverages, FMCG"
+82,Sandoz,1986,"1,001 - 5,000",7.52,"Mario Riesner, Michael Kocher",Tyrol,Kundl,Chemicals and Pharmaceuticals
+83,Infineon,1970,"1,001 - 5,000",7.51,Dr. Sabine Herlitschka,Carinthia,Villach,"Electronics, Electrical Engineering, Medical Devices"
+84,GRAWE – Grazer Wechselseitige Versicherung,1828,"1,001 - 5,000",7.50,Klaus Scheitegel,Styria,Graz,Insurance
+85,Donau Versicherungen,1867,"1,001 - 5,000",7.50,Dr. Judit Havasi,Vienna,Wien,Insurance
+86,Besi,1995,201 - 500,7.50,Stefan Mayr,Tyrol,Radfeld,"Electronics, Electrical Engineering, Medical Devices"
+87,Lam Research Corporation,1980,"501 - 1,000",7.49,Tim Archer,Carinthia,Villach,"Electronics, Electrical Engineering, Medical Devices"
+88,Zurich,1872,"1,001 - 5,000",7.49,Andrea Stürmer,Vienna,Wien,Insurance
+89,Wintersteiger,1953,"501 - 1,000",7.49,Dr. Florestan von Boxberg,Upper Austria,Ried im Innkreis,"Engineering, Manufacturing"
+90,Hipp,1932,201 - 500,7.48,"Prof. Dr. Claus Hipp, Paulus Hipp",Upper Austria,Gmunden,"Food, Soft Beverages, FMCG"
+91,STIHL Gruppe,1981,"501 - 1,000",7.48,Dr. Clemens Schaller,Tyrol,Langkampfen,Finished Goods and Consumer Goods
+92,Technische Universität Graz,1811,"1,001 - 5,000",7.48,Harald Kainz,Styria,Graz,Education and Research
+93,KTM,1934,"1,001 - 5,000",7.47,Stefan Pierer,Upper Austria,Mattighofen,Automotive (Producers and Suppliers)
+94,Hasslacher Norica Timber,1901,"501 - 1,000",7.45,Christoph Kulterer,Carinthia,Sachsenburg,"Raw Materials, Utilities"
+95,TK Maxx,1976,"501 - 1,000",7.45,"David Averill, John Joseph Klinger",Vienna,Wien,Retail and Retail Services
+96,Rauch,1919,"501 - 1,000",7.44,Jürgen Rauch,Vorarlberg,Rankweil,"Food, Soft Beverages, FMCG"
+97,Kühne + Nagel,1970,"501 - 1,000",7.44,"Franz Braunsberger, Martin Hafner",Vienna,Wien,Transportation and Logistics
+98,Hainzl,1965,"501 - 1,000",7.43,"Wilhelm Eibner, Björn Fellner",Upper Austria,Linz,"Engineering, Manufacturing"
+99,i+R Gruppe,1904,>200,7.42,"Joachim Alge, Reinhard Schertler",Vorarlberg,Lauterach,Construction
+100,ACP,1993,"1,001 - 5,000",7.41,"Rainer Kalkbrener, Günther Schiller",Vienna,Wien,"IT, Internet, Telecommunication"
+101,Ordensklinikum Linz,1841,"1,001 - 5,000",7.41,"Walter Kneidinger, Stefan Meusburger",Upper Austria,Linz,"Healthcare, Social Services"
+102,Iveco,1975,201 - 500,7.41,Martin Stranzl,Vienna,Wien,Automotive (Producers and Suppliers)
+103,IBM,1928,"501 - 1,000",7.41,Marco Porak,Vienna,Wien,"IT, Internet, Telecommunication"
+104,Norsk Hydro,1972,201 - 500,7.40,Manfred Rotschne,Vorarlberg,Nenzing,Manufacture and Processing of Materials
+105,Blum,1952,"5,001 - 10,000",7.40,"Philipp Blum, Martin Blum",Vorarlberg,Höchst,Manufacture and Processing of Materials
+106,JTI Austria,1908,201 - 500,7.40,EDDY PIRARD,Vienna,Wien,"Food, Soft Beverages, FMCG"
+107,TUI,1923,201 - 500,7.39,Gottfried Math,Vienna,Wien,"Travel, Accommodation, Leisure"
+108,MIC Datenverarbeitung,1988,201 - 500,7.39,"Alfred Hiebl, DI",Upper Austria,Linz,"IT, Internet, Telecommunication"
+109,Rail Cargo Group,2005,"5,001 - 10,000",7.39,Clemens Först,Vienna,Wien,Transportation and Logistics
+110,Kelly,1955,201 - 500,7.39,"Markus Marek, Mag. Werner Luksch",Vienna,Wien,"Food, Soft Beverages, FMCG"
+111,voestalpine,1938,"10,001 - 50,000",7.38,Herbert Eibensteiner,Upper Austria,Linz,Manufacture and Processing of Materials
+112,Schlotterer,1976,"501 - 1,000",7.38,"Wolfgang Neutatz, Peter Gubisch",Salzburg,Adnet,Manufacture and Processing of Materials
+113,Raiffeisen-Landesbank Tirol,1894,201 - 500,7.38,Reinhard Mayr,Tyrol,Innsbruck,Banking and Financial Services
+114,Axians,1994,>200,7.38,Mag. Edgar Reiter,Upper Austria,Linz,"IT, Internet, Telecommunication"
+115,FH Campus Wien,2001,"1,001 - 5,000",7.37,"Wilhelm Behensky, Horst Rode",Vienna,Wien,Education and Research
+116,Sonepar,2001,201 - 500,7.37,"Uwe Klingsbigl, Michaela Wambach-Gschaider",Vienna,Wien,Wholesale
+117,Treibacher Industrie,1898,"501 - 1,000",7.36,"Rene Haberl, Rainer Schmidtmayer",Carinthia,Althofen,Chemicals and Pharmaceuticals
+118,Eglo,1969,201 - 500,7.35,Mag. René Tiefenbacher,Tyrol,Pill,"Electronics, Electrical Engineering, Medical Devices"
+119,Henkel,1876,"501 - 1,000",7.35,Birgit Rechberger-Krammer,Vienna,Wien,"Food, Soft Beverages, FMCG"
+120,Oberbank,1869,"1,001 - 5,000",7.34,"Dr. Franz Gasselsberger, MBA",Upper Austria,Linz,Banking and Financial Services
+121,Plansee,1921,"1,001 - 5,000",7.34,"Andreas Feichtinger, Ulrich Lausecker",Tyrol,Reutte,Manufacture and Processing of Materials
+122,EVN,1922,"1,001 - 5,000",7.34,Stefan Szyszkowitz,Lower Austria,Maria Enzersdorf,"Raw Materials, Utilities"
+123,MCI Management Center Innsbruck,1995,201 - 500,7.34,Dr. Andreas Altmann,Tyrol,Innsbruck,Education and Research
+124,Silhouette International,1964,"501 - 1,000",7.34,Reinhard Mahr,Upper Austria,Linz,Finished Goods and Consumer Goods
+125,Trumpf,1923,"501 - 1,000",7.34,Dr. phil. Nicola Leibinger-Kammüller,Vienna,Wien,"Engineering, Manufacturing"
+126,Cargo-Partner,1983,201 - 500,7.33,Stefan Krauter,Lower Austria,Fischamend,Transportation and Logistics
+127,Bilfinger,1180,"1,001 - 5,000",7.31,Dr. Thomas Schulz,Upper Austria,Linz,"Engineering, Manufacturing"
+128,Fujitsu,1935,>200,7.30,"Wilhelm Petersmann, Marco Hungerbühler",Vienna,Wien,"IT, Internet, Telecommunication"
+129,EV Group,1980,"501 - 1,000",7.29,Ing. Friedrich Paul Lindner,Upper Austria,St. Florian am Inn,"Engineering, Manufacturing"
+130,BDO,1992,"501 - 1,000",7.29,"Dominik Brunner, Heinz Ebner",Vienna,Wien,"Consulting and Audit, Agencies and Legal Services"
+131,BRP-Rotax,1920,"1,001 - 5,000",7.29,José Boisjoli,Upper Austria,Gunskirchen,Automotive (Producers and Suppliers)
+132,Kaindl,1897,"501 - 1,000",7.29,Konrad Grünwald,Salzburg,Salzburg,Manufacture and Processing of Materials
+133,KLIPP Frisör,1951,"1,001 - 5,000",7.29,"Frisörmeister Ewald Lanzl, Mag. Gottfried Kraft",Upper Austria,Wels,Retail and Retail Services
+134,Berglandmilch,1995,"1,001 - 5,000",7.28,Josef Braunshofer,Upper Austria,Wels,"Food, Soft Beverages, FMCG"
+135,Novartis,1996,"1,001 - 5,000",7.28,Michael Kocher,Vienna,Wien,Chemicals and Pharmaceuticals
+136,Mars,1966,201 - 500,7.28,Grant F. Reid,Vienna,Wien / Bruck an der Leitha,"Food, Soft Beverages, FMCG"
+137,OMICRON,1984,"501 - 1,000",7.28,Manfred Strauß,Vorarlberg,Klaus,"Electronics, Electrical Engineering, Medical Devices"
+138,Anton Paar,1922,"1,001 - 5,000",7.27,Dr. Friedrich Santner,Styria,Graz,"Electronics, Electrical Engineering, Medical Devices"
+139,PKE,1979,>200,7.26,Ronald Düller,Vienna,Wien,"Electronics, Electrical Engineering, Medical Devices"
+140,Pfeifer,1948,"501 - 1,000",7.26,Michael Pfeifer,Tyrol,Imst,Manufacture and Processing of Materials
+141,ARBÖ,1899,>200,7.26,LAbg. Dr. Peter Rezar,Vienna,Wien,Insurance
+142,EGGER,1961,"1,001 - 5,000",7.25,"Thomas Leissing, Hannes Mitterweissacher",Tyrol,St. Johann,Manufacture and Processing of Materials
+143,Allianz Technology,2011,"501 - 1,000",7.25,Mag. Rémi Vrignaud,Vienna,Wien,"IT, Internet, Telecommunication"
+144,JAF,1948,"501 - 1,000",7.25,Mag. Werner Stix,Lower Austria,Stockerau,Manufacture and Processing of Materials
+145,Fiegl & Spielberger,1927,201 - 500,7.24,"Leonhard Neuner, Johannes Thurner",Tyrol,Innsbruck,"Electronics, Electrical Engineering, Medical Devices"
+146,Bosch,1886,"1,001 - 5,000",7.24,"Helmut Weinwurm, Wilhelm Pruckner",Vienna,Wien,Automotive (Producers and Suppliers)
+147,Österreichische Beamtenversicherung (ÖBV),1895,"501 - 1,000",7.23,Mag. Josef Trawöger,Vienna,Wien,Insurance
+148,TGW,1969,"1,001 - 5,000",7.23,"Harald Schröpf, Jörg Scheithauer",Upper Austria,Marchtrenk,Transportation and Logistics
+149,Frauenthal,1921,"1,001 - 5,000",7.23,Dr. Hannes Winkler,Vienna,Wien,Automotive (Producers and Suppliers)
+150,Otis,1853,201 - 500,7.23,Judy Marks,Vienna,Wien,"Engineering, Manufacturing"
+151,L'Oréal,1912,201 - 500,7.22,Nicolas Hieronimus,Vienna,Wien,"Food, Soft Beverages, FMCG"
+152,Samsung,1969,201 - 500,7.22,"Han, Jong Hee",Vienna,Wien,"Electronics, Electrical Engineering, Medical Devices"
+153,TransGourmet,1963,"1,001 - 5,000",7.22,"Mag. Manfred Hayböck, Thomas Panholzer",Upper Austria,Traun,Wholesale
+154,Vogl & Co,1919,201 - 500,7.21,"Mag. Gerald Auer, Dr. Oliver Wieser",Styria,Graz,Retail and Retail Services
+155,Haberkorn,1932,"501 - 1,000",7.20,Gerald Fitz,Vorarlberg,Wolfurt,Wholesale
+156,OMV,1956,"5,001 - 10,000",7.20,Alfred Stern,Vienna,Wien,"Raw Materials, Utilities"
+157,Merkur Versicherung,1798,"501 - 1,000",7.19,Christian Kladiva,Styria,Graz,Insurance
+158,Stora Enso,1998,"1,001 - 5,000",7.19,Annica Bresky,Vorarlberg,Brand,Manufacture and Processing of Materials
+159,Semperit,1906,"501 - 1,000",7.19,Karl Haider,Vienna,Wien,Manufacture and Processing of Materials
+160,Johannes Kepler Universität Linz (JKU),1966,"1,001 - 5,000",7.19,Univ.-Prof. Dr. Meinhard Lukas,Upper Austria,Linz,Education and Research
+161,"Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau (BVAEB)",2020,"1,001 - 5,000",7.18,Dr. Gerhard Vogel,Vienna,Wien,"Healthcare, Social Services"
+162,AVL,1948,"1,001 - 5,000",7.18,Helmut O. List,Styria,Graz,Automotive (Producers and Suppliers)
+163,Doka Group,1958,"1,001 - 5,000",7.17,Harald Zulehner,Lower Austria,Amstetten,Construction
+164,UNIQA,1811,"5,001 - 10,000",7.17,Andreas Brandstetter,Vienna,Wien,Insurance
+165,Bachmann electronic,1970,201 - 500,7.17,Bernhard Zangerl,Vorarlberg,Feldkirch,"Electronics, Electrical Engineering, Medical Devices"
+166,Burgenland Energie,2012,"501 - 1,000",7.16,Mag. Dr. Stephan Sharma,Burgenland,Eisenstadt,"Raw Materials, Utilities"
+167,Eduscho,1993,"501 - 1,000",7.16,"Erik Hofstädter, Paul Unterluggauer",Vienna,Wien,"Food, Soft Beverages, FMCG"
+168,ABB,1988,201 - 500,7.16,Dipl. Ing. Martin Kohlmaier,Lower Austria,Wiener Neudorf,"Engineering, Manufacturing"
+169,Tiroler Versicherung,1821,201 - 500,7.15,Franz Mair,Tyrol,Innsbruck,Insurance
+170,Deichmann,1913,"1,001 - 5,000",7.15,"Georg Müller, Radu Stoica",Vienna,Wien,Retail and Retail Services
+171,Elk,1959,"501 - 1,000",7.14,"Thomas Scheriau, Stefan Schneider",Lower Austria,Schrems,Construction
+172,Bundesimmobiliengesellschaft,1992,"1,001 - 5,000",7.14,"DI Hans-Peter Weiss, DI Wolfgang Gleissner",Vienna,Wien,Construction
+173,XAL,1989,"501 - 1,000",7.14,Andreas Hierzer,Styria,Graz,Finished Goods and Consumer Goods
+174,Knapp,1952,"1,001 - 5,000",7.14,Gerald Hofer,Styria,Hart bei Graz,Transportation and Logistics
+175,Eurotours,1980,201 - 500,7.14,Helga Freund,Tyrol,Kitzbühel,"Travel, Accommodation, Leisure"
+176,Frequentis,1947,"501 - 1,000",7.14,Norbert Haslacher,Vienna,Wien,"IT, Internet, Telecommunication"
+177,Takeda,1995,"1,001 - 5,000",7.13,Anthea Cherednichenko,Vienna,Wien,Chemicals and Pharmaceuticals
+178,WIBERG,1947,201 - 500,7.13,"Godert Tegelberg, Robert Anderson",Salzburg,Salzburg,"Food, Soft Beverages, FMCG"
+179,MED-EL,1975,"1,001 - 5,000",7.13,Ingeborg Hochmair,Tyrol,Innsbruck,"Electronics, Electrical Engineering, Medical Devices"
+180,Denzel,1948,"1,001 - 5,000",7.12,Gregor Strassl,Vienna,Wien,Retail and Retail Services
+181,AT & S,1987,"1,001 - 5,000",7.12,Andreas Gerstenmayer,Styria,Leoben,"Electronics, Electrical Engineering, Medical Devices"
+182,Engel,1945,"1,001 - 5,000",7.12,Stefan Engleder,Upper Austria,Schwertberg,"Engineering, Manufacturing"
+183,Raiffeisen Ware Austria (RWA),1898,"1,001 - 5,000",7.12,Reinhard Wolf,Lower Austria,Korneuburg,Wholesale
+184,Sodexo,1966,"1,001 - 5,000",7.10,Michael Freitag,Vienna,Wien,"Business Services (HR, Real Estate, Call-Centers)"
+185,Sappi,1936,"1,001 - 5,000",7.10,Marco Eikelenboom,Styria,Gratkorn,Manufacture and Processing of Materials
+186,Richter Pharma,1918,201 - 500,7.10,Mag. Roland Huemer,Upper Austria,Wels,Chemicals and Pharmaceuticals
+187,Hammerer Aluminium Industries (HAI),2007,"501 - 1,000",7.09,DI Rob C. J. van Gils,Upper Austria,Ranshofen,Manufacture and Processing of Materials
+188,NXP,2006,"501 - 1,000",7.09,Kurt Sievers,Styria,Gratkorn,"Electronics, Electrical Engineering, Medical Devices"
+189,Liebherr,1960,"1,001 - 5,000",7.08,Peter Mayr,Salzburg,Bischofshofen,"Engineering, Manufacturing"
+190,Trodat Trotec,1912,"501 - 1,000",7.08,Roland Rier,Upper Austria,Wels,Finished Goods and Consumer Goods
+191,Weyland,1833,201 - 500,7.08,"Norbert Thumfart, Otto Weyland",Upper Austria,St. Florian am Inn,Wholesale
+192,Pfizer,1956,"501 - 1,000",7.08,Nicole Schlautmann,Vienna,Wien,Chemicals and Pharmaceuticals
+193,Polytec Group,1986,201 - 500,7.07,Markus Huemer,Upper Austria,Hörsching,Automotive (Producers and Suppliers)
+194,Wienerberger,1819,201 - 500,7.07,Johann Marchner,Vienna,Wien,Manufacture and Processing of Materials
+195,Nespresso,1986,201 - 500,7.07,Alessandro Piccinini,Vienna,Wien,"Food, Soft Beverages, FMCG"
+196,Raiffeisenlandesbank Oberösterreich,1894,"1,001 - 5,000",7.06,Heinrich Schaller,Upper Austria,Linz,Banking and Financial Services
+197,Frankstahl,1880,201 - 500,7.06,Mag. Marcel Javor,Lower Austria,Guntramsdorf,Manufacture and Processing of Materials
+198,Ortner,1903,201 - 500,7.03,"Mag. Paul Unterluggauer, Dr. Thomas Winischhofer",Tyrol,Innsbruck,"Engineering, Manufacturing"
+199,ADEG,1895,"1,001 - 5,000",7.03,"Jürgen Öllinger, Brian Oliver Beck",Lower Austria,Wiener Neudorf,Retail and Retail Services
+200,Kapsch,1892,"1,001 - 5,000",7.01,Georg Kapsch,Vienna,Wien,"IT, Internet, Telecommunication"
+201,ERGO Versicherung,2007,"501 - 1,000",7.01,Philipp Wassenberg,Vienna,Wien,Insurance
+202,Getzner Textil,1818,"1,001 - 5,000",7.01,Roland Comploj,Vorarlberg,Bludenz,Retail and Retail Services
+203,Gartner,1918,>200,6.99,Eugene A. Hall,Upper Austria,Edt bei Lambach,Transportation and Logistics
+204,KONE,1910,201 - 500,6.99,Petru Huurinainen,Vienna,Wien,Construction
+205,Universität Klagenfurt,1970,"1,001 - 5,000",6.99,Univ.-Prof. Dr. Oliver Vitouch,Carinthia,Klagenfurt am Wörthersee,Education and Research
+206,BTV – Vier Länder Bank,1904,"1,001 - 5,000",6.99,Gerhard Burtscher,Tyrol,Innsbruck,Banking and Financial Services
+207,Saubermacher,1979,"1,001 - 5,000",6.99,Ralf Mittermayr,Styria,Feldkirchen bei Graz,"Raw Materials, Utilities"
+208,Intersport,1964,"1,001 - 5,000",6.99,Thorsten Schmitz,Upper Austria,Wels,Retail and Retail Services
+209,Internorm,1931,"1,001 - 5,000",6.98,"Johann Brandstetter, Mag. Markus Dietachmair",Upper Austria,Traun,Manufacture and Processing of Materials
+210,Kellner & Kunz,1922,"501 - 1,000",6.98,Walter Bostelmann,Upper Austria,Wels,Wholesale
+211,Raiffeisenlandesbank Burgenland,1928,201 - 500,6.98,Rudolf Könighofer,Burgenland,Eisenstadt,Banking and Financial Services
+212,Niederösterreichische Versicherung,1923,"501 - 1,000",6.97,Stefan Jauk,Lower Austria,St. Pölten,Insurance
+213,Wüstenrot,1925,"1,001 - 5,000",6.97,Dr. Susanne Riess,Salzburg,Salzburg,Banking and Financial Services
+214,EQUANS,1947,"501 - 1,000",6.96,"Dieter Meyer, Jörg Heissenberger",Vienna,Wien,"Raw Materials, Utilities"
+215,Bayer,1898,201 - 500,6.95,Lieven Hentschel,Vienna,Wien,Chemicals and Pharmaceuticals
+216,FunderMax,1890,"1,001 - 5,000",6.95,Arnulf Penker,Carinthia,St. Veit an der Glan,Manufacture and Processing of Materials
+217,Resch & Frisch,1924,"1,001 - 5,000",6.95,Georg Resch,Upper Austria,Gunskirchen,"Food, Soft Beverages, FMCG"
+218,IMC Fachhochschule Krems,1994,"1,001 - 5,000",6.94,"Ulrike Prommer, Prof.(FH) Dr. Karl C. Ennsfellner",Lower Austria,Krems,Education and Research
+219,DieKärntner Sparkasse,1835,"501 - 1,000",6.94,"Gabriele Semmelrock-Werzer, Mag. Siegfried Huber",Carinthia,Klagenfurt am Wörthersee,Banking and Financial Services
+220,Bezirkskrankenhaus Kufstein,1961,"1,001 - 5,000",6.94,"Carl Miller, Wolfgang Schoner",Tyrol,Kufstein,"Healthcare, Social Services"
+221,Borealis,1994,"1,001 - 5,000",6.93,Thomas Gangl,Vienna,Wien,Chemicals and Pharmaceuticals
+222,Magna Steyr,1957,"10,001 - 50,000",6.92,Seetarama (Swamy) Kotagiri,Styria,Graz,Automotive (Producers and Suppliers)
+223,eww,1899,"501 - 1,000",6.92,"Florian Niedersüß, Wolfgang Nöstlinger",Upper Austria,Wels,"Raw Materials, Utilities"
+224,Haus der Barmherzigkeit,1864,"1,001 - 5,000",6.92,Prof. Dr. Christoph Gisinger,Vienna,Wien,"Healthcare, Social Services"
+225,Attensam,1980,"1,001 - 5,000",6.92,Oliver Attensam,Vienna,Wien,"Business Services (HR, Real Estate, Call-Centers)"
+226,Salesianer Miettex,1916,>200,6.91,Mag. Thomas Krautschneider,Vienna,Wien,"Business Services (HR, Real Estate, Call-Centers)"
+227,Pittel + Brausewetter,1870,"501 - 1,000",6.91,"Christoph Freiler, Wolfgang Fürhauser",Vienna,Wien,Construction
+228,Universität Wien,1365,"10,001 - 50,000",6.90,Sebastian Schütze,Vienna,Wien,Education and Research
+229,Doppelmayr/Garaventa,1892,"1,001 - 5,000",6.90,"Thomas Pichler, Gerhard Gassner",Vorarlberg,Wolfurt,Transportation and Logistics
+230,Wirtschaftsuniversität Wien,1898,"1,001 - 5,000",6.90,Univ.Prof. Dipl.-Ing.Dr.techn.Dr.h.c. Edeltraud Hanappi-Egger,Vienna,Wien,Education and Research
+231,Östu-Stettin Hoch- & Tiefbau,1911,201 - 500,6.90,"Harald Pacher, Robert Hitschmann",Styria,Leoben,Construction
+232,Wien Energie,1899,"1,001 - 5,000",6.89,"Dipl.-Ing. Mag. Michael Strebl, Dipl.-Ing. Karl Gruber",Vienna,Wien,"Raw Materials, Utilities"
+233,Fachhochschule St. Pölten,1993,"1,001 - 5,000",6.89,"Haag Johann, Raffaseder Hannes",Lower Austria,St. Pölten,Education and Research
+234,WILD,1970,201 - 500,6.89,Josef Hackl,Carinthia,Völkermarkt,"Electronics, Electrical Engineering, Medical Devices"
+235,AUVA,1889,"5,001 - 10,000",6.89,Mario Watz,Vienna,Wien,"Healthcare, Social Services"
+236,Bene,1790,201 - 500,6.89,Michael Fried,Lower Austria,Waidhofen an der Ybbs,Finished Goods and Consumer Goods
+237,Knorr-Bremse,1968,"501 - 1,000",6.87,Dipl.-Ing. Oliver Schmidt,Lower Austria,Mödling,Automotive (Producers and Suppliers)
+238,Austria Trend Hotels,1988,>200,6.87,Gerhard Aigner & Michael Kröger,Vienna,Wien,"Travel, Accommodation, Leisure"
+239,Otto Bock Healthcare Products,1919,"501 - 1,000",6.86,Oliver Jakobi,Vienna,Wien,Finished Goods and Consumer Goods
+240,Hilton Hotels & Resorts,1925,>200,6.86,Christopher J. Nassetta,Vienna,Wien,"Travel, Accommodation, Leisure"
+241,Raiffeisen Bank International (RBI),1898,"1,001 - 5,000",6.86,Johann Strobl,Vienna,Wien,Banking and Financial Services
+242,Welser Profile,1664,>200,6.85,Thomas Welser,Lower Austria,Ybbsitz,Manufacture and Processing of Materials
+243,Würth Hochenburger,1922,>200,6.83,Alfred Bernhard,Tyrol,Innsbruck,Retail and Retail Services
+244,Raiffeisenlandesbank Niederösterreich-Wien,1961,"1,001 - 5,000",6.83,Michael Höllerer,Vienna,Wien,Banking and Financial Services
+245,Fill,1966,"501 - 1,000",6.83,Andreas Fill,Upper Austria,Gurten,"Engineering, Manufacturing"
+246,Felbermayr,1942,"1,001 - 5,000",6.82,"Horst Felbermayr, Andrea Felbermayr",Upper Austria,Wels,Construction
+247,Hartlauer,1971,"1,001 - 5,000",6.82,Robert F. Hartlauer,Upper Austria,Steyr,Retail and Retail Services
+248,Falkensteiner Hotels & Residences,1957,"501 - 1,000",6.81,Otmar Michaeler,Vienna,Wien,"Travel, Accommodation, Leisure"
+249,Bestseller,1975,201 - 500,6.81,Anders Holch Povlsen,Vienna,Wien,Retail and Retail Services
+250,Astotec Automotive,1993,201 - 500,6.79,"Franz Schneeberger, Stefan Eckhardt",Lower Austria,Hirtenberg,Automotive (Producers and Suppliers)
+251,Lagerhaus Zwettl,1918,"501 - 1,000",6.79,Wolfgang Gwiß,Lower Austria,Zwettl,Wholesale
+252,Hutchison Drei,2003,"1,001 - 5,000",6.79,Rudolf Schrefl,Vienna,Wien,"IT, Internet, Telecommunication"
+253,Schönherr,1950,201 - 500,6.79,Michael Magerl,Vienna,Wien,"Consulting and Audit, Agencies and Legal Services"
+254,Ottakringer Unternehmensgruppe,2009,"501 - 1,000",6.79,"Markus Raunig, Doris Krejcarek",Vienna,Wien,"Food, Soft Beverages, FMCG"
+255,STIWA,1972,>200,6.79,Ing. Mag. Peter Sticht,Upper Austria,Attnang-Puchheim,"Engineering, Manufacturing"
+256,Raiffeisenbankengruppe Salzburg,1905,"1,001 - 5,000",6.79,Dr. Heinz Konrad,Salzburg,Salzburg,Banking and Financial Services
+257,Spar,1954,"10,001 - 50,000",6.79,Fritz Poppmeier,Salzburg,Salzburg,Retail and Retail Services
+258,Loacker Recycling,1876,>200,6.78,Christian Loacker,Vorarlberg,Götzis,"Raw Materials, Utilities"
+259,Unser Lagerhaus,1898,"1,001 - 5,000",6.78,"Rudolf Grubauer, Josef Sieber",Lower Austria,Hollabrunn,Wholesale
+260,Fachhochschule Kärnten,1995,"501 - 1,000",6.78,DI Siegfried Spanz,Carinthia,Villach,Education and Research
+261,Magenta,1996,"1,001 - 5,000",6.77,"Rodrigo Diehl, MBA",Vienna,Wien,"IT, Internet, Telecommunication"
+262,PwC (PricewaterhouseCoopers),1924,"1,001 - 5,000",6.76,Dr. Rudolf Krickl,Vienna,Wien,"Consulting and Audit, Agencies and Legal Services"
+263,MAN,1915,>200,6.76,Alexander Vlaskamp,Vienna,Wien,Automotive (Producers and Suppliers)
+264,FH Oberösterreich,1993,"501 - 1,000",6.75,Dr. Gerald Reisinger,Upper Austria,Wels,Education and Research
+265,Hervis,1970,"1,001 - 5,000",6.75,Oliver Seda MBL,Salzburg,Salzburg,Retail and Retail Services
+266,Deloitte,0,"1,001 - 5,000",6.75,Mag. Harald Breit,Vienna,Wien,"Consulting and Audit, Agencies and Legal Services"
+267,Santander,2009,201 - 500,6.74,Olaf Peter Poenisch,Vienna,Wien,Banking and Financial Services
+268,Bank Gutmann,1922,201 - 500,6.74,Prof. (FH) Dr. Marcel Landesmann,Vienna,Wien,Banking and Financial Services
+269,Ölz,1938,"501 - 1,000",6.74,"Bernhard Ölz, Mag. Florian Ölz",Vorarlberg,Dornbirn,"Food, Soft Beverages, FMCG"
+270,Ankerbrot,1891,"501 - 1,000",6.74,Walter Karger,Vienna,Wien,"Food, Soft Beverages, FMCG"
+271,KASTNER,1828,"501 - 1,000",6.74,"Mag. Herwig Gruber, KR Christof Kastner",Lower Austria,Zwettl,Wholesale
+272,Raiffeisen-Landesbank Steiermark,1927,"501 - 1,000",6.73,Petra Walter,Styria,Graz,Banking and Financial Services
+273,Pankl,2018,"1,001 - 5,000",6.73,Wolfgang Plasser,Styria,Kapfenberg,Automotive (Producers and Suppliers)
+274,Constantia Flexibles,1912,"1,001 - 5,000",6.73,Pim Vervaat,Vienna,Wien,Finished Goods and Consumer Goods
+275,Porsche Inter Auto,1974,"1,001 - 5,000",6.72,Harald Feilhauer,Salzburg,Salzburg,Retail and Retail Services
+276,Innsbrucker Kommunalbetriebe (IKB),1994,"501 - 1,000",6.71,DI Helmuth Müller,Tyrol,Innsbruck,"Raw Materials, Utilities"
+277,EBNER Industrieofenbau,1948,>200,6.71,Robert Ebner,Upper Austria,Leonding,"Engineering, Manufacturing"
+278,Barmherzige Brüder,1605,"5,001 - 10,000",6.70,Adolf Inzinger,Vienna,Wien,"Healthcare, Social Services"
+279,Fachhochschule Technikum Wien,1994,201 - 500,6.70,"Gabriele Költringer, Florian Eckkrammer",Vienna,Wien,Education and Research
+280,Thales Group,2000,201 - 500,6.70,Ing. Mag. Hannes Boyer,Vienna,Wien,Automotive (Producers and Suppliers)
+281,Siemens,1879,"5,001 - 10,000",6.70,KR Ing. Wolfgang Hesoun,Vienna,Wien,"Electronics, Electrical Engineering, Medical Devices"
+282,Rosenbauer,1866,"1,001 - 5,000",6.69,Mag. Sebastian Wolf,Upper Austria,Leonding,Automotive (Producers and Suppliers)
+283,Accenture,1989,"1,001 - 5,000",6.69,Julie Sweet,Vienna,Wien,"Consulting and Audit, Agencies and Legal Services"
+284,Wacker Neuson,1848,>200,6.69,Dr. Karl Tragl,Upper Austria,Linz,"Engineering, Manufacturing"
+285,BEKO,1966,>200,6.68,Ing. Christof Kotauczek,Lower Austria,Nöhagen,"Business Services (HR, Real Estate, Call-Centers)"
+286,Hofer,1968,"10,001 - 50,000",6.68,Horst Leitner,Upper Austria,Sattledt,Retail and Retail Services
+287,Bundesrechenzentrum (BRZ),1971,"1,001 - 5,000",6.68,Ing. Roland Ledinger,Vienna,Wien,"IT, Internet, Telecommunication"
+288,Meusburger,1964,>200,6.68,Ing. Mag. (FH) Guntram Meusburger,Vorarlberg,Wolfurt,Manufacture and Processing of Materials
+289,Bankhaus Spängler,1828,201 - 500,6.67,"Dr. Werner G. Zenz, Dr. Nils Kottke",Salzburg,Salzburg,Banking and Financial Services
+290,P&G,1967,201 - 500,6.66,Astrid Teckentrup,Vienna,Wien,"Food, Soft Beverages, FMCG"
+291,Coca-Cola Österreich,1929,"1,001 - 5,000",6.66,Damian Gammell,Vienna,Wien,"Food, Soft Beverages, FMCG"
+292,Mondi,1967,"1,001 - 5,000",6.65,Andrew King,Vienna,Wien,Manufacture and Processing of Materials
+293,Zumtobel,1950,>200,6.65,Alfred Felder,Vorarlberg,Dornbirn,"Electronics, Electrical Engineering, Medical Devices"
+294,Zgonc,1957,>200,6.65,Michael Dockal,Vienna,Wien,Retail and Retail Services
+295,KELAG,1923,"1,001 - 5,000",6.64,DIPL.-ING. Manfred Freitag,Vorarlberg,Bregenz,"Raw Materials, Utilities"
+296,Holding Graz,1960,"1,001 - 5,000",6.64,Wolfgang Malik,Styria,Graz,Transportation and Logistics
+297,Austro Control,1993,"1,001 - 5,000",6.63,"Valerie Hackl, Philipp Piber",Vienna,Wien,Transportation and Logistics
+298,Primetals Technologies,2015,"1,001 - 5,000",6.63,Etsuro Hirai,Upper Austria,Linz,Manufacture and Processing of Materials
+299,Schelling,1917,201 - 500,6.63,Wolfgang Rohner,Vorarlberg,Schwarzach,"Engineering, Manufacturing"
+300,Adler Lacke,1934,201 - 500,6.63,Andrea Berghofer,Tyrol,Schwaz,Chemicals and Pharmaceuticals

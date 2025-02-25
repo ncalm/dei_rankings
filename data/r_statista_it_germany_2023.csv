@@ -1,0 +1,176 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Beiersdorf,1882,"5,001 - 10,000",8.39,Vincent Warnery,Hamburg,Hamburg,Food and (Nondurable) Consumer Goods
+2,Dell,1984,"1,001 - 5,000",7.85,"Tim van Wasen, Claudia Kreis",Hesse,Frankfurt am Main,IT and Telecommunication
+3,Sick,1946,"5,001 - 10,000",7.85,Dr. Mats Gökstorp,Baden-Württemberg,Waldkirch,Electronics and Electrical Engineering
+4,PASS,1920,"1,001 - 5,000",7.84,"Philipp Pass, Dr. Karsten Geveke",North Rhine-Westphalia,Schwelm,Automotive (Producers and Suppliers)
+5,Comdirect,1994,"1,001 - 5,000",7.83,Manfred Knof,Schleswig-Holstein,Quickborn,Banking and Financial Services
+6,Best Western,1986,"5,001 - 10,000",7.81,Marcus Smola,Hesse,Eschborn,"Gastronomy, Leisure, Hotels and Tourism"
+7,Boehringer Ingelheim,1885,"10,001 - 50,000",7.76,Hubertus von Baumbach,Rhineland-Palatinate,Ingelheim am Rhein,Pharma and Medical Products
+8,Müller Drogeriemarkt,1953,"10,001 - 50,000",7.74,"Erwin Müller, Dr. Günther Helm",Baden-Württemberg,Ulm,Retail (without clothing)
+9,B·A·D Gesundheitsvorsorge und Sicherheitstechnik,1977,"5,001 - 10,000",7.74,André Panienka,North Rhine-Westphalia,Bonn,"Consulting, Research and Technology"
+10,Dräxlmaier,1958,"1,001 - 5,000",7.72,Stefan Brandl,Bavaria,Vilsbiburg,Automotive (Producers and Suppliers)
+11,Mitsubishi Electric,1978,"501 - 1,000",7.70,Andreas Wagner,North Rhine-Westphalia,Ratingen,Electronics and Electrical Engineering
+12,Trumpf,1923,"1,001 - 5,000",7.68,Dr. phil. Nicola Leibinger-Kammüller,Baden-Württemberg,Ditzingen,"Engineering, Manufacturing"
+13,Parfümerie Douglas,1821,"5,001 - 10,000",7.68,"Tina Müller, Mark Langer",North Rhine-Westphalia,Düsseldorf,Retail (without clothing)
+14,ENBW,1997,"10,001 - 50,000",7.68,Frank Mastiaux,Baden-Württemberg,Karlsruhe,Utilities
+15,GlaxoSmithKline,1964,"1,001 - 5,000",7.66,Victoria Williams,Bavaria,München,Pharma and Medical Products
+16,Google Germany,1998,"1,001 - 5,000",7.66,Sundar Pichai,Hamburg,Hamburg,Internet
+17,Actemium,1887,"1,001 - 5,000",7.66,Frank Westphal,Hesse,Frankfurt am Main,Electronics and Electrical Engineering
+18,Stada Arzneimittel,1895,"1,001 - 5,000",7.63,Peter Goldschmidt,Hesse,Bad Vibel,Pharma and Medical Products
+19,Merck,1668,"10,001 - 50,000",7.63,Belén Garijo,Hesse,Darmstadt,Pharma and Medical Products
+20,DM-Drogeriemarkt,1973,"10,001 - 50,000",7.62,Christoph Werner,Baden-Württemberg,Karlsruhe,Retail (without clothing)
+21,Adobe,1983,"501 - 1,000",7.61,Mark Higgins,Bavaria,München,IT and Telecommunication
+22,Adidas,1949,"5,001 - 10,000",7.60,Kasper Rorsted,Bavaria,Herzogenaurach,"Clothing, Shoes and Sport Articles"
+23,Bayerische Landesbank,1972,"5,001 - 10,000",7.59,Stephan Winkelmeier,Bavaria,München,Banking and Financial Services
+24,Fraunhofer-Gesellschaft,1949,"10,001 - 50,000",7.58,Reimund Neugebauer,Bavaria,München,"Consulting, Research and Technology"
+25,Roche,1896,"10,001 - 50,000",7.56,Dr. Severin Schwan,Baden-Württemberg,Grenzach-Wyhlen,Pharma and Medical Products
+26,Signal Iduna,1999,"5,001 - 10,000",7.56,Ulrich Leitermann,Hamburg,Hamburg,Insurance (private)
+27,Allianz,1890,"10,001 - 50,000",7.55,Oliver Bäte,Bavaria,München,Insurance (private)
+28,Charité,1710,"10,001 - 50,000",7.54,Prof. Dr. Heyo K. Kroemer,Berlin,Berlin,Healthcare
+29,Alexander Bürkle,1900,"501 - 1,000",7.53,"Andreas Ege, Klemens Isenmann",Baden-Württemberg,Freiburg im Breisgau,Electronics and Electrical Engineering
+30,Porsche,1931,"10,001 - 50,000",7.52,Oliver Blume,Baden-Württemberg,Stuttgart,Automotive (Producers and Suppliers)
+31,Lufthansa Technik,1995,"5,001 - 10,000",7.52,Soeren Stark,Hamburg,Hamburg,"Rail, Ship and Aircraft Construction"
+32,Microsoft Deutschland,1983,"1,001 - 5,000",7.51,Dr. Marianne Janik,Bavaria,München,IT and Telecommunication
+33,Goldbeck,1969,"5,001 - 10,000",7.51,"Jörg-Uwe Goldbeck, Jan-Hendrik Goldbeck",North Rhine-Westphalia,Bielefeld,Construction
+34,BASF,1865,"50,001 - 10,000",7.50,Martin Brudermüller,Rhineland-Palatinate,Ludwigshafen,Chemicals and Raw Materials
+35,BMW,1916,"50,001 - 10,000",7.48,Oliver Zipse,Bavaria,München,Automotive (Producers and Suppliers)
+36,Vector Informatik,1988,"1,001 - 5,000",7.47,Dr. Thomas Beck,Baden-Württemberg,Stuttgart,IT and Telecommunication
+37,Wacker Chemie,1914,"10,001 - 50,000",7.47,Dr. Christian Hartel,Bavaria,München,Chemicals and Raw Materials
+38,Infineon,1999,"10,001 - 50,000",7.47,Jochen Hanebeck,Bavaria,Neubiberg,Electronics and Electrical Engineering
+39,SAP,1972,"10,001 - 50,000",7.46,Christian Klein,Baden-Württemberg,Walldorf,IT and Telecommunication
+40,Nestlé,1867,"5,001 - 10,000",7.46,Marc-Aurel Boersch,Hesse,Frankfurt am Main,Food and (Nondurable) Consumer Goods
+41,Hochtief,1873,"1,001 - 5,000",7.46,Juan Santamaría Cases,North Rhine-Westphalia,Essen,Construction
+42,DSW21 Dortmunder Stadtwerke,1857,"1,001 - 5,000",7.45,Guntram Pehlke,North Rhine-Westphalia,Dortmund,Utilities
+43,Dataport,2004,"1,001 - 5,000",7.44,Dr. Johann Bizer,Schleswig-Holstein,Altenholz,IT and Telecommunication
+44,Bayer,1863,"10,001 - 50,000",7.43,Werner Baumann,North Rhine-Westphalia,Leverkusen,Chemicals and Raw Materials
+45,Dow Deutschland,1960,"1,001 - 5,000",7.42,Katja Wodjereck,Hesse,Wiesbaden,Chemicals and Raw Materials
+46,Benteler,1922,"5,001 - 10,000",7.41,Ralf Göttel,North Rhine-Westphalia,Padeborn,Building Material and Metals
+47,Baumann Automation,1984,"501 - 1,000",7.40,Dr.-Ing. Georg Baumann,Bavaria,Amberg,"Engineering, Manufacturing"
+48,BWB Berliner Werkstätten für Menschen mit Behinderung,1962,"1,001 - 5,000",7.40,Dirk Gerstle,Berlin,Berlin,Healthcare
+49,Diehl,1902,"10,001 - 50,000",7.38,Dr.-Ing. Klaus Richter,Bavaria,Nürnberg,"Rail, Ship and Aircraft Construction"
+50,Hypovereinsbank,1869,"10,001 - 50,000",7.36,Dr. Michael Diederich,Bavaria,München,Banking and Financial Services
+51,CGI Deutschland,1976,"1,001 - 5,000",7.35,"Torsten Straß, Thomas Roth",Baden-Württemberg,Leinfelden-Echterdingen,IT and Telecommunication
+52,Vattenfall,2002,"1,001 - 5,000",7.35,Christian Barthélémy,Berlin,Berlin,Utilities
+53,Heraeus,1660,"5,001 - 10,000",7.34,Jan Rinnert,Hesse,Hanau,Chemicals and Raw Materials
+54,Daimler / Mercedes Benz,1998,"100,001 - 500,000",7.34,Ola Källenius,Baden-Württemberg,Stuttgart,Automotive (Producers and Suppliers)
+55,Henkel,1876,"10,001 - 50,000",7.32,Carsten Knobel,North Rhine-Westphalia,Düsseldorf,Chemicals and Raw Materials
+56,TUI,1923,"5,001 - 10,000",7.28,Friedrich Joussen,Lower Saxony,Hannover,"Gastronomy, Leisure, Hotels and Tourism"
+57,Audi,1899,"10,001 - 50,000",7.27,Markus Duesmann,Bavaria,Ingolstadt,Automotive (Producers and Suppliers)
+58,Apple Retail Germany,1976,"1,001 - 5,000",7.25,Tim Cook,Hesse,Frankfurt am Main,Retail (without clothing)
+59,HUK-Coburg,1933,"10,001 - 50,000",7.25,Klaus-Jürgen Heitmann,Bavaria,Coburg,Insurance (private)
+60,Aldi Süd,1913,"10,001 - 50,000",7.25,"Lars Klein, Simon Gelzer",North Rhine-Westphalia,Mülheim an der Ruhr,Retail (without clothing)
+61,Berliner Volksbank,1946,"1,001 - 5,000",7.24,Carsten Jung,Berlin,Berlin,Banking and Financial Services
+62,LGI Logistics Group International,1995,"5,001 - 10,000",7.24,"Bernd Schwenger, Holger Funk",Baden-Württemberg,Herrenberg,Transportation and Logistics
+63,Sanofi,2004,"5,001 - 10,000",7.24,Fabrizio Guidi,Hesse,Frankfurt am Main,Pharma and Medical Products
+64,Zurich Gruppe Deutschland,1875,"1,001 - 5,000",7.23,Dr. Carsten Schildknecht,Hesse,Frankfurt am Main,Insurance (private)
+65,ITK Engineering,1994,"1,001 - 5,000",7.23,Frank Schmidt,Rhineland-Palatinate,Rülzheim,"Consulting, Research and Technology"
+66,Volkswagen,1937,"100,001 - 500,000",7.23,Herbert Diess,Lower Saxony,Wolfsburg,Automotive (Producers and Suppliers)
+67,DEVK,1886,"1,001 - 5,000",7.22,Gottfried Rüßmann,North Rhine-Westphalia,Köln,Insurance (private)
+68,Liebherr,1949,"10,001 - 50,000",7.22,Willi Liebherr,Baden-Württemberg,Biberach an der Riß,"Engineering, Manufacturing"
+69,Rossmann,1972,"10,001 - 50,000",7.21,Raoul Roßmann,Lower Saxony,Burgwedel,Retail (without clothing)
+70,Zeiss,1846,"10,001 - 50,000",7.20,Markus Weber,Baden-Württemberg,Oberkochen,Pharma and Medical Products
+71,Adolf Würth,1945,"10,001 - 50,000",7.19,"Jan Allmann, Rainer Bürkert",Baden-Württemberg,Künzelsau,Wholesale
+72,Evonik,1847,"10,001 - 50,000",7.16,Christian Kullmann,North Rhine-Westphalia,Essen,Chemicals and Raw Materials
+73,Ikea,1974,"10,001 - 50,000",7.16,Dennis Balslev,Hesse,Hofheim-Wallau,Retail (without clothing)
+74,BNP Paribas,1947,"5,001 - 10,000",7.16,Lutz Diederichs,Hesse,Frankfurt am Main,Banking and Financial Services
+75,Techniker Krankenkasse,1884,"10,001 - 50,000",7.15,Jens Baas,Hamburg,Hamburg,Insurance (governmental)
+76,Fujitsu,1936,"1,001 - 5,000",7.15,Rupert Lehner,Bavaria,München,Durable Consumer Goods
+77,Datev,1966,"5,001 - 10,000",7.14,Robert Mayr,Bavaria,Nürnberg,IT and Telecommunication
+78,Robert Bosch,1886,"100,001 - 500,000",7.14,Stefan Hartung,Baden-Württemberg,Gerlingen,"Engineering, Manufacturing"
+79,Airbus,1970,"10,001 - 50,000",7.13,Guillaume Faury,Hamburg,Hamburg,"Rail, Ship and Aircraft Construction"
+80,3M Deutschland,1951,"5,001 - 10,000",7.13,Heinrich Brands,North Rhine-Westphalia,Neuss,Food and (Nondurable) Consumer Goods
+81,Airport Nürnberg,1955,"501 - 1,000",7.13,Michael Hupe,Bavaria,Nürnberg,Transportation and Logistics
+82,Atruvia,1924,"1,001 - 5,000",7.12,Martin Beyer,Baden-Württemberg,Karlsruhe,IT and Telecommunication
+83,ifm electronic,1969,"5,001 - 10,000",7.12,"Stefan von der Bey, Simon Evans",North Rhine-Westphalia,Essen,Electronics and Electrical Engineering
+84,MHP Management- und IT-Beratung,1996,"1,001 - 5,000",7.12,Ralf Hofmann,Baden-Württemberg,Ludwigsburg,"Consulting, Research and Technology"
+85,Abbvie,2013,"1,001 - 5,000",7.11,"Olaf Weppner, Dr. Christian Maurer",Hesse,Wiesbaden,Pharma and Medical Products
+86,Raiffeisen Waren,1889,"1,001 - 5,000",7.10,Markus Braun,Hesse,Kassel,Wholesale
+87,Kaufland,1968,"50,001 - 10,000",7.10,"Ralf Imhof, Evelyn Opel",Baden-Württemberg,Neckarsulm,Retail (without clothing)
+88,HPE - Hewlett Packard Enterprise,1939,"1,001 - 5,000",7.08,Johann Koch,Baden-Württemberg,Böblingen,Electronics and Electrical Engineering
+89,Schneider Electric,1838,"1,001 - 5,000",7.08,Christophe de Maistre,North Rhine-Westphalia,Ratingen,Electronics and Electrical Engineering
+90,DSV Global Transport and Logistics,1976,"5,001 - 10,000",7.07,"Frank Sobotka, Nicolai Knudsen",Bremen,Bremen,Transportation and Logistics
+91,Abbelen,1958,"501 - 1,000",7.07,Dr. Dirk Gloy,North Rhine-Westphalia,Tönisvorst,Food and (Nondurable) Consumer Goods
+92,About You,2014,"1,001 - 5,000",7.07,"Sebastian Betz, Tarek Müller",Hamburg,Hamburg,"Clothing, Shoes and Sport Articles"
+93,Eon,2000,"10,001 - 50,000",7.06,Dr. Filip Thon,North Rhine-Westphalia,Essen,Utilities
+94,Datagroup,1983,"1,001 - 5,000",7.06,"Andreas Baresel, Sabine Laukemann",Baden-Württemberg,Pliezhausen,IT and Telecommunication
+95,Lidl,1973,"50,001 - 10,000",7.05,"Christian Härtnagel, Marcel von Haber",Baden-Württemberg,Neckarsulm,Retail (without clothing)
+96,Advantest,1999,"501 - 1,000",7.05,"Peter Wewerka, Jürgen Serrer",Bavaria,München,Electronics and Electrical Engineering
+97,DLR Deutsches Zentrum für Luft- und Raumfahrt,1907,"10,001 - 50,000",7.05,Anke Kaysser Pyzalla,North Rhine-Westphalia,Köln,"Consulting, Research and Technology"
+98,Fresenius,1912,"50,001 - 10,000",7.05,Stephan Sturm,Hesse,Bad Homburg,Pharma and Medical Products
+99,Siemens,1966,"50,001 - 10,000",7.04,Dr. Roland Busch,Bavaria,München,"Engineering, Manufacturing"
+100,Dräger,1889,"5,001 - 10,000",7.04,Stefan Dräger,Schleswig-Holstein,Lübeck,Pharma and Medical Products
+101,HanseMerkur Versicherungsgruppe,1875,"1,001 - 5,000",7.03,Eber­hard Sautter,Hamburg,Hamburg,Insurance (private)
+102,Union Investment,1956,"1,001 - 5,000",7.02,Joachim Reinke,Hesse,Frankfurt am Main,Banking and Financial Services
+103,Forschungszentrum Jülich,1956,"5,001 - 10,000",7.01,Prof. Dr.-Ing. Wolfgang Marquardt,North Rhine-Westphalia,Jülich,"Consulting, Research and Technology"
+104,Kreissparkasse Köln,1853,"1,001 - 5,000",7.01,Alexander Wüerst,North Rhine-Westphalia,Köln,Banking and Financial Services
+105,FBB Flughafen Berlin Brandenburg,1991,"1,001 - 5,000",7.01,Aletta von Massenbach,Berlin,Berlin,Transportation and Logistics
+106,Nagel-Group,1935,"10,001 - 50,000",7.00,Carsten Taucke,North Rhine-Westphalia,Versmold,Transportation and Logistics
+107,BG Kliniken,2016,"10,001 - 50,000",6.99,Reinhard Nieper,Berlin,Berlin,Healthcare
+108,Adesso,1997,"1,001 - 5,000",6.99,Michael Kenfenheuer,North Rhine-Westphalia,Dortmund,IT and Telecommunication
+109,Aldi Nord,1913,"10,001 - 50,000",6.98,"Robin Arnemann, Veit Bier",North Rhine-Westphalia,Essen,Retail (without clothing)
+110,Ford,1930,"10,001 - 50,000",6.98,"James D. Farley, Jr.",North Rhine-Westphalia,Köln,Automotive (Producers and Suppliers)
+111,Net Cologne,1994,"501 - 1,000",6.97,Timo von Lepel,North Rhine-Westphalia,Köln,IT and Telecommunication
+112,Bridging-IT,2008,"501 - 1,000",6.97,"Klaus Baumgärtner, Dr. Frank Wallner",Baden-Württemberg,Mannheim,IT and Telecommunication
+113,B. Braun,1839,"10,001 - 50,000",6.97,Anna Maria Braun,Hesse,Melsungen,Pharma and Medical Products
+114,Cisco Systems,1984,"1,001 - 5,000",6.97,"Uwe Peter, Stefan Heyer",Bavaria,Garching,IT and Telecommunication
+115,IBM,1910,"5,001 - 10,000",6.97,Gregor Pillen,Baden-Württemberg,Ehningen,IT and Telecommunication
+116,EWE,1929,"5,001 - 10,000",6.97,Stefan Dohler,Lower Saxony,Oldenburg,Utilities
+117,Baywa,1923,"10,001 - 50,000",6.97,Prof. Klaus Josef Lutz,Bavaria,München,Utilities
+118,ABB,1891,"5,001 - 10,000",6.96,Markus Ochsner,Baden-Württemberg,Mannheim,Electronics and Electrical Engineering
+119,Caritas,1897,"500,001 - 1,000,000",6.95,Eva Maria Welskop-Deffaa,Baden-Württemberg,Freiburg im Breisgau,Healthcare
+120,DFS Deutsche Flugsicherung,1953,"5,001 - 10,000",6.95,Arndt Schoenemann,Hesse,Langen,Transportation and Logistics
+121,Sartorius,1870,"1,001 - 5,000",6.95,Joachim Kreuzburg,Lower Saxony,Göttingen,Pharma and Medical Products
+122,BTI Befestigungstechnik,1972,"501 - 1,000",6.95,Wolfgang Zahner,Baden-Württemberg,Ingelfingen,Wholesale
+123,Deutsche Rentenversicherung,2005,"10,001 - 50,000",6.95,Gundula Roßbach,Berlin,Berlin,Insurance (governmental)
+124,Harting Technologiegruppe,1945,"1,001 - 5,000",6.94,"Matthias Gellert, Christopher Ukatz",North Rhine-Westphalia,Espelkamp,Electronics and Electrical Engineering
+125,Die Johanniter,1952,"10,001 - 50,000",6.94,"Martin Kruse, Dr. Max Braeuer",Berlin,Berlin,Healthcare
+126,ASEAG Aachener Straßenbahn und Energieversorgung,1880,"501 - 1,000",6.93,Michael Carmincke,North Rhine-Westphalia,Aachen,Transportation and Logistics
+127,Boll Logistik,1865,"501 - 1,000",6.93,"Ulrich Boll, Jörg Gerdelmann",Lower Saxony,Meppen,Transportation and Logistics
+128,Ferchau,1966,"5,001 - 10,000",6.93,Frank Ferchau,North Rhine-Westphalia,Gummersbach,IT and Telecommunication
+129,Agrarfrost,1967,"501 - 1,000",6.93,"David Krause, Andreas Hennige",Lower Saxony,Wildeshausen,Food and (Nondurable) Consumer Goods
+130,Arabella Hospitality,1969,"1,001 - 5,000",6.93,Karl-Heinz Pawlizki,Bavaria,München,"Gastronomy, Leisure, Hotels and Tourism"
+131,Thyssen-Krupp,1811,"50,001 - 10,000",6.91,Martina Merz,North Rhine-Westphalia,Essen,Building Material and Metals
+132,Software AG,1969,"1,001 - 5,000",6.91,Sanjay Brahmawar,Hesse,Darmstadt,IT and Telecommunication
+133,Deutsche Bahn,1994,"100,001 - 500,000",6.90,Dr. Cornelia Krause,Berlin,Berlin,Transportation and Logistics
+134,AWO,1919,"100,001 - 500,000",6.90,Kathrin Sonnenholzner,Berlin,Berlin,Healthcare
+135,Accor Live Limitless,2008,"100,001 - 500,000",6.90,Ben Brahim,Bavaria,München,"Gastronomy, Leisure, Hotels and Tourism"
+136,Aalberts Surface Technologies,1960,"5,001 - 10,000",6.90,Mareike Krüger,North Rhine-Westphalia,Kerpen,Building Material and Metals
+137,Deutsche Telekom,1995,"50,001 - 10,000",6.90,Timotheus Höttges,North Rhine-Westphalia,Bonn,IT and Telecommunication
+138,ADAC,1911,"5,001 - 10,000",6.89,"Dr. Dieter Nirschl, Lars Soutschka",Bavaria,München,Insurance (private)
+139,Continental,1871,"10,001 - 50,000",6.89,Nikolai Setzer,Lower Saxony,Hannover,Automotive (Producers and Suppliers)
+140,Strabag,1895,"10,001 - 50,000",6.88,Dr. Thomas Birtel,North Rhine-Westphalia,Köln,Construction
+141,Bosch Rexroth,1795,"10,001 - 50,000",6.87,Dr. Steffen Haack,Bavaria,Lohr am Main,Electronics and Electrical Engineering
+142,Amazon,1994,"10,001 - 50,000",6.87,Rocco Bräuniger,Bavaria,München,Retail (without clothing)
+143,Otto,1949,"5,001 - 10,000",6.86,Alexander Birken,Hamburg,Hamburg,"Clothing, Shoes and Sport Articles"
+144,Vodafone,1990,"10,001 - 50,000",6.86,Philippe Rogge,North Rhine-Westphalia,Düsseldorf,IT and Telecommunication
+145,ADM,1902,"501 - 1,000",6.86,"Jaana Karola Kleinschmit von Lengefeld, Candy Siekmann",Hamburg,Hamburg,Chemicals and Raw Materials
+146,Berliner Sparkasse,1818,"1,001 - 5,000",6.85,Johannes Evers,Berlin,Berlin,Banking and Financial Services
+147,Berlin-Chemie,1990,"5,001 - 10,000",6.85,Luca Lastrucci,Berlin,Berlin,Pharma and Medical Products
+148,Rewe Group,1927,"100,001 - 500,000",6.85,Lionel Souque,North Rhine-Westphalia,Köln,Retail (without clothing)
+149,Alzchem,1908,"1,001 - 5,000",6.84,Andreas Niedermaier,Bavaria,Trostberg,Chemicals and Raw Materials
+150,Dr. Oetker,1891,"10,001 - 50,000",6.84,Dr. Albert Christmann,North Rhine-Westphalia,Bielefeld,Food and (Nondurable) Consumer Goods
+151,Sonepar,1973,"5,001 - 10,000",6.83,Dr. Stefan Stegemann,North Rhine-Westphalia,Düsseldorf,Wholesale
+152,Shell,1902,"1,001 - 5,000",6.83,Ben van Beurden,Hamburg,Hamburg,Chemicals and Raw Materials
+153,Computacenter,1981,"5,001 - 10,000",6.83,Mike Norris,North Rhine-Westphalia,Kerpen,IT and Telecommunication
+154,Deutsche Bundesbank,1957,"10,001 - 50,000",6.82,Joachim Nagel,Hesse,Frankfurt am Main,Banking and Financial Services
+155,BCG - Boston Consulting Group,1963,"1,001 - 5,000",6.82,Michael Brigl,Bavaria,München,"Consulting, Research and Technology"
+156,SMP Deutschland,1959,"1,001 - 5,000",6.82,"Andreas Heuser, Char Zawadzinski",Baden-Württemberg,Bötzingen,Automotive (Producers and Suppliers)
+157,Technolit,1979,"1,001 - 5,000",6.81,"Simone Lang, Heribert Bertram",Hesse,Großenlüder,Wholesale
+158,Alfred Ritter,1912,"1,001 - 5,000",6.81,Andreas Ronken,Baden-Württemberg,Waldenbuch,Food and (Nondurable) Consumer Goods
+159,Total Deutschland,1955,"1,001 - 5,000",6.81,Christian Cabrol,Berlin,Berlin,Chemicals and Raw Materials
+160,Linde,1879,"5,001 - 10,000",6.79,Sanjiv Lamba,Bavaria,München,Chemicals and Raw Materials
+161,A.T. Kearney,1926,"501 - 1,000",6.79,Martin Eisenhut,North Rhine-Westphalia,Düsseldorf,"Consulting, Research and Technology"
+162,msg,1980,"1,001 - 5,000",6.78,Stephan Frohnhoff,Bavaria,Ismaning/München,IT and Telecommunication
+163,EBM-Papst,1963,"5,001 - 10,000",6.78,Dr. Klaus Geißdörfer,Baden-Württemberg,Mulfingen,Electronics and Electrical Engineering
+164,HDI,1903,"5,001 - 10,000",6.78,Dr Edgar Puls,Lower Saxony,Hannover,Insurance (private)
+165,Agilent Technologies,1999,"1,001 - 5,000",6.78,Doug Del Grosso,Baden-Württemberg,Waldbronn,Pharma and Medical Products
+166,GC-Gruppe,1921,"10,001 - 50,000",6.77,Thomas Werner,Bremen,Bremen,Wholesale
+167,Helios Gesundheit,1994,"50,001 - 10,000",6.77,Robert Möller,Berlin,Berlin,Healthcare
+168,3 Pagen,1954,"501 - 1,000",6.77,Franz Hermanns,North Rhine-Westphalia,Alsdorf,Retail (without clothing)
+169,AGCO,1930,"5,001 - 10,000",6.77,Christoph Gröblinghoff,Bavaria,Marktoberdorf,"Engineering, Manufacturing"
+170,Deutsche Postbank,1989,"10,001 - 50,000",6.77,Frank Strauß,North Rhine-Westphalia,Bonn,Banking and Financial Services
+171,AVM,1986,"501 - 1,000",6.76,Johannes Nill,Berlin,Berlin,Internet
+172,ING Deutschland,1965,"5,001 - 10,000",6.76,Nick Jue,Hesse,Frankfurt am Main,Banking and Financial Services
+173,Deutsche Lufthansa,1926,"50,001 - 10,000",6.75,Carsten Spohr,Hesse,Frankfurt am Main,Transportation and Logistics
+174,Bilfinger,1880,"5,001 - 10,000",6.75,Dr. Thomas Schulz,Baden-Württemberg,Mannheim,Construction
+175,VR Bank Rhein-Neckar,1881,"501 - 1,000",6.75,Dr. Michael Düpmann,Baden-Württemberg,Mannheim,Banking and Financial Services

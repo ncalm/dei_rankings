@@ -1,0 +1,301 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Decathlon,2001,"1,001 - 5,000",85.48,David Derouané,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+2,Pepco,2004,>250,84.29,David M Velazquez,Greater Poland,Poznań,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+3,Google,2005,"501 - 1,000",83.88,Magdalena Kotlarczyk,Mazovia,Warszawa,"IT, Internet, Software"
+4,Microsoft,1992,>250,83.88,Dominika Bettman,Mazovia,Warszawa,"IT, Internet, Software"
+5,Cisco,1995,>250,83.60,Przemysław Kania,Lesser Poland,Kraków,"IT, Internet, Software"
+6,CD PROJEKT,1994,"1,001 - 5,000",83.17,Adam Kiciński,Mazovia,Warszawa,"IT, Internet, Software"
+7,Allegro,1999,"1,001 - 5,000",82.46,Francois Nuyts,Greater Poland,Poznań,Retail
+8,ING Bank Śląski,1988,"5,001 - 10,000",82.21,Brunon Bartkiewicz,Silesia,Katowice,Banks and Financial Services
+9,adidas,2001,>250,80.91,Krzysztof Łuczakowski,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+10,Samsung,1996,"1,001 - 5,000",80.56,Suh Kyung Wook,Mazovia,Warszawa,"Electronics, Electrical Engineering, Computer Hardware"
+11,IBM,1935,>250,80.01,Marcin Gajdziński,Mazovia,Warszawa,"IT, Internet, Software"
+12,Generali,1998,"1,001 - 5,000",79.90,Roger Hodgkiss,Mazovia,Warszawa,Insurance
+13,Siemens,1991,>250,79.04,Dominika Bettman,Mazovia,Warszawa,Construction of Machines and Installations
+14,General Electric,1992,>250,78.81,Sławomir Zygowski,Mazovia,Warszawa,Construction of Machines and Installations
+15,Electrolux,1992,"5,001 - 10,000",77.81,Krzysztof Kudlek,Mazovia,Warszawa,Durable Consumer Goods
+16,BMW,2003,>250,77.52,Karim Christian Haririan,Mazovia,Warszawa,Vehicle Construction and Sales
+17,Grupa Azoty,1927,"10,001 - 50,000",77.44,Mariusz Grab,Lesser Poland,Tarnów,Oil and Gas
+18,Drutex,1985,"1,001 - 5,000",77.38,Leszek Gierszewski,Pomerania,Bytów,Construction
+19,Grupa INDITEX,1999,"1,001 - 5,000",77.34,Mariusz Leszczyński,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+20,Super-Pharm,2001,>250,77.30,Adam Kolodziejczyk,Mazovia,Warszawa,Retail
+21,Hilton,2007,"501 - 1,000",77.20,Christopher J. Nassetta,Mazovia,Warszawa,"Restaurants, Tourism, Sports and Recreational Services"
+22,eobuwie.pl,2015,>250,77.12,Damian Zapłata,Lubusz,Zielona Góra,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+23,Deichmann,1997,"1,001 - 5,000",77.10,Johannes Obersteiner,Lower Silesia,Wrocław,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+24,BP,1991,"1,001 - 5,000",76.71,Bogdan Kucharski,Lesser Poland,Kraków,Oil and Gas
+25,Fujitsu,1999,"1,001 - 5,000",76.68,Dariusz Kwieciński,Mazovia,Warszawa,"Electronics, Electrical Engineering, Computer Hardware"
+26,MLEKPOL,1976,"1,001 - 5,000",76.66,Edmund Borawski,Podlaskie,Grajewo,FMCG
+27,Intel,1999,"1,001 - 5,000",76.63,Leszek Pankiewicz,Pomerania,Gdańsk,"Electronics, Electrical Engineering, Computer Hardware"
+28,Nokia,2006,>250,76.59,Pekka Lundmark,Mazovia,Warszawa,Telecommunication
+29,JYSK,2000,"1,001 - 5,000",76.49,Piotr Padalak,Pomerania,Gdańsk,Retail
+30,Gdańskie Autobusy i Tramwaje,2017,>250,76.42,Maciej Lisicki,Pomerania,Gdańsk,Transportation and Logistics
+31,Ceramika Paradyż,1989,"1,001 - 5,000",76.29,Piotr Tokarski,Łódź,Opoczno,Construction
+32,Dell,2001,"1,001 - 5,000",76.27,Dariusz Piotrowski,Mazovia,Warszawa,"Electronics, Electrical Engineering, Computer Hardware"
+33,Colgate-Palmolive,1991,>250,76.20,Noel Wallace,Mazovia,Warszawa,FMCG
+34,Carlsberg,2001,"1,001 - 5,000",75.71,Mieszko Musiał,Mazovia,Warszawa,FMCG
+35,KPMG,1990,"1,001 - 5,000",75.42,Stacy Ligas,Mazovia,Warszawa,Consulting
+36,Unibep,1950,"1,001 - 5,000",75.30,Leszek Marek Gołąbiecki,Podlaskie,Bielsk Podlaski,Construction
+37,Budimex,1968,"5,001 - 10,000",75.23,Artur Popko,Mazovia,Warszawa,Construction
+38,Phoenix Contact,1994,>250,75.21,Marcin Poznański,Lower Silesia,Wrocław,"Electronics, Electrical Engineering, Computer Hardware"
+39,Metro Warszawskie,1995,"1,001 - 5,000",75.18,Jerzy Lejk,Mazovia,Warszawa,Transportation and Logistics
+40,Benefit Systems,2000,"1,001 - 5,000",75.07,Jolanta Rycerz,Mazovia,Warszawa,"Restaurants, Tourism, Sports and Recreational Services"
+41,Dobroplast,2000,>250,74.97,Grzegorz Kowalski,Podlaskie,Stary Laskowiec,Construction
+42,Michelin,1992,"1,001 - 5,000",74.92,Juan-Antonio Alvarez-Ossorio,Warmia-Masuria,Olsztyn,Vehicle Construction and Sales
+43,Amica,1945,"1,001 - 5,000",74.82,Jacek Rutkowski,Greater Poland,Wronki,Durable Consumer Goods
+44,Bank Millennium,1989,"5,001 - 10,000",74.74,Joao Bras Jorge,Mazovia,Warszawa,Banks and Financial Services
+45,Lidl,2002,"10,001 - 50,000",74.57,Włodzimierz Wlaźlak,Greater Poland,Tarnowo Podgórne,Retail
+46,Bosch,1992,"5,001 - 10,000",74.46,Rafał Rudziński,Multiple Locations,Multiple Locations,Vehicle Construction and Sales
+47,Uniwersytet im. Adama Mickiewicza w Poznaniu,1919,"5,001 - 10,000",74.13,Bogumiła Kaniewska,Greater Poland,Poznań,Education and Research
+48,Eurovia,2003,"1,001 - 5,000",74.07,Nicolas Depret,Lower Silesia,Kobierzyce,Construction
+49,Toyota,1990,"1,001 - 5,000",74.02,Dariusz Mikołajczak,Lower Silesia,Wałbrzych,Vehicle Construction and Sales
+50,Grupa LOTOS,1996,"5,001 - 10,000",73.99,Adam Wojciech Sekściński,Pomerania,Gdańsk,Oil and Gas
+51,PepsiCo,1991,"1,001 - 5,000",73.98,Michał Jaszczyk,Mazovia,Warszawa,FMCG
+52,AmRest,1992,"10,001 - 50,000",73.94,Luis Comas,Lower Silesia,Wrocław,"Restaurants, Tourism, Sports and Recreational Services"
+53,Sodexo,1998,"1,001 - 5,000",73.93,Arkadiusz Rochala,Mazovia,Warszawa,Business Services
+54,VELUX,1990,"1,001 - 5,000",73.82,Jacek Siwiński,Mazovia,Warszawa,Construction
+55,Nielsen,2014,201 - 500,73.71,David Kenny,Mazovia,Warszawa,Consulting
+56,Asseco,1991,"1,001 - 5,000",73.62,Adam Góral,Subcarpathia,Rzeszów,"IT, Internet, Software"
+57,Baltona,1946,>250,73.53,Wojciech Czernek,Mazovia,Warszawa,Retail
+58,Mokate,1990,>250,73.44,Adam Mokrysz,Silesia,Ustroń,FMCG
+59,Bonduelle,1992,"501 - 1,000",73.42,Philippe Carreau,Mazovia,Warszawa,FMCG
+60,Eko-Okna,1998,"5,001 - 10,000",73.42,Mateusz Kłosek,Silesia,Pietrowice Wielkie,Construction
+61,AstraZeneca,1991,"1,001 - 5,000",73.31,Wiktor Janicki,Mazovia,Warszawa,Pharmaceuticals and Biotechnology
+62,3M,1991,"1,001 - 5,000",73.26,Alain Simonnet,Multiple Locations,Multiple Locations,Construction of Machines and Installations
+63,Apart,1977,"1,001 - 5,000",73.25,Adam Rączyński,Greater Poland,Suchy Las,Durable Consumer Goods
+64,Dr. Oetker,1991,"501 - 1,000",73.20,Robert Zielinski,Pomerania,Gdańsk,FMCG
+65,Polskie Linie Lotnicze LOT,1928,"1,001 - 5,000",73.13,Rafal Milczarski,Mazovia,Warszawa,Transportation and Logistics
+66,Mercedes-Benz Manufacturing,2002,"501 - 1,000",73.08,Wolfgang Karl Bremm,Lower Silesia,Jawor,Vehicle Construction and Sales
+67,Black Red White,1991,>250,72.96,Dariusz Formela,Lublin,Biłgoraj,Durable Consumer Goods
+68,Castorama,1994,"10,001 - 50,000",72.93,Sébastien Krysiak,Mazovia,Warszawa,Retail
+69,Blachotrapez,1995,"501 - 1,000",72.88,Rafał Michalski,Lesser Poland,Rabka-Zdrój,Wholesale
+70,DHL,1991,"1,001 - 5,000",72.88,Agnieszka Świerszcz,Mazovia,Warszawa,Transportation and Logistics
+71,Orbis,1920,"1,001 - 5,000",72.84,Dominik Sołtysik,Mazovia,Warszawa,"Restaurants, Tourism, Sports and Recreational Services"
+72,Polpharma,1935,"1,001 - 5,000",72.83,Sebastian Szymanek,Pomerania,Starogard Gdański,Pharmaceuticals and Biotechnology
+73,Enea,2003,"10,001 - 50,000",72.82,Paweł Szczeszek,Greater Poland,Poznań,Energy and Communal Services
+74,Odlewnie Polskie,1899,>250,72.78,Zbigniew Ronduda,Holy Cross,Starachowice,Production and Processing of Raw and Building Materials
+75,Skanska,1887,>250,72.70,Piotr Janiszewski,Mazovia,Warszawa,Construction
+76,Sii,2006,"5,001 - 10,000",72.69,Grégoire Nitot,Mazovia,Warszawa,"IT, Internet, Software"
+77,Allianz,1997,>250,72.67,Matthias Baltin,Mazovia,Warszawa,Insurance
+78,mBank,1986,"5,001 - 10,000",72.66,Cezary Stypułkowski,Mazovia,Warszawa,Banks and Financial Services
+79,Aviva,1992,"1,001 - 5,000",72.65,Jolanta Karny,Mazovia,Warszawa,Insurance
+80,H&M,2003,"5,001 - 10,000",72.62,Helena Helmersson,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+81,PGE Polska Grupa Energetyczna,1990,"10,001 - 50,000",72.54,Wojciech Dąbrowski,Mazovia,Warszawa,Energy and Communal Services
+82,Media Markt,1998,"1,001 - 5,000",72.51,Alpay Güner,Mazovia,Warszawa,Retail
+83,British American Tobacco,1991,"1,001 - 5,000",72.41,Jack Bowles,Mazovia,Warszawa,FMCG
+84,Instal Kraków,1950,"501 - 1,000",72.34,Piotr Juszczyk,Lesser Poland,Kraków,Construction
+85,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,2009,"1,001 - 5,000",72.27,Jacek Wróbel,West Pomerania,Szczecin,Education and Research
+86,UPC,1989,"1,001 - 5,000",72.22,Robert Redeleanu,Mazovia,Warszawa,Telecommunication
+87,Grupa Żywiec,1998,"1,001 - 5,000",72.13,Simon Amor,Mazovia,Warszawa,FMCG
+88,DCT Gdańsk,2007,"501 - 1,000",71.93,Charles Baker,Pomerania,Gdańsk,Transportation and Logistics
+89,Motorola Solutions,2011,>250,71.85,Jacek Drabik,Lesser Poland,Kraków,Telecommunication
+90,Uniwersytet Śląski w Katowicach,1968,>250,71.70,Ryszard Koziołek,Silesia,Katowice,Education and Research
+91,GK KGHM Polska Miedź,1961,"10,001 - 50,000",71.65,Marcin Chludziński,Lower Silesia,Lubin,Oil and Gas
+92,Meble Wójcik,1986,"1,001 - 5,000",71.65,Piotr Wójcik,Warmia-Masuria,Elbląg,Durable Consumer Goods
+93,Philips,1928,"1,001 - 5,000",71.59,Michał Grzybowski,Mazovia,Warszawa,"Electronics, Electrical Engineering, Computer Hardware"
+94,BESTA,1991,>250,71.49,Edward Gala,Subcarpathia,Rzeszów,Construction
+95,Uniwersytet Ekonomiczny w Katowicach,1937,>250,71.39,Celina M. Olszak,Silesia,Katowice,Education and Research
+96,KONE,1993,>250,71.37,Marek Oppeln-Bronikowski,Mazovia,Warszawa,Construction
+97,Ernst & Young,1932,"1,001 - 5,000",71.37,Jacek Kędzior,Mazovia,Warszawa,Consulting
+98,Volkswagen,2012,>250,71.36,Pavel Šolc,Greater Poland,Poznań,Vehicle Construction and Sales
+99,x-kom,2002,"1,001 - 5,000",71.27,Michał Świerczewski,Silesia,Częstochowa,Retail
+100,FedEx,1990,>250,71.24,Karen Reddington,Mazovia,Warszawa,Transportation and Logistics
+101,Uniwersytet Warszawski,1816,"5,001 - 10,000",71.19,Alojzy Z. Nowak,Mazovia,Warszawa,Education and Research
+102,Dr Gerard,1993,"501 - 1,000",71.19,Jarosław Zawadzki,Lublin,Międzyrzec Podlaski,FMCG
+103,Uniwersytet Gdański,1970,>250,71.18,Piotr Stepnowski,Pomerania,Gdańsk,Education and Research
+104,DPD,1991,"5,001 - 10,000",71.13,Boris Winkelmann,Mazovia,Warszawa,Transportation and Logistics
+105,Nike,1998,>250,71.05,Mckenzie Daniel William,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+106,L'Oréal,1992,>250,71.04,Niels Westerbye Juhl,Mazovia,Warszawa,FMCG
+107,Model Opakowania,1998,"501 - 1,000",71.03,Krzysztof Jażdżyk,Multiple Locations,Multiple Locations,Production and Processing of Raw and Building Materials
+108,Marriott International,1927,"1,001 - 5,000",70.92,Anthony Capuano,Multiple Locations,Multiple Locations,"Restaurants, Tourism, Sports and Recreational Services"
+109,GLS,1999,"1,001 - 5,000",70.92,Martin Seidenberg,Greater Poland,Głuchowo,Transportation and Logistics
+110,Kabat Tyre,1983,"501 - 1,000",70.88,Andrzej Kabat,Greater Poland,Budzyń,Production and Processing of Raw and Building Materials
+111,Uniwersytet Łódzki,1945,"1,001 - 5,000",70.79,Elżbieta Żądzińska,Łódź,Łódź,Education and Research
+112,Compensa,1990,"501 - 1,000",70.79,Artur Borowinski,Mazovia,Warszawa,Insurance
+113,InPost,2006,"5,001 - 10,000",70.79,Rafał Brzoska,Lesser Poland,Kraków,Transportation and Logistics
+114,Rainbow Tours,1990,"501 - 1,000",70.74,Grzegorz Baszczyński,Łódź,Łódź,"Restaurants, Tourism, Sports and Recreational Services"
+115,Uniwersytet Wrocławski,1702,"1,001 - 5,000",70.70,Przemysław Wiszewski,Lower Silesia,Wrocław,Education and Research
+116,RTV EURO AGD,1990,"5,001 - 10,000",70.64,Robert Kuczyński,Mazovia,Warszawa,Retail
+117,CTL Logistics,1992,>250,70.61,Grzegorz Bogacki,Silesia,Sosnowiec,Transportation and Logistics
+118,Grycan,2004,"1,001 - 5,000",70.48,Krystian Grycan,Mazovia,Majdan,FMCG
+119,Atos,1996,"5,001 - 10,000",70.44,Piotr Wierzbicki,Mazovia,Warszawa,"IT, Internet, Software"
+120,Werner Kenkel,2013,"1,001 - 5,000",70.43,Adam Kenkel,Greater Poland,Krzycko Wielkie,Production and Processing of Raw and Building Materials
+121,Rossmann,1993,"10,001 - 50,000",70.40,Marek Maruszak,Łódź,Łódź,Retail
+122,State Street Bank International,2007,"1,001 - 5,000",70.38,Scott Newman,Lesser Poland,Kraków,Banks and Financial Services
+123,Akamai Technologies,2011,"501 - 1,000",70.35,Dr. Tom Leighton,Lesser Poland,Kraków,"IT, Internet, Software"
+124,Cognizant,1994,>250,70.32,Brian Humphries,Pomerania,Gdańsk,"IT, Internet, Software"
+125,HP,1991,"501 - 1,000",70.31,Andrzej Sowiński,Multiple Locations,Warszawa/Wrocław,"Electronics, Electrical Engineering, Computer Hardware"
+126,Volvo,1994,"1,001 - 5,000",70.17,Emil Dembiński,Lower Silesia,Wrocław,Vehicle Construction and Sales
+127,ABB,1988,"5,001 - 10,000",70.16,Tomasz Wolanowski,Mazovia,Warszawa,Construction of Machines and Installations
+128,STRABAG,1987,"1,001 - 5,000",70.13,Thomas Birtel,Mazovia,Pruszków,Construction
+129,Mostostal Warszawa,1945,"1,001 - 5,000",70.11,Miguel Angel Heras Llorente,Mazovia,Warszawa,Construction
+130,Santander,2001,"10,001 - 50,000",70.09,Michał Gajewski,Mazovia,Warszawa,Banks and Financial Services
+131,Rockwell Automation,1998,"1,001 - 5,000",70.07,Blake Moret,Mazovia,Warszawa,Construction of Machines and Installations
+132,Brenntag,2002,>250,70.01,Jacek Iwańczuk,Opole,Kędzierzyn-Koźle,Wholesale
+133,Pekabex,2009,"1,001 - 5,000",70.01,Robert Jędrzejowski,Greater Poland,Poznań,Construction
+134,Uniwersytet Warmińsko-Mazurski w Olsztynie,1999,>250,70.00,Jerzy Andrzej Przyborowski,Warmia-Masuria,Olsztyn,Education and Research
+135,Sperasoft,2004,201 - 500,69.97,Anna Trofimova,Lesser Poland,Kraków,"IT, Internet, Software"
+136,STS,1997,"1,001 - 5,000",69.96,Mateusz Juroszek,Silesia,Katowice,"Restaurants, Tourism, Sports and Recreational Services"
+137,Ardagh Group,1932,"501 - 1,000",69.93,Piotr Ignasiak,Greater Poland,Gostyń,Production and Processing of Raw and Building Materials
+138,Apteka Gemini,1990,"1,001 - 5,000",69.91,Roman Pałac,Pomerania,Gdańsk,Pharmaceuticals and Biotechnology
+139,Proseat,2002,"501 - 1,000",69.90,Stefan Hünermann,Silesia,Bielsko-Biała,Vehicle Construction and Sales
+140,Grupa TAURON,2006,"10,001 - 50,000",69.88,Artur Michałowski,Silesia,Katowice,Energy and Communal Services
+141,PwC,1990,"5,001 - 10,000",69.87,Adam Krasoń,Mazovia,Warszawa,Consulting
+142,Capgemini,1996,"5,001 - 10,000",69.84,Aiman Ezzat,Mazovia,Warszawa,Consulting
+143,Rimaster,1982,"501 - 1,000",69.82,Iwona Uszakiewicz,West Pomerania,Czaplinek,Vehicle Construction and Sales
+144,Uniwersytet Jagielloński,1364,"5,001 - 10,000",69.65,Jacek Popiel,Lesser Poland,Kraków,Education and Research
+145,citi handlowy,1870,"5,001 - 10,000",69.53,Elżbieta Światopełk-Czetwertyńska,Mazovia,Warszawa,Banks and Financial Services
+146,Kazar,1996,"501 - 1,000",69.39,Artur Kazienko,Subcarpathia,Przemyśl,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+147,Crédit Agricole,1991,"1,001 - 5,000",69.39,Piotr Kwiatkowski,Lower Silesia,Wrocław,Banks and Financial Services
+148,Deloitte,1990,"1,001 - 5,000",69.37,Tomasz Konik,Mazovia,Warszawa,Consulting
+149,McKinsey & Company,1993,>250,69.34,Bob Sternfels,Multiple Locations,Multiple Locations,Consulting
+150,Deutsche Bank,1995,201 - 500,69.30,Tomasz Kowalski,Mazovia,Warszawa,Banks and Financial Services
+151,ArcelorMittal,2002,"5,001 - 10,000",69.26,Sanjay Samaddar,Silesia,Dąbrowa Górnicza,Production and Processing of Raw and Building Materials
+152,Komputronik,1996,"501 - 1,000",69.21,Wojciech Buczkowski,Greater Poland,Poznań,Retail
+153,GO Sport,2001,"501 - 1,000",69.20,Justyna Gościńska,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+154,Unilever,1991,"1,001 - 5,000",69.05,Jaime Aguilera,Mazovia,Warszawa,FMCG
+155,Uniwersytet Mikołaja Kopernika w Toruniu,1945,"1,001 - 5,000",69.05,Andrzej Sokala,Kuyavia-Pomerania,Toruń,Education and Research
+156,Alior Bank,2008,"5,001 - 10,000",69.02,Grzegorz Olszewski,Mazovia,Warszawa,Banks and Financial Services
+157,CMC,1996,"1,001 - 5,000",69.02,Jerzy Kozicz,Silesia,Zawiercie,Production and Processing of Raw and Building Materials
+158,TUI,1997,201 - 500,69.00,Marcin Dymnicki,Mazovia,Warszawa,"Restaurants, Tourism, Sports and Recreational Services"
+159,BetaMed,2001,"1,001 - 5,000",68.93,Beata Drzazga,Silesia,Chorzów,Healthcare and Social
+160,International Paper,1992,201 - 500,68.89,Tomasz Brodecki,Multiple Locations,Gdańsk/Kraków,Production and Processing of Raw and Building Materials
+161,Media Expert,2002,"10,001 - 50,000",68.86,Marek Piotr Grzebita,Greater Poland,Złotów,Retail
+162,Arla,2005,>250,68.83,Peder Tuborgh,West Pomerania,Tychowo,FMCG
+163,Grupa Raben,1991,"1,001 - 5,000",68.81,Ewald Raben,Greater Poland,Robakowo,Transportation and Logistics
+164,BNY Mellon,2010,"1,001 - 5,000",68.72,Ewa Carr-de Avelon,Lower Silesia,Wrocław,Banks and Financial Services
+165,Cukiernia Sowa,1946,"501 - 1,000",68.70,Adam Sowa,Kuyavia-Pomerania,Bydgoszcz,FMCG
+166,Fabryka Mebli BODZIO,1985,"1,001 - 5,000",68.70,Bogdan Szewczyk,Lower Silesia,Goszcz,Durable Consumer Goods
+167,Bayer,1994,"501 - 1,000",68.66,Werner Baumann,Mazovia,Warszawa,Pharmaceuticals and Biotechnology
+168,TK Maxx,1994,>250,68.55,Ernie Herrman,Mazovia,Warszawa,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+169,Alstom,1997,"1,001 - 5,000",68.50,Sławomir Nalewajka,Multiple Locations,Multiple Locations,Vehicle Construction and Sales
+170,Onninen,1913,>250,68.44,Wiktor Kępiński,Mazovia,Warszawa,Wholesale
+171,Mirbud,1988,"501 - 1,000",68.44,Jerzy Mirgos,Łódź,Skierniewice,Construction
+172,Jastrzębska Spółka Węglowa,1993,"10,001 - 50,000",68.41,Tomasz Cudny,Silesia,Jastrzębie-Zdrój,Oil and Gas
+173,SAS Institute,1992,201 - 500,68.36,Michał Pieprzny,Mazovia,Warszawa,"IT, Internet, Software"
+174,Sopra Steria,2007,"501 - 1,000",68.35,Vincent Paris,Silesia,Katowice,"IT, Internet, Software"
+175,UBS,1998,"1,001 - 5,000",68.33,Michał Stepień,Lesser Poland,Kraków,Banks and Financial Services
+176,Ferrero,1992,"1,001 - 5,000",68.17,Enrico Bottero,Mazovia,Warszawa,FMCG
+177,Brembo,2006,"1,001 - 5,000",68.16,Daniele Schillaci,Silesia,Dąbrowa Górnicza,Vehicle Construction and Sales
+178,Danone,1919,"1,001 - 5,000",68.05,Paweł Piątek,Mazovia,Warszawa,FMCG
+179,Betard,1989,"501 - 1,000",68.02,Artur Dziechciński,Lower Silesia,Długołęka,Production and Processing of Raw and Building Materials
+180,Grupa Polsat Plus,1992,"5,001 - 10,000",68.00,Mirosław Błaszczyk,Mazovia,Warszawa,Telecommunication
+181,Avis,1991,>250,67.89,Keith Rankin,Mazovia,Warszawa,"Restaurants, Tourism, Sports and Recreational Services"
+182,Aflofarm,1989,"501 - 1,000",67.87,Jacek Furman,Łódź,Pabianice,Pharmaceuticals and Biotechnology
+183,Farmacol,1990,"1,001 - 5,000",67.76,Tomasz Rogóż,Silesia,Katowice,Pharmaceuticals and Biotechnology
+184,Uzdrowisko Busko-Zdrój,1836,"501 - 1,000",67.75,Michał Płatek,Holy Cross,Busko-Zdrój,Healthcare and Social
+185,SMYK,2000,>250,67.75,Michał Grom,Mazovia,Warszawa,Retail
+186,McDonald's,1948,"10,001 - 50,000",67.74,Adam Pieńkowski,Mazovia,Warszawa,"Restaurants, Tourism, Sports and Recreational Services"
+187,Bruk-Bet,1984,"1,001 - 5,000",67.72,Krzysztof Witkowski,Lesser Poland,Żabno,Construction
+188,Euro Finannce,2004,>250,67.69,Dawid Kalinowski,Greater Poland,Piła,Transportation and Logistics
+189,enel-med,1993,"1,001 - 5,000",67.68,Jacek Jakub Rozwadowski,Mazovia,Warszawa,Healthcare and Social
+190,Mars,1992,"1,001 - 5,000",67.60,Grant F. Reid,Mazovia,Sochaczew,FMCG
+191,BSH Group,1993,>250,67.54,Konrad Pokutycki,Mazovia,Warszawa,Durable Consumer Goods
+192,POLREGIO,2001,>250,67.52,Artur Martyniuk,Mazovia,Warszawa,Transportation and Logistics
+193,Alfa Elektro,1989,201 - 500,67.52,Wiesław Romańczuk,Silesia,Katowice,Wholesale
+194,Orange,1991,"10,001 - 50,000",67.48,Julien Ducarroz,Mazovia,Warszawa,Telecommunication
+195,Uniwersytet w Białymstoku,1997,"1,001 - 5,000",67.45,Robert W. Ciborowski,Podlaskie,Białystok,Education and Research
+196,Concentrix,2005,"501 - 1,000",67.33,Christopher Caldwell,West Pomerania,Szczecin,Business Services
+197,Grupa PKP,2001,"50,001 - 100,000",67.30,Krzysztof Mamiński,Mazovia,Warszawa,Transportation and Logistics
+198,Netto,1995,"5,001 - 10,000",67.27,Janusz Stroka,West Pomerania,Kobylanka,Retail
+199,Comarch,1993,>250,67.17,Janusz Filipiak,Lesser Poland,Kraków,"IT, Internet, Software"
+200,MPK-Łódź,1898,"1,001 - 5,000",67.14,Zbigniew Papierski,Łódź,Łódź,Transportation and Logistics
+201,MPK Wrocław,1945,"1,001 - 5,000",67.14,Dariusz Łopuszyński,Lower Silesia,Wrocław,Transportation and Logistics
+202,IKEA,1991,"10,001 - 50,000",67.14,Wojciech Waligóra,Multiple Locations,Multiple Locations,Retail
+203,Andrewex,1988,>250,67.13,Sebastian Paradowski,Multiple Locations,Multiple Locations,Production and Processing of Raw and Building Materials
+204,Saint-Gobain,2002,"5,001 - 10,000",66.96,Joanna Czynsz-Piechowiak,Mazovia,Warszawa,Production and Processing of Raw and Building Materials
+205,Trans Polonia,2004,201 - 500,66.95,Dariusz Cegielski,Pomerania,Tczew,Transportation and Logistics
+206,Danwood,1995,>250,66.86,Jarosław K. Jurak,Podlaskie,Bielsk Podlaski,Construction
+207,Adecco,1996,"10,001 - 50,000",66.80,Anna Wicha,Mazovia,Warszawa,Business Services
+208,Uniwersytet Jana Kochanowskiego w Kielcach,1969,"1,001 - 5,000",66.66,Stanisław Głuszek,Holy Cross,Kielce,Education and Research
+209,Jerónimo Martins,1995,"50,001 - 100,000",66.66,Pedro Soares Dos Santos,Greater Poland,Kostrzyn,Retail
+210,Grupa PSB,1998,"10,001 - 50,000",66.65,Mirosław Lubarski,Holy Cross,Wełecz,Wholesale
+211,Lewiatan,1994,"10,001 - 50,000",66.64,Robert Rękas,Kuyavia-Pomerania,Włocławek,Retail
+212,Grupa Kęty,1953,"5,001 - 10,000",66.64,Dariusz Mańko,Lesser Poland,Kęty,Production and Processing of Raw and Building Materials
+213,DFM,2001,"1,001 - 5,000",66.57,Roman Dariusz Kołakowski,Warmia-Masuria,Dobre Miasto,Durable Consumer Goods
+214,CCC,1999,"5,001 - 10,000",66.46,Dariusz Miłek,Lower Silesia,Polkowice,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+215,Nestlé,1993,"1,001 - 5,000",66.44,Mark Schneider,Mazovia,Warszawa,FMCG
+216,Dealz,2017,>250,66.37,Marcin Langowski,Greater Poland,Poznań,Retail
+217,New Yorker,2009,>250,66.35,Friedrich Knapp,Greater Poland,Poznań,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+218,Medicover,1994,>250,66.33,John Stubbington,Mazovia,Warszawa,Healthcare and Social
+219,Bank Polskiej Spółdzielczości,1991,"501 - 1,000",66.21,Artur Adamczyk,Mazovia,Warszawa,Banks and Financial Services
+220,ERBUD,1990,"1,001 - 5,000",66.21,Dariusz Grzeszczak,Mazovia,Warszawa,Construction
+221,Hunters,1991,>250,66.21,Piotr Żyłkowski,Mazovia,Warszawa,Business Services
+222,MONDI,1967,"1,001 - 5,000",66.17,Andrew King,Multiple Locations,Multiple Locations,Production and Processing of Raw and Building Materials
+223,Tramwaje Szczecińskie,2009,>250,66.16,Krystian Wawrzyniak,West Pomerania,Szczecin,Transportation and Logistics
+224,PGO,2008,"1,001 - 5,000",66.10,Łukasz Petrus,Silesia,Katowice,Production and Processing of Raw and Building Materials
+225,Imperial Tobacco,1993,"1,001 - 5,000",66.02,Jorge Arias-Laso,Greater Poland,Jankowice,FMCG
+226,Grupa ZIBI,1989,"501 - 1,000",66.01,Zbigniew Kazimierz Pietrzak,Mazovia,Warszawa,Retail
+227,Geis PL,2006,201 - 500,66.00,Michal Martinovič,Łódź,Stryków,Transportation and Logistics
+228,Grupa ORLEN,1999,"10,001 - 50,000",65.97,Daniel Obajtek,Mazovia,Płock,Oil and Gas
+229,BNP Paribas,1919,"5,001 - 10,000",65.87,Przemysław Gdański,Mazovia,Warszawa,Banks and Financial Services
+230,Caritas,1990,>250,65.84,Marcin Iżycki,Mazovia,Warszawa,Healthcare and Social
+231,Konspol,1982,"1,001 - 5,000",65.83,Małgorzata Poręba,Multiple Locations,Multiple Locations,FMCG
+232,Grupa PGNiG,1982,"10,001 - 50,000",65.83,Paweł Majewski,Mazovia,Warszawa,Oil and Gas
+233,Sokołów,1976,"5,001 - 10,000",65.78,Bogusław Miszczuk,Mazovia,Sokołów Podlaski,FMCG
+234,Sanok Rubber Company,1932,"1,001 - 5,000",65.76,Piotr Szamburski,Subcarpathia,Sanok,Production and Processing of Raw and Building Materials
+235,PZU,1803,"10,001 - 50,000",65.76,Beata Kozłowska-Chyła,Mazovia,Warszawa,Insurance
+236,Borg Automotive,1991,"1,001 - 5,000",65.75,Kim Andersen,Łódź,Zduńska Wola,Vehicle Construction and Sales
+237,Bricoman,2007,"501 - 1,000",65.75,Arnaud Boule,Mazovia,Warszawa,Retail
+238,MSU Group,2000,"1,001 - 5,000",65.74,Artur Adamczak,Kuyavia-Pomerania,Bydgoszcz,Business Services
+239,Vos Logistics,2001,"501 - 1,000",65.72,Wojciech Cybulski,Mazovia,Warszawa,Transportation and Logistics
+240,Smurfit Kappa,2003,>250,65.71,Jacek Nieweglowski,Mazovia,Warszawa,Production and Processing of Raw and Building Materials
+241,Atlas,1991,"1,001 - 5,000",65.71,Paweł Kisiel,Łódź,Łódź,Production and Processing of Raw and Building Materials
+242,Merkury Market,2001,>250,65.70,Jan Papierz,Subcarpathia,Krosno,Retail
+243,Sklepy Komfort,1994,>250,65.69,Wojciech Kiestrzyń,Łódź,Łódź,Retail
+244,CBRE,2007,"1,001 - 5,000",65.68,Radosław Pawlak,Mazovia,Warszawa,Business Services
+245,aluplast,1995,201 - 500,65.63,Dirk Seitz,Greater Poland,Poznań,Construction
+246,Fortuna Online Zakłady Bukmacherskie,1996,"501 - 1,000",65.62,Konrad Komarczuk,Silesia,Cieszyn,"Restaurants, Tourism, Sports and Recreational Services"
+247,GOTEC,1993,>250,65.56,Lars Gorschlüter,Lower Silesia,Komorniki,Production and Processing of Raw and Building Materials
+248,Hydro Extrusion,1991,"1,001 - 5,000",65.51,Hilde Merete Aasheim,Greater Poland,Trzcianka,Production and Processing of Raw and Building Materials
+249,Warbud,1989,"1,001 - 5,000",65.51,Nicolas Depret,Mazovia,Warszawa,Construction
+250,Arriva,2007,"1,001 - 5,000",65.48,Piotr Halupczok,Mazovia,Warszawa,Transportation and Logistics
+251,Leroy Merlin,1994,"10,001 - 50,000",65.47,Krzysztof Kordulewski,Mazovia,Warszawa,Retail
+252,AMS,2005,"1,001 - 5,000",65.46,David Leigh,Multiple Locations,Gdańsk/Kraków,Business Services
+253,Paged,1931,>250,65.42,Tomasz Modzelewski,Warmia-Masuria,Pisz/Morąg,Production and Processing of Raw and Building Materials
+254,arvato,1994,>250,65.36,Lidia Ratajczak-Kluck,Multiple Locations,Multiple Locations,Transportation and Logistics
+255,FAKRO,1991,"1,001 - 5,000",65.36,Ryszard Florek,Lesser Poland,Nowy Sącz,Construction
+256,Vision Express,1994,"1,001 - 5,000",65.34,Thanos Iliopoulos,Mazovia,Warszawa,Retail
+257,Amazon,2014,"10,001 - 50,000",65.32,Mourad Taoufiki,Multiple Locations,Multiple Locations,Retail
+258,NGK Ceramics,2003,"1,001 - 5,000",65.31,Hijikata Yasukazu,Silesia,Gliwice,Vehicle Construction and Sales
+259,JMP Flowers,2013,>250,65.29,Jarosław Ptaszek,Lublin,Stężyca,Wholesale
+260,Belma Accessories Systems,2001,"1,001 - 5,000",65.27,Piotr Ślużyński,Kuyavia-Pomerania,Białe Błota,Production and Processing of Raw and Building Materials
+261,GEFCO,1999,"501 - 1,000",65.24,Luc Nadal,Mazovia,Warszawa,Transportation and Logistics
+262,Rehau,2001,"501 - 1,000",65.21,Uwe H. Bölcke,Greater Poland,Baranowo,Production and Processing of Raw and Building Materials
+263,Sits,1993,"1,001 - 5,000",65.21,Marek Dobrzeniecki,Kuyavia-Pomerania,Brodnica,Durable Consumer Goods
+264,Whirlpool,1911,"5,001 - 10,000",65.18,Fabio Pommella,Mazovia,Warszawa,Durable Consumer Goods
+265,UNIQA,1990,"1,001 - 5,000",65.16,Robert Garnczarek,Mazovia,Warszawa,Insurance
+266,Adamietz,1994,>250,65.13,Rajmund Adamietz,Opole,Strzelce Opolskie,Construction
+267,Polimex Mostostal,1945,"1,001 - 5,000",65.07,Krzysztof Figat,Mazovia,Warszawa,Construction
+268,Dräxlmaier,1999,>250,65.04,Thomas Krüger,Multiple Locations,Multiple Locations,Vehicle Construction and Sales
+269,Bank Pekao,1929,"10,001 - 50,000",65.04,Leszek Skiba,Mazovia,Warszawa,Banks and Financial Services
+270,NEUCA,1990,"1,001 - 5,000",65.02,Piotr Sucharski,Kuyavia-Pomerania,Toruń,Wholesale
+271,Polbruk,1991,"501 - 1,000",64.98,Mariusz Ferenc,Pomerania,Gdańsk,Production and Processing of Raw and Building Materials
+272,Atlas Copco,2001,201 - 500,64.97,Mats Rahmström,Mazovia,Warszawa,Construction of Machines and Installations
+273,Trefl,1985,"501 - 1,000",64.86,Roman Szczepan Kniter,Pomerania,Gdynia,FMCG
+274,Scania,1992,>250,64.81,Wojciech Rowiński,Mazovia,Stara Wieś,Vehicle Construction and Sales
+275,Visscher-Caravelle,1996,>250,64.72,Tiemen van Dijk,Kuyavia-Pomerania,Grudziądz,Vehicle Construction and Sales
+276,ALDI,2008,"1,001 - 5,000",64.62,Wojciech Łubieński,Silesia,Chorzów,Retail
+277,Flex,2000,"1,001 - 5,000",64.61,Revathi Advaithi,Multiple Locations,Tczew/Łódź,"Electronics, Electrical Engineering, Computer Hardware"
+278,Kaufland,2001,"10,001 - 50,000",64.54,Robert Kwiecinski,Lower Silesia,Wrocław,Retail
+279,Stekop Ochrona,1983,"1,001 - 5,000",64.51,Jerzy Łysynkiewicz,Mazovia,Warszawa,Business Services
+280,Dino,1999,"10,001 - 50,000",64.49,Tomasz Biernacki,Greater Poland,Krotoszyn,Retail
+281,Apator,1949,>250,64.40,Arkadiusz Chmielewski,Kuyavia-Pomerania,Toruń,"Electronics, Electrical Engineering, Computer Hardware"
+282,AB,1990,"501 - 1,000",64.38,Andrzej Przybyło,Lower Silesia,Magnice,"IT, Internet, Software"
+283,PKO Bank Polski,1919,"10,001 - 50,000",64.34,Iwona Duda,Mazovia,Warszawa,Banks and Financial Services
+284,Lotte Wedel,1851,"1,001 - 5,000",64.19,Maciej Herman,Mazovia,Warszawa,FMCG
+285,Shell,1994,"1,001 - 5,000",64.18,Piotr Dziwok,Mazovia,Warszawa,Oil and Gas
+286,Marcopol,1985,>250,64.13,Jerzy Roman Brzeziński,Pomerania,Chwaszczyno,Production and Processing of Raw and Building Materials
+287,Securitas,1996,"5,001 - 10,000",64.06,Krzysztof Bartuszek,Mazovia,Warszawa,Business Services
+288,Ceramika Nowa Gala,1995,201 - 500,64.00,Zbigniew Polakowski,Holy Cross,Końskie,Construction
+289,HSBC Service Delivery,2007,"1,001 - 5,000",63.97,Noel Quinn,Lesser Poland,Kraków,Banks and Financial Services
+290,Tramwaje Śląskie,2003,"1,001 - 5,000",63.96,Piotr Uszok,Silesia,Chorzów,Transportation and Logistics
+291,ERA,1949,"1,001 - 5,000",63.95,Krzysztof Pasternak,Silesia,Chorzów,Business Services
+292,MLEKOVITA,1928,"1,001 - 5,000",63.92,Dariusz Sapiński,Podlaskie,Wysokie Mazowieckie,FMCG
+293,LUX MED,1992,"10,001 - 50,000",63.89,Anna Rulkiewicz,Mazovia,Warszawa,Healthcare and Social
+294,Lisner,1991,"501 - 1,000",63.85,Ulrich Grewe,Greater Poland,Poznań,FMCG
+295,ThyssenKrupp,1994,"501 - 1,000",63.82,Ryszard Bojarski,Kuyavia-Pomerania,Toruń,Production and Processing of Raw and Building Materials
+296,LPP,1991,"10,001 - 50,000",63.78,Marek Piechocki,Pomerania,Gdańsk,"Clothing, Accessories, Sports Equipment (Production and Trade)"
+297,wezi-tec,2003,"501 - 1,000",63.73,Wojciech Bajan,Lower Silesia,Legnica,Production and Processing of Raw and Building Materials
+298,Circle K,1992,"1,001 - 5,000",63.70,Michał Ciszek,Mazovia,Warszawa,Retail
+299,armatis-lc,2008,>250,63.69,Krzysztof Lewiński,Mazovia,Warszawa,Business Services
+300,Vistula,1948,>250,63.61,Jan Pilch,Lesser Poland,Kraków,"Clothing, Accessories, Sports Equipment (Production and Trade)"

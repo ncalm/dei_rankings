@@ -1,0 +1,501 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Commonwealth Fusion,2018,>50,100.00,Bob Mumgaard,Massachusetts,Cambridge,Energy & Resources
+2,Corvus Insurance,2017,>50,99.34,Madhu Tadikonda,Massachusetts,Boston,Finance
+3,Our Next Energy,2020,>50,99.25,Mujeeb Ijaz,Michigan,Novi,Energy & Resources
+4,NOIRLab,2019,>50,99.25,Patrick McCarthy,Arizona,Tucson,Education & EdTech
+5,Span.IO,2018,>50,99.15,Arch Rao,California,San Francisco,Energy & Resources
+6,Postscript,2018,>50,99.05,Adam Turner,California,San Francisco,Advertising & Marketing
+7,Cribl,2017,>50,99.05,Clint Sharp,California,San Francisco,Business Products & Software Services
+8,Tomorrow.io,2016,>50,98.95,Shimon Elkabetz,Massachusetts,Boston,Business Products & Software Services
+9,Plus,2016,>50,98.95,David Liu,California,Santa Clara,Technology
+10,Mission Lane,2018,>50,98.85,Shane Holdaway,California,San Francisco,Finance
+11,CyberCube,2015,>50,98.85,Pascal Millaire,California,San Francisco,Business Products & Software Services
+12,The Good Food Institute,2016,>50,98.83,Bruce Friedrich,District of Columbia,Washington,Lifestyle & Health
+13,Perch,2019,>50,98.75,Chris Bell,Massachusetts,Boston,Retail
+14,Remote,2019,>50,98.65,Job van der Voort,California,San Francisco,Business Products & Software Services
+15,SeekOut,2017,>50,98.58,Anoop Gupta,Washington,Bellevue,Technology
+16,VAST Data,2016,>50,98.55,Renen Hallak,New York,New York,Technology
+17,Public.com,2019,>50,98.55,Jannick Malling,New York,New York,Technology
+18,Snappr,2017,>50,98.45,Matt Schiller,California,San Francisco,Retail
+19,Atrium Insights,2018,>50,98.45,Chris Heineken,Montana,Bozeman,Technology
+20,Origin,2018,>50,98.35,Matt Watson,Massachusetts,Boston,Finance
+21,Sonatus,2018,>50,98.30,Jeff Chou,California,Sunnyvale,Technology
+22,Abnormal Security,2018,>50,98.27,Evan Reiser,California,San Francisco,Security
+23,OneRail,2018,>50,98.25,Bill Catania,Florida,Orlando,Transportation & Logistics
+24,Route,2018,>50,98.14,Evan Walker,Utah,Lehi,Business Products & Software Services
+25,Ridgeline,2018,>50,98.05,Dave Duffield,Nevada,Incline Village,Business Products & Software Services
+26,TimelyMD,2017,>50,97.96,Luke Hejl,Texas,Fort Worth,Healthcare
+27,Creative Force,2019,>50,97.96,Thomas Kragelund,California,San Francisco,Business Products & Software Services
+28,Immuta,2015,>50,97.86,Matthew Carroll,Massachusetts,Boston,Technology
+29,Nozomi Networks,2017,>50,97.86,Lukas Biewald,California,San Francisco,Security
+30,Weights & Biases,2013,>50,97.86,Edgard Capdevielle,California,San Francisco,Technology
+31,Ramp,2019,>50,97.85,Eric Glyman,New York,New York,Finance
+32,Level,2018,>50,97.80,Paul Aaron,New York,New York,Finance
+33,Place,2020,>50,97.76,Ben Kinney / Chris Suarez,Washington,Bellingham,Real Estate
+34,Braintrust,2019,>50,97.76,Brandon Metcalf,California,San Francisco,Business Products & Software Services
+35,Hedera Hashgraph,2018,>50,97.76,Adam Jackson,Nevada,Las Vegas,Technology
+36,Noname Security,2020,>50,97.66,Oz Golan,California,San Jose,Security
+37,AiDash,2019,>50,97.56,Abhishek Vinod Singh,California,San Jose,Technology
+38,Whatnot,2019,>50,97.56,Grant LaFontaine,California,Marina Del Rey,Retail
+39,Kairos Power,2016,>50,97.49,Mike Laufer,California,Alameda,Energy & Resources
+40,Legacy,2018,>50,97.46,Khaled Kteily,Illinois,Chicago,Biotechnology & Agriculture
+41,Chronosphere,2019,>50,97.46,Martin Mao,New York,New York,Technology
+42,Connecteam,2016,>50,97.46,Amir Nehemia,New York,New York,Business Products & Software Services
+43,Terminal,2016,>50,97.36,Clay Kellogg,California,San Francisco,Business Products & Software Services
+44,HYCU,2018,>50,97.26,Simon Taylor,Massachusetts,Boston,Technology
+45,Capacity,2017,>50,97.26,David Karandish,Missouri,Saint Louis,Technology
+46,Voltus,2016,>50,97.24,Gregg Dixon,California,San Francisco,Energy & Resources
+47,Axiom Space,2016,>50,97.07,Michael Suffredini,Texas,Houston,Manufacturing
+48,OXIO,2018,>50,97.06,Nicolas Girard,New York,New York,Business Products & Software Services
+49,Leap,2018,>50,96.99,Amish Tolia / Jared Golden,New York,New York,Retail
+50,Element5,2019,>50,96.96,Joe Randesi,California,San Jose,Technology
+51,JupiterOne,2018,>50,96.86,Erkang Zheng,North Carolina,Morrisville,Security
+52,VergeSense,2017,>50,96.86,Dan Ryan,California,San Francisco,Business Products & Software Services
+53,Material Bank,2018,>50,96.78,Adam I. Sandow,Florida,Boca Raton,Retail
+54,Lunar Energy,2020,>50,96.76,Kunal Girotra,California,Mountain View,Energy & Resources
+55,Curated,2017,>50,96.70,Eduardo Vivas,California,San Francisco,Hospitality
+56,Stellar Health,2018,>50,96.67,Michael Meng,New York,New York,Healthcare
+57,SiMa.ai,2018,>50,96.67,Krishna Rangasayee,California,San Jose,Technology
+58,Privacera,2016,>50,96.66,Balaji Ganesan,California,Fremont,Security
+59,Monarch Tractor,2018,>50,96.65,Praveen Penmetsa,California,Livermore,Biotechnology & Agriculture
+60,Gem,2017,>50,96.57,Steve Bartel,California,San Francisco,Business Products & Software Services
+61,Valon Mortgage,2019,>50,96.57,Andrew Wang,New York,New York,Finance
+62,Front,2013,>50,96.55,Mathilde Collin,California,San Francisco,Business Products & Software Services
+63,Sibros,2018,>50,96.44,Hemant Sikaria,California,San Jose,Technology
+64,Pachama,2018,>50,96.37,Diego Saez Gil,California,San Francisco,Technology
+65,AgentSync,2018,>50,96.31,Niji Sabharwal,Colorado,Denver,Technology
+66,Metagenomi,2018,>50,96.27,Brian C. Thomas,California,Emeryville,Biotechnology & Agriculture
+67,Contentstack,2018,>50,96.27,Neha Sampat,California,San Francisco,Business Products & Software Services
+68,Woebot Health,2017,>50,96.23,Michael Evers,California,San Francisco,Healthcare
+69,TaxBit,2018,>50,96.22,Austin Woodward,Utah,Draper,Finance
+70,Mattermost,2017,>50,96.17,Jeremy Burton,California,Palo Alto,Business Products & Software Services
+71,Transcarent,2016,>50,96.17,Ian Tien,California,San Francisco,Healthcare
+72,Observe,2020,>50,96.17,Glenn Tullmann,California,San Mateo,Business Products & Software Services
+73,Moveworks,2016,>50,96.16,Bhavin Shah,California,Mountain View,Technology
+74,Persona,2018,>50,96.09,Rick Song,California,San Francisco,Technology
+75,Luminous Computing,2018,>50,96.07,Marcus Gomez,California,Mountain View,Technology
+76,Strive Health,2018,>50,96.05,Chris Riopelle,Colorado,Denver,Healthcare
+77,Merge,2020,>50,95.97,Shensi Ding,California,San Francisco,Business Products & Software Services
+78,Chameleon Collective,2015,>50,95.95,Thor Johnson,Florida,Aventura,Advertising & Marketing
+79,Zuci Systems,2016,>50,95.87,Vasudevan Swaminathan,Illinois,Downers Grove,Business Products & Software Services
+80,Salt Security,2016,>50,95.87,Roey Eliyahu,California,Palo Alto,Security
+81,Deel,2019,>50,95.79,Alex Bouaziz,California,San Francisco,Business Products & Software Services
+82,Vendr,2018,>50,95.77,Ryan Neu,Massachusetts,Boston,Business Products & Software Services
+83,Secureframe,2017,>50,95.77,Asad Khan,California,San Francisco,Security
+84,LambdaTest,2020,>50,95.77,Shrav Mehta,California,San Francisco,Business Products & Software Services
+85,Pie Insurance,2017,>50,95.67,John Swigart,District of Columbia,Washington,Finance
+86,Pilot,2016,>50,95.57,Waseem Daher,California,San Francisco,Business Products & Software Services
+87,dbt Labs,2016,>50,95.48,Tristan Handy,Pennsylvania,Philadelphia,Technology
+88,Productiv,2018,>50,95.46,Jody Shapiro,California,Palo Alto,Business Products & Software Services
+89,Step,2018,>50,95.42,CJ MacDonald,California,Palo Alto,Finance
+90,Sword Health,2015,>50,95.41,Virgílio Bento,Utah,Draper,Healthcare
+91,Nice Healthcare,2017,>50,95.39,Thompson Aderinkomi,Minnesota,Minneapolis,Healthcare
+92,Zippin,2018,>50,95.38,Krishna Motukuri,California,San Francisco,Technology
+93,Owkin,2016,>50,95.38,Thomas Clozel,New York,New York,Technology
+94,Ava Labs,2018,>50,95.38,Emin Gun Sirer,New York,Brooklyn,Finance
+95,Tecton,2019,>50,95.28,Michael Del Balso,California,San Francisco,Technology
+96,Sidecar Health,2018,>50,95.25,Patrick Quigley,California,El Segundo,Finance
+97,Odetta,2018,>50,95.16,Katharine Wolf,California,San Francisco,Business Products & Software Services
+98,Covr Financial Technologies,2016,>50,95.15,Michael Kalen,Idaho,Boise,Finance
+99,Endera,2016,>50,95.08,Andrew Butt,Ohio,Ottawa,Transportation & Logistics
+100,Enable,2020,>50,95.08,Jonathan Friedman,California,San Francisco,Business Products & Software Services
+101,Demostack,2018,>50,95.08,John Walsh,California,San Francisco,Business Products & Software Services
+102,Sense,2016,>50,95.04,Anil Dharni,California,San Francisco,Business Products & Software Services
+103,Secfi,2017,>50,94.90,Frederik Mijnhardt,California,San Francisco,Finance
+104,Check Technologies,2019,>50,94.88,Andrew Brown,New York,New York,Business Products & Software Services
+105,Appsmith,2019,>50,94.88,Abhishek Nayak,California,San Francisco,Business Products & Software Services
+106,Syndio,2016,>50,94.78,Maria Colacurcio,Washington,Seattle,Business Products & Software Services
+107,Spotnana Technology,2015,>50,94.68,Spencer Kimball,New York,New York,Business Products & Software Services
+108,Cockroach Labs,2020,>50,94.68,Miguel Fernandez Larrea,New York,New York,Business Products & Software Services
+109,Capchase,2020,>50,94.68,Sarosh Waghmar,New York,New York,Finance
+110,Mythical Games,2018,>50,94.62,John Linden,California,Sherman Oaks,Media & Entertainment
+111,June,2018,>50,94.58,Dan Mishin,New York,New York,Real Estate
+112,PathAI,2016,>50,94.58,Andy Beck,Massachusetts,Boston,Healthcare
+113,Dyno Therapeutics,2018,>50,94.48,Eric Kelsic,Massachusetts,Watertown,Healthcare
+114,Rafay Systems,2017,>50,94.38,Haseeb Budhani,California,Sunnyvale,Business Products & Software Services
+115,Factory_OS,2017,>50,94.37,Rick Holliday,California,Vallejo,Real Estate
+116,Faire,2017,>50,94.36,Max Rhodes,California,San Francisco,Retail
+117,Stavvy,2018,>50,94.29,Kosta Ligris,Massachusetts,Boston,Real Estate
+118,Agility Robotics,2015,>50,94.28,Damion Shelton,Oregon,Tangent,Robotics/Engineering
+119,Flowcode,2019,>50,94.28,Tim Armstrong,New York,New York,Business Products & Software Services
+120,deepwatch,2019,>50,94.28,Charlie Thomas,Colorado,Denver,Security
+121,TRM Labs,2018,>50,94.18,Esteban Castaño,California,San Francisco,Technology
+122,Landing AI,2017,>50,94.10,Andrew Ng,California,Palo Alto,Technology
+123,Notable,2017,>50,94.08,Pranay Kapadia,California,San Mateo,Healthcare
+124,Kitchen United,2017,>50,94.05,Michael Montagano,California,Pasadena,Lifestyle & Health
+125,Accrete AI,2017,>50,93.99,Prashant Bhuyan,New York,New York,Technology
+126,People.ai,2016,>50,93.89,Oleg Rogynskyy,California,San Francisco,Technology
+127,Attain,2019,>50,93.89,Brian Mandelbaum,Illinois,Chicago,Finance
+128,Dataiku,2013,>50,93.88,Florian Douetteau,New York,New York,Technology
+129,Twin Health,2018,>50,93.79,Jahangir Mohammed,California,Mountain View,Technology
+130,Galileo,2018,>50,93.76,Thomas Lee,New York,New York,Healthcare
+131,OpenSea,2017,>50,93.59,Devin Finzer,New York,New York,Retail
+132,HashCash Consultants,2015,>50,93.49,Raj Chowdhury,California,Palo Alto,Business Products & Software Services
+133,Relativity Space,2019,>50,93.49,Doug Ludlow,California,Long Beach,Manufacturing
+134,MainStreet,2016,>50,93.49,Tim Ellis,California,San Jose,Finance
+135,Manta,2016,>50,93.39,Tomáš Krátký,New York,New York,Business Products & Software Services
+136,SpyCloud,2016,>50,93.39,Ted Ross,Texas,Austin,Security
+137,Tetrate,2018,>50,93.33,Varun Talwar,California,San Francisco,Business Products & Software Services
+138,Tigera,2016,>50,93.32,Ratan Tipirneni,California,San Francisco,Security
+139,Fernish,2017,>50,93.29,Michael L. Barlow,California,Los Angeles,Retail
+140,Symbl.ai,2018,>50,93.29,Surbhi Rathore,Washington,Seattle,Technology
+141,apty,2018,>50,93.21,Krishna Dunthoori,Texas,Austin,Business Products & Software Services
+142,Alluxio,2017,>50,93.19,Charles Xie,California,San Mateo,Technology
+143,Zilliz,2015,>50,93.19,Haoyuan Li,California,San Francisco,Technology
+144,Starburst Data,2017,>50,93.09,Justin Borgman,Massachusetts,Boston,Technology
+145,Drata,2020,>50,93.09,Adam Markowitz,California,San Diego,Security
+146,SmartHop,2020,>50,93.09,Guillermo Garcia,Florida,Miami,Technology
+147,Kodiak Robotics,2018,>50,93.08,Don Burnette,California,Mountain View,Transportation & Logistics
+148,Wonder,2017,>50,92.99,Dan Wendlandt,New York,New York,Retail
+149,Isovalent,2018,>50,92.99,Marc Lore,California,San Francisco,Security
+150,Newfront Insurance,2017,>50,92.94,Spike Lipkin ‍,California,San Francisco,Finance
+151,Nayya,2019,>50,92.89,Sina Chehrazi,New York,New York,Technology
+152,Tackle.io,2016,>50,92.83,John Jahnke,Idaho,Boise,Business Products & Software Services
+153,Phantom Auto,2017,>50,92.79,Shai Magzimof / Elliot Katz,California,San Francisco,Business Products & Software Services
+154,Synctera,2020,>50,92.70,Peter Hazlehurst,California,Palo Alto,Finance
+155,Misfits Market,2018,>50,92.61,Abhi Ramesh,New Jersey,Pennsauken,Lifestyle & Health
+156,Embrace,2020,>50,92.60,Mike Fey,California,Culver City,Business Products & Software Services
+157,Island,2016,>50,92.60,John Kim,Texas,Dallas,Security
+158,Redwood Materials,2017,>50,92.50,JB Straubel,Nevada,Carson City,Energy & Resources
+159,OpenSpace,2017,>50,92.45,Jeevan Kalanithi,California,San Francisco,Technology
+160,Ayar Labs,2015,>50,92.40,Charlie Wuischpard,California,Santa Clara,Technology
+161,ConverseNow,2018,>50,92.40,Vinay Shukla,Texas,Austin,Technology
+162,Sunbit,2016,>50,92.38,Arad Levertov,California,Los Angeles,Finance
+163,iCapital,2013,>50,92.34,Lawrence Calcano,New York,New York,Finance
+164,Collective,2018,>50,92.30,Abeer Raza,California,San Francisco,Finance
+165,TekRevol,2020,>50,92.30,Hooman Radfar,California,San Francisco,Business Products & Software Services
+166,Nova Credit,2016,>50,92.28,Misha Esipov,California,San Francisco,Finance
+167,Unstoppable Domains,2018,>50,92.20,Matthew Gould,California,San Francisco,Technology
+168,Upshift,2016,>50,92.20,Steve Anevski,Ohio,Cincinnati,Business Products & Software Services
+169,Glean,2019,>50,92.10,Arvind Jain,California,Palo Alto,Business Products & Software Services
+170,Logiwa,2017,>50,92.01,Erhan Musaoglu,Illinois,Chicago,Technology
+171,Emerge,2017,>50,92.01,Andrew Leto,Arizona,Scottsdale,Transportation & Logistics
+172,Beyond Identity,2020,>50,92.00,Thomas Jermoluk,New York,New York,Lifestyle & Health
+173,Turing AI,2017,>50,92.00,Jonathan Siddharth,California,San Jose,Technology
+174,Cedar,2016,>50,91.93,Florian Otto,New York,New York,Healthcare
+175,Dover,2019,>50,91.80,Max Kolysh,California,San Francisco,Business Products & Software Services
+176,Tovala,2015,>50,91.80,David Rabie,Illinois,Chicago,Lifestyle & Health
+177,Nuro,2016,>50,91.80,Jiajun Zhu,California,Mountain View,Robotics/Engineering
+178,Crossbeam,2018,>50,91.70,Bob Moore,Pennsylvania,Philadelphia,Business Products & Software Services
+179,Pave,2019,>50,91.70,Matt Schulman,California,San Francisco,Business Products & Software Services
+180,Upgrade,2017,>50,91.68,Renaud Laplanche,California,San Francisco,Finance
+181,Lovevery,2017,>50,91.64,Jessica Rolph,Idaho,Boise,Lifestyle & Health
+182,Talos,2018,>50,91.60,Karan Kanwar,New York,New York,Finance
+183,Wing Assistant,2018,>50,91.60,Anton Katz,California,Los Angeles,Business Products & Software Services
+184,Prefect,2018,>50,91.58,Jeremiah Lowin,District of Columbia,Washington,Technology
+185,Brooklinen,2014,>50,91.53,Rich Fulop,New York,Brooklyn,Lifestyle & Health
+186,Vouch Insurance,2018,>50,91.50,Sam Hodges,California,San Francisco,Finance
+187,RentSpree,2016,>50,91.50,Michael Lucarelli,California,Los Angeles,Real Estate
+188,Brex,2017,>50,91.48,Henrique Dubugras,California,San Francisco,Finance
+189,Center,2017,>50,91.41,Naveen Singh,Washington,Bellevue,Finance
+190,Lumu,2019,>50,91.41,Richardo Villadiego,Florida,Doral,Security
+191,Kinsta,2013,>50,91.38,Mark Gavalda,California,Los Angeles,Business Products & Software Services
+192,OpenAI,2015,>50,91.31,Sam Altmann,California,San Francisco,Technology
+193,Vivun,2018,>50,91.31,Matthew Darrow,California,Oakland,Technology
+194,Labelbox,2017,>50,91.26,Manu Sharma,California,San Francisco,Technology
+195,Torch,2017,>50,91.23,Cameron Yarbrough,California,San Francisco,Education & EdTech
+196,Eden Health,2018,>50,91.21,Michael Shaulov,New York,New York,Healthcare
+197,Fireblocks,2016,>50,91.21,Matt McCambridge,New York,New York,Finance
+198,Vanta,2016,>50,91.14,Christina Cacioppo,California,San Francisco,Security
+199,Ad Hoc,2014,>50,91.11,Greg Gershman,District of Columbia,Washington,Business Products & Software Services
+200,Boll & Branch,2014,>50,91.11,Scott Tannen,New Jersey,Summit,Retail
+201,Wrapbook,2018,>50,91.01,Ali Javid,New York,New York,Finance
+202,ChartHop,2019,>50,91.01,Ian White,New York,New York,Business Products & Software Services
+203,Bravado,2017,>50,90.91,Sahil Mansuri,California,San Francisco,Business Products & Software Services
+204,Argyle,2018,>50,90.81,Shmulik Fishman,New York,New York,Business Products & Software Services
+205,Wugen,2018,>50,90.80,Dan Kemp,Michigan,St Louis,Biotechnology & Agriculture
+206,Titan,2018,>50,90.78,Clayton Gardner Joe Percoco,New York,New York,Finance
+207,Lyra Health,2015,>50,90.73,David Ebersman,California,Burlingame,Healthcare
+208,Connectbase,2015,>50,90.71,Ben Edmond,Massachusetts,Westborough,Real Estate
+209,Unit21,2018,>50,90.61,Trisha Kothari,California,San Francisco,Business Products & Software Services
+210,Embark,2015,>50,90.51,Alex Rodriquez,Massachusetts,Boston,Healthcare
+211,Jerry,2017,>50,90.42,Art Agrawal,California,Palo Alto,Finance
+212,Airbase,2017,>50,90.35,Thejo Kote,California,San Francisco,Finance
+213,TIFIN,2018,>50,90.33,Vinay Nair,Colorado,Boudler,Finance
+214,Valor PayTech,2019,>50,90.31,Eric Bernstein,New York,Jericho,Retail
+215,Ermetic,2019,>50,90.21,Shai Morag,Massachusetts,Boston,Technology
+216,Wheel,2018,>50,90.18,Michelle Davey,Texas,Austin,Healthcare
+217,Capital Rx,2017,>50,90.15,Anthony J. Loiacono,New York,New York,Healthcare
+218,ICON,2017,>50,90.15,Jason Ballard,Texas,Austin,Robotics/Engineering
+219,MasterClass,2015,>50,90.13,David Rogier,California,Los Angeles,Education & EdTech
+220,Prisma,2016,>50,90.12,Guliiermo Rauch,California,San Francisco,Business Products & Software Services
+221,MoonPay,2019,>50,90.12,Ivan Soto-Wright,Florida,Miami,Finance
+222,NTWRK,2018,>50,90.04,Aaron Levant,California,Los Angeles,Retail
+223,Owl Labs,2014,>50,90.03,Frank Weishaupt,Massachusetts,Boston,Hardware & Electronics
+224,KoBold Metals,2018,>50,90.02,Kurt House,California,Berkeley,Technology
+225,Humu,2017,>50,90.01,Scott Chancellor,California,Mountain View,Technology
+226,Intellisense Systems,2018,>50,89.92,Frank T. Willis,California,Torrance,Business Products & Software Services
+227,DevRev,2020,>50,89.92,Dheeraj Pandey,California,San Francisco,Technology
+228,Hinge Health,2015,>50,89.75,Daniel Perez,California,San Francisco,Healthcare
+229,Andor Health,2018,>50,89.72,Raj Toleti,Florida,Orlando,Technology
+230,KUDO,2017,>50,89.62,Fardad Zabetian,New York,New York,Business Products & Software Services
+231,Paytient,2018,>50,89.62,Brian Whorley,Missouri,Columbia,Finance
+232,Imubit,2016,>50,89.54,Gilad Cohen,Texas,Houston,Energy & Resources
+233,Hazel Health,2015,>50,89.53,Josh Golomb,California,San Francisco,Healthcare
+234,Otter.ai,2016,>50,89.52,Sam Liang,California,San Francisco,Technology
+235,Avail Car Sharing,2018,>50,89.52,Jason Mathias,Illinois,Chicago,Transportation & Logistics
+236,Wasabi Technologies,2015,>50,89.47,David Friend,Massachusetts,Boston,Technology
+237,Laika,2019,>50,89.42,Sam Li Austin Ogilvie,New York,New York,Business Products & Software Services
+238,Guru,2013,>50,89.37,Rick Nucci,Pennsylvania,Philadelphia,Business Products & Software Services
+239,Facet Wealth,2016,>50,89.32,Anders Jones,Maryland,Baltimore,Finance
+240,Forward,2016,>50,89.28,Adrian Aoun,California,San Francisco,Healthcare
+241,Branch International,2015,>50,89.27,Matthew Flannery,California,San Francisco,Finance
+242,Alloy,2015,>50,89.25,Tommy Nicholas,New York,New York,Finance
+243,Gong,2015,>50,89.23,Amit Bendov,California,San Francisco,Business Products & Software Services
+244,CertiK,2020,>50,89.22,Jeb Terry Jr.,New York,New York,Finance
+245,Cosm,2018,>50,89.22,Zhong Shao,California,Los Angeles,Media & Entertainment
+246,Function of Beauty,2015,>50,89.22,Alexandra Papazian,New York,New York,Lifestyle & Health
+247,Nextbite,2017,>50,89.19,Alex Canter,California,Los Angeles,Hospitality
+248,TakeOff,2016,>50,89.13,Max Pedró,Massachusetts,Waltham,Transportation & Logistics
+249,Housecall Pro,2013,>50,89.13,Michael Beaudoin,Colorado,Denver,Business Products & Software Services
+250,Dewpoint Therapeutics,2018,>50,89.08,Ameet Nathwani,New York,Boston,Biotechnology & Agriculture
+251,Kafene,2019,>50,89.02,Neal Desai,New York,New York,Retail
+252,Bolay Enterprises,2016,>50,89.00,Chris Gannon,Florida,Palm Beach Gardens,Hospitality
+253,SOLO,2018,>50,88.92,Dan Larkin,Utah,Lehi,Business Products & Software Services
+254,Slingshot Aerospace,2017,>50,88.82,Melanie Stricklan,Texas,Austin,Business Products & Software Services
+255,Well,2019,>50,88.82,Gary Loveman,North Carolina,Chapel Hill,Technology
+256,Airspace,2016,>50,88.82,Nicholas Bulcao,California,Carlsbad,Transportation & Logistics
+257,Quantum Metric,2015,>50,88.80,Mario Ciabarra,Colorado,Colorado Springs,Technology
+258,Visible Alpha,2015,>50,88.73,Mark Hale,New York,New York,Technology
+259,Gopuff,2013,>50,88.63,Rafael Ilishayev,Pennsylvania,Philadelphia,Retail
+260,Cart.com,2020,>50,88.63,Omair Tariq,Texas,Austin,Business Products & Software Services
+261,SurveySparrow,2017,>50,88.63,Shihab Muhammed,California,Walnut,Business Products & Software Services
+262,TaskHuman,2017,>50,88.54,Ravi Swaminathan,California,Palo Alto,Business Products & Software Services
+263,Alt,2020,>50,88.53,Leore Avidar,California,San Francisco,Finance
+264,Trainual,2018,>50,88.37,Chris Ronzio,Arizona,Scottsdale,Business Products & Software Services
+265,Rec Room,2016,>50,88.33,Nick Fajit,Washington,Seattle,Business Products & Software Services
+266,CareRev,2015,>50,88.32,William Patterson,California,Los Angeles,Healthcare
+267,Grafana Labs,2014,>50,88.23,Raj Dutt,New York,New York,Business Products & Software Services
+268,Howdy,2018,>50,88.23,Jacqueline Samira,Texas,Austin,Business Products & Software Services
+269,Shopmonkey,2016,>50,88.21,Ashot Iskandarian,California,San Jose,Business Products & Software Services
+270,Vestwell,2016,>50,88.21,Aaron Schumm,New York,New York,Finance
+271,Sensor Tower,2013,>50,88.15,Alexey Malafeev,California,San Francisco,Business Products & Software Services
+272,Coursedog,2018,>50,88.06,Justin Wenig,New York,New York,Education & EdTech
+273,Oorwin,2017,>50,88.03,Swami Kakarla,Texas,Southlake,Technology
+274,Hungryroot,2015,>50,88.02,Ben McKean,New York,New York,Lifestyle & Health
+275,Kindbody,2018,>50,88.02,Gina Bartasi,New York,New York,Healthcare
+276,Securitize,2017,>50,88.01,Carlos Domingo,California,San Francisco,Finance
+277,Thirty Madison,2017,>50,88.00,Steven Gutentag,New York,New York,Healthcare
+278,WelbeHealth,2015,>50,87.94,Si France,California,Menlo Park,Healthcare
+279,Veryable,2016,>50,87.93,Mike Kinder,Texas,Dallas,Manufacturing
+280,Epirus,2018,>50,87.93,Ken Bedingfield,California,Hawthorne,Business Products & Software Services
+281,Saltmine,2017,>50,87.93,Shagufta Anurag,California,San Francisco,Real Estate
+282,CreatorIQ,2014,>50,87.89,Igor Vaks,California,Culver City,Advertising & Marketing
+283,Neuralink,2016,>50,87.86,Elon Musk,California,Fremont,Healthcare
+284,Element Biosciences,2017,>50,87.84,Molly He,California,San Diego,Biotechnology & Agriculture
+285,Buyers Edge Platform,2018,>50,87.83,John Davie,Massachusetts,Waltham,Hospitality
+286,Outreach,2014,>50,87.77,Manny Medina,Washington,Seattle,Business Products & Software Services
+287,Brave,2015,>50,87.74,Brendan Eich,California,San Francisco,Business Products & Software Services
+288,Hevo Data,2017,>50,87.73,Manish Jethani,California,San Francisco,Business Products & Software Services
+289,ClickUp,2016,>50,87.73,Zeb Evans,California,San Diego,Business Products & Software Services
+290,Uplift,2014,>50,87.67,Brian Barth,California,Sunnyvale,Finance
+291,Honor,2014,>50,87.63,Seth Sternberg,California,Concord,Healthcare
+292,StockX,2015,>50,87.56,Scott Cuttler,Michigan,Detroit,Retail
+293,Vesta Healthcare,2018,>50,87.53,Randall Klein,New York,New York,Healthcare
+294,Unqork,2017,>50,87.51,Gary Hoberman,New York,New York,Business Products & Software Services
+295,Rippling,2016,>50,87.50,Parker Conrad,California,San Francisco,Business Products & Software Services
+296,ThirdLove,2013,>50,87.47,Heidi Zak,California,San Francisco,Retail
+297,Gorgias,2015,>50,87.44,Romain Lapeyre,California,San Francisco,Business Products & Software Services
+298,BrightInsight,2017,>50,87.34,Kal Patel,California,Sunnyvale,Healthcare
+299,Shield AI,2015,>50,87.33,Ryan Tseng,California,San Diego,Technology
+300,Rhino,2017,>50,87.31,Paraag Sarva,New York,New York,Real Estate
+301,Sila,2018,>50,87.24,Shamir Karkal,Oregon,Portland,Finance
+302,Sonrai Security,2017,>50,87.19,Brendan Hannigan,New York,New York,Security
+303,Altruist,2018,>50,87.15,Jason Wenk,California,Los Angeles,Finance
+304,Empower,2015,>50,87.14,Wayne Slavin,California,San Francisco,Finance
+305,Sure,2016,>50,87.14,Warren Hogarth,New York,New York,Finance
+306,RapidAPI,2015,>50,87.07,Iddo Gino,California,San Francisco,Technology
+307,AKASA,2018,>50,87.00,Malinka Walaliyadde,California,South San Francisco,Healthcare
+308,Ontra,2014,>50,86.97,Troy Pospisil,California,San Francisco,Business Products & Software Services
+309,Groq,2016,>50,86.95,Jonathan Ross,California,Mountain View,Hardware & Electronics
+310,Us In Technology,2020,>50,86.84,Kendrick Trotter,California,San Francisco,Business Products & Software Services
+311,SOC Prime,2015,>50,86.84,Andrii Bezverkhyi,Massachusetts,Boston,Security
+312,ConcertAI,2018,>50,86.78,Jeff Elton,Massachusetts,Cambridge,Healthcare
+313,IntelyCare,2014,>50,86.74,David Coppins,Massachusetts,Quincy,Healthcare
+314,Spekit,2018,>50,86.64,Melanie Fellay,Colorado,Denver,Business Products & Software Services
+315,SLPTELE,2019,>50,86.54,Amit Dhir,California,WoodlandHills,Healthcare
+316,Parallel,2014,>50,86.48,William Wrigley,Georgia,Atlanta,Lifestyle & Health
+317,Vim,2015,>50,86.44,Oron Afek,New York,New York,Healthcare
+318,Freenome,2014,>50,86.38,Mike Nolan,California,San Francisco,Biotechnology & Agriculture
+319,SafeGraph,2016,>50,86.37,Auren Hoffman,Colorado,Denver,Technology
+320,Openly,2017,>50,86.34,Ty Harris,Massachusetts,Boston,Finance
+321,CaptivateIQ,2017,>50,86.34,Mark Shopmeyer,California,San Francisco,Business Products & Software Services
+322,Scale Media,2013,>50,86.28,Ben Flohr,California,Sherman Oaks,Media & Entertainment
+323,Odeko,2019,>50,86.24,Dane Atkinson,New York,New York,Business Products & Software Services
+324,Patreon,2013,>50,86.20,Jack Conte,California,San Francisco,Media & Entertainment
+325,Convex,2017,>50,86.15,Paul Brand,California,San Francisco,Business Products & Software Services
+326,Abacum,2020,>50,86.15,Julio Martínez,New York,New York,Finance
+327,Profit.co,2018,>50,86.15,Bastian Gerald,California,Fremont,Business Products & Software Services
+328,Alkira,2018,>50,86.10,Amir Khan,California,San Jose,Technology
+329,Homeward,2018,>50,86.06,Tim Heyl,Texas,Austin,Real Estate
+330,May Mobility,2017,>50,86.05,Edwin Olson,Michigan,Ann Arbor,Transportation & Logistics
+331,Luna,2018,>50,86.05,Palak Shah,California,Menlo Park,Lifestyle & Health
+332,Alloy Therapeutics,2017,>50,85.97,Errik Anderson,Massachusetts,Boston,Biotechnology & Agriculture
+333,Mighty Networks,2019,>50,85.95,Evan DeSantola,California,Palo Alto,Retail
+334,Agot.AI,2017,>50,85.95,Gina Bianchini,Pennsylvania,Pittsburgh,Technology
+335,Cerebras Systems,2016,>50,85.85,Andrew Feldman,California,Sunnyvale,Technology
+336,TripActions,2015,>50,85.84,Ariel Cohen,California,Palo Alto,Business Products & Software Services
+337,Next Insurance,2016,>50,85.82,Guy Goldstein,California,Palo Alto,Finance
+338,Vercel,2015,>50,85.78,Guillermo Rauch,California,San Francisco,Business Products & Software Services
+339,Gradiant,2013,>50,85.75,Anurag Bajpayee,Massachusetts,Woburn,Energy & Resources
+340,Percent,2018,>50,85.75,Nelson Chu,New York,New York,Finance
+341,Beta Technologies,2017,>50,85.65,Kyle Clark,Vermont,Burlington,Robotics/Engineering
+342,acceldata,2018,>50,85.55,Liz Giorgi,California,San Jose,Business Products & Software Services
+343,soona,2018,>50,85.55,Rohit Choudhary,Colorado,Denver,Media & Entertainment
+344,Zwift,2014,>50,85.51,Eric Min,California,Long Beach,Lifestyle & Health
+345,Hatch,2014,>50,85.45,Chris Bache,California,Menlo Park,Finance
+346,Splash Financial,2015,>50,85.37,Steven Muszynski,Ohio,Cleveland,Finance
+347,MaintainX,2019,>50,85.35,Pouyan Salehi,California,San Francisco,Business Products & Software Services
+348,Scratchpad,2018,>50,85.35,Chris Turlica,California,San Francisco,Business Products & Software Services
+349,Cityblock Health,2017,>50,85.32,Toyin Ajayi,New York,Brooklyn,Healthcare
+350,Stord,2018,>50,85.25,Brendan O'Connor,Georgia,Atlanta,Transportation & Logistics
+351,AppOmni,2015,>50,85.25,Sean Henry,California,San Francisco,Security
+352,Fairmarkit,2017,>50,85.25,Kevin Frechette,Massachusetts,Boston,Business Products & Software Services
+353,Slync.io,2017,>50,85.19,John Urban,Texas,Dallas,Business Products & Software Services
+354,ProbablyMonsters,2016,>50,85.17,Harold Ryan,Washington,Bellevue,Media & Entertainment
+355,Paperflite,2016,>50,85.15,Vinoth Kumar,Delaware,Wyoming,Business Products & Software Services
+356,GrowthSpace,2018,>50,85.05,Omer Glass,New York,New York,Education & EdTech
+357,Anduril Industries,2017,>50,84.87,Brian Schimpf,California,Orange County,Robotics/Engineering
+358,Sigma Computing,2014,>50,84.86,Mike Palmer,California,San Francisco,Business Products & Software Services
+359,OctoML,2019,>50,84.86,Luis Ceze,Washington,Seattle,Technology
+360,Stardog,2015,>50,84.83,Kendall Clark,Virginia,Arlington,Business Products & Software Services
+361,Substack,2017,>50,84.79,Chris Best,California,San Francisco,Media & Entertainment
+362,The Lifetime Value,2007,>50,84.76,Josh Levy,New York,New York,Business Products & Software Services
+363,Mojo Vision,2015,>50,84.66,Drew Perkins,California,Saratoga,Technology
+364,Cartessa Aesthetics,2017,>50,84.66,Gabe Lubin,New York,New York,Healthcare
+365,Genies,2017,>50,84.50,Akash Nigam,California,Los Angeles,Media & Entertainment
+366,Dremio,2015,>50,84.46,Billy Bosworth,California,Santa Clara,Business Products & Software Services
+367,Entera,2018,>50,84.46,Martin Kay,New York,New York,Real Estate
+368,DataGrail,2018,>50,84.36,Daniel Barber,California,San Francisco,Security
+369,Orca Security,2019,>50,84.36,Avi Shua,Oregon,Portland,Security
+370,Osso VR,2016,>50,84.35,Justin Barad,California,San Francisco,Healthcare
+371,Databricks,2013,>50,84.35,Ali Ghodsi,California,San Francisco,Technology
+372,Printify,2015,>50,84.34,James Janis Berdigans,California,San Francisco,Retail
+373,Immunai,2018,>50,84.26,Noam Solomon,New York,New York,Biotechnology & Agriculture
+374,Cover Whale,2019,>50,84.16,Daniel Abrahamse,New York,New York,Finance
+375,Outrider,2017,>50,84.06,Andrew Smith,Colorado,Golden,Technology
+376,Dispatch IT,2016,>50,83.96,Andrew Leone,Minnesota,Bloomington,Business Products & Software Services
+377,Metropolis,2017,>50,83.96,Alexander Israel,California,Los Angeles,Technology
+378,Neostella,2017,>50,83.96,Bill Shufelt,Wisconsin,Milwaukee,Business Products & Software Services
+379,Athletic Brewing,2019,>50,83.96,Matthew Lautz,Connecticut,Stratford,Lifestyle & Health
+380,Plaid,2013,>50,83.86,Zachary Perret,California,San Francisco,Finance
+381,Standard Cognition,2017,>50,83.86,Jordan Fisher,California,San Francisco,Technology
+382,Alma,2018,>50,83.83,Harry Ritter,New York,Brooklyn,Healthcare
+383,Viz,2016,>50,83.69,Chris Mansi,California,San Francisco,Healthcare
+384,Fluxon,2017,>50,83.66,Erad Fridman,California,San Francisco,Business Products & Software Services
+385,Vector,2014,>50,83.66,Will Chu,California,San Francisco,Business Products & Software Services
+386,6K,2014,>50,83.62,Aaron Bent,Massachusetts,North Andover,Manufacturing
+387,Lightship,2018,>50,83.54,David MacMurchy,California,El Segundo,Healthcare
+388,Lumio Dental,2014,>50,83.47,Mike McInelly,Oklahoma,Jenks,Healthcare
+389,BrightPlan,2015,>50,83.47,Marthin De Beer,California,San Jose,Healthcare
+390,Solid,2018,>50,83.37,Arjun Thyagarajan,California,San Mateo,Finance
+391,Yardzen,2018,>50,83.37,Allison Messner,California,Sausalito,Retail
+392,Zuum Transportation,2016,>50,83.32,Mustafa Azizi,California,Irvine,Transportation & Logistics
+393,DISQO,2015,>50,83.24,Armen Adjemian,California,Glendale,Technology
+394,Tripalink,2016,>50,83.19,Donghao Li,California,Los Angeles,Real Estate
+395,LightBox,2018,>50,83.17,Eric Frank,New York,New York,Business Products & Software Services
+396,Twelve,2015,>50,83.17,Nicholas Flanders,California,Berkeley,Energy & Resources
+397,Gloat,2015,>50,83.05,Ben Reuveni,New York,New York,Business Products & Software Services
+398,Lokalise,2017,>50,82.97,Nick Ustinov,Delaware,Dover,Business Products & Software Services
+399,Thrive Global,2016,>50,82.91,Arianna Huffington,New York,New York,Healthcare
+400,Netradyne,2015,>50,82.77,Avneesh Agrawal,California,San Diego,Technology
+401,Kaia Health,2016,>50,82.75,Konstantin Mehl,New York,Brooklyn,Healthcare
+402,Nebulon,2018,>50,82.67,Siamak Nazari,California,Fremont,Technology
+403,Anchorage,2017,>50,82.58,Nathan McCauley,California,San Francisco,Finance
+404,Placer.ai,2017,>50,82.57,Robert Rose,California,Los Altos,Technology
+405,Reliable Robotics Corporation,2016,>50,82.57,Noam Ben-Zvi,California,Mountain View,Transportation & Logistics
+406,Ridgeline International,2015,>50,82.55,Erik Wittreich,Virginia,Tysons Corner,Business Products & Software Services
+407,Esusu Financial,2016,>50,82.47,Samir Goel,New York,New York,Finance
+408,Machnet,2018,>50,82.47,Ashish Shrestha,California,Santa Clara,Finance
+409,Pangaea,2018,>50,82.44,Richard Hong Darwish Gani,California,Los Angeles,Advertising & Marketing
+410,Simpplr,2014,>50,82.38,Dhiraj Sharma,California,Redwood City,Business Products & Software Services
+411,FileCloud,2016,>50,82.37,Ray Downes,Texas,Austin,Security
+412,Cortica,2014,>50,82.22,Neil Hattangadi,California,San Diego,Healthcare
+413,VidMob,2015,>50,82.20,Alex Collmer,New York,New York,Technology
+414,NutriSense,2019,>50,82.18,Alex Skryl,Illinois,Chicago,Lifestyle & Health
+415,Zip,2020,>50,82.18,Rujul Zaparde,California,San Francisco,Business Products & Software Services
+416,Mynd,2016,>50,82.14,Doug Brien,California,Oakland,Real Estate
+417,Lendbuzz,2015,>50,82.11,Amitay Kalmar,Massachusetts,Boston,Finance
+418,Gatik,2017,>50,82.10,Gautam Narang,California,Mountain View,Robotics/Engineering
+419,Diligent Robotics,2017,>50,82.08,Andrea Thomaz,Texas,Austin,Technology
+420,Observe.AI,2017,>50,82.08,Swapnil Jain,California,San Francisco,Technology
+421,Lacework,2015,>50,82.02,David Hatfield,California,San Jose,Security
+422,Calendly,2013,>50,82.01,Tope Awotona,Georgia,Atlanta,Business Products & Software Services
+423,Guild Education,2015,>50,81.98,Rachel Romer,Colorado,Denver,Education & EdTech
+424,Lexion,2019,>50,81.98,Gaurav Oberoi,Washington,Northlake Way,Technology
+425,Veo,2017,>50,81.92,Candice Xie,California,Santa Monica,Transportation & Logistics
+426,Yugabyte,2016,>50,81.88,Kannan Muthukkaruppan,California,Sunnyvale,Technology
+427,Panorays,2016,>50,81.81,Matan Or-El,New York,New York,Security
+428,Flatfile,2019,>50,81.78,Blair Silverberg,Colorado,Denver,Business Products & Software Services
+429,Hum Capital,2018,>50,81.78,David Boskovic,New York,New York,Finance
+430,Cowbell Cyber,2019,>50,81.68,Jack Kudale,California,San Francisco,Technology
+431,HqO,2018,>50,81.58,Chase Garbarino,Massachusetts,Boston,Real Estate
+432,Vastek,2015,>50,81.58,Vikash Mishra,California,San Diego,Healthcare
+433,1Kosmos,2018,>50,81.58,Hemen Vimadalal,New Jersey,Somerset,Security
+434,BuildOps,2018,>50,81.48,Raghu Yarlagadda,California,Santa Monica,Real Estate
+435,FalconX,2018,>50,81.48,Alok Chanani,California,San Mateo,Finance
+436,Higher Ground Education,2016,>50,81.48,Ray Girn,California,Lake Forest,Education & EdTech
+437,CloudTrucks,2019,>50,81.38,Tobenna Arodiogbu,California,San Francisco,Transportation & Logistics
+438,WYLD,2016,>50,81.38,Aaron Morris,Oregon,Clackamas,Lifestyle & Health
+439,Flex,2019,>50,81.28,Shragie Lichtenstein,New York,New York,Finance
+440,Career Karma,2018,>50,81.28,Ruben Harris,California,San Francisco,Education & EdTech
+441,Kasa Living,2015,>50,81.25,Roman Pedan,California,San Francisco,Real Estate
+442,Cyble,2019,>50,81.08,Beenu Arora,Georgia,Alpharetta,Security
+443,Sundae,2018,>50,80.96,Josh Stech,California,San Francisco,Real Estate
+444,Jane Technologies,2015,>50,80.93,Socrates Rosenfeld,California,Santa Cruz,Retail
+445,TetraScience,2014,>50,80.79,Patrick Grady,Massachusetts,Boston,Technology
+446,Rivery.io,2018,>50,80.79,Itamar Ben Hemo,New York,New York,Business Products & Software Services
+447,R3,2014,>50,80.78,David Rutter,New York,New York,Business Products & Software Services
+448,Spiff,2017,>50,80.69,Jeron Paul,Utah,Sandy,Finance
+449,LoanPro,2016,>50,80.59,Rhett Roberts,Utah,Farmington,Finance
+450,Vibe,2016,>50,80.49,Charles Yang,Washington,Seattle,Business Products & Software Services
+451,SuperAnnotate,2018,>50,80.49,Tigran Petrosyan,California,San Francisco,Technology
+452,AMP Robotics,2015,>50,80.41,Matanya Horowitz,Colorado,Louisville,Robotics/Engineering
+453,Instabase,2015,>50,80.34,Anant Bhardwaj,California,San Francisco,Technology
+454,KlearNow,2018,>50,80.29,Sam Tyagi,California,Santa Clara,Business Products & Software Services
+455,Dexterity,2017,>50,80.24,Samir Menon,California,Redwood City,Robotics/Engineering
+456,Validity,2018,>50,80.20,Mark Briggs,Massachusetts,Cambridge,Advertising & Marketing
+457,Extend,2017,>50,80.19,Woodrow H. Levin,New York,New York,Finance
+458,Interplay Learning,2016,>50,80.19,Doug Donovan,Texas,Austin,Education & EdTech
+459,Dusty Robotics,2018,>50,80.19,Tessa Lau,California,Mountain View,Robotics/Engineering
+460,Bitcare,2019,>50,80.09,Dr. Florian Kohlmayer Andreas Lehmann,Texas,Plano,Lifestyle & Health
+461,Digbi Health,2018,>50,80.09,Ranjan Sinha,California,Mountain View,Healthcare
+462,Vajro,2016,>50,80.09,Baskar Agneeswaran,Texas,Irving,Business Products & Software Services
+463,TomoCredit,2018,>50,79.99,Kristy Kim,California,San Francisco,Finance
+464,Wonolo,2014,>50,79.99,Yong Kim,California,San Francisco,Business Products & Software Services
+465,Daily Harvest,2015,>50,79.99,Rachel Drori,New York,New York,Lifestyle & Health
+466,Measurabl,2013,>50,79.93,Matt Ellis,California,San Diego,Real Estate
+467,Ro,2017,>50,79.89,Zachariah Reitano,New York,New York,Healthcare
+468,REPS & Co.,2017,>50,79.89,Ryan T. Pancheri,California,San Diego,Business Products & Software Services
+469,Stampli,2015,>50,79.86,Eyal Feldman,California,Mountain View,Business Products & Software Services
+470,Bear Robotics,2017,>50,79.81,John Ha,California,Redwood City,Robotics/Engineering
+471,Snorkel AI,2019,>50,79.79,Alexander Ratner,California,Redwood City,Technology
+472,Nightfall AI,2018,>50,79.69,Isaac Madan,California,San Francisco,Technology
+473,Astranis,2015,>50,79.69,John Gedmark,California,San Francisco,Robotics/Engineering
+474,Honeycomb,2016,>50,79.61,Christine Yen,California,San Francisco,Technology
+475,Uptycs,2016,>50,79.60,Ganesh Pai,Massachusetts,Waltham,Security
+476,Boom Supersonic,2014,>50,79.52,Blake Scholl,Colorado,Centennial,Transportation & Logistics
+477,Proactive MD,2016,>50,79.33,John Collier,South Carolina,Mauldin,Healthcare
+478,Prime Trust,2016,>50,79.32,Scott Purcell,Nevada,Summerlin,Finance
+479,Humane,2017,>50,79.30,Bethany Bongiorno,California,San Francisco,Hardware & Electronics
+480,Brave Health,2017,>50,79.30,Anna Lindow,Florida,Miami,Healthcare
+481,Wyze Labs,2017,>50,79.20,Yun Zhang,Washington,Seattle,Robotics/Engineering
+482,Chime,2013,>50,78.95,Chris Britt,California,San Francisco,Finance
+483,Amperity,2016,>50,78.93,Kabir Shahani,Washington,Seattle,Business Products & Software Services
+484,STRIVR,2015,>50,78.90,Derek Belch,California,San Francisco,Business Products & Software Services
+485,Aurora Solar,2013,>50,78.89,Christopher Hopper,California,San Francisco,Business Products & Software Services
+486,Lucence Health,2016,>50,78.86,Min-Han Tan,California,Palo Alto,Healthcare
+487,Class Technologies,2020,>50,78.80,Michael Chasen,District of Columbia,Washington,Business Products & Software Services
+488,AcreTrader,2018,>50,78.70,Carter Mallory,Arkansas,Fayetteville,Finance
+489,Liquidity,2018,>50,78.70,Ron Daniel,New York,New York,Finance
+490,insitro,2018,>50,78.68,Daphne Koller,California,San Francisco,Biotechnology & Agriculture
+491,LogicGate,2015,>50,78.60,Matt Kunkel,Illinois,Chicago,Technology
+492,Shipwell,2016,>50,78.58,Gregory Price,Texas,Austin,Transportation & Logistics
+493,Luma Health,2015,>50,78.55,Adnan Iqbal,California,San Mateo,Healthcare
+494,Astronomer,2018,>50,78.50,Joe Otter,Ohio,Cincinnati,Technology
+495,Autonomous,2015,>50,78.37,Duy Huynh,California,Riverside,Lifestyle & Health
+496,EquipmentShare,2014,>50,78.31,William Schlacks,Missouri,Columbia,Retail
+497,Verishop,2018,>50,78.30,Sharad Verma,California,Santa Monica,Retail
+498,BoostUp.ai,2018,>50,78.30,Imran Khan,California,Santa Clara,Business Products & Software Services
+499,Tech9,2015,>50,78.21,Nick Stice,Utah,Draper,Business Products & Software Services
+500,Evolv AI,2019,>50,78.21,Michael Scharff,California,San Francisco,Technology

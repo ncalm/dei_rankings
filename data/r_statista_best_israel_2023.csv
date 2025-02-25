@@ -1,0 +1,151 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Google,2005,"1,001 - 5,000",8.99,Barak Regev,Tel Aviv District,Tel Aviv,"Internet, eCommerce & Gaming"
+2,Microsoft,1989,"1,001 - 5,000",8.43,Alon Haimovich,Central District,Ra'anana,IT & Software
+3,Intel,1974,"10,001 - 50,000",8.26,Yaniv Garty,Haifa District,Haifa,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+4,Meta,2013,>200,8.21,Adi Soffer Teeni,Tel Aviv District,Tel Aviv,"Internet, eCommerce & Gaming"
+5,SAP,1998,"501 - 1,000",8.20,Stavit Navon,Central District,Ra'anana,IT & Software
+6,IBM,1972,"1,001 - 5,000",8.09,Shay Benaim,Central District,Petah Tikva,IT & Software
+7,Tidhar Group,1993,"501 - 1,000",8.04,Udi Sharvit,Central District,Ra'anana,Construction & Real Estate
+8,ISR - Israel Railways,1948,"1,001 - 5,000",8.04,Michael Mikesner,Central District,Lod,Aviation & Transportation
+9,Ezer Mizion,1979,>200,8.01,Rabbi Chananya Chullk,Tel Aviv District,Bnei Brak,Health & Social
+10,Apple,2011,"1,001 - 5,000",7.94,Rony Friedman,Tel Aviv District,Herzliya,IT & Software
+11,Wix,2006,"1,001 - 5,000",7.91,Avishai Abrahami,Tel Aviv District,Tel Aviv,"Internet, eCommerce & Gaming"
+12,Dell,2010,>200,7.87,Lior Pony,Tel Aviv District,Herzliya,Retail
+13,Tmura Insurance Agency,1987,201 - 500,7.87,Akiva Kleiman,Central District,Hod Hasharon,"Financial Services, Fintech & Insurances"
+14,Eden Teva Market,2003,>200,7.82,Haggai Shalom,Central District,Emek Hefer,SuperMarkets
+15,Applied Materials,1999,"1,001 - 5,000",7.77,Rafael (Rafi) Benami,Central District,Rehovot,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+16,eBay,2005,201 - 500,7.74,Amir Di-Nur,Central District,Netanya,"Internet, eCommerce & Gaming"
+17,ZIM,1945,"501 - 1,000",7.74,Eli Glickman,Haifa District,Haifa,Aviation & Transportation
+18,Cisco,1997,201 - 500,7.73,Oren Sagi,Central District,Netanya,Telecommunications
+19,Amazon,2013,"1,001 - 5,000",7.71,Eyal Itah; Yoelle Maarek,Tel Aviv District,Tel Aviv,"Internet, eCommerce & Gaming"
+20,Elbit Systems,1996,"10,001 - 50,000",7.69,Bezhalel Butzi Machlis,Haifa District,Haifa,Defence Industry
+21,Hamat,1944,51 - 200,7.68,Nir Klein,Southern District,Ashdod,Retail
+22,Strauss Group,1933,"5,001 - 10,000",7.67,Giora Bardea,Central District,Petah Tikva,Consumer Goods
+23,SQLink Group,1994,"1,001 - 5,000",7.64,Tamir Goren,Tel Aviv District,Ramat Gan,IT & Software
+24,Tnuva,1926,"5,001 - 10,000",7.63,Eyal Malis,Central District,Petah Tikva,Consumer Goods
+25,Gloat,2015,201 - 500,7.59,Ben Reuveni,Tel Aviv District,Tel Aviv,IT & Software
+26,Shikun & Binui,1924,"1,001 - 5,000",7.59,Tamir Cohen,Central District,Airport City,Construction & Real Estate
+27,Clalit Health Services,1911,"10,001 - 50,000",7.58,Ehud Davidson,Tel Aviv District,Tel Aviv,Health & Social
+28,Harel Insurance,1982,"1,001 - 5,000",7.55,Michel Siboni,Tel Aviv District,Ramat Gan,"Financial Services, Fintech & Insurances"
+29,Weizmann Institute of Science,1934,"1,001 - 5,000",7.55,Alon Chen,Central District,Rehovot,Education & Research
+30,Mobileye,1999,"1,001 - 5,000",7.53,Amnon Shashua,Jerusalem District,Jerusalem,Automotive & Auto Tech
+31,Check Point Software,1993,"1,001 - 5,000",7.50,Gil Shwed,Tel Aviv District,Tel Aviv,"Cyber Security, Data & Analytics"
+32,Clal Insurance,1987,"1,001 - 5,000",7.50,Yoram Naveh,Tel Aviv District,Tel Aviv,"Financial Services, Fintech & Insurances"
+33,IEC - Israel Electric Corporation,1923,"10,001 - 50,000",7.49,Ram Erlichman,Haifa District,Haifa,Utilities
+34,Israel Aerospace Industries,1953,"10,001 - 50,000",7.47,Boaz Levy,Central District,Lod,Defence Industry
+35,KPMG,1922,"1,001 - 5,000",7.46,Gad Somekh,Tel Aviv District,Tel Aviv,"Professional Services (incl. Consulting, Law, Accounting)"
+36,Electra,1945,>200,7.45,Itamar Deutscher,Central District,Rishon LeZion,Holding Companies
+37,Amdocs,1987,"1,001 - 5,000",7.43,Shay Levy,Central District,Ra'anana,IT & Software
+38,Partner,1999,"1,001 - 5,000",7.43,Avi Gabay,Central District,Rosh HaAyin,Telecommunications
+39,Abra Information Technologies,1997,"501 - 1,000",7.42,Shai Ozon,Central District,Kfar Saba,IT & Software
+40,BMC Software,1983,201 - 500,7.41,Ayman Sayed,Tel Aviv District,Tel Aviv,"Cyber Security, Data & Analytics"
+41,NVIDIA,2016,"1,001 - 5,000",7.40,Jensen Huang,Tel Aviv District,Tel Aviv,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+42,Pizza Hut,1990,"1,001 - 5,000",7.40,Shmulik Baruch,Tel Aviv District,Herzliya,"Travel, Restaurants & Leisure"
+43,Johnson & Johnson,1972,"501 - 1,000",7.39,Joaquin Duato,Central District,Shefayim,"Biotechnology , Pharmaceuticals & Med-Tech"
+44,Align Technology,1997,201 - 500,7.39,Joseph M. Hogan,Central District,Petah Tikva,Health & Social
+45,Meitar | Law Offices,1962,201 - 500,7.39,No data,Tel Aviv District,Ramat Gan,"Professional Services (incl. Consulting, Law, Accounting)"
+46,Solaredge,2006,"1,001 - 5,000",7.38,Zvi Lando,Tel Aviv District,Herzliya,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+47,GE - General Electric,1892,>200,7.37,Nissim Zvili,Tel Aviv District,Tel Aviv,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+48,Delek,1951,"1,001 - 5,000",7.36,Yoram Eyal,Central District,Yakum,"Oil & Gas Operations, Mining & Chemicals"
+49,Shlomo Group,1974,"1,001 - 5,000",7.36,Eyal Gur,Central District,Tzrifin,Holding Companies
+50,Ayalon Insurances,1976,"1,001 - 5,000",7.35,Sharon Reich,Tel Aviv District,Ramat Gan,"Financial Services, Fintech & Insurances"
+51,IKEA,2001,>200,7.34,Shuki Koblenz,Central District,Netanya,Retail
+52,Bank of Israel,1954,"501 - 1,000",7.33,Prof. Amir Yaron​,Jerusalem District,Jerusalem,Public Institutions
+53,Magen David Adom,1930,"1,001 - 5,000",7.29,Eli bin,Tel Aviv District,Or Yehuda,Health & Social
+54,Ivory Computers,1991,201 - 500,7.28,Eyal Druckman,Central District,Petah Tikva,Retail
+55,Riskified,2012,>200,7.26,Eido Gal,Tel Aviv District,Tel Aviv,"Cyber Security, Data & Analytics"
+56,Gett,2010,201 - 500,7.26,Shahar Waiser,Tel Aviv District,Tel Aviv,"Travel, Restaurants & Leisure"
+57,Rafael Advanced Defense Systems,1948,"5,001 - 10,000",7.24,Yoav Har-Even,Haifa District,Haifa,Defence Industry
+58,El Al,1948,"1,001 - 5,000",7.24,Dina Ben Tal Ganancia,Central District,Lod,Aviation & Transportation
+59,Bio-technology General,1980,201 - 500,7.24,Tal Levy,Southern District,Be'er Tuvia,"Biotechnology , Pharmaceuticals & Med-Tech"
+60,Bezalel Academy of Arts and Design Jerusalem,1906,"501 - 1,000",7.23,Adi Stern,Jerusalem District,Jerusalem,Education & Research
+61,Medtronic,1974,"501 - 1,000",7.22,Arik Corcos,Tel Aviv District,Herzliya,"Biotechnology , Pharmaceuticals & Med-Tech"
+62,Isracard Group,1975,"1,001 - 5,000",7.21,Ran Oz,Tel Aviv District,Bnei Brak,"Financial Services, Fintech & Insurances"
+63,AT&T,2007,"501 - 1,000",7.19,Nataly Kremer,Central District,Airport City,IT & Software
+64,Matrix,2001,"10,001 - 50,000",7.19,Moti Gutman,Tel Aviv District,Herzliya,IT & Software
+65,Jerusalem College of Engineering,1999,"501 - 1,000",7.18,Rosa Azhari,Jerusalem District,Jerusalem,Education & Research
+66,Menora Mivtachim Insurance,1995,"1,001 - 5,000",7.18,Yehuda Ben-Assayag​,Tel Aviv District,Ramat Gan,"Financial Services, Fintech & Insurances"
+67,Ackerstein,1925,"501 - 1,000",7.17,Doron Sela,Tel Aviv District,Herzliya,"Engineering, Manufacturing & Industrial Goods"
+68,Levinsky College of Education,1912,"501 - 1,000",7.16,Michal Beller,Tel Aviv District,Tel Aviv,Education & Research
+69,Kidum,1981,"501 - 1,000",7.15,Hadas Dilion,Tel Aviv District,Holon,Education & Research
+70,Arkia,1949,201 - 500,7.14,Gadi Tefer,Tel Aviv District,Bnei Brak,Aviation & Transportation
+71,Hebrew University of Jerusalem,1918,"5,001 - 10,000",7.11,Asher Cohen,Jerusalem District,Jerusalem,Education & Research
+72,Unilever,1938,"1,001 - 5,000",7.10,Anat Gabriel,Central District,Airport City,Consumer Goods
+73,General Motors,2008,"501 - 1,000",7.09,Gil Golan,Tel Aviv District,Herzliya,Automotive & Auto Tech
+74,Log-on Software,1983,"501 - 1,000",7.09,Joseph Segev; Gil Migdan,Tel Aviv District,Ramat Gan,IT & Software
+75,L'Oréal,1989,"1,001 - 5,000",7.08,Elie Sagiv,Central District,Netanya,Consumer Goods
+76,ironSource,2010,"501 - 1,000",7.08,Tomer Bar-Zeev,Tel Aviv District,Tel Aviv,"Cyber Security, Data & Analytics"
+77,Egged Taavura,2006,>200,7.08,Lior Popovich,Central District,Rosh HaAyin,Aviation & Transportation
+78,Bar Ilan University,1955,"5,001 - 10,000",7.08,Arie Zaban,Tel Aviv District,Ramat Gan,Education & Research
+79,Champion Motors,1965,201 - 500,7.05,Dan Orenstein,Tel Aviv District,Bnei Brak,Automotive & Auto Tech
+80,Wolt,2018,"501 - 1,000",7.05,Lior Eshkol,Tel Aviv District,Tel Aviv,Aviation & Transportation
+81,SodaStream,1903,"1,001 - 5,000",7.03,Eyal Shohat,Central District,Kfar Saba,Consumer Goods
+82,Arad Group,1941,"501 - 1,000",7.02,Gabi Yankovitz,Northern District,Dalia,Utilities
+83,Migdal Group,1934,"1,001 - 5,000",7.02,Sagi Yogev,Central District,Petah Tikva,"Financial Services, Fintech & Insurances"
+84,Mekorot,1937,"1,001 - 5,000",7.02,Amit Lang,Tel Aviv District,Tel Aviv,Utilities
+85,Nice,1986,"501 - 1,000",7.01,Barak Eilam,Central District,Ra'anana,IT & Software
+86,UPS,1994,"501 - 1,000",7.00,Yair Asael,Central District,Airport City,Aviation & Transportation
+87,EY - Ernst and Young,1994,"1,001 - 5,000",6.99,Doron Sharabany,Tel Aviv District,Tel Aviv,"Professional Services (incl. Consulting, Law, Accounting)"
+88,"Herzog, Fox & Neeman",1972,"501 - 1,000",6.98,Gil White,Tel Aviv District,Tel Aviv,"Professional Services (incl. Consulting, Law, Accounting)"
+89,Cal,1979,"1,001 - 5,000",6.98,Levy Halevy,Tel Aviv District,Giv'atayim,"Financial Services, Fintech & Insurances"
+90,Ness,1999,"1,001 - 5,000",6.97,Shachar Efal,Tel Aviv District,Tel Aviv,IT & Software
+91,Philips,1999,"1,001 - 5,000",6.97,Aviram Suchard,Central District,Ra'anana,"Biotechnology , Pharmaceuticals & Med-Tech"
+92,Coca-Cola Israel,1968,"5,001 - 10,000",6.96,Nir Levinger,Tel Aviv District,Bnei Brak,Consumer Goods
+93,Barzilai Medical Center,1961,"1,001 - 5,000",6.95,Chezy Levy,Southern District,Ashkelon,Health & Social
+94,Eitan Group D.D.S,2009,201 - 500,6.95,Igal Shany,Central District,Netanya,Health & Social
+95,KLA,1986,"1,001 - 5,000",6.95,Ori Tadmor,Northern District,Migdal HaEmek,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+96,Bank Hapoalim,1921,"5,001 - 10,000",6.94,Dov Kotler,Tel Aviv District,Tel Aviv,"Financial Services, Fintech & Insurances"
+97,Shapir Engineering,1968,"1,001 - 5,000",6.94,Harel Shapira,Central District,Petah Tikva,Construction & Real Estate
+98,HP - Hewlett Packard,1998,"5,001 - 10,000",6.93,Dror Abramov,Central District,Ra'anana,IT & Software
+99,DHL,1997,"1,001 - 5,000",6.93,John Pearson,Central District,Modiin,Aviation & Transportation
+100,Ben Gurion University,1969,"1,001 - 5,000",6.93,Tal Ben-Haim,Southern District,Beer Sheva,Education & Research
+101,Bank of Jerusalem,1964,"501 - 1,000",6.91,Yair Kaplan,Jerusalem District,Jerusalem,"Financial Services, Fintech & Insurances"
+102,Flying Cargo,1982,"1,001 - 5,000",6.91,Avi Reich; Danny Reich,Multiple Locations,Multiple Locations,Aviation & Transportation
+103,Bezeq,1980,"5,001 - 10,000",6.91,Ran Guron,Tel Aviv District,Tel Aviv,Telecommunications
+104,Tel Aviv University,1956,"1,001 - 5,000",6.90,Gad Frank,Tel Aviv District,Tel Aviv,Education & Research
+105,Salesforce,1999,"501 - 1,000",6.90,Marc Russell Benioff,Central District,Ra'anana,IT & Software
+106,Qualitest,1998,>200,6.90,Anbu Muppidathi,Central District,Petah Tikva,"Professional Services (incl. Consulting, Law, Accounting)"
+107,Sheba Medical Center,1948,"5,001 - 10,000",6.89,Yitshak Kreiss,Tel Aviv District,Ramat Gan,Health & Social
+108,NCR Corporation,1884,"501 - 1,000",6.89,Michael D. Hayford,Central District,Ra'anana,IT & Software
+109,Teva Pharmaceutical Industries,1944,"1,001 - 5,000",6.88,Kåre Schultz,Tel Aviv District,Tel Aviv,"Biotechnology , Pharmaceuticals & Med-Tech"
+110,MalamTeam,1952,"1,001 - 5,000",6.88,Shay Basson; Ilan Toker,Central District,Petah Tikva,IT & Software
+111,Tadiran Group,1989,201 - 500,6.87,Moshe Mamrud,Central District,Petah Tikva,"Engineering, Manufacturing & Industrial Goods"
+112,Inrom Construction,2013,"501 - 1,000",6.87,Noam Shchalca,Tel Aviv District,Tel Aviv,"Engineering, Manufacturing & Industrial Goods"
+113,Oracle,1977,>200,6.86,Safra Catz,Central District,Petah Tikva,IT & Software
+114,The Kaye Academic College In Beer Sheba,1954,"1,001 - 5,000",6.85,Moshe Schultz,Southern District,Beer Sheva,Education & Research
+115,Outbrain,2006,201 - 500,6.84,Yaron Galai; David Kostman,Central District,Netanya,"Cyber Security, Data & Analytics"
+116,Reichman University (IDC Herzliya),1944,>200,6.81,Dr. Ayelet Ben Ezer,Tel Aviv District,Herzliya,Education & Research
+117,Hadassah Women's Zionist Organization,1912,"5,001 - 10,000",6.79,Naomi Adler,Jerusalem District,Jerusalem,Health & Social
+118,FedEx,1971,201 - 500,6.78,Raj Subramaniam,Haifa District,Kiryat ata,Aviation & Transportation
+119,The Jewish Agency for Israel,1929,>200,6.78,Amira Ahronoviz,Jerusalem District,Jerusalem,Public Institutions
+120,Rambam Health Care Campus,1938,"5,001 - 10,000",6.78,Roee Atlas,Haifa District,Haifa,Health & Social
+121,The Max Stern Yezreel Valley College,1965,"501 - 1,000",6.77,Sari levy,Northern District,Emek Yezreel,Education & Research
+122,University of Haifa,1963,>200,6.76,Baruch Marzan,Haifa District,Haifa,Education & Research
+123,Plasson,1964,"1,001 - 5,000",6.76,Gilad Agmon,Haifa District,Ma'agan Michael,"Engineering, Manufacturing & Industrial Goods"
+124,Isrotel Hotel,1980,"5,001 - 10,000",6.75,Lior Raviv,Tel Aviv District,Tel Aviv,"Travel, Restaurants & Leisure"
+125,Ormat,1965,"501 - 1,000",6.73,Doron Blachar,Central District,Yavne,"Engineering, Manufacturing & Industrial Goods"
+126,Kimberly-Clark,1963,"1,001 - 5,000",6.73,Michael D. Hsu,Central District,Ramla,Consumer Goods
+127,Rad Data - Communications,1981,"501 - 1,000",6.72,Udy Kashkash,Tel Aviv District,Tel Aviv,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+128,Agam Leaderim,1992,201 - 500,6.72,Itzik Oz; Moshe Sasson,Tel Aviv District,Ramat Gan,"Financial Services, Fintech & Insurances"
+129,Kinneret College of Technology,1974,201 - 500,6.71,Ido Hagay,Northern District,Tiberias,Education & Research
+130,Ort Israel,1948,"5,001 - 10,000",6.71,Ahuva Capri,Tel Aviv District,Tel Aviv,Education & Research
+131,Shultz Quality Catering,1979,"1,001 - 5,000",6.69,Moshe Nizri,Tel Aviv District,Bnei brak,"Travel, Restaurants & Leisure"
+132,H&M,1947,"501 - 1,000",6.69,Karl-Johan Persson,Tel Aviv District,Tel Aviv,Retail
+133,ONE,1973,>200,6.69,Adi Eyal,Central District,Petah Tikva,IT & Software
+134,Ribbon Communications,2010,>200,6.68,Bruce McClelland,Central District,Petah Tikva,Telecommunications
+135,Ashtrom Group,1963,"1,001 - 5,000",6.68,Yaron Rokman,Tel Aviv District,Tel Aviv,Construction & Real Estate
+136,Cellcom,1994,"1,001 - 5,000",6.68,Daniel Sapir,Central District,Netanya,Telecommunications
+137,Steimatzky,1925,"1,001 - 5,000",6.67,Eyal Greenberg,Central District,Kfar kasem,Retail
+138,Dexcel Pharma,1968,"501 - 1,000",6.66,Dan Oren,Haifa District,Or Akiva,"Biotechnology , Pharmaceuticals & Med-Tech"
+139,Leumit Health Services,1933,"1,001 - 5,000",6.66,Haim Fernandes,Tel Aviv District,Tel Aviv,Health & Social
+140,A. Rehabilitation Projects,1998,"1,001 - 5,000",6.66,Eran Cohen,Tel Aviv District,Bnei brak,Health & Social
+141,Stratasys,1989,"501 - 1,000",6.65,Yoav Zeif,Central District,Rehovot,"Engineering, Manufacturing & Industrial Goods"
+142,Mikud Group,1984,"5,001 - 10,000",6.64,Miki Abuzaglo,Jerusalem District,Jerusalem,Business Services
+143,Siemens,1847,>200,6.64,Roland Busch,Central District,Rosh HaAyin,"Semiconductors, Electronics, Electrical Engineering & Hardware"
+144,Shidurit Group,1989,51 - 200,6.63,No data,Tel Aviv District,Tel Aviv,Telecommunications
+145,Soroka Medical Center,1959,"1,001 - 5,000",6.63,Shlomi Codish,Southern District,Beer Sheva,Health & Social
+146,Women's International Zionist (Wizo),1920,"5,001 - 10,000",6.62,Mira Mines,Tel Aviv District,Tel Aviv,Public Institutions
+147,Rami Levy,1976,"5,001 - 10,000",6.61,Rami Levy,Jerusalem District,Jerusalem,SuperMarkets
+148,Mayer Group,1967,"1,001 - 5,000",6.61,Sharon Glazer,Tel Aviv District,Tel Aviv,Automotive & Auto Tech
+149,Deloitte,1845,"1,001 - 5,000",6.59,Punit Renjen,Tel Aviv District,Tel Aviv,"Professional Services (incl. Consulting, Law, Accounting)"
+150,Open University of Israel,1974,"1,001 - 5,000",6.58,Ruth Shoham,Central District,Ra'anana,Education & Research

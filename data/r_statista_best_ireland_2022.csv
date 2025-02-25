@@ -1,0 +1,151 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Google,2003,"5,001 - 10,000",8.94,Elizabeth M. Cunningham,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+2,Irish Wheelchair Association,1960,"1,001 - 5,000",8.50,Rosemary Keogh,Dublin,Dublin,Health Care
+3,LinkedIn,2009,"1,001 - 5,000",8.43,Michelle Leung,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+4,eBay,2003,"501 - 1,000",8.38,Rob Hattrell,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+5,Iarnrod Eireann - Irish Rail,1986,"1,001 - 5,000",8.25,Jim Meade,Dublin,Dublin,Transportation and Logistics
+6,Irish Cancer Society,1963,201 - 500,8.19,Averil Power,Dublin,Dublin,Health Care
+7,Apple,2006,"5,001 - 10,000",8.08,Tim Cook,Cork,Cork,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+8,Microsoft,1985,"1,001 - 5,000",8.03,Anne Sheehan,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+9,Indeed,2012,"1,001 - 5,000",8.03,Chris Hyams,Dublin,Dublin,"IT, Software and Services"
+10,ALDI,1999,"1,001 - 5,000",8.00,Giles Hurley,Dublin,Dublin,Retail
+11,Adobe,2001,"1,001 - 5,000",7.99,Mark Higgins,Dublin,Dublin,"IT, Software and Services"
+12,Bus Atha Cliath - Dublin Bus,1987,"1,001 - 5,000",7.97,Ray Coyne,Dublin,Dublin,Transportation and Logistics
+13,DPD,1986,>200,7.96,Colin Kennedy,Westmeath,Athlone,Transportation and Logistics
+14,Pfizer,1969,"1,001 - 5,000",7.93,Albert Bourla,Dublin,Dublin,Drugs and Biotechnology
+15,Next,1989,>200,7.91,Lord Wolfson of Aspley Guise,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+16,Laya Healthcare,2012,201 - 500,7.89,Dónal Clancy,Cork,Little Island,Insurance
+17,CJK Engineering,1998,201 - 500,7.88,Vincent Bruen,Dublin,Dublin,Construction and related Services
+18,Temple Street Hospital,1872,"1,001 - 5,000",7.83,Mona Baker,Dublin,Dublin,Health Care
+19,Dell Technologies,1990,"1,001 - 5,000",7.81,Mark Hopkins,Dublin,Dublin,"IT, Software and Services"
+20,VMware,2007,"501 - 1,000",7.79,Raghu Raghuram,Cork,Ballincollig,"IT, Software and Services"
+21,TK Maxx,1994,"1,001 - 5,000",7.78,Jean Gillen,Waterford,Waterford,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+22,Joe Duffy Group,1970,"501 - 1,000",7.72,Gavin Hydes,Dublin,Dublin,Automotive (Retailers/Suppliers/Producers)
+23,Woodie's,1987,"1,001 - 5,000",7.71,Declan Ronayne,Dublin,Dublin,Retail
+24,An Post,1983,"10,001 - 50,000",7.69,David McRedmond,Dublin,Dublin,Transportation and Logistics
+25,IBM,1956,"1,001 - 5,000",7.69,Deborah Threadgold,Dublin,Dublin,"IT, Software and Services"
+26,Salesforce,2000,"1,001 - 5,000",7.69,Carolan Lennon,Dublin,Dublin,"IT, Software and Services"
+27,Twitter,2011,201 - 500,7.68,Parag Agrawal,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+28,Primark (Penneys),1969,"1,001 - 5,000",7.67,Paul John Marchant,Dublin,Dublin,Retail
+29,AbbVie,2001,"1,001 - 5,000",7.67,Andrés Rodrigo Díaz,Dublin,Dublin,Drugs and Biotechnology
+30,Doyle Hotels,1964,"1,001 - 5,000",7.67,Patrick King,Dublin,Dublin,Restaurants
+31,FedEx,1984,201 - 500,7.64,Frederick W. Smith,Dublin,Dublin,Transportation and Logistics
+32,McAfee,1987,201 - 500,7.63,Peter Leav,Cork,Cork,"Internet, Gaming, and eCommerce"
+33,Londis,1954,>200,7.62,Stephen O'Riordan,Dublin,Dublin,Retail
+34,Fidelity Investments Ireland,1996,"1,001 - 5,000",7.62,Abby Johnson,Dublin,Dublin,Banking and Financial Services
+35,AXA,1999,"1,001 - 5,000",7.61,Phil Bradley,Dublin,Dublin,Insurance
+36,PayPal,2003,"1,001 - 5,000",7.61,Dan Schulman,Dublin,Dublin,Banking and Financial Services
+37,Boots,1996,"1,001 - 5,000",7.61,Stephen Watkins,Dublin,Dublin,Drugs and Biotechnology
+38,Blackrock Clinic,1986,"501 - 1,000",7.61,James O Donoghue,Dublin,Dublin,Health Care
+39,Lifestyle Sports,1993,"501 - 1,000",7.60,Mark Stafford,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+40,Electric Supply Board (ESB),1927,"5,001 - 10,000",7.59,Paddy Hayes,Dublin,Dublin,Utilities
+41,Boston Scientific,1994,"5,001 - 10,000",7.59,Mike Mahoney,Galway,Galway,Health Care
+42,John Sisk & Son,1859,"1,001 - 5,000",7.58,Fergal Lalor,Dublin,Dublin,Construction and related Services
+43,Argos,1996,"501 - 1,000",7.57,Robert Burke,Meath,Ashbourne,"Internet, Gaming, and eCommerce"
+44,Collen Construction,1810,201 - 500,7.57,Thomas Drumm,Dublin,Dublin,Construction and related Services
+45,DHL,1986,201 - 500,7.55,Jose Nava,Dublin,Dublin,Transportation and Logistics
+46,Meta,2008,"1,001 - 5,000",7.53,Gareth Lambe,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+47,Dornan Engineering,1966,"501 - 1,000",7.52,Brian Acheson,Cork,Cork,"Engineering, Manufacturing"
+48,Zendesk,2010,>200,7.52,Colum Twomey,Dublin,Dublin,"IT, Software and Services"
+49,Airbnb,2012,201 - 500,7.51,Dermot Clarke,Dublin,Dublin,Travel and Leisure
+50,Tesco,1962,"10,001 - 50,000",7.49,Jason Tarry,Dublin,Dublin,Retail
+51,Harvey Norman,2002,"1,001 - 5,000",7.48,Peter Hearn,Dublin,Dublin,Retail
+52,Eddie Rockets,1989,"501 - 1,000",7.48,Niall Fortune,Dublin,Dublin,Restaurants
+53,Allianz,1922,"501 - 1,000",7.48,Sean McGrath,Dublin,Dublin,Insurance
+54,Dropbox,2012,201 - 500,7.47,Drew Houston,Dublin,Dublin,"IT, Software and Services"
+55,MSD,1972,"1,001 - 5,000",7.47,Mairéad McCaul,Dublin,Dublin,Drugs and Biotechnology
+56,John Paul Construction,1949,201 - 500,7.47,Liam Kenny,Dublin,Dublin,Construction and related Services
+57,Bon Secours Health System Company,1861,"1,001 - 5,000",7.45,Bill Maher,Dublin,Dublin,Health Care
+58,Starbucks,2005,201 - 500,7.43,Kevin Johnson,Dublin,Dublin,Restaurants
+59,Dominos Pizza,1991,"1,001 - 5,000",7.41,Scott Bush,Kildare,Naas,Restaurants
+60,Medtronic,1981,"1,001 - 5,000",7.38,Geoffrey S. Martha,Dublin,Dublin,Health Care
+61,Intel,1989,"1,001 - 5,000",7.37,Eamonn Sinnott,Kildare,Leixlip,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+62,Mastercard,2011,"501 - 1,000",7.37,Sonya Geelon,Dublin,Dublin,Banking and Financial Services
+63,Enable Ireland Disability Services,1951,"1,001 - 5,000",7.36,John O'Sullivan,Dublin,Dublin,Health Care
+64,Bus Eireann - Irish Bus,1987,"1,001 - 5,000",7.35,Stephen Kent,Dublin,Dublin,Transportation and Logistics
+65,SAP,1997,"1,001 - 5,000",7.35,Michiel Verhoeven,Dublin,Dublin,"IT, Software and Services"
+66,Amazon,2006,"1,001 - 5,000",7.34,Andy Jassy,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+67,Deloitte,1845,"1,001 - 5,000",7.34,Harry Goddard,Dublin,Dublin,Consulting and Accounting
+68,Our Lady`s Hospice & Care Services,1879,"501 - 1,000",7.32,Audrey Houlihan,Dublin,Dublin,Health Care
+69,HSBC Bank,1992,201 - 500,7.31,Alan Duffy,Dublin,Dublin,Banking and Financial Services
+70,New Look,2003,"501 - 1,000",7.30,Nigel Oddy,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+71,Bausch & Lomb,1980,"1,001 - 5,000",7.30,Ben Hesketh,Waterford,Waterford,Health Care
+72,Lilly,1978,"1,001 - 5,000",7.30,Laura Demayo Steele,Cork,Kinsale,Drugs and Biotechnology
+73,Supermacs,1978,"1,001 - 5,000",7.29,Pat McDonagh,Galway,Ballybrit,Restaurants
+74,Zara,2003,201 - 500,7.27,Óscar García Maceiras,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+75,Beacon Hospital,2006,"1,001 - 5,000",7.27,Michael Cullen,Dublin,Sandyford,Health Care
+76,Grant Thornton,1899,"1,001 - 5,000",7.26,Michael McAteer,Dublin,Dublin,Consulting and Accounting
+77,DSV,1976,"501 - 1,000",7.26,Morten Landry,Kildare,Naas,Transportation and Logistics
+78,Fiserv,2017,"501 - 1,000",7.24,Alan Burton,Leinster,Dublin,Banking and Financial Services
+79,Novartis,1996,"1,001 - 5,000",7.24,Audrey Derveloy,Dublin,Dublin,Drugs and Biotechnology
+80,Lidl,2000,"1,001 - 5,000",7.23,John Paul Scally,Dublin,Tallaght,Retail
+81,Siemens,1925,"501 - 1,000",7.22,Carl Ennis,Dublin,Dublin,"Engineering, Manufacturing"
+82,Workday,2008,"1,001 - 5,000",7.21,Peter Gamble,Dublin,Dublin,"IT, Software and Services"
+83,Lufthansa Technik Shannon,1992,201 - 500,7.21,Patrick Shine,Clare,Shannon,"Aviation, Leasing, and related Services"
+84,Saint-Gobain,1947,"501 - 1,000",7.21,Mike Chaldecott,Dublin,Dublin,Construction and related Services
+85,Cisco,1999,201 - 500,7.20,David Meads,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+86,Kepak,1966,"1,001 - 5,000",7.18,Simon Walker,Meath,Clonee,Agribusiness
+87,KFC,1965,>200,7.17,Neil Piper,Surrey,Woking,Restaurants
+88,Zurich,1950,"501 - 1,000",7.16,Neil Freshwater,Dublin,Dublin,Insurance
+89,IKEA,2005,"501 - 1,000",7.15,Peter Jelkeby,Dublin,Dublin,Retail
+90,Irish Life Financial Services,1939,"1,001 - 5,000",7.15,Declan Bolger,Dublin,Dublin,Banking and Financial Services
+91,Electronic Arts,2010,201 - 500,7.14,Colin Blackwood,Galway,Galway,"Internet, Gaming, and eCommerce"
+92,Beaumont hospital,1987,"1,001 - 5,000",7.12,Ian Carter,Dublin,Dublin,Health Care
+93,PwC (PricewaterhouseCoopers),1998,"1,001 - 5,000",7.12,Feargal O'Rourke,Dublin,Dublin,Consulting and Accounting
+94,Dealz,2011,"1,001 - 5,000",7.12,Barry Williams,Dublin,Dublin,Retail
+95,Coca-Cola HBC,1952,201 - 500,7.08,Miles Karemacher,Dublin,Dublin,"Production of Non-agricultural Food, Soft Beverages, Alcohol and Tobacco"
+96,Cappagh National Orthopaedic Hospital,1908,201 - 500,7.08,Angela Lee,Dublin,Dublin,Health Care
+97,KSG - Kylemore Services Group,1920,"1,001 - 5,000",7.07,Michael Gleeson,Dublin,Dublin,"Production of Non-agricultural Food, Soft Beverages, Alcohol and Tobacco"
+98,Marks & Spencer,1979,"1,001 - 5,000",7.06,Philip Conlon,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+99,Accenture,1989,"1,001 - 5,000",7.03,Alastair Blair,Dublin,Dublin,Consulting and Accounting
+100,McDonald's,1987,"1,001 - 5,000",7.03,Alistair Macrow,Dublin,Dublin,Restaurants
+101,Musgrave Group,1876,"10,001 - 50,000",7.02,Noel Keeley,Cork,Cork,Retail
+102,Aer Lingus,1940,"1,001 - 5,000",7.00,Lynne Embleton,Dublin,Dublin,"Aviation, Leasing, and related Services"
+103,Microchip Technology,2004,>200,6.99,Ganesh Moorthy,Dublin,Dublin,"IT, Software and Services"
+104,Dunnes Stores,1971,>200,6.98,Margaret Heffernan,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+105,Bank of Ireland,1783,"5,001 - 10,000",6.98,Francesca McDonagh,Dublin,Dublin,Banking and Financial Services
+106,Aviva,1908,"1,001 - 5,000",6.98,Declan O'Rourke,Dublin,Dublin,Insurance
+107,Easons,1819,"501 - 1,000",6.97,Liam Hanly,Dublin,Dublin,Retail
+108,Johnson & Perrott,1810,201 - 500,6.95,Mark Whitaker,Cork,Mahon,Automotive (Retailers/Suppliers/Producers)
+109,Windsor Motor Group,1964,201 - 500,6.94,Peter Nicholson,Dublin,Dublin,Automotive (Retailers/Suppliers/Producers)
+110,Cope Foundation,1957,"1,001 - 5,000",6.94,Sean Abbott,Cork,Bonnington,Health Care
+111,Liebherr,1958,"501 - 1,000",6.93,David Griffin,Dublin,Dublin,"Engineering, Manufacturing"
+112,Burger King,1981,>200,6.92,Alasdair Murdoch,Dublin,Dublin,Restaurants
+113,Bam Contractors,1958,"1,001 - 5,000",6.92,Theo Cullinane,Kildare,Kill,Construction and related Services
+114,Stryker,1941,"1,001 - 5,000",6.90,Kevin Lobo,Limerick,Limerick,Health Care
+115,Designer Group,1992,"1,001 - 5,000",6.87,Michael Stone,Dublin,Dublin,Construction and related Services
+116,Jacobs Engineering,1974,"1,001 - 5,000",6.86,Steve Demetriou,Dublin,Dublin,"Engineering, Manufacturing"
+117,PFH Technology Group,1985,201 - 500,6.85,Paul Callaghan,Dublin,Dublin,"IT, Software and Services"
+118,Capita Customer Solutions,1996,201 - 500,6.85,Ailish Hansen,Cork,Cork,"IT, Software and Services"
+119,HPE (Hewlett-Packard Enterprise),2015,201 - 500,6.85,Antonio Neri,Kildare,Leixlip,"IT, Software and Services"
+120,Flutter Entertainment,2016,>200,6.84,Peter Jackson,Dublin,Dublin,Travel and Leisure
+121,Citibank,1965,"1,001 - 5,000",6.83,Cecilia Ronan,Dublin,Dublin,Banking and Financial Services
+122,Saint John Of God Community Services Company,1960,"1,001 - 5,000",6.83,Conor McCarthy,Dublin,Dublin,Health Care
+123,UPS (United Parcel Service),1995,"501 - 1,000",6.83,Carol Tomé,Dublin,Dublin,Transportation and Logistics
+124,B&Q,1990,"501 - 1,000",6.83,Graham Bell,Dublin,Dublin,Retail
+125,Topline,1975,>200,6.81,Hugh O'Donnell,Kildare,Naas,Retail
+126,Version1 Software,1996,>200,6.81,Tom O'Connor,Dublin,Dublin,"IT, Software and Services"
+127,JJ Rhatigan,1952,>200,6.81,Ger Ronayne,Galway,Galway,Construction and related Services
+128,Brothers Of Charity Services,1883,"1,001 - 5,000",6.80,Michael Hennessy,Galway,Galway,Health Care
+129,Mercury Engineering,1972,>200,6.79,Eoin Vaughan,Dublin,Dublin,"Engineering, Manufacturing"
+130,South Infirmary - Victoria University Hospital,1988,"501 - 1,000",6.78,Helen Donovan,Cork,Cork,Health Care
+131,Grafton Group,1902,>200,6.76,Gavin Slark,Dublin,Dublin,Construction and related Services
+132,Allergan,1948,"1,001 - 5,000",6.75,Brenton Saunders,Dublin,Dublin,Drugs and Biotechnology
+133,Oracle,1990,"501 - 1,000",6.74,Nicky Sheridan,Dublin,Dublin,"IT, Software and Services"
+134,Avaya,2001,201 - 500,6.73,Steve Joyner,Galway,Mervue,"IT, Software and Services"
+135,PJ Hegarty and Sons,1925,201 - 500,6.73,John Hegarty,Dublin,Dublin,Construction and related Services
+136,Dalata Hotel Group,2007,"1,001 - 5,000",6.73,Dermot Crowley,Dublin,Dublin,Travel and Leisure
+137,EY (Ernst & Young),1989,"1,001 - 5,000",6.70,Carmine Di Sibio,Dublin,Dublin,Consulting and Accounting
+138,Merit Medical,1987,"501 - 1,000",6.70,Fred Lampropoulos,Galway,Galway,Health Care
+139,DB Schenker,1872,201 - 500,6.70,Ray Hennessy,Dublin,Dublin,"Aviation, Leasing, and related Services"
+140,GameStop,1994,201 - 500,6.69,Richard Fontaine,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+141,Takeda Pharmaceutical,1995,"501 - 1,000",6.69,Christophe Weber,Wicklow,Kilruddery,Drugs and Biotechnology
+142,Health Service Executive,2005,"50,001 - 100,000",6.69,Paul Reid,Dublin,Dublin,Health Care
+143,Hermitage Clinic,2004,"501 - 1,000",6.68,Gordon Dunne,Dublin,Dublin,Health Care
+144,Spar,1963,"10,001 - 50,000",6.67,Malachy Hanberry,Dublin,Dublin,Retail
+145,Subway,1993,"1,001 - 5,000",6.64,Chrsitopher Kan,Dublin,Dublin,Restaurants
+146,Abtran,1997,"1,001 - 5,000",6.63,Aisling Deasy,Cork,Cork,"IT, Software and Services"
+147,AIB Group (Allied Irish Bank),1966,"5,001 - 10,000",6.62,Alan Mahon,Dublin,Dublin,Banking and Financial Services
+148,Brown Thomas Arnotts,1843,"1,001 - 5,000",6.60,Donald McDonald,Dublin,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+149,Vodafone,2001,"1,001 - 5,000",6.60,Anne O'Leary,Dublin,Dublin,"Internet, Gaming, and eCommerce"
+150,SuperValu,1992,"10,001 - 50,000",6.57,Mark Gross,Cork,Cork,Retail

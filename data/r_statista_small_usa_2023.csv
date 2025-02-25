@@ -1,0 +1,301 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Sun City Arizona,1960,201 - 500,100.00,Kat Fimmel,Arizona,Sun City,Travel & Leisure
+2,Barton Health,1963,"501 - 1,000",99.76,Clint Purvance,California,South Lake Tahoe,Healthcare & Social
+3,ESL Federal Credit Union,1920,"501 - 1,000",98.84,Faheem A. Masood,New York,Rochester,Banking and Financial Services
+4,New England Biolabs,1974,201 - 500,96.73,Salvatore Russello,Massachusetts,Ipswich,Drugs & Biotechnology
+5,CommunityAmerica Credit Union,1940,"501 - 1,000",96.10,Lisa Ginter,Kansas,Lenexa,Banking and Financial Services
+6,ScriptPro,1994,"501 - 1,000",95.95,Mike Coughlin,Kansas,Mission,Drugs & Biotechnology
+7,Bethpage Federal Credit Union,1941,"501 - 1,000",95.80,Wayne N. Grossé,New York,Bethpage,Banking and Financial Services
+8,Atlantic Club,1977,"501 - 1,000",95.26,Patricia Laus,New Jersey,Manasquan,Healthcare & Social
+9,Craig Hospital,1907,"501 - 1,000",95.11,Jandel Allen-Davis,Colorado,Englewood,Healthcare & Social
+10,"Riddleberger Brothers, Inc.",1940,201 - 500,94.58,Daniel Blosser,Virginia,Mt. Crawford,"Construction, Oil & Gas Operations, Mining and Chemicals"
+11,"Sabre Systems, Inc",1989,201 - 500,94.49,Philip P. Jaurigue,Pennsylvania,Warminster,"IT, Internet, Software & Services"
+12,Graniterock,1900,"501 - 1,000",94.42,Peter Lemon,California,Watsonville,"Construction, Oil & Gas Operations, Mining and Chemicals"
+13,Shutts & Bowen,1910,"501 - 1,000",94.40,Jack C. McElroy,Florida,Miami,Professional Services
+14,John A Logan College,1967,201 - 500,94.32,Kirk Overstreet,Illinois,Carterville,Education
+15,Capital Insurance Group,1898,201 - 500,94.28,Andrew J. Doll,California,Monterey,Insurance
+16,Robert Wood Johnson Foundation,1972,201 - 500,94.14,Richard E. Besser,New Jersey,Princeton,Business Services & Supplies
+17,Pellissippi State Community College,1974,"501 - 1,000",93.99,L. Anthony Wise,Tennessee,Knoxville,Education
+18,Zoo Atlanta,1889,201 - 500,93.95,Raymond King,Georgia,Atlanta,Travel & Leisure
+19,Eastman Credit Union,1934,"501 - 1,000",93.26,Kelly F. Price,Tennessee,Kingsport,Banking and Financial Services
+20,Cousins Properties,1958,201 - 500,92.89,Colin Connolly,Georgia,Atlanta,Business Services & Supplies
+21,Borsheims,1870,201 - 500,92.53,Karen Goracke,Nebraska,Omaha,Retail and Wholesale
+22,Nashville Electric Service,1939,"501 - 1,000",92.51,Teresa Broyles-Aplin,Tennessee,Nashville,Utilities
+23,Optimax Systems,1991,201 - 500,92.09,Rick Plympton,New York,Ontario,Aerospace & Defense
+24,Educators Credit Union,1937,"501 - 1,000",92.00,Linda Hoover,Wisconsin,Mount Pleasant,Banking and Financial Services
+25,Psomas,1946,"501 - 1,000",91.93,Steve Margaroni,California,Los Angeles,"Engineering, Manufacturing"
+26,Pierce Transit,1980,"501 - 1,000",91.85,Mike Griffus,Washington,Lakewood,Transportation and Logistics
+27,The Bank of Missouri,1891,"501 - 1,000",91.85,Adrian Breen,Missouri,Perryville,Banking and Financial Services
+28,Ice Miller LLP,1910,"501 - 1,000",91.74,Michael E. Millikan,Indiana,Indianapolis,Professional Services
+29,Meriwest Credit Union,1961,201 - 500,91.60,Lisa Pesta,California,San Jose,Banking and Financial Services
+30,Hillsides,1913,201 - 500,91.52,Stacey R. Roth,California,Los Angeles,Healthcare & Social
+31,Andersen Construction,1950,"501 - 1,000",91.44,Joel Andersen,Oregon,Portland,"Construction, Oil & Gas Operations, Mining and Chemicals"
+32,Curtis Lumber,1890,"501 - 1,000",91.43,Jay S. Curtis,New York,Ballston Spa,Retail and Wholesale
+33,PJM Interconnection,1927,"501 - 1,000",91.36,Manu Asthana,Pennsylvania,Audubon,Utilities
+34,Identiv,2007,201 - 500,91.18,Steven Humphreys,California,Fremont,"IT, Internet, Software & Services"
+35,Assurance Technology Corporation,1969,201 - 500,91.16,Larue Renfroe,Massachusetts,Carlisle,Aerospace & Defense
+36,North Iowa Area Community College,1918,201 - 500,91.15,Steve Schulz,Iowa,Mason City,Education
+37,Northeast Community College,1973,"501 - 1,000",91.12,Leah Barrett,Nebraska,Norfolk,Education
+38,Columbus Community Hospital,1899,"501 - 1,000",91.10,Michael Hansen,Nebraska,Columbus,Healthcare & Social
+39,University of Mount Union,1846,201 - 500,91.09,Gregory L. King,Ohio,Alliance,Education
+40,"Mountain West Financial, Inc.",1990,201 - 500,91.01,Mike Delehanty,California,Redlands,Banking and Financial Services
+41,Loras College,1839,201 - 500,91.00,James E. Collins,Iowa,Dubuque,Education
+42,Brooks Instrument,1946,"501 - 1,000",90.88,John H. Reinhart,Pennsylvania,Hatfield,"Engineering, Manufacturing"
+43,CME Associates,1983,201 - 500,90.80,Andy Paluri,New Jersey,Parlin,"Engineering, Manufacturing"
+44,Sunflower Electric Power Corporation,1957,201 - 500,90.77,Todd Hillman,Kansas,Hays,Utilities
+45,Jefferson College,1963,201 - 500,90.42,Dena McCaffrey,Michigan,Hillsboro,Education
+46,Fike,1945,"501 - 1,000",90.40,Brad Batz,Missouri,Blue Springs,"Engineering, Manufacturing"
+47,Taylor Guitars,1974,"501 - 1,000",90.36,Kurt Listug,California,El Cajon,"Engineering, Manufacturing"
+48,Royal Credit Union,1964,"501 - 1,000",90.34,Brandon Riechers,Wisconsin,Eau Claire,Banking and Financial Services
+49,Spark Therapeutics,2013,"501 - 1,000",90.17,Ron Philip,Pennsylvania,Philadelphia,Drugs & Biotechnology
+50,Oxagile,2005,201 - 500,90.17,Dmitry Karpovich,New York,New York,"IT, Internet, Software & Services"
+51,Breezy Point Resort,1922,201 - 500,90.14,Bob Spizzo,Minnesota,Breezy Point,Travel & Leisure
+52,Bricker Graydon,1945,201 - 500,90.12,James F. Flynn,Ohio,Columbus,Professional Services
+53,Hopewest,1993,201 - 500,90.12,Cassie Mitchell,Colorado,Grand Junction,Healthcare & Social
+54,Isothermal Community College,1964,201 - 500,90.10,Walton Dalton,North Carolina,Spindale,Education
+55,PDF Solutions,1992,201 - 500,90.10,John K. Kibarian,California,Santa Clara,"IT, Internet, Software & Services"
+56,Oklahoma Medical Research Foundation,1946,201 - 500,90.05,Andrew Weyrich,Oklahoma,Oklahoma City,Drugs & Biotechnology
+57,Centier Bank,1895,"501 - 1,000",89.90,Michael E. Schrage,Indiana,Merrillville,Banking and Financial Services
+58,"The Hockaday School, Dallas, TX",1913,201 - 500,89.87,Laura Leathers,Texas,Dallas,Education
+59,Avion Solutions,1992,201 - 500,89.87,Evan Wagner,Alabama,Huntsville,Aerospace & Defense
+60,Oakland Hills Country Club,1906,201 - 500,89.81,Matt Dossey,Michigan,Bloomfield Twp.,Travel & Leisure
+61,Dupaco Credit Union,1948,"501 - 1,000",89.79,Joseph F. Hearn,Iowa,Dubuque,Banking and Financial Services
+62,Longwood Gardens,1906,"501 - 1,000",89.78,Paul B. Redman,Pennsylvania,Kennett Square,Travel & Leisure
+63,DeZURIK,1928,"501 - 1,000",89.76,Bryan Burns,Minnesota,Sartell,"Engineering, Manufacturing"
+64,Hartzell Propeller,1917,201 - 500,89.75,JJ Frigge,Ohio,Piqua,Aerospace & Defense
+65,Mid-State Technical College,1913,201 - 500,89.72,Shelly Mondeik,Wisconsin,Wisconsin Rapids,Education
+66,Fox World Travel,1960,201 - 500,89.71,Chip Juedes,Wisconsin,Oshkosh,Business Services & Supplies
+67,Rose-Hulman Institute of Technology,1874,"501 - 1,000",89.61,Robert A. Coons,Indiana,Terre Haute,Education
+68,Productivity Inc,1968,201 - 500,89.58,Greg Buck,Minnesota,Plymouth,"Engineering, Manufacturing"
+69,Trib Total Media,1992,201 - 500,89.53,Jennifer Bertetto,Pennsylvania,Tarentum,Media & Advertising
+70,Ascent Resources,2013,201 - 500,89.52,Jeff Fisher,Oklahoma,Oklahoma City,"Construction, Oil & Gas Operations, Mining and Chemicals"
+71,Roaring Fork Transportation Authority,1983,201 - 500,89.51,Dan Blankenship,Colorado,Aspen,Transportation and Logistics
+72,"Universal Technical Resource Services, Inc. (UTRS)",1985,201 - 500,89.49,Albert Zalcmann,New Jersey,Cherry Hill,Aerospace & Defense
+73,Best Fitness,1996,"501 - 1,000",89.43,David Dos Santos,New Hampshire,Nashua,Healthcare & Social
+74,Wisconsin Aluminum Foundry Co.,1909,"501 - 1,000",89.42,Sachin Shivaram,Wisconsin,Manitowoc,"Engineering, Manufacturing"
+75,"USA Compression Partners, LP",1998,"501 - 1,000",89.33,Eric D. Long,Texas,Austin,"Construction, Oil & Gas Operations, Mining and Chemicals"
+76,University of Dubuque,1852,201 - 500,89.29,Jeffrey F. Bullock,Iowa,Dubuque,Education
+77,Environmental Restoration LLC,1998,201 - 500,89.22,Dennis Greaney,Missouri,Saint Louis,Business Services & Supplies
+78,Franklin International,1935,201 - 500,89.20,Tom Williams,Ohio,Columbus,"Construction, Oil & Gas Operations, Mining and Chemicals"
+79,Wofford College,1854,201 - 500,89.16,Nayef H. Samhat,South Carolina,Spartanburg,Education
+80,Heritage Community of Kalamazoo,1945,201 - 500,89.15,Jay Prince,Michigan,Kalamazoo,Healthcare & Social
+81,"Surescripts, LLC",2001,"501 - 1,000",89.13,Frank Harvey,Virginia,Arlington,"IT, Internet, Software & Services"
+82,Camden National Bank,1875,"501 - 1,000",89.09,Gregory A. Dufour,Maine,Camden,Banking and Financial Services
+83,Aquarium Of The Pacific,1998,201 - 500,89.07,Dr. Peter Kareiva,California,Long Beach,Travel & Leisure
+84,College of the Desert,1958,"501 - 1,000",89.02,Joel Kinnamon,California,Palm Desert,Education
+85,"Le Sueur, Incorporated",1946,201 - 500,89.00,Dick Seidenstricker,Minnesota,Le Sueur,"Construction, Oil & Gas Operations, Mining and Chemicals"
+86,DHI Group,1990,201 - 500,88.99,Art Zeile,New York,New York,"IT, Internet, Software & Services"
+87,Sellen Construction,1944,"501 - 1,000",88.98,Scott Redman,Washington,Seattle,"Construction, Oil & Gas Operations, Mining and Chemicals"
+88,Cobb EMC,1938,201 - 500,88.96,Kevan Espy,Georgia,Marietta,Utilities
+89,McLennan Community College,1965,"501 - 1,000",88.96,Johnette McKown,Texas,Waco,Education
+90,Bartlett & West,1951,201 - 500,88.90,Keith Warta,Kansas,Topeka,"Engineering, Manufacturing"
+91,Mcafee And Taft,1952,201 - 500,88.89,Michael F. Lauderdale,Oklahoma,Oklahoma City,Professional Services
+92,INRIX,2005,201 - 500,88.86,Bryan Mistele,Washington,Kirkland,"IT, Internet, Software & Services"
+93,Practising Law Institute,1933,201 - 500,88.84,Sharon L. Crane,New York,New York,Professional Services
+94,Doximity,2010,"501 - 1,000",88.83,Jeff Tangney,California,San Francisco,"IT, Internet, Software & Services"
+95,Ceros,2012,201 - 500,88.82,Simon Berg,New York,New York,"IT, Internet, Software & Services"
+96,Mister Kleen Maintenance Company,1976,"501 - 1,000",88.79,"Ernest Clark, Jr.",Virginia,Alexandria,Business Services & Supplies
+97,College of the Sequoias,1926,"501 - 1,000",88.72,Brent Calvin,California,Visalia,Education
+98,Tompkins Cortland Community College,1968,201 - 500,88.69,Orinthia T. Montague,New York,Dryden,Education
+99,Phillips Exeter Academy,1781,"501 - 1,000",88.68,Bill Rawson,New Hampshire,Exeter,Education
+100,Treasure Valley Community College,1962,201 - 500,88.58,Dana Young,Oregon,Ontario,Education
+101,MasterControl,1993,"501 - 1,000",88.56,Jon Beckstrand,Utah,Salt Lake City,"IT, Internet, Software & Services"
+102,Toyota Knoxville,1957,201 - 500,88.52,Doug White,Tennessee,Knoxville,Automotive (Automotive and Suppliers)
+103,Dudek,1980,"501 - 1,000",88.40,Joe Monaco,California,Encinitas,Business Services & Supplies
+104,Casper College,1945,"501 - 1,000",88.38,Darren Divine,Wyoming,Casper,Education
+105,National Park College,1973,201 - 500,88.34,John Hogan,Arkansas,Hot Springs,Education
+106,Cambridge Systematics,1972,201 - 500,88.34,Brad Wright,Massachusetts,Medford,Transportation and Logistics
+107,Gladstone Institutes,1979,201 - 500,88.21,Deepak Srivastava,California,San Francisco,Drugs & Biotechnology
+108,Glacier Bank,1955,201 - 500,88.19,Randall M. Chesler,Montana,Kalispell,Banking and Financial Services
+109,Dallas Cowboys,1960,201 - 500,88.12,Jerry Jones,Texas,Frisco,Travel & Leisure
+110,Massachusetts College of Art and Design,1873,"501 - 1,000",88.12,Kymberly Pinder,Massachusetts,Boston,Education
+111,Connexus Energy,1937,201 - 500,88.11,Greg Ridderbusch,Minnesota,Ramsey,Utilities
+112,Apr Supply Co,1922,201 - 500,88.08,Scott Weaver,Pennsylvania,Lebanon,Retail and Wholesale
+113,Alma College,1886,201 - 500,88.06,Jeff Abernathy,Michigan,Alma,Education
+114,Rise,1971,201 - 500,88.03,Lynn Noren,Minnesota,Spring Lake Park,Healthcare & Social
+115,Home Builders Institute,1983,201 - 500,88.03,Ed Brady,District of Columbia,Washington,Healthcare & Social
+116,Tufin,2018,201 - 500,88.02,Vinay Nair,Colorado,Boulder,Banking and Financial Services
+117,Acumatica,2007,"501 - 1,000",88.02,John Case,Washington,Kirkland,"IT, Internet, Software & Services"
+118,Gate City Bank,1923,"501 - 1,000",87.99,Kevin Hanson,North Dakota,Fargo,Banking and Financial Services
+119,Harrell's,1941,201 - 500,87.97,Jack Harrell,Florida,Lakeland,"Construction, Oil & Gas Operations, Mining and Chemicals"
+120,UMH Properties,1968,201 - 500,87.97,Samuel A. Landy,New Jersey,Freehold,Business Services & Supplies
+121,Capital Lumber,1948,201 - 500,87.93,Scott Gaskin,Arizona,Phoenix,Retail and Wholesale
+122,ODELL BREWING,1989,201 - 500,87.90,Eric Smith,Colorado,Fort Collins,"Food, Soft Beverages, Alcohol & Tobacco"
+123,National Wildlife Federation,1936,201 - 500,87.90,Collin O'Mara,Virginia,Reston,Travel & Leisure
+124,Sporting Kansas City,1996,"501 - 1,000",87.89,Jake Reid,Michigan,Kansas City,Travel & Leisure
+125,Systems Technology Forum Ltd,2003,201 - 500,87.84,Scott Ayers,Virginia,Fredericksburg,Business Services & Supplies
+126,Saul Ewing LLP,1920,"501 - 1,000",87.79,Jason M. St. John,Pennsylvania,Philadelphia,Professional Services
+127,Regenxbio,2008,201 - 500,87.78,Ken Mills,Maryland,Rockville,Drugs & Biotechnology
+128,Step Up For Students,2001,201 - 500,87.78,Doug Tuthill,Florida,Jacksonville,Healthcare & Social
+129,South Plains College,1957,"501 - 1,000",87.77,Robin Satterwhite,Texas,Levelland,Education
+130,Batavia Park District,1968,201 - 500,87.76,Allison Niemela,Illinois,Batavia,Travel & Leisure
+131,Allen Lund Company,1976,"501 - 1,000",87.75,Eddie Lund,California,La Canada,Transportation and Logistics
+132,Electrosonic,1964,201 - 500,87.73,Ewan Smith,Florida,Orlando,"IT, Internet, Software & Services"
+133,Rogers State University,1909,201 - 500,87.63,Larry Rice,Oklahoma,Claremore,Education
+134,Defender Association Of Philadelphia,1934,"501 - 1,000",87.61,Paul J. Hetznecker,Pennsylvania,Philadelphia,Professional Services
+135,Movable Ink,2010,"501 - 1,000",87.61,Vivek Sharma,New York,New York,"IT, Internet, Software & Services"
+136,Plascore,1977,201 - 500,87.60,Fritz Huebner,Michigan,Zeeland,"Engineering, Manufacturing"
+137,ColonialWebb,1972,"501 - 1,000",87.53,Mitch Haddon,Virginia,Richmond,"Construction, Oil & Gas Operations, Mining and Chemicals"
+138,Intellia Therapeutics,2014,201 - 500,87.52,John Leonard,Massachusetts,Cambridge,Drugs & Biotechnology
+139,Brewer Science,1981,201 - 500,87.45,Dr. Terry Brewer,Michigan,Rolla,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+140,Rhinegeist,2013,201 - 500,87.41,Adam Bankovich,Ohio,Cincinnati,"Food, Soft Beverages, Alcohol & Tobacco"
+141,Longwood University,1839,"501 - 1,000",87.40,"W. Taylor Reveley, IV",Virginia,Farmville,Education
+142,Hancock Lumber,1848,"501 - 1,000",87.36,Kevin Hancock,Maine,Casco,Retail and Wholesale
+143,Sterling Engineering Company,1969,"501 - 1,000",87.33,Dolores Connolly,Illinois,Westchester,Business Services & Supplies
+144,Francis Marion University,1970,"501 - 1,000",87.33,Luther F Carter,South Carolina,Florence,Education
+145,Oneaz Credit Union,1951,"501 - 1,000",87.33,Brandon Michaels,Arizona,Phoenix,Banking and Financial Services
+146,Trust For Public Land,1972,201 - 500,87.27,Lucas St. Clair,California,San Francisco,Travel & Leisure
+147,Olivet Nazarene University,1907,"501 - 1,000",87.21,John C. Bowling,Illinois,Bourbonnais,Education
+148,Coffman Engineers,1979,"501 - 1,000",87.20,Dave Ruff,Washington,Seattle,Professional Services
+149,Fortis Construction,2003,201 - 500,87.20,Jim Kilpatrick,Oregon,Portland,"Construction, Oil & Gas Operations, Mining and Chemicals"
+150,Mission Rock Residential LLC,2012,"501 - 1,000",87.20,Patricia Hutchison,Colorado,Denver,Business Services & Supplies
+151,Claremont Graduate University,1925,201 - 500,87.18,Len Jessup,California,Claremont,Education
+152,Halekulani,1980,"501 - 1,000",87.17,Peter Shaindlin,Hawaii,Honolulu,Travel & Leisure
+153,Usable Life,2005,"501 - 1,000",87.13,Rich Macy,Arkansas,Little Rock,Insurance
+154,Fortegra,1978,"501 - 1,000",87.13,Rick Kahlbaugh,Florida,Jacksonville,Insurance
+155,Barnum Financial Group,1950,"501 - 1,000",87.03,Paul Blanco,Connecticut,Shelton,Banking and Financial Services
+156,WESTconsin Credit Union,1939,201 - 500,87.01,Lora Benrud,Wisconsin,Menomonie,Banking and Financial Services
+157,Hodgson Russ LLP,1817,201 - 500,86.98,"Benjamin M. Zuffranieri, Jr.",New York,Buffalo,Professional Services
+158,Cambridge Savings Bank,1834,201 - 500,86.96,Wayne Patenaude,Massachusetts,Cambridge,Banking and Financial Services
+159,Saint Anselm College,1889,"501 - 1,000",86.93,Joseph A. Favazza,New Hampshire,Manchester,Education
+160,SandRidge Energy,2006,"501 - 1,000",86.91,Grayson Pranin,Oklahoma,Oklahoma City,"Construction, Oil & Gas Operations, Mining and Chemicals"
+161,Seabreeze Amusement Park,1879,"501 - 1,000",86.90,Rob Norris,New York,Rochester,Media & Advertising
+162,"Advanced Roofing, Inc.",1983,201 - 500,86.90,Rob Kornahrens,Florida,Fort Lauderdale,"Construction, Oil & Gas Operations, Mining and Chemicals"
+163,Plumbers Supply Co,1921,201 - 500,86.87,Bruce Madison,Kentucky,Louisville,Retail and Wholesale
+164,Floqast,2013,"501 - 1,000",86.86,Mike Whitmire,California,Sherman Oaks,"IT, Internet, Software & Services"
+165,Naugatuck Valley Community College,1964,"501 - 1,000",86.82,Lisa Dresdner,Connecticut,Waterbury,Education
+166,Goshen College,1894,201 - 500,86.82,Rebecca Stoltzfus,Indiana,Goshen,Education
+167,Pape-Dawson Engineers,1965,"501 - 1,000",86.77,Samuel G. Dawson,Texas,San Antonio,"Engineering, Manufacturing"
+168,Nebraska Wesleyan University,1887,201 - 500,86.77,Darrin Good,Nebraska,Lincoln,Education
+169,Barr Engineering,1966,"501 - 1,000",86.73,Ward Swanson,Minnesota,Minneapolis,Professional Services
+170,Cargo Transporters,1982,"501 - 1,000",86.71,Dennis Dellinger,North Carolina,Claremont,Transportation and Logistics
+171,Solairus Aviation,2009,201 - 500,86.71,Dan Drohan,California,Petaluma,Transportation and Logistics
+172,Continental Properties,1979,201 - 500,86.70,James H. Schloemer,Wisconsin,Menomonee Falls,Business Services & Supplies
+173,Arizona Tile,1977,"501 - 1,000",86.70,John Huarte,Arizona,Tempe,Retail and Wholesale
+174,Axcelis Technologies,1978,"501 - 1,000",86.68,Russell J. Low,Massachusetts,Beverly,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+175,H O Penn Machinery,1923,201 - 500,86.48,Rob Cleveland,New York,Poughkeepsie,"Engineering, Manufacturing"
+176,Dordt College,1953,201 - 500,86.45,Erik Hoekstra,Iowa,Sioux Center,Education
+177,ArcTouch,2008,201 - 500,86.42,Eric Shapiro,California,San Francisco,"IT, Internet, Software & Services"
+178,Avian,2005,201 - 500,86.42,Jeff Sherman,Maryland,Lexington Park,Aerospace & Defense
+179,Allogene Therapeutics,2018,201 - 500,86.40,David Chang,California,South San Francisco,Drugs & Biotechnology
+180,Great River Energy,1999,"501 - 1,000",86.38,David Saggau,Minnesota,Maple Grove,Utilities
+181,Rockford University,1847,201 - 500,86.37,Eric W. Fulcomer,Illinois,Rockford,Education
+182,Center For Internet Security,2000,201 - 500,86.35,John M. Gilligan,New York,East Greenbush,"IT, Internet, Software & Services"
+183,Centre College,1819,201 - 500,86.34,Milton C. Moreland,Kentucky,Danville,Education
+184,Lawrence Technological University,1932,"501 - 1,000",86.32,Virinder Moudgil,Michigan,Southfield,Education
+185,Route4Me,2009,201 - 500,86.30,Dan Khasis,Florida,Tampa,"IT, Internet, Software & Services"
+186,Southeastern Oklahoma State University,1909,"501 - 1,000",86.26,Thomas Newsom,Oklahoma,Durant,Education
+187,Live Oak Bank,2008,"501 - 1,000",86.22,James S. Mahan III,North Carolina,Wilmington,Banking and Financial Services
+188,Pittsburgh Pirates,1887,201 - 500,86.21,Travis Williams,Pennsylvania,Pittsburgh,Travel & Leisure
+189,Beam Therapeutics,2017,"501 - 1,000",86.16,John Evans,Massachusetts,Cambridge,Drugs & Biotechnology
+190,Mirati Therapeutics,2013,201 - 500,86.13,David Meek,California,San Diego,Drugs & Biotechnology
+191,Christman Company,1894,201 - 500,86.12,Steven F. Roznowski,Michigan,Lansing,"Construction, Oil & Gas Operations, Mining and Chemicals"
+192,Provident Credit Union,1950,201 - 500,86.11,Jim Ernest,California,Redwood Shores,Banking and Financial Services
+193,"Horace Mann School, Bronx, NY",1887,201 - 500,86.06,Thomas Kelly,New York,Bronx,Education
+194,Brilliant Corners,2004,201 - 500,86.05,William F. Pickel,California,San Francisco,Healthcare & Social
+195,EngageSmart,2009,"501 - 1,000",86.05,Bob Bennett,Massachusetts,Boston,"IT, Internet, Software & Services"
+196,Addepar,2009,"501 - 1,000",86.04,Eric Poirier,California,Mountain View,"IT, Internet, Software & Services"
+197,Hawkins,1938,"501 - 1,000",86.04,Patrick H. Hawkins,Minnesota,Roseville,"Construction, Oil & Gas Operations, Mining and Chemicals"
+198,Orbital Engineering,1969,"501 - 1,000",86.02,Robert J. Lewis,Pennsylvania,Pittsburgh,Professional Services
+199,Zinpro Corporation,1971,201 - 500,85.95,Rob Sheffer,Minnesota,Eden Prairie,Packaged Goods
+200,ABX Air,1980,"501 - 1,000",85.93,Dave Soaper,Ohio,Wilmington,Transportation and Logistics
+201,Ambarella,2004,"501 - 1,000",85.90,Fermi Wang,California,Santa Clara,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+202,Oltmans Construction Co,1932,201 - 500,85.85,John Gormly,California,Whittier,"Construction, Oil & Gas Operations, Mining and Chemicals"
+203,Timmons Group,1953,"501 - 1,000",85.84,Brian Bortell,Virginia,Richmond,"Engineering, Manufacturing"
+204,Heartland Bank,1911,201 - 500,85.82,G. Scott McComb,Ohio,Whitehall,Banking and Financial Services
+205,Expel,2016,201 - 500,85.77,Dave Merkel,Virginia,Herndon,"IT, Internet, Software & Services"
+206,Lakeview Health,2001,201 - 500,85.77,Jamie Stevens,Florida,Jacksonville,Healthcare & Social
+207,Obxtek Inc,2009,"501 - 1,000",85.70,Dale Spencer,Virginia,McLean,"IT, Internet, Software & Services"
+208,Silk Road Medical,2007,201 - 500,85.69,Erica J. Rogers,California,Sunnyvale,"Engineering, Manufacturing"
+209,AM Technical Solutions,1994,"501 - 1,000",85.65,Kelly McAndrew,Texas,Austin,"Construction, Oil & Gas Operations, Mining and Chemicals"
+210,Churchill Mortgage,1992,"501 - 1,000",85.60,Mike Hardwick,Tennessee,Brentwood,Banking and Financial Services
+211,Middlesex Community College,1970,201 - 500,85.58,Steven L. Minkler,Massachusetts,Bedford,Education
+212,Backblaze,2007,201 - 500,85.58,Gleb Budman,California,San Mateo,"IT, Internet, Software & Services"
+213,EQT,1888,"501 - 1,000",85.54,Toby Z. Rice,Pennsylvania,Pittsburgh,"Construction, Oil & Gas Operations, Mining and Chemicals"
+214,Iowa Central Community College,1966,"501 - 1,000",85.39,Daniel Kinney,Iowa,Fort Dodge,Education
+215,Champlain College,1878,"501 - 1,000",85.32,Benjamin Akande,Vermont,Burlington,Education
+216,Big Geyser Inc,1986,201 - 500,85.31,Lewis Herhkowitz,New York,Maspeth,Business Services & Supplies
+217,Gordon College,1889,"501 - 1,000",85.30,D. Michael Lindsay,Massachusetts,Wenham,Education
+218,Copper State Bolt & Nut,1972,"501 - 1,000",85.29,Martin Calfee,Arizona,Phoenix,Retail and Wholesale
+219,Qualis Corporation,1993,201 - 500,85.23,Elizabeth Morard,Alabama,Huntsville,Aerospace & Defense
+220,Senior Aerospace AMT,1980,201 - 500,85.20,Pat Thurman,Washington,Arlington,Aerospace & Defense
+221,Mitchell Martin,1984,"501 - 1,000",85.17,Eugene Hotzman,New York,New York,Business Services & Supplies
+222,Allison-Smith Company,1943,"501 - 1,000",85.11,Mark Gallacher,Georgia,Atlanta,"Construction, Oil & Gas Operations, Mining and Chemicals"
+223,Grid Alternatives,2001,201 - 500,85.10,Erica Mackie,California,Oakland,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+224,Redwood Credit Union,1950,"501 - 1,000",85.08,Brett Martinez,California,Santa Rosa,Banking and Financial Services
+225,Cribl,2018,201 - 500,84.99,Clint Sharp,California,San Francisco,"IT, Internet, Software & Services"
+226,Fulcrum Consulting,2002,"501 - 1,000",84.92,Eric Mahler,Minnesota,Minneapolis,Professional Services
+227,Kidder Mathews,1969,"501 - 1,000",84.80,"D. William Frame, III",Washington,Seattle,Business Services & Supplies
+228,Family First Funding LLC,2011,201 - 500,84.77,Gabriel Gillen,New Jersey,Toms River,Banking and Financial Services
+229,Greenwood Village South,1962,201 - 500,84.74,Jordan Morrow,Indiana,Greenwood,Healthcare & Social
+230,University of Mobile,1961,201 - 500,84.68,Lonnie A. Burnett,Alabama,Mobile,Education
+231,Viz.ai,2016,201 - 500,84.67,Chris Mansi,California,San Francisco,Healthcare & Social
+232,Whitworth University,1890,"501 - 1,000",84.62,Scott McQuilkin,Washington,Spokane,Education
+233,Arrow Financial Corporation,1983,"501 - 1,000",84.61,David S. DeMarco,New York,Glens Falls,Banking and Financial Services
+234,Aims Community College,1967,"501 - 1,000",84.54,Leah Bornstein,Colorado,Greeley,Education
+235,Firefly Aerospace,2017,201 - 500,84.53,Bill Weber,Texas,Cedar Park,Aerospace & Defense
+236,Northwest Justice Project,1995,201 - 500,84.51,César Torres,Washington,Seattle,Professional Services
+237,Sunworks,1983,201 - 500,84.49,Gaylon Morris,California,Roseville,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+238,Mississippi College,1826,"501 - 1,000",84.48,Blake Thompson,Mississippi,Clinton,Education
+239,Truliant Federal Credit Union,1952,"501 - 1,000",84.47,Todd Hall,North Carolina,Winston-Salem,Banking and Financial Services
+240,Williams & Connolly LLP,1967,"501 - 1,000",84.46,Jennifer H. Scott,District of Columbia,Washington,Professional Services
+241,Thompson Engineering,1953,201 - 500,84.46,John H. Baker III,Alabama,Mobile,"Engineering, Manufacturing"
+242,Barrios Technology,1980,"501 - 1,000",84.43,Sandy Johnson,Texas,Houston,Aerospace & Defense
+243,"E2 Consulting Engineers, Inc.",1988,"501 - 1,000",84.42,Hersh Saluja,California,Emeryville,Professional Services
+244,Acclaim Technical Services,2000,201 - 500,84.37,Dave Cerne,Virginia,Reston,Aerospace & Defense
+245,Concept Rehab,1978,"501 - 1,000",84.34,Martha Shaker,Ohio,Toledo,Healthcare & Social
+246,FranklinCovey,1997,"501 - 1,000",84.32,Paul Walker,Utah,Salt Lake City,Professional Services
+247,Pet Palace,2006,201 - 500,84.28,Bianca Hallett,Ohio,Delaware,Travel & Leisure
+248,Kearny Bank,1884,"501 - 1,000",84.27,Craig L. Montanaro,New Jersey,Fairfield,Banking and Financial Services
+249,Definitive Healthcare Corp.,2011,"501 - 1,000",84.27,Robert Musslewhite,Massachusetts,Framingham,"IT, Internet, Software & Services"
+250,Simco Electronics,1962,201 - 500,84.18,Brian Kenna,California,Santa Clara,"Engineering, Manufacturing"
+251,"Electrical Consultants, Inc.",1985,"501 - 1,000",83.99,Bruce LaMeres,Montana,Billings,Utilities
+252,Augusta Sportswear,1977,"501 - 1,000",83.97,Dave Elliott,Georgia,Grovetown,Retail and Wholesale
+253,Kalamazoo College,1833,201 - 500,83.85,Jorge G. Gonzalez,Michigan,Kalamazoo,Education
+254,Rhodes College,1848,"501 - 1,000",83.78,Marjorie Hass,Tennessee,Memphis,Education
+255,Mountainland Technical College,1989,201 - 500,83.56,Clay E. Christensen,Utah,Lehi,Education
+256,Augsburg University,1869,"501 - 1,000",83.46,Paul Pribbenow,Minnesota,Minneapolis,Education
+257,Franklin and Marshall College,1787,"501 - 1,000",83.40,Barbara Altmann,Pennsylvania,Lancaster,Education
+258,Whitaker Construction,1953,201 - 500,83.27,Brett Nielsen,Utah,Brigham City,"Construction, Oil & Gas Operations, Mining and Chemicals"
+259,Walla Walla University,1892,201 - 500,83.13,John McVay,Washington,College Place,Education
+260,The University of Findlay,1882,"501 - 1,000",83.07,Katherine Fell,Ohio,Findlay,Education
+261,Boston Water & Sewer Commission,1977,"501 - 1,000",83.03,Henry F. Vitale,Massachusetts,Boston,Utilities
+262,Edsi,1979,"501 - 1,000",83.01,Kevin Schnieders,Michigan,Dearborn,Professional Services
+263,Wilshire Law Firm,2007,201 - 500,82.98,Bobby Saadian,California,Los Angeles,Professional Services
+264,Progyny,2008,201 - 500,82.93,Peter Anevski,New York,New York,Healthcare & Social
+265,Saunder Construction,1972,201 - 500,82.69,Greg Schmidt,Colorado,Englewood,"Construction, Oil & Gas Operations, Mining and Chemicals"
+266,JRM Construction Management,2007,201 - 500,82.60,David G. McWilliams,New York,New York,"Construction, Oil & Gas Operations, Mining and Chemicals"
+267,Select Dental,2018,"501 - 1,000",82.49,Stephen Saukaitis,New Jersey,Florham Park,Healthcare & Social
+268,Freese and Nichols,1894,"501 - 1,000",82.39,Brian Coltharp,Texas,Fort Worth,"Engineering, Manufacturing"
+269,Campus Apartments,1958,"501 - 1,000",82.30,David J. Adelman,Pennsylvania,Philadelphia,Business Services & Supplies
+270,"DRMP, Inc.",1977,"501 - 1,000",82.19,"Lawrence L. Smith, Jr.",Florida,Orlando,"Engineering, Manufacturing"
+271,Eckerd College,1958,201 - 500,82.15,Damian J. Fernandez,Florida,St. Petersburg,Education
+272,Claremont McKenna College,1946,"501 - 1,000",82.10,Hiram Chodosh,California,Claremont,Education
+273,Brown Distributing,1919,201 - 500,82.05,J. Dan Brown,Virginia,Richmond,Retail and Wholesale
+274,Hunter Contracting Co,1961,201 - 500,81.84,Chuck English,Arizona,Gilbert,"Construction, Oil & Gas Operations, Mining and Chemicals"
+275,Fifth Group Restaurants,1993,"501 - 1,000",81.80,Stuart Fierman,Georgia,Atlanta,Restaurants
+276,Concordia University Texas,1926,201 - 500,81.71,Donald R. Christian,Texas,Austin,Education
+277,Chain Electric,1955,"501 - 1,000",81.66,Jarred King,Mississippi,Hattiesburg,"Construction, Oil & Gas Operations, Mining and Chemicals"
+278,Beitzel Corporation,1974,201 - 500,81.54,Shawn Bender,Maryland,Grantsville,"Construction, Oil & Gas Operations, Mining and Chemicals"
+279,Tanco Engineering,1979,201 - 500,81.38,Chad M. Derringer,Colorado,Loveland,"Construction, Oil & Gas Operations, Mining and Chemicals"
+280,Chrysalis Health,1995,"501 - 1,000",81.10,"Manuel E. Menendez, III",Florida,Ft. Lauderdale,Healthcare & Social
+281,Earthjustice,1971,"501 - 1,000",80.96,Abigail Dillen,California,San Francisco,Professional Services
+282,Bayone Solutions,2012,"501 - 1,000",80.95,Yogesh Virmani,California,Pleasanton,"IT, Internet, Software & Services"
+283,The Arc Eastern Connecticut,1952,201 - 500,80.84,Kathleen Stauffer,Connecticut,Norwich,Healthcare & Social
+284,"Apogee Engineering, LLC",2004,"501 - 1,000",80.80,Wes Georges,Colorado,Colorado Springs,Professional Services
+285,Brooklyn Law School,1901,201 - 500,80.66,David D. Meyer,New York,Brooklyn,Education
+286,Summit Utilities,1997,"501 - 1,000",80.61,Kurt Adams,Colorado,Centennial,Utilities
+287,Best Tile,1956,201 - 500,80.59,Peter López,Maryland,Columbia,Retail and Wholesale
+288,College of Mount Saint Vincent,1847,"501 - 1,000",80.59,"Charles L. Flynn, Jr.",New York,Riverdale,Education
+289,Susquehanna University,1858,"501 - 1,000",80.35,Jonathan D. Green,Pennsylvania,Selinsgrove,Education
+290,Boudreau Pipeline Corporation,1997,201 - 500,80.21,Alan Boudreau,California,Corona,"Construction, Oil & Gas Operations, Mining and Chemicals"
+291,Broadway Bank,1941,"501 - 1,000",79.88,David Bohne,Texas,San Antonio,Banking and Financial Services
+292,Falcon Plastics,1975,201 - 500,79.68,Jay Bender,South Dakota,Brookings,"Engineering, Manufacturing"
+293,John Moriarty & Associates,1985,"501 - 1,000",79.40,Christopher J. Brown,Massachusetts,Boston,"Construction, Oil & Gas Operations, Mining and Chemicals"
+294,Drees Homes,1928,"501 - 1,000",79.20,David Drees,Kentucky,Ft. Mitchell,"Construction, Oil & Gas Operations, Mining and Chemicals"
+295,Caldwell Tanks,1887,201 - 500,78.98,K. Ryan Harvey,Kentucky,Louisville,"Construction, Oil & Gas Operations, Mining and Chemicals"
+296,Sound Transit,1996,"501 - 1,000",77.76,Julie Timm,Washington,Seattle,Transportation and Logistics
+297,Priefert,1964,"501 - 1,000",77.53,Eddie Priefert,Texas,Mount Pleasant,"Engineering, Manufacturing"
+298,Fortress Investment Group,1998,"501 - 1,000",77.21,"Peter L. Briger, Jr.",New York,New York,Banking and Financial Services
+299,Byline Bank,1914,"501 - 1,000",77.02,Alberto Paracchini,Illinois,Chicago,Banking and Financial Services
+300,Aureon,1988,"501 - 1,000",76.87,Mike Rice,Iowa,West Des Moines,Business Services & Supplies

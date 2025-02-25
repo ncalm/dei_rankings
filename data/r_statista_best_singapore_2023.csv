@@ -1,0 +1,251 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Google,2007,"1,001 - 5,000",9.13,Ben King,Singapore,Singapore,"IT, Internet, Software & Services"
+2,Procter & Gamble,1987,"1,001 - 5,000",8.92,Jon R. Moeller,Singapore,Singapore,Packaged Goods
+3,Wells Fargo,1852,"5,001 - 10,000",8.90,Soumitro Mukerji,Singapore,Singapore,Banking and Financial Services
+4,Apple,1981,"1,001 - 5,000",8.77,Tim Cook,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+5,Rolls-Royce,1950,"1,001 - 5,000",8.67,Tufan Erginbilgic,Singapore,Singapore,Aerospace & Defense
+6,The LEGO Group,2013,201 - 500,8.66,Niels B. Christiansen,Singapore,Singapore,Retail and Wholesale
+7,Illumina Singapore,1998,"1,001 - 5,000",8.66,Derric Lee,Singapore,Singapore,Health Care Equipment & Services
+8,Inchcape Singapore,1967,"501 - 1,000",8.61,Jasmmine Wong,Singapore,Singapore,Automotive (Automotive and Suppliers)
+9,Asia Pacific Breweries (Heineken Asia Pacific),1931,201 - 500,8.60,Kenneth Choo,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco"
+10,Orange Valley Nursing Homes,1993,201 - 500,8.58,Lyn Edel Yip,Singapore,Singapore,Healthcare & Social
+11,Raffles Medical Group,1976,"1,001 - 5,000",8.48,Loo Choon Yong,Singapore,Singapore,Healthcare & Social
+12,Siemens,1908,"501 - 1,000",8.42,Dr. Thai Lai Pham,Singapore,Singapore,"Engineering, Manufacturing"
+13,Teambuild Construction,1992,"501 - 1,000",8.37,Seow Seng Wei,Singapore,Singapore,Construction
+14,Motorola Solutions Singapore,1983,"501 - 1,000",8.36,Gregory Q. Brown,Singapore,Singapore,"Telecommunications Services, Cable Supplier"
+15,Federal Express Pacific (FedEx),1984,"1,001 - 5,000",8.34,Eric Tan,Singapore,Singapore,Transportation and Logistics
+16,Amgen,1980,201 - 500,8.25,Robert A. Bradway,Singapore,Singapore,Drugs & Biotechnology
+17,Woh Hup,1927,"1,001 - 5,000",8.25,Yong Tiam Yoon Kim,Singapore,Singapore,Construction
+18,Senoko Energy,1977,201 - 500,8.24,Eric Maka,Singapore,Singapore,Utilities
+19,Johnson & Johnson,1886,"1,001 - 5,000",8.23,Joaquin Duato,Singapore,Singapore,Health Care Equipment & Services
+20,Kone,1978,201 - 500,8.22,Henrik Ehrnrooth,Singapore,Singapore,Construction
+21,Tanglin Trust School,1925,201 - 500,8.20,Craig Considine,Singapore,Singapore,Education
+22,Jurong Engineering,1971,201 - 500,8.20,Koichi Watanabe,Singapore,Singapore,Construction
+23,Starbucks Coffee Singapore,1996,201 - 500,8.18,Patrick Kwok,Singapore,Singapore,Restaurants and Food Services
+24,Kuehne + Nagel,1970,201 - 500,8.17,Peer Gjoew Rasmussen,Singapore,Singapore,Transportation and Logistics
+25,UNIQLO,2009,201 - 500,8.13,Yuki Yamada,Singapore,Singapore,"Clothing, Shoes, Sports Equipment"
+26,National University Health System (NUHS),1985,"501 - 1,000",8.11,Yeoh Khay Guan,Singapore,Singapore,Healthcare & Social
+27,Adidas Singapore,1994,201 - 500,8.10,Bjørn Gulden,Singapore,Singapore,"Clothing, Shoes, Sports Equipment"
+28,Raytheon Technologies,1922,201 - 500,8.10,Gregory J. Hayes,Singapore,Singapore,Aerospace & Defense
+29,Roche Singapore,1973,201 - 500,8.10,Dr. Thomas Schinecker,Singapore,Singapore,Drugs & Biotechnology
+30,CBM,1971,201 - 500,8.07,Roy Chiang,Singapore,Singapore,Business Support Services & Supplies
+31,Singapore Polytechnic,1954,"1,001 - 5,000",8.06,Soh Wai Wah,Singapore,Singapore,Education
+32,Changi General Hospital (CGH),1998,201 - 500,8.05,Prof Ng Wai Hoe,Singapore,Singapore,Healthcare & Social
+33,DBS Bank,1968,201 - 500,8.05,Piyush Gupta,Singapore,Singapore,Banking and Financial Services
+34,Barclays,1690,"501 - 1,000",8.04,Alexander Harrison,Singapore,Singapore,Banking and Financial Services
+35,Coca-Cola Singapore,1886,201 - 500,8.03,Louis Balat Joseph,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco"
+36,KLA,2006,"1,001 - 5,000",8.02,Rick Wallace,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+37,Nanyang Academy of Fine Arts,1938,201 - 500,8.01,Tan-Soh Wai Lan,Singapore,Singapore,Education
+38,PropNex,2000,"10,001 - 50,000",8.01,Mohamed Ismail Gafoor,Singapore,Singapore,Real Estate
+39,AIA Singapore,1931,201 - 500,7.99,Wong Sze Keed,Singapore,Singapore,Insurance
+40,Economic Development Board (EDB),1961,201 - 500,7.98,Dr Beh Swan Gin,Singapore,Singapore,Government Services
+41,Marina Bay Sands,2010,"5,001 - 10,000",7.97,Robert Glen Goldstein,Singapore,Singapore,Travel & Leisure
+42,Domino's Pizza Singapore,2009,201 - 500,7.96,Ba U Shan-Ting,Singapore,Singapore,Restaurants and Food Services
+43,3M,1966,"1,001 - 5,000",7.95,Mike Roman,Singapore,Singapore,"Engineering, Manufacturing"
+44,Golden Village Multiplex,1992,201 - 500,7.94,Clara Cheo,Singapore,Singapore,Travel & Leisure
+45,Wise,2017,201 - 500,7.94,Kristo Käärmann,Singapore,Singapore,Banking and Financial Services
+46,Willis Towers Watson,1828,201 - 500,7.93,Choo Oi San,Singapore,Singapore,Banking and Financial Services
+47,Boeing,1947,201 - 500,7.92,Alexander Feldman,Singapore,Singapore,Aerospace & Defense
+48,Straits Construction Singapore,1969,201 - 500,7.92,Wong Chee Herng,Singapore,Singapore,Construction
+49,FWD Insurance,2013,201 - 500,7.91,Adrian Vincent,Singapore,Singapore,Insurance
+50,"Agency for Science, Technology and Research (A*STAR)",1967,"5,001 - 10,000",7.91,Frederick Chew,Singapore,Singapore,Government Services
+51,Atos Information Technology,1919,201 - 500,7.91,Daniele Principato,Singapore,Singapore,"IT, Internet, Software & Services"
+52,Singapore Power Group,1995,201 - 500,7.91,Stanley Huang Tian Guan,Singapore,Singapore,Utilities
+53,Exyte Trading Singapore,1991,"1,001 - 5,000",7.88,Dr. Wolfgang Büchele,Singapore,Singapore,Construction
+54,CTC Global,1972,201 - 500,7.88,Ichiro Tsuge,Singapore,Singapore,"IT, Internet, Software & Services"
+55,Pfizer,1964,201 - 500,7.88,Dr. Albert Bourla,Singapore,Singapore,Drugs & Biotechnology
+56,NTUC LearningHub,2004,201 - 500,7.87,Jeremy Ong,Singapore,Singapore,Education
+57,Amazon,2019,201 - 500,7.86,Andy Jassy,Singapore,Singapore,Retail and Wholesale
+58,Shanghai Tunnel Engineering Co (Singapore),1996,201 - 500,7.84,Zhang Yan,Singapore,Singapore,Construction
+59,Huawei,1987,201 - 500,7.84,Foo Fang Yong,Singapore,Singapore,"IT, Internet, Software & Services"
+60,BHCC Construction,2003,201 - 500,7.83,Xinping Yang,Singapore,Singapore,Construction
+61,Hong Leong Asia,1941,201 - 500,7.83,Stephen Kiam Kong Ho,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+62,Alcon,2009,201 - 500,7.82,David Endicott,Singapore,Singapore,Health Care Equipment & Services
+63,F&N Foods,1883,201 - 500,7.82,Hui Choon Kit,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco"
+64,Hitachi,1989,201 - 500,7.81,Toshiaki Higashihara,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+65,Singapore Management University,1997,201 - 500,7.80,Lily Kong,Singapore,Singapore,Education
+66,Sanofi,1885,"501 - 1,000",7.80,Paul Hudson,Singapore,Singapore,Drugs & Biotechnology
+67,Temasek Polytechnic,1990,"1,001 - 5,000",7.79,Peter Lam,Singapore,Singapore,Education
+68,Singapore Institute of Management (SIM),1964,201 - 500,7.79,Seah Chin Siong,Singapore,Singapore,Education
+69,Singapore Health Services (SingHealth),2000,"10,001 - 50,000",7.79,Prof Ivy Ng,Singapore,Singapore,Healthcare & Social
+70,Total Oil Asia-Pacific,1982,"501 - 1,000",7.77,Ting Wee Liang,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+71,Hafary,1980,201 - 500,7.77,Kok Ann Low,Singapore,Singapore,Retail and Wholesale
+72,Chip Eng Seng Corporation,1960,"1,001 - 5,000",7.76,Chia Lee Meng Raymond,Singapore,Singapore,Construction
+73,JP MorganChase,1964,201 - 500,7.75,James Wey,Singapore,Singapore,Banking and Financial Services
+74,Gardens by the bay,2007,201 - 500,7.75,Felix Loh,Singapore,Singapore,Travel & Leisure
+75,National Healthcare Group,2000,201 - 500,7.75,Prof Philip Choo,Singapore,Singapore,Healthcare & Social
+76,Medtronic,1998,201 - 500,7.75,Geoffrey S. Martha,Singapore,Singapore,Health Care Equipment & Services
+77,GlaxoSmithKline (GSK),1959,"1,001 - 5,000",7.74,Emma Walmsley,Singapore,Singapore,Drugs & Biotechnology
+78,Jacobs Engineering,1998,201 - 500,7.74,Bob Pragada,Singapore,Singapore,Construction
+79,National University of Singapore,1980,"10,001 - 50,000",7.74,Prof Ho Teck Hua,Singapore,Singapore,Education
+80,Ikea Singapore,1978,201 - 500,7.74,Christian Roejkjaer,Singapore,Singapore,Retail and Wholesale
+81,McDonald's,1979,"10,001 - 50,000",7.73,Benjamin Boh,Singapore,Singapore,Restaurants and Food Services
+82,Dell,1984,"1,001 - 5,000",7.73,Michael Dell,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+83,Yokogawa Electric Asia,1974,"1,001 - 5,000",7.72,Hitoshi Nara,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+84,Airbus,1969,"501 - 1,000",7.72,Guillaume Faury,Singapore,Singapore,Aerospace & Defense
+85,Unilever,1971,201 - 500,7.71,Alan Jope,Singapore,Singapore,Packaged Goods
+86,Tricor Singapore,2004,201 - 500,7.70,David Ong,Singapore,Singapore,Professional Services
+87,Standard Chartered Bank (Singapore),1859,"5,001 - 10,000",7.70,Patrick Lee,Singapore,Singapore,Banking and Financial Services
+88,Symrise,2003,201 - 500,7.69,Dr. Heinz-Jürgen Bertram,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+89,American Express,1850,201 - 500,7.69,Marlin Brown,Singapore,Singapore,Banking and Financial Services
+90,Merck Sharp & Dohme (MSD),1993,"501 - 1,000",7.69,Robert M. Davis,Singapore,Singapore,Drugs & Biotechnology
+91,Kk Women's and Children's Hospital,1858,201 - 500,7.69,Alex Sia,Singapore,Singapore,Healthcare & Social
+92,Agilent Technologies Singapore,1999,201 - 500,7.68,Mike McMullen,Singapore,Singapore,Drugs & Biotechnology
+93,PayPal,1998,201 - 500,7.68,Dan Schulman,Singapore,Singapore,Banking and Financial Services
+94,United World College of South East Asia,1971,"1,001 - 5,000",7.68,Patrick Hurworth,Singapore,Singapore,Education
+95,SAP,1989,201 - 500,7.67,Eileen Chua,Singapore,Singapore,"IT, Internet, Software & Services"
+96,Wing Tai,1963,201 - 500,7.67,Cheng Wai Keung,Singapore,Singapore,Real Estate
+97,Bloomberg,1981,201 - 500,7.67,Mike Bloomberg,Singapore,Singapore,Business Support Services & Supplies
+98,Arup,1968,201 - 500,7.67,Tan Yoong Heng,Singapore,Singapore,Professional Services
+99,Microsoft,1975,"1,001 - 5,000",7.65,Lee Hui Li,Singapore,Singapore,"IT, Internet, Software & Services"
+100,CapitaLand,2000,201 - 500,7.63,Wong Kan Seng,Singapore,Singapore,Real Estate
+101,Challenger Technologies,1982,201 - 500,7.63,Loo Leong Thye,Singapore,Singapore,Retail and Wholesale
+102,DHL,1969,"1,001 - 5,000",7.63,Christopher Ong,Singapore,Singapore,Transportation and Logistics
+103,Goldman Sachs,1869,"1,001 - 5,000",7.60,David Solomon,Singapore,Singapore,Banking and Financial Services
+104,Broadway Food Centre,1997,201 - 500,7.59,Tan Thoo Cheng,Singapore,Singapore,Restaurants and Food Services
+105,Singapore Exchange,1984,201 - 500,7.59,Loh Boon Chye,Singapore,Singapore,Banking and Financial Services
+106,Bintai Kindenko Pvt,1973,201 - 500,7.58,Chua Swee Ann,Singapore,Singapore,Construction
+107,Meta,2010,201 - 500,7.58,Mark Zuckerberg,Singapore,Singapore,"IT, Internet, Software & Services"
+108,Crown Worldwide,1965,201 - 500,7.57,Ken Madrid,Singapore,Singapore,Transportation and Logistics
+109,MindChamps PreSchool,2008,201 - 500,7.57,David Chiem,Singapore,Singapore,Education
+110,Shell,1922,"1,001 - 5,000",7.57,Kah Peng Aw,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+111,Orange Business Services Singapore,1944,201 - 500,7.56,Christel Heydemann,Singapore,Singapore,"IT, Internet, Software & Services"
+112,Beca Asia,1920,201 - 500,7.55,Greg Lowe,Singapore,Singapore,Professional Services
+113,IHH Healthcare Berhad,1974,"5,001 - 10,000",7.55,Dr Prem Kumar Nair,Singapore,Singapore,Healthcare & Social
+114,Duke NUS,2005,"1,001 - 5,000",7.54,Thomas M. Coffman,Singapore,Singapore,Education
+115,Nanyang Technological University,1991,"5,001 - 10,000",7.53,Ho Teck Hua,Singapore,Singapore,Education
+116,Bangkok Bank Singapore,1957,201 - 500,7.50,Chartsiri Sophonpanich,Singapore,Singapore,Banking and Financial Services
+117,ASL Marine,1974,"501 - 1,000",7.50,Ang Kok Tian,Singapore,Singapore,"Engineering, Manufacturing"
+118,Paradise Group,2002,201 - 500,7.49,Eldwin Chua,Singapore,Singapore,Restaurants and Food Services
+119,Adeka (Singapore),1988,201 - 500,7.48,Hirota Kiyonobu,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco"
+120,Country Foods,2015,201 - 500,7.47,Alvin See,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco"
+121,Changi Airport Group,1959,201 - 500,7.47,Lee Seow Hiang,Singapore,Singapore,Transportation and Logistics
+122,Lian Beng Group,1973,201 - 500,7.46,Ong Pang Aik,Singapore,Singapore,Construction
+123,Bosch Group,1923,"501 - 1,000",7.46,Martin Hayes,Singapore,Singapore,"Engineering, Manufacturing"
+124,Fei Yue Community Services,1996,201 - 500,7.45,Arthur Ling Koon Hwai,Singapore,Singapore,Healthcare & Social
+125,NYK Shipmanagement,2001,201 - 500,7.45,Hiroaki Ohashi,Singapore,Singapore,Business Support Services & Supplies
+126,L'Oréal,1990,"501 - 1,000",7.45,Iris Lam,Singapore,Singapore,Retail and Wholesale
+127,AXA,1969,201 - 500,7.44,Ho Lee Yen,Singapore,Singapore,Insurance
+128,K. A Building Construction,1987,201 - 500,7.44,Soh Yong Poon,Singapore,Singapore,Construction
+129,Abbott,1970,"501 - 1,000",7.44,Robert B. Ford,Singapore,Singapore,Drugs & Biotechnology
+130,Aedas,1995,201 - 500,7.43,Tony Ang,Singapore,Singapore,Professional Services
+131,Nike Singapore,1990,201 - 500,7.42,John Donahoe,Singapore,Singapore,Retail and Wholesale
+132,Applied Materials,1991,"1,001 - 5,000",7.42,Gary Dickerson,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+133,SIA Engineering Company,1992,"1,001 - 5,000",7.40,Ng Chin Hwee,Singapore,Singapore,Aerospace & Defense
+134,Breadtalk Group,2000,201 - 500,7.40,Jonathan Quek,Singapore,Singapore,Retail and Wholesale
+135,Bachmann Japanese Restaurant,1997,201 - 500,7.40,Takahashi Kenichi,Singapore,Singapore,Restaurants and Food Services
+136,Ensign InfoSecurity,2000,201 - 500,7.39,Tammie Tham,Singapore,Singapore,"IT, Internet, Software & Services"
+137,PSA International Pte Ltd,1997,"10,001 - 50,000",7.38,Tan Chong Meng,Singapore,Singapore,Transportation and Logistics
+138,Healthway Medical Group,1990,201 - 500,7.37,Stephens Lo,Singapore,Singapore,Healthcare & Social
+139,COURTS Singapore,1973,201 - 500,7.37,Hiroshi Nojima,Singapore,Singapore,Retail and Wholesale
+140,HSBC,1877,"1,001 - 5,000",7.36,Kee Joo Wong,Singapore,Singapore,Banking and Financial Services
+141,Singapore Aero Engine Services,1999,201 - 500,7.35,Simon Middlebrough,Singapore,Singapore,Business Support Services & Supplies
+142,GovTech,2016,201 - 500,7.35,Ping Soon Kok,Singapore,Singapore,Government Services
+143,UPS,1988,"1,001 - 5,000",7.35,Carol B. Tomé,Singapore,Singapore,Transportation and Logistics
+144,Aem,2000,201 - 500,7.34,Chandran Nair,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+145,BW Group,1955,201 - 500,7.34,Andreas Sohmen-Pao,Singapore,Singapore,Transportation and Logistics
+146,Emerson,1890,201 - 500,7.34,Lal Karsanbhai,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+147,Walt Disney Company,1994,201 - 500,7.33,Bob Iger,Singapore,Singapore,Travel & Leisure
+148,UOL Group,1963,201 - 500,7.33,Liam Wee Sin,Singapore,Singapore,Real Estate
+149,Kingsmen Creatives,1976,201 - 500,7.33,Andrew Cheng,Singapore,Singapore,Media & Advertising
+150,Micron Semiconductor Asia,1978,201 - 500,7.32,Sanjay Mehrotra,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+151,FairPrice Group,1973,"5,001 - 10,000",7.32,Vipul Chawla,Singapore,Singapore,Retail and Wholesale
+152,Hewlett Packard Enterprise,1939,201 - 500,7.32,Antonio Neri,Singapore,Singapore,"IT, Internet, Software & Services"
+153,Maxi-Cash Financial Services,2008,201 - 500,7.31,Kean Ng,Singapore,Singapore,Banking and Financial Services
+154,Government of Singapore Investment Corporation (GIC),1981,"1,001 - 5,000",7.31,Lim Chow Kiat,Singapore,Singapore,Banking and Financial Services
+155,Boustead Singapore,1828,201 - 500,7.31,Wong Fong Fui,Singapore,Singapore,Business Support Services & Supplies
+156,Keppel Corporation,1968,201 - 500,7.30,Loh Chin Hua,Singapore,Singapore,Business Support Services & Supplies
+157,HP,1939,201 - 500,7.30,Enrique Lores,Singapore,Singapore,"IT, Internet, Software & Services"
+158,Ngee Ann Polytechnic,1963,201 - 500,7.29,Lim Kok Kiang,Singapore,Singapore,Education
+159,International Business Machines (IBM),1952,201 - 500,7.29,Arvind Krishna,Singapore,Singapore,"IT, Internet, Software & Services"
+160,foodpanda,2012,"501 - 1,000",7.29,Jakob Sebastian Angele,Singapore,Singapore,"IT, Internet, Software & Services"
+161,Autodesk,1982,201 - 500,7.28,Andrew Anagnost,Singapore,Singapore,"IT, Internet, Software & Services"
+162,H&M Hennes & Mauritz,2011,201 - 500,7.28,Helena Helmersson,Singapore,Singapore,"Clothing, Shoes, Sports Equipment"
+163,Accenture,1989,201 - 500,7.26,Wee Wei Ng,Singapore,Singapore,Professional Services
+164,Health Promotion Board (HPB),2001,201 - 500,7.26,Zee Yoong Kang,Singapore,Singapore,Government Services
+165,Nippon Paint,1955,201 - 500,7.26,Wang Chyang,Singapore,Singapore,Retail and Wholesale
+166,City Developments,1963,201 - 500,7.25,Sherman Kwek,Singapore,Singapore,Real Estate
+167,Advanced Micro Devices (AMD),1969,201 - 500,7.25,Dr. Lisa Su,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+168,Exceltec Property Management,1997,201 - 500,7.24,Koh Hock Seng,Singapore,Singapore,Business Support Services & Supplies
+169,ExxonMobil,1893,"1,001 - 5,000",7.24,Geraldine Chin,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+170,Mitsui High-tec Singapore,1972,201 - 500,7.23,Yasunari Mitsui,Singapore,Singapore,"Engineering, Manufacturing"
+171,APAC Realty,1982,"501 - 1,000",7.23,Marcus Chu,Singapore,Singapore,Real Estate
+172,China Jingye (MCC Singapore),1992,201 - 500,7.22,Tan Zhiyong,Singapore,Singapore,Construction
+173,Toyota Motor Asia Pacific Pte Ltd,1990,201 - 500,7.22,Mitsuhiro Tsubakimoto,Singapore,Singapore,Automotive (Automotive and Suppliers)
+174,Acma,1965,"501 - 1,000",7.21,Quek Sim Pin,Singapore,Singapore,Retail and Wholesale
+175,Kuan Aik Hong Construction,1980,201 - 500,7.21,Thomas Lee,Singapore,Singapore,Construction
+176,JTC Corporation,1968,201 - 500,7.21,Tan Boon Khai,Singapore,Singapore,Government Services
+177,Asia Projects Engineering Co (APECO),1970,201 - 500,7.21,Tony Ong Chin Hong,Singapore,Singapore,Construction
+178,DKSH Management,1865,"10,001 - 50,000",7.20,Tan Ken Jek,Singapore,Singapore,Professional Services
+179,RAJAH & TANN,1976,201 - 500,7.20,Patrick Ang,Singapore,Singapore,Professional Services
+180,Oracle Singapore,2005,201 - 500,7.20,Horng Shya Chua,Singapore,Singapore,"IT, Internet, Software & Services"
+181,Scoot,2011,201 - 500,7.20,Leslie Thng,Singapore,Singapore,Transportation and Logistics
+182,KTC Group,1988,201 - 500,7.20,Chan Hiang Kiat,Singapore,Singapore,Construction
+183,AbbVie,2013,201 - 500,7.19,Richard A. Gonzalez,Singapore,Singapore,Drugs & Biotechnology
+184,Tan Tock Seng Hospital,1844,201 - 500,7.19,Dr Eugene Fidelis Soh,Singapore,Singapore,Healthcare & Social
+185,Wee Hur,1980,201 - 500,7.19,Goh Yeow Lian,Singapore,Singapore,Real Estate
+186,Bella Marie France (BMF),2017,201 - 500,7.19,Amy Quek,Singapore,Singapore,Health Care Equipment & Services
+187,Prima Food,1961,201 - 500,7.19,Primus Cheng,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco"
+188,Daiya Engineering & Construction,1987,201 - 500,7.18,Lily Kong,Singapore,Singapore,Construction
+189,Advanced Semiconductor Engineering (ASE),1998,"501 - 1,000",7.18,Tien Wu,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+190,Building and Construction Authority (BCA),1999,201 - 500,7.18,Kelvin Wong,Singapore,Singapore,Government Services
+191,Housing & Development Board (HDB),1960,201 - 500,7.18,Tan Meng Dui,Singapore,Singapore,Government Services
+192,Republic Polytechnic,2002,"501 - 1,000",7.17,Jeanne Liew,Singapore,Singapore,Education
+193,Parkway Hospitals Singapore,1942,"1,001 - 5,000",7.16,Dr Prem Kumar Nair,Singapore,Singapore,Healthcare & Social
+194,Australia & New Zealand Banking Group (ANZ),1974,201 - 500,7.15,Mark Evans,Singapore,Singapore,Banking and Financial Services
+195,Caterpillar,1967,201 - 500,7.15,D. James Umpleby III,Singapore,Singapore,"Engineering, Manufacturing"
+196,Novartis,1986,"1,001 - 5,000",7.14,"Vasant (Vas) Narasimhan, M.D.",Singapore,Singapore,Drugs & Biotechnology
+197,Shen Yao Holdings,2004,201 - 500,7.14,Yao Liang,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+198,PAP Community Foundation (PCF),1986,201 - 500,7.14,Victor Bay,Singapore,Singapore,Education
+199,Far East Organization,1960,201 - 500,7.14,Philip Ng Chee Tat,Singapore,Singapore,Real Estate
+200,Tat Seng Packaging Group,1968,"1,001 - 5,000",7.14,See Moon Loh,Singapore,Singapore,"Engineering, Manufacturing"
+201,Guthrie Engineering,1821,201 - 500,7.14,Tiong Lim,Singapore,Singapore,"Engineering, Manufacturing"
+202,Intel,1968,201 - 500,7.14,Pat Gelsinger,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+203,Cisco,1994,"501 - 1,000",7.14,Andy Lee,Singapore,Singapore,"IT, Internet, Software & Services"
+204,Health Sciences Authority (HSA),2001,201 - 500,7.12,Choong May Ling,Singapore,Singapore,Government Services
+205,Razer,2005,201 - 500,7.12,Min-Liang Tan,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+206,BASF,1978,"501 - 1,000",7.12,Martin Brudermüller,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+207,Grab,2014,"1,001 - 5,000",7.12,Anthony Tan,Singapore,Singapore,"IT, Internet, Software & Services"
+208,General Electric,1969,"1,001 - 5,000",7.12,H. Lawrence Culp Jr.,Singapore,Singapore,"Engineering, Manufacturing"
+209,Venture Corporation,1989,201 - 500,7.12,Lee Ghai Keen,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+210,MayBank,1960,"1,001 - 5,000",7.12,Dr. John Lee Hin Hock,Singapore,Singapore,Banking and Financial Services
+211,Kaplan,2005,201 - 500,7.12,Susie Khoo,Singapore,Singapore,Education
+212,TDCX (formerly Teledirect),1995,"1,001 - 5,000",7.10,Laurent Junique,Singapore,Singapore,Business Support Services & Supplies
+213,The Coffee Bean & Tea Leaf,1996,201 - 500,7.10,Lin Chien Chien,Singapore,Singapore,Restaurants and Food Services
+214,Ministry of Finance (MOF),1963,201 - 500,7.10,Lawrence Wong,Singapore,Singapore,Government Services
+215,Cognizant Technology Solutions,1994,201 - 500,7.09,Ravi Kumar S,Singapore,Singapore,"IT, Internet, Software & Services"
+216,Thermo Fisher Scientific,1956,201 - 500,7.09,Marc N. Casper,Singapore,Singapore,Drugs & Biotechnology
+217,Maersk,1904,201 - 500,7.08,Vincent Clerc,Singapore,Singapore,Transportation and Logistics
+218,UTAC Manufacturing Services Singapore,1997,201 - 500,7.08,Dr. John Nelson,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+219,Singapore Post,1819,201 - 500,7.07,Vincent Phang,Singapore,Singapore,Transportation and Logistics
+220,Salesforce,2004,"1,001 - 5,000",7.07,Cecily Ng,Singapore,Singapore,"IT, Internet, Software & Services"
+221,Oversea-Chinese Banking Corporation (OCBC),1932,201 - 500,7.07,Helen Wong,Singapore,Singapore,Banking and Financial Services
+222,SkillsFuture Singapore (SSG),2016,201 - 500,7.06,Kok Yam Tan,Singapore,Singapore,Government Services
+223,Cushman & Wakefield,1917,201 - 500,7.05,Dennis Yeo,Singapore,Singapore,Professional Services
+224,Home Team Science and Technology Agency (HTX),2019,201 - 500,7.05,Chan Tsan,Singapore,Singapore,Government Services
+225,Nanyang Polytechnic,1992,"1,001 - 5,000",7.05,Russell Chan,Singapore,Singapore,Government Services
+226,EM Services,1988,"1,001 - 5,000",7.05,Tony Khoo,Singapore,Singapore,Business Support Services & Supplies
+227,Apar Technologies,2006,201 - 500,7.04,Sai Sudhakar,Singapore,Singapore,"IT, Internet, Software & Services"
+228,Campaign Complete Solutions,1986,201 - 500,7.04,Eddie Loh,Singapore,Singapore,Business Support Services & Supplies
+229,Ministry of Home Affairs (MHA),1970,201 - 500,7.04,K. Shanmugam,Singapore,Singapore,Government Services
+230,Credit Suisse,1856,201 - 500,7.04,Rehan Anwer,Singapore,Singapore,Banking and Financial Services
+231,KC Group,2013,201 - 500,7.04,Brian Ng,Singapore,Singapore,Professional Services
+232,Deutsche Bank,1906,201 - 500,7.03,Chandra Mallika,Singapore,Singapore,Banking and Financial Services
+233,Intellectual Property Office of Singapore (IPOS),2001,201 - 500,7.03,Rena Lee,Singapore,Singapore,Government Services
+234,Agility Logistics,1979,201 - 500,7.03,Henadi Al-Saleh,Singapore,Singapore,Transportation and Logistics
+235,Brenntag,1874,201 - 500,7.02,Dr. Christian Kohlpaintner,Singapore,Singapore,Retail and Wholesale
+236,Murata Electronics Singapore,1972,201 - 500,7.02,Tsuneo Murata,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+237,Seagate,1979,201 - 500,7.01,Dave Mosley,Singapore,Singapore,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+238,Agency for Integrated Care,1992,201 - 500,7.01,Tan Kwang Cheak,Singapore,Singapore,Health Care Equipment & Services
+239,M1,1997,"1,001 - 5,000",7.01,Manjot Singh Mann,Singapore,Singapore,"Telecommunications Services, Cable Supplier"
+240,CrimsonLogic,1988,201 - 500,7.01,Lawrence Ng,Singapore,Singapore,"IT, Internet, Software & Services"
+241,Sentosa Development Corporation,1972,201 - 500,7.00,Thien Kwee Eng,Singapore,Singapore,Travel & Leisure
+242,Chevron,1933,201 - 500,7.00,Law Tat Win,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+243,Qingjian Group Singapore Branch Co,2003,201 - 500,7.00,Wang Congyuan,Singapore,Singapore,Construction
+244,Income Insurance,1970,201 - 500,7.00,Ronald Ong,Singapore,Singapore,Insurance
+245,AGC Group,1907,201 - 500,6.99,Yoshinori Hirai,Singapore,Singapore,"Oil & Gas Operations, Mining and Chemicals"
+246,Aetos Holdings Pte Ltd,2004,201 - 500,6.98,Alfred Fox,Singapore,Singapore,Business Support Services & Supplies
+247,NTUC First Campus Co-Operative,1977,201 - 500,6.98,Chan Su Yee,Singapore,Singapore,Education
+248,Knight Frank Property Asset Management,1940,201 - 500,6.98,Danny Yeo,Singapore,Singapore,Real Estate
+249,Ministry of Social and Family Development (MSF),1946,201 - 500,6.97,Masagos Zulkifli,Singapore,Singapore,Government Services
+250,AWWA,2015,201 - 500,6.97,J R Karthikeyan (Karthik),Singapore,Singapore,Healthcare & Social

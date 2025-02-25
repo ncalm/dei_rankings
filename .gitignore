@@ -1,0 +1,9 @@
+.vscode/
+notebooks/
+logs/
+.condaenv
+.coverage
+environment.yml
+__pycache__/
+*.pyc
+*.pyo

@@ -1,0 +1,301 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Bureau of Fire Protection (BFP),1991,">10,000",9.22,FDIR. Louie S. Puracan,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+2,Google,2013,"5,001 - 10,000",9.17,Bernadette Nacario,Metropolitan Manila,"Metropolitan Manila, Taguig City","IT, Internet, Software & Services"
+3,Ayala Land,1988,">10,000",9.15,Bernard Vincent O. Dy,Metropolitan Manila,"Metropolitan Manila, Makati City",Real Estate
+4,Axelum Resources,1986,"1,001 - 5,000",9.15,Romeo I. Chan,Metropolitan Manila,"Metropolitan Manila, Makati City","Food, Soft Beverages, Alcohol & Tobacco"
+5,Supreme Court of the Philippines,1901,"1,001 - 5,000",9.11,Alexander G. Gesmundo,Metropolitan Manila,"Metropolitan Manila, Manila",Government Services
+6,Honda Philippines,1990,"1,001 - 5,000",9.10,Masahiko Nakamura,Calabarzon,"Laguna, Santa Rosa",Automotive (Automotive and Suppliers)
+7,Nissan Philippines,2013,>250,9.03,Juan Manuel Hoyos,Metropolitan Manila,"Metropolitan Manila, Taguig City",Automotive (Automotive and Suppliers)
+8,Asian Development Bank,1966,"1,001 - 5,000",8.99,Masatsugu Asakawa,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Banking and Financial Services
+9,Maersk,1931,"1,001 - 5,000",8.95,Vincent Clerc,Metropolitan Manila,"Metropolitan Manila, Pasay City",Transportation and Logistics
+10,Samsung Philippines,1969,>250,8.92,"Kye Hyun Kyung , Jong Hee Han",Metropolitan Manila,"Metropolitan Manila, Taguig City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+11,Accenture,1985,">10,000",8.90,Ambe Tierro,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+12,San Miguel Corporation (SMC),1890,">10,000",8.89,Ramon S. Ang,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Business Services & Supplies
+13,Pilipinas Shell Petroleum Corporation,1914,"1,001 - 5,000",8.89,Lorelie Q. Osial,Metropolitan Manila,"Metropolitan Manila, Taguig City","Construction, Oil & Gas Operations, Mining and Chemicals"
+14,Ayala Corporation,1834,">10,000",8.89,Cezar P. Consing,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+15,Sterling Talent Solutions,2002,>250,8.89,Joshua Peirez,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+16,Isuzu Automotive Dealership,1996,>250,8.88,Hajime Koso,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City",Automotive (Automotive and Suppliers)
+17,JPMorgan Chase & Co.,1961,">10,000",8.87,Patricia Tanedo hermogenes,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+18,Metropolitan Bank & Trust (Metrobank),1962,">10,000",8.86,Fabian Dee,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+19,Capital One Philippines Support Services,2015,>250,8.86,Richard D. Fairbank,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City",Business Services & Supplies
+20,San Miguel Food & Beverage,1956,>250,8.85,Ramon S. Ang,Metropolitan Manila,"Metropolitan Manila, Pasig City","Food, Soft Beverages, Alcohol & Tobacco"
+21,National Food Authority,1972,>250,8.85,Judy Carol L. Dansal,Metropolitan Manila,Metropolitan Manila. Quezon City,Government Services
+22,Department of Trade and Industry (DTI),1898,"1,001 - 5,000",8.84,Alfredo E. Pascual,Metropolitan Manila,"Metropolitan Manila, Makati City",Government Services
+23,Del Monte Philippines,1920,"1,001 - 5,000",8.83,Rolando C. Gapud,Metropolitan Manila,"Metropolitan Manila, Taguig City","Food, Soft Beverages, Alcohol & Tobacco"
+24,Johnson & Johnson,1956,>250,8.83,Raghu Krishnan,New Jersey,"New Brunswick, NJ, USA",Drugs & Biotechnology
+25,Manila Doctors Hospital,1956,"1,001 - 5,000",8.82,Arlene P. Ledesma,Metropolitan Manila,"Metropolitan Manila, Manila",Healthcare & Social
+26,RealPage Philippines,2011,"1,001 - 5,000",8.82,Dana Jones,Metropolitan Manila,"Metropolitan Manila, Pasig City","IT, Internet, Software & Services"
+27,Chowking,1985,"501 - 1,000",8.81,"Andrew L. Santos, Jr.",Metropolitan Manila,"Metropolitan Manila, Pasig City",Restaurants
+28,Procter & Gamble (P&G),1935,251 - 500,8.80,Jon R. Moeller,Metropolitan Manila,"Metropolitan Manila, Taguig City",Packaged Goods
+29,Verizon Communications,2000,"501 - 1,000",8.79,Dojie Dizon F.,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City","Telecommunications Services, Cable Supplier"
+30,De La Salle - College Of Saint Benilde,1988,>250,8.79,Br. Edmundo Fernandez FSC,Metropolitan Manila,"Metropolitan Manila, Manila",Education
+31,University Of Santo Tomas,1611,>250,8.78,Very Rev. Fr. Gerard Francisco P.,Metropolitan Manila,"Metropolitan Manila, Manila",Education
+32,Chevron,1879,"501 - 1,000",8.78,Michael K. (Mike) Wirth,Metropolitan Manila,"Metropolitan Manila, Makati City","Construction, Oil & Gas Operations, Mining and Chemicals"
+33,Mindanao State University,1968,"501 - 1,000",8.75,"Prof. Alizedney M. Ditucalan, JD, LLM",Northern Mindanao,"Lanao del Norte, Iligan City",Education
+34,Samsung Electro-Mechanics (SEMPHIL),1997,"5,001 - 10,000",8.75,Min Su Chu,Calabarzon,"Laguna, Calamba City","Engineering, Manufacturing"
+35,Department of Social Welfare and Development (DSWD),1915,>250,8.73,Rex Gatchalian,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+36,University of the Philippines,1908,"1,001 - 5,000",8.72,Atty. Angelo A. Jimenez,Metropolitan Manila,"Metropolitan Manila, Quezon City",Education
+37,St. Luke's Medical Center,1903,"1,001 - 5,000",8.72,Dr. Dennis P. Serrano,Metropolitan Manila,"Metropolitan Manila, Quezon City",Healthcare & Social
+38,Department of Finance (DOF),1897,"501 - 1,000",8.70,Dr. Benjamin Diokno,Metropolitan Manila,"Metropolitan Manila, Manila",Government Services
+39,Department of Justice (DOJ),1897,"501 - 1,000",8.70,Jesus Crispin C. Remulla,Metropolitan Manila,"Metropolitan Manila, Manila",Government Services
+40,Government Service Insurance System (GSIS),1937,"1,001 - 5,000",8.68,Jose Arnulfo “Wick” Veloso,Metropolitan Manila,"Metropolitan Manila, Pasay City",Government Services
+41,Jollibee Foods,1975,>250,8.68,Ernesto Tanmantiong,Metropolitan Manila,"Metropolitan Manila, Pasig City",Restaurants
+42,The Armed Forces of the Philippines (AFP),1898,">10,000",8.67,LTGEN. Romeo Brawner Jr. JR PA,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+43,Abenson Ventures,1970,251 - 500,8.67,Wilson Lim Jr.,Metropolitan Manila,"Metropolitan Manila, Quezon City",Retail and Wholesale
+44,Sun Life Philippines,1895,"1,001 - 5,000",8.67,Benedict Sison,Metropolitan Manila,"Metropolitan Manila, Taguig City",Insurance
+45,Commission on Audit (COA),1899,"5,001 - 10,000",8.66,Gamaliel Asis Cordoba,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+46,Epson,1996,>250,8.65,Akifumi Takei,Metropolitan Manila,"Metropolitan Manila, Pasig City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+47,Nestlé,2018,"1,001 - 5,000",8.65,Kais Marzouki,Metropolitan Manila,"Metropolitan Manila, Makati City","Food, Soft Beverages, Alcohol & Tobacco"
+48,Maxicare Healthcare,1987,>250,8.65,Christian S. Argos,Metropolitan Manila,"Metropolitan Manila, Makati City",Healthcare & Social
+49,Cognizant Technology Solutions,2009,"5,001 - 10,000",8.64,Ravi Kumar S,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+50,Abbott,1943,"501 - 1,000",8.63,Robert B. Ford,Metropolitan Manila,"Metropolitan Manila, Taguig City",Health Care Equipment & Services
+51,Ayala Property Management Corporation (APMC),1976,"1,001 - 5,000",8.63,Laurent P. Lamasuta,Metropolitan Manila,"Metropolitan Manila, Makati City",Real Estate
+52,Emerson Electric Asia,1890,"1,001 - 5,000",8.63,Lal Karsanbhai,Metropolitan Manila,"Metropolitan Manila, Pasig City","IT, Internet, Software & Services"
+53,Department of the Interior and Local Government (DILG),1897,"501 - 1,000",8.62,Benhur Abalos,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+54,De La Salle University,1911,"1,001 - 5,000",8.61,Br. Bernard S. Oca FSC,Metropolitan Manila,"Metropolitan Manila, Manila",Education
+55,Asurion,1994,"501 - 1,000",8.61,Tony Detter,Tennessee,"Nashville, TN, USA",Professional Services
+56,ADP,1953,"1,001 - 5,000",8.60,Maria Black,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+57,Monde Nissin,1979,"501 - 1,000",8.60,Henry Soesanto,Metropolitan Manila,"Metropolitan Manila, Makati City","Food, Soft Beverages, Alcohol & Tobacco"
+58,New Era University,1975,"501 - 1,000",8.60,Nilo L. Rosas,Metropolitan Manila,"Metropolitan Manila, Quezon City",Education
+59,Alta Resources,1982,"1,001 - 5,000",8.60,James F. Beré,Metropolitan Manila,"Metropolitan Manila, Pasig City",Business Services & Supplies
+60,Legato Health Technologies,2017,>250,8.60,Eduardo Mauban Jr.,Metropolitan Manila,"Metropolitan Manila, Taguig City","IT, Internet, Software & Services"
+61,Department of Health (DOH),1898,"1,001 - 5,000",8.60,Gilberto C. Teodoro Jr.,Calabarzon,"Laguna, Santa Cruz",Government Services
+62,Union Bank of the Philippines,1968,>250,8.60,Edwin R. Bautista,Metropolitan Manila,"Metropolitan Manila, Pasig City",Banking and Financial Services
+63,Telus International,2005,"5,001 - 10,000",8.59,Jeff Puritt,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+64,SM Markets,1985,">10,000",8.59,Jojo R. Tagbo,Metropolitan Manila,"Metropolitan Manila, Pasay City",Retail and Wholesale
+65,Security Bank,1951,>250,8.59,Sanjiv Vohra,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+66,Pru Life Insurance Corporation U.K.,1848,"5,001 - 10,000",8.58,Eng Teng Wong,Metropolitan Manila,"Metropolitan Manila, Taguig City",Insurance
+67,LTHFood Industries,2003,>250,8.58,Michael Irwin F. Chua,Metropolitan Manila,"Metropolitan Manila, Quezon City","Food, Soft Beverages, Alcohol & Tobacco"
+68,Personal Collection Direct Selling,2003,>250,8.58,Jerome C. Tuguin,Metropolitan Manila,"Metropolitan Manila, Quezon City",Retail and Wholesale
+69,Tata Consultancy Services,2008,"1,001 - 5,000",8.58,K. Krithivasan,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+70,Ap Cargo Logistic Network,1972,"501 - 1,000",8.58,Virgilio R. Villacorte,Metropolitan Manila,"Metropolitan Manila, Pasay City",Transportation and Logistics
+71,Oppo Philippines,2004,>250,8.58,Tony Chen,Metropolitan Manila,"Metropolitan Manila, Taguig City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+72,Shearwater Health Advisors,1973,>250,8.57,Tom Kendrot,Metropolitan Manila,"Metropolitan Manila, Taguig City",Healthcare & Social
+73,Robinsons Retail Holdings,1980,">10,000",8.57,Robina Y. Gokongwei-Pe,Metropolitan Manila,"Metropolitan Manila, Quezon City",Retail and Wholesale
+74,Travellers International Hotel Group,2003,"1,001 - 5,000",8.57,Kingson U. sian,Metropolitan Manila,"Metropolitan Manila, Pasay City",Travel & Leisure
+75,Schneider Electric,1938,"1,001 - 5,000",8.56,Ireen Catane,Metropolitan Manila,"Metropolitan Manila, Taguig City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+76,Unilever,1927,"1,001 - 5,000",8.56,Benjie Yap,Metropolitan Manila,"Metropolitan Manila, Taguig City",Packaged Goods
+77,Reed Elsevier Shared Services,2010,"1,001 - 5,000",8.56,Mark Lwin,Western Visayas,"Iloilo, Iloilo City",Business Services & Supplies
+78,Philippine Manufacturing Co. Of Murata,1944,"1,001 - 5,000",8.55,Norio Nakajima,Calabarzon,"Batangas, Tanauan City","Engineering, Manufacturing"
+79,Uniqlo,2012,>250,8.55,Tadashi Yanai,Metropolitan Manila,"Metropolitan Manila, Pasay City","Clothing, Shoes, Sports Equipment"
+80,United Laboratories,1945,>250,8.55,Clinton Campos Hess,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Drugs & Biotechnology
+81,TaskUs,2009,>250,8.54,Bryce Maddock,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+82,Toshiba Information Equipment,1996,">10,000",8.54,Jun Ito,Calabarzon,"Laguna, Biñan","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+83,Royal Cargo,1978,>250,8.54,Michael Raeuber,Metropolitan Manila,"Metropolitan Manila, Paranaque City",Transportation and Logistics
+84,Philippine Business For Social Progress,1970,251 - 500,8.54,Elvin Ivan Uy / Manuel V. Pangilinan,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Economy & Politics & NGO
+85,Aig Shared Services - Business Processing,1920,"1,001 - 5,000",8.53,Gary Wong,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+86,RiteMED Philippines,2002,"501 - 1,000",8.52,Jose Maria A. Ochave,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Drugs & Biotechnology
+87,Adidas,1949,>250,8.52,Bjørn Gulden,Metropolitan Manila,"Metropolitan Manila, Taguig City","Clothing, Shoes, Sports Equipment"
+88,Department of Agrarian Reform (DAR),1971,"1,001 - 5,000",8.52,Conrado M. Estrella III.,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+89,Megawide Construction,1997,>250,8.51,Edgar B. Saavedra,Metropolitan Manila,"Metropolitan Manila, Quezon City","Construction, Oil & Gas Operations, Mining and Chemicals"
+90,Amazon Operation Services,2018,>250,8.51,Andy Jassy,Central Visayas,"Cebu, Cebu City",Business Services & Supplies
+91,Toyota Motor Philippines,1988,"1,001 - 5,000",8.51,Atsuhiro Okamoto,Calabarzon,"Laguna, Sta Rosa City",Automotive (Automotive and Suppliers)
+92,American Express International,1850,"1,001 - 5,000",8.51,Stephen J. Squeri,Metropolitan Manila,"Metropolitan Manila, Taguig City",Banking and Financial Services
+93,The Manufacturers Life Insurance (Manulife),1907,>250,8.51,Rahul Hora,Ontario,"Toronto, Canada",Insurance
+94,Hyundai Motor Philippines,1967,>250,8.51,Maria Fe Perez-Agudo,Metropolitan Manila,"Metropolitan Manila, Taguig City",Automotive (Automotive and Suppliers)
+95,Coca-Cola Beverages,1981,">10,000",8.51,Gareth McGeown,Metropolitan Manila,"Metropolitan Manila, Taguig City","Food, Soft Beverages, Alcohol & Tobacco"
+96,MedSpecialized,2010,"501 - 1,000",8.50,null,Central Visayas,"Cebu, Cebu City","IT, Internet, Software & Services"
+97,Ateneo de Manila University,1859,>250,8.50,Fr Roberto C Yap SJ,Metropolitan Manila,"Metropolitan Manila, Quezon City",Education
+98,Mang Inasal,2003,"1,001 - 5,000",8.50,Edgar Sia,Metropolitan Manila,"Metropolitan Manila, Pasig City",Restaurants
+99,Rebisco,1963,>250,8.49,Jacinto Ng,Metropolitan Manila,"Metropolitan Manila, Pasig City","Food, Soft Beverages, Alcohol & Tobacco"
+100,Negros Women for Tomorrow Foundation (NWTF),1984,>250,8.49,Suzzette D. Gaston,Western Visayas,"Negros Occidental, Bacolod City",Economy & Politics & NGO
+101,SM Development Corporation,1958,"1,001 - 5,000",8.49,Jose Mari Banzon,Metropolitan Manila,"Metropolitan Manila, Pasay City",Real Estate
+102,Batangas State University,1903,"1,001 - 5,000",8.49,Tirso A. Ronquillo,Calabarzon,"Batangas, Batangas City",Education
+103,Frabelle Fishing,1966,"1,001 - 5,000",8.48,Francisco Tiu Laurel Jr.,Soccsksargen,"South Cotabato, Santos","Food, Soft Beverages, Alcohol & Tobacco"
+104,Emapta Versatile Services,2010,"5,001 - 10,000",8.47,Tim Vorbach,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+105,Department of Labor and Employment (DOLE),1987,"5,001 - 10,000",8.47,Patrick Patriwirawan Jr.,Metropolitan Manila,"Metropolitan Manila, Manila",Government Services
+106,Shangri-La,1971,>250,8.47,Kuok Hui Kwong,Metropolitan Manila,"Metropolitan Manila, Taguig City",Travel & Leisure
+107,IBM Business Services,1920,">10,000",8.46,Luisito Pineda,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+108,Knowles Electronics,1946,>250,8.46,Jeffrey S. Niew,Central Visayas,"Cebu, Lapu-Lapu City","Engineering, Manufacturing"
+109,SM Retail,1950,"1,001 - 5,000",8.45,Frederic C. DyBuncio,Metropolitan Manila,"Metropolitan Manila, Pasay City",Retail and Wholesale
+110,Acquire Asia Pacific,2005,251 - 500,8.44,Dana Andel,Metropolitan Manila,"Metropolitan Manila, Pasig City",Business Services & Supplies
+111,Unison Computer Systems,1986,251 - 500,8.44,Willy Sy,Metropolitan Manila,"Metropolitan Manila, Pasig City","IT, Internet, Software & Services"
+112,Center For Agriculture & Rural Development (CARD),1986,"5,001 - 10,000",8.43,Mr. Jaime Aristotle B. Alip,Metropolitan Manila,"Metropolitan Manila, Quezon City",Economy & Politics & NGO
+113,Wilcon Depot,1977,"1,001 - 5,000",8.43,William Belo,Metropolitan Manila,"Metropolitan Manila, Quezon City",Retail and Wholesale
+114,IHG Philippines,2003,"1,001 - 5,000",8.43,Elie Maalouf,Metropolitan Manila,Makati City and Baguio City,Travel & Leisure
+115,Department of Agriculture (DA),1898,>250,8.43,"Ferdinand “Bongbong” Romualdez Marcos, Jr.",Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+116,Meralco Industrial Engineering Services,1973,>250,8.43,Richard O. Ochava,Metropolitan Manila,"Metropolitan Manila, Pasig City","Construction, Oil & Gas Operations, Mining and Chemicals"
+117,Lexmark Research & Development,1991,>250,8.42,Allen Waugerman,Central Visayas,"Cebu, Cebu City","IT, Internet, Software & Services"
+118,Lyceum Of The Philippines University,1966,>250,8.41,Atty. Roberto P. Laurel,Metropolitan Manila,"Metropolitan Manila, Makati City",Education
+119,Bank Of The Philippine Island,1851,">10,000",8.40,Jose Teodoro K. Limcaoco,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+120,Microsoft,1995,">10,000",8.40,Peter Maquera,Metropolitan Manila,"Metropolitan Manila, Makati City","IT, Internet, Software & Services"
+121,University of Southeastern Philippines,1978,"501 - 1,000",8.40,Lourdes C. Generalao,Davao Region,"Davao del Sur, Davao City",Education
+122,Robinsons Appliances,1980,>250,8.39,Robina Y. Gokongwei-Pe,Metropolitan Manila,"Metropolitan Manila, Makati City",Retail and Wholesale
+123,National Irrigation Administration,1963,>250,8.38,"Atty. Allan Paul Sarangaya, J.D",Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+124,DHL Supply Chain,1971,"501 - 1,000",8.38,Bevan Williams,Metropolitan Manila,"Metropolitan Manila, Paranaque City",Transportation and Logistics
+125,Department of Budget and Management (DBM),1936,"501 - 1,000",8.38,Amenah F. Pangandaman,Metropolitan Manila,"Metropolitan Manila, Manila",Government Services
+126,Seaoil,1997,>250,8.38,Francis Glenn L. Yu,Metropolitan Manila,"Metropolitan Manila, Pasig City","Construction, Oil & Gas Operations, Mining and Chemicals"
+127,EEI,1931,>250,8.38,Henry D. Antonio,Metropolitan Manila,"Metropolitan Manila, Quezon City","Construction, Oil & Gas Operations, Mining and Chemicals"
+128,Fujitsu,1975,>250,8.38,Raul Santiago,Metropolitan Manila,"Metropolitan Manila, Makati City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+129,CDO Foodsphere,1975,"1,001 - 5,000",8.38,Jerome Ong,Metropolitan Manila,"Metropolitan Manila, Valenzuela City","Food, Soft Beverages, Alcohol & Tobacco"
+130,Department of National Defense (DND),1939,>250,8.37,"Atty.  Gilberto C. Teodoro, Jr.",Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+131,Polytechnic University Of The Philippines,1952,"1,001 - 5,000",8.36,Manuel M. Muhi,Metropolitan Manila,"Metropolitan Manila, Manila",Education
+132,Bounty Fresh Food,1986,>250,8.36,Tennyson G. Chen,Metropolitan Manila,"Metropolitan Manila, Taguig City","Food, Soft Beverages, Alcohol & Tobacco"
+133,Our Lady Of Fatima University,1973,>250,8.35,Dr. Caroline S. Enriquez,Metropolitan Manila,"Metropolitan Manila, Valenzuela City",Education
+134,Oracle,1990,"1,001 - 5,000",8.35,Safra Catz,Metropolitan Manila,"Metropolitan Manila, Makati City","IT, Internet, Software & Services"
+135,Ingram Micro,2009,"1,001 - 5,000",8.34,Paul Bay,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+136,Makati Medical Center,1969,"1,001 - 5,000",8.34,Atty. Pilar Nenuca P. Almira,Metropolitan Manila,"Metropolitan Manila, Makati City",Healthcare & Social
+137,Quantrics Enterprises,2016,>250,8.34,Alexia Hamel,Calabarzon,"Rizal, Taytay","IT, Internet, Software & Services"
+138,Integrated Computer Systems,1978,251 - 500,8.33,Peter Winston,Metropolitan Manila,"Metropolitan Manila, San Juan City","IT, Internet, Software & Services"
+139,Megaworld,1989,"1,001 - 5,000",8.32,Dr. Andrew L. Tan,Metropolitan Manila,"Metropolitan Manila, Taguig City",Real Estate
+140,Mbuilders Trading,0,>250,8.32,null,Metropolitan Manila,"Metropolitan Manila, Valenzuela City",Business Services & Supplies
+141,HSBC,1875,"1,001 - 5,000",8.32,Sandeep Uppal,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+142,Century Pacific Foods,1978,"501 - 1,000",8.32,Teodoro Alexander Po,Metropolitan Manila,"Metropolitan Manila, Pasig City","Food, Soft Beverages, Alcohol & Tobacco"
+143,Kentucky Fried Chicken (KFC),1967,"501 - 1,000",8.31,Bertie Sanger,Metropolitan Manila,"Metropolitan Manila, Quezon City",Restaurants
+144,Watsons Personal Care Stores,2002,>250,8.31,Malina Ngai,Metropolitan Manila,"Metropolitan Manila, Pasay City",Retail and Wholesale
+145,Aboitiz Construction,1975,"5,001 - 10,000",8.31,Sabin M. Aboitiz,Central Visayas,"Cebu, Cebu City","Construction, Oil & Gas Operations, Mining and Chemicals"
+146,Acabar Marketing International,1996,>250,8.31,Ghulam Afzaal,Metropolitan Manila,"Metropolitan Manila, Makati City",Professional Services
+147,McDonald's,1981,">10,000",8.31,Kenneth Yang,Metropolitan Manila,"Metropolitan Manila, Makati City",Restaurants
+148,Commission on Higher Education (CHED),1994,"501 - 1,000",8.30,Prospero de Vera III,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+149,Civil Aviation Authority,2008,"5,001 - 10,000",8.30,Captain Manuel Antonio Tamayo,Metropolitan Manila,"Metropolitan Manila, Pasay City",Government Services
+150,Solaire Resort & Casino,2013,"1,001 - 5,000",8.29,Enrique K. Razon Jr.,Metropolitan Manila,"Metropolitan Manila, Paranaque City",Travel & Leisure
+151,International Wiring Systems,1917,251 - 500,8.29,Kenichi Urushibata,Central Luzon,"San Miguel, Tarlac City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+152,Technological Institute Of The Philippines,1962,"501 - 1,000",8.29,Dr. Elizabeth Quirino-Lahoz,Metropolitan Manila,"Metropolitan Manila, Quezon City",Education
+153,Home Credit,2013,"1,001 - 5,000",8.29,David Minol,Metropolitan Manila,"Metropolitan Manila, Taguig City",Banking and Financial Services
+154,Acbel Polytech,1981,>250,8.28,Jerry Hsu,Taipei,"Taipei, Taiwan","Telecommunications Services, Cable Supplier"
+155,Denso,1995,"1,001 - 5,000",8.27,Yuji Torii,Calabarzon,"Laguna, Calamba City","Engineering, Manufacturing"
+156,Aboitiz Power,1998,">10,000",8.27,Emmanuel V. Rubio,Metropolitan Manila,"Metropolitan Manila, Taguig City",Utilities
+157,Conduent Business Services,2017,>250,8.27,Cliff Skelton,New Jersey,"Florham Park, NJ, USA",Business Services & Supplies
+158,Okada Manila,2007,>250,8.27,Kazuo Okada,Metropolitan Manila,"Metropolitan Manila, Paranaque City",Travel & Leisure
+159,Atos Information Technology,1997,>250,8.26,Jennire Torres,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+160,PAG IBIG Fund,1978,"5,001 - 10,000",8.26,Marilene C. Acosta,Metropolitan Manila,"Metropolitan Manila, Makati City",Government Services
+161,Satellite Office Solutions,1997,"1,001 - 5,000",8.26,Michael McRitchie,Metropolitan Manila,"Metrapolitan Manila, Taguig City",Business Services & Supplies
+162,FedEx,1984,"501 - 1,000",8.26,Maribeth Espinosa,Metropolitan Manila,"Metropolitan Manila, Pasay City",Transportation and Logistics
+163,Palawan Pawnshop Group,1985,>250,8.26,Bobby Castro,Mimaropa,"Palawan, Puerto Princesa City",Banking and Financial Services
+164,NTT DATA Philippines,1988,"1,001 - 5,000",8.25,Hironari Tomioka,Metropolitan Manila,"Metropolitan Manila, Makati City","Telecommunications Services, Cable Supplier"
+165,Philippine National Bank (PNB),1916,"1,001 - 5,000",8.25,Florido P. Casuela,Metropolitan Manila,"Metropolitan Manila, Pasay City",Banking and Financial Services
+166,Infor,2002,>250,8.25,Kevin Samuelson,Metropolitan Manila,"Metropolitan Manila, Taguig City","IT, Internet, Software & Services"
+167,KPMG,2008,"1,001 - 5,000",8.25,Sharon G. Dayoan,Metropolitan Manila,"Metropolitan Manila, Makati City",Professional Services
+168,The Philippine Banking (Bangko Sentral ng Pilipinas),1993,>250,8.24,"Eli M. Remolona, Jr.",Metropolitan Manila,"Metropolitan Manila, Manila",Banking and Financial Services
+169,Robinsons Land,1980,"1,001 - 5,000",8.24,Frederick Go,Metropolitan Manila,"Metropolitan Manila, Quezon City",Real Estate
+170,Department of Education (DEPED),2001,">10,000",8.24,Sara Z. Duterte,Metropolitan Manila,"Metropolitan Manila, Pasig City",Government Services
+171,Ninja Van,2014,"1,001 - 5,000",8.23,"Lai Chang Wen CEO, Martin Cu Country Head PH",Metropolitan Manila,"Metropolitan Manila, Makati City",Transportation and Logistics
+172,CNX,1983,">10,000",8.23,Chris Caldwell,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+173,Globe Telecom,1935,"5,001 - 10,000",8.23,Ernest L. Cu,Metropolitan Manila,"Metropolitan Manila, Taguig City","Telecommunications Services, Cable Supplier"
+174,Awesome CX,2006,>250,8.22,Eric Gist,Davao Region,"Davao del Sur, Davao City",Business Services & Supplies
+175,Canon Information Technologies,1937,>250,8.22,Fujio Mitarai,Metropolitan Manila,"Metropolitan Manila, Quezon City","IT, Internet, Software & Services"
+176,Analog Devices,2010,>250,8.21,Vincent Roche,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+177,Businesspeople,1998,>250,8.21,Gary Praznik,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Retail and Wholesale
+178,iQor,1953,>250,8.21,Carlo Katigbak,California,"Burlingam, CA, USA",Business Services & Supplies
+179,Lazada E-Services,2012,>250,8.20,Carlos Otermin Barrera,Metropolitan Manila,"Metropolitan Manila, Taguig City",Retail and Wholesale
+180,Pascual Laboratories,1946,>250,8.20,Jose Augusto Pascual,Metropolitan Manila,"Metropolitan Manila, Quezon City",Drugs & Biotechnology
+181,Converge Information and Communication Technology Solutions,2007,>250,8.20,Dennis Anthony H. Uy,Metropolitan Manila,"Metropolitan Manila, Pasig City","Telecommunications Services, Cable Supplier"
+182,CitiBank,1902,"5,001 - 10,000",8.19,Paul Favila,Metropolitan Manila,"Metropolitan Manila, Taguig City",Banking and Financial Services
+183,Australia New Zealand Global Services Operations,1991,>250,8.19,Shayne Elliott,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+184,Ace Promotion And Marketing,1977,"1,001 - 5,000",8.19,Danilo Calso,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Professional Services
+185,DXC Technology,2017,>250,8.18,Mike Salvino,Metropolitan Manila,"Metropolitaan Manila, Taguig City","IT, Internet, Software & Services"
+186,Leslie Corporation,1960,>250,8.18,Bobby Wong,Metropolitan Manila,"Metropolitan Manila, Taguig City","Food, Soft Beverages, Alcohol & Tobacco"
+187,Philippine Statistics Authority (PSA),2013,"1,001 - 5,000",8.18,"Usec. Dennis Mapa, Ph. D.",Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+188,Cebu Mitsumi,1951,>250,8.18,Yoshihisa Kainuma,Central Luzon,"Bataan, Mariveles","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+189,Cavite State University,1906,"1,001 - 5,000",8.18,Marita R. Canapi,Calabarzon,"Cavite, Indang",Education
+190,JT International,1999,>250,8.18,Eddy Pirard,Metropolitan Manila,"Metropolitan Manila, Taguig City","Food, Soft Beverages, Alcohol & Tobacco"
+191,Dito Telecommunity,1988,>250,8.18,Dennis Uy,Metropolitan Manila,"Metropolitan Manila, Taguig City","Telecommunications Services, Cable Supplier"
+192,GCash (Mynt - Globe Fintech Innovations),2015,>250,8.17,Martha Sazon,Metropolitan Manila,"Metropolitan Manila, Taguig City",Banking and Financial Services
+193,PayPal,1998,"1,001 - 5,000",8.17,Alex Chriss(Global),California,"San José, CA, USA",Banking and Financial Services
+194,Arcadis Consulting Middle East,1982,"1,001 - 5,000",8.16,Alan Brookes,Metropolitan Manila,"Metropolitan Manila, Makati City",Professional Services
+195,SM Prime Holdings,1994,"5,001 - 10,000",8.16,Jeffrey C. Lim,Metropolitan Manila,"Metropolitan Manila, Pasay City",Real Estate
+196,Cloudstaff,2010,>250,8.16,Lloyd Ernst,New South Wales,"Sydney, Australia",Business Services & Supplies
+197,Transcom,1995,>250,8.16,Jonas Dahlberg,Metropolitan Manila,"Metropolitan Manila, Pasig City",Business Services & Supplies
+198,Asiapro Multi-Purpose Cooperative,1999,>250,8.16,Gabriel Quemado,Metropolitan Manila,"Metropolitan Manila, Pasig City",Business Services & Supplies
+199,Deltek Systems,1983,"1,001 - 5,000",8.15,Mike Corkey,Metropolitan Manila,"Metropolitan Manila, Makati City","IT, Internet, Software & Services"
+200,Agribusiness Rural Bank,1978,>250,8.15,"ATTY. LUIS A. VERA CRUZ, JR.",Metropolitan Manila,"Metropolitan Manila, Pasig City",Banking and Financial Services
+201,The Goodyear Tire & Rubber Company,1919,"501 - 1,000",8.15,Richard J. Kramer,Metropolitan Manila,"Metropolitan Manila, Taguig City",Automotive (Automotive and Suppliers)
+202,Autoliv Cebu Safety Manufacturing,1953,"501 - 1,000",8.14,Mikael Bratt,Central Visayas,"Cebu, Lapu-Lapu City",Automotive (Automotive and Suppliers)
+203,Rcg Information Technology,1997,"501 - 1,000",8.14,Ramesh Ramani,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+204,Collabera Digital,2010,"1,001 - 5,000",8.13,Mehul Shah,Metropolitan Manila,"Metropolitan Manila, Makati City","IT, Internet, Software & Services"
+205,Teletech Customer Care Management,2001,"1,001 - 5,000",8.13,Kenneth Tuchman,Metropolitan Manila,"Metropolitan Manila, Pasay City",Business Services & Supplies
+206,TI Philippines,1979,"1,001 - 5,000",8.13,Mohammad Yunus,Central Luzon,"Pampanga, Mabalacat","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+207,Bayer Business Services,1863,"1,001 - 5,000",8.12,Bill Anderson,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+208,The D.I.Y. (Do It Yourself) Shop,1998,>250,8.12,null,Metropolitan Manila,"Metropolitan Manila, Pasay City",Retail and Wholesale
+209,Alturas Supermarket,1982,"1,001 - 5,000",8.11,Leonardo C. Uy,Central Visayas,"Bohol, Tagbilaran City",Retail and Wholesale
+210,CTC BPO,2004,"501 - 1,000",8.11,Tony Espinoza,Central Visayas,"Cebu, Cebu City",Business Services & Supplies
+211,Mitsumi,1951,>250,8.11,Yoshihisa Kainuma,Central Luzon,"Bataan, Mariveles","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+212,IGT Technologies,1998,>250,8.10,Vipul Doshi,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+213,IQVIA,1982,"1,001 - 5,000",8.10,Ari Bousbib(Global),Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+214,RCBC,1960,"1,001 - 5,000",8.10,Eugene S. Acevedo,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+215,On Semiconductor,1999,"1,001 - 5,000",8.09,Hassane El-Khoury(Global),Metropolitan Manila,"Metropolitan Manila, Muntinlupa City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+216,Robinson's Supermarket,1980,>250,8.09,Robina Y. Gokongwei-Pe,Metropolitan Manila,"Metropolitan Manila, Quezon City",Retail and Wholesale
+217,Telstra,1975,"1,001 - 5,000",8.09,Vicki Brady,Ilocos Region,"Ilocos Region, Urdaneta","Telecommunications Services, Cable Supplier"
+218,Land Bank Of The Philippines,1963,">10,000",8.08,Lynette Ortiz,Metropolitan Manila,"Metropolitan Manila, Manila",Banking and Financial Services
+219,Ibex Global Solutions,2002,">10,000",8.08,Angel “Potski” Alvarez,Metropolitan Manila,"Metropolitan Manila, Pasig City",Business Services & Supplies
+220,Willis Towers Watson (WTW),2016,"501 - 1,000",8.07,James Matti,Metropolitan Manila,"Metropolitan Manila, Taguig City",Professional Services
+221,Philippine Health Insurance Corporation,1995,"501 - 1,000",8.07,Emmanuel Rufino Ledesma Jr.,Metropolitan Manila,"Metropolitan Manila, Pasig City",Government Services
+222,Petron,1973,>250,8.07,Ramon S. Ang,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City","Construction, Oil & Gas Operations, Mining and Chemicals"
+223,Suyen,1987,"501 - 1,000",8.07,Ben Chan,Metropolitan Manila,"Metropolitan Manila, Taguig City",Retail and Wholesale
+224,Pro Source Global Bpo,2016,>250,8.07,Steve Burns,Metropolitan Manila,"Metropolitan Manila, Makati City",Business Services & Supplies
+225,Phil. Trust Co. (Philtrust Bank),1916,"501 - 1,000",8.07,Dr. Jaime C. Laya (Chairman),Metropolitan Manila,"Metropolitan Manila, Manila",Banking and Financial Services
+226,M Lhuillier Financial Services,1988,"501 - 1,000",8.07,Michael Lhuillier,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+227,Department of Environment & Natural Resources (DENR),1987,"1,001 - 5,000",8.07,Maria Antonia Yulo-Loyzaga,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+228,Teleperformance,1996,>250,8.07,Daniel Julien(global),Metropolitan Manila,"Metropolitan Manila, Pasig City",Business Services & Supplies
+229,Department of Information and Communications Technology (DICT),2004,"1,001 - 5,000",8.06,Ivan John E. Uy,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+230,24-7 Intouch,2001,"5,001 - 10,000",8.06,Greg Fettes(global),Manitoba,"Winnipeg, Canada",Business Services & Supplies
+231,Microsourcing,2006,"5,001 - 10,000",8.06,Haidee Enriquez,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+232,Infocom Technologies,1994,>250,8.06,Yuji Hamamoto,Metropolitan Manila,"Metropolitan Manila, Makati City",Professional Services
+233,Starbucks,1997,"1,001 - 5,000",8.05,Noey Lopez,Metropolitan Manila,"Metropolitan Manila, Makati City",Restaurants
+234,VXI Global Holdings,2003,">10,000",8.05,David Zhou,Metropolitan Manila,"Metropolitan Manila, Manila",Business Services & Supplies
+235,NutriAsia,1991,>250,8.05,"Joselito D. Campos, Jr.",Metropolitan Manila,"Metropolitan Manila, Taguig City","Food, Soft Beverages, Alcohol & Tobacco"
+236,Koronadal Commercial Corporation (KCC Malls),1947,"1,001 - 5,000",8.04,Tan Suy Lim,Soccsksargen,"South Cotabato, General Santos",Retail and Wholesale
+237,SM Supermalls,1985,"1,001 - 5,000",8.04,Steven Tan,Metropolitan Manila,"Metropolitan Manila, Pasay City",Retail and Wholesale
+238,Liwayway Marketing,1974,>250,8.03,Carlos Chan,Metropolitan Manila,"Metropolitan Manila, Pasay City","Food, Soft Beverages, Alcohol & Tobacco"
+239,Virtual Staffing Solutions,2018,"1,001 - 5,000",8.03,Brian Hiener,Eastern Visayas,"Visayas, Leyte",Business Services & Supplies
+240,FAST Logistics Group,1945,>250,8.03,Victor S. Chiongbian,Central Visayas,"Cebu, Mandaue City",Transportation and Logistics
+241,DB Schenker,1872,"501 - 1,000",8.03,Jochen Thewes,Hesse,"Frankfurt am Main, Germany",Transportation and Logistics
+242,London Stock Exchange Group,2007,>250,8.02,David Schwimmer,Metropolitan Manila,"Metropolitan Manila, Taguig City",Banking and Financial Services
+243,AMTI (Accent Micro Technologies),1996,>250,8.02,Allyxon Cua,Metropolitan Manila,"Metropolitan Manila, Pasig City",Retail and Wholesale
+244,Dunkin',1981,>250,8.02,Walter C. Spakowski,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Restaurants
+245,ASA Philippines Foundation,2004,">10,000",8.02,Edward S. Go,Metropolitan Manila,"Metropolitan Manila, Pasig City",Economy & Politics & NGO
+246,JGC,1989,>250,8.01,Nobuhiro Kobayashi,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City","Construction, Oil & Gas Operations, Mining and Chemicals"
+247,Yazaki-Torres Manufacturing,1941,"5,001 - 10,000",8.00,Riku Yazaki,Tokyo,"Tokyo, Japan","Engineering, Manufacturing"
+248,Integrated Micro-Electronics,1980,"5,001 - 10,000",8.00,Arthur Tran,Calabarzon,"Laguna, Biñan","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+249,Meralco Energy,1961,">10,000",8.00,Ronnie L. Aperocho,Metropolitan Manila,"Metropolitan Manila, Pasig City","Construction, Oil & Gas Operations, Mining and Chemicals"
+250,Makati Development Corporation (MDC),1958,>250,8.00,Dante M. Abando,Metropolitan Manila,"Metropolitan Manila, Taguig City","Construction, Oil & Gas Operations, Mining and Chemicals"
+251,Rohm Electronics,1989,"1,001 - 5,000",8.00,Takahiro Tanaka,Calabarzon,"Cavite, Carmona","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+252,Exlservice,1999,>250,7.99,Rohit Kapoor,Metropolitan Manila,"Metropolitan Manila, Pasay City",Business Services & Supplies
+253,Universal Robina,1954,>250,7.98,Irwin C. Lee,Metropolitan Manila,"Metropolitan Manila, Quezon City","Food, Soft Beverages, Alcohol & Tobacco"
+254,Everise,2016,>250,7.97,Sudhir Agarwal,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+255,TPG Telecom,2009,>250,7.97,Iñaki Berroeta,Metropolitan Manila,"Metropolitan Manila, Pasig City","Telecommunications Services, Cable Supplier"
+256,Smart Communications,1991,"5,001 - 10,000",7.97,Alfredo Panlilio,Metropolitan Manila,"Metropolitan Manila, Makati City","Telecommunications Services, Cable Supplier"
+257,Infosys BPM,2007,"1,001 - 5,000",7.97,Anantha Radhakrishnan,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+258,Grab,2013,>250,7.96,Grace Vera Cruz,Metropolitan Manila,"Metropolitan Manila, Makati City",Transportation and Logistics
+259,DMCI Homes (DMCI Project Developers),1954,>250,7.95,Alfredo R. Austria,Metropolitan Manila,"Metropolitan Manila, Makati City",Real Estate
+260,Yakult,1977,"1,001 - 5,000",7.95,Hiroshi Narita,Metropolitan Manila,"Metropolitan Manila, Manila","Food, Soft Beverages, Alcohol & Tobacco"
+261,Pepsi-Cola Products Philippines (PCPPI),1985,>250,7.94,Frederick D. Ong,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City","Food, Soft Beverages, Alcohol & Tobacco"
+262,Southern Philippines Medical Center,1917,"1,001 - 5,000",7.94,Ricardo Audan,Davao Region,"Davao del Sur, Davao City",Healthcare & Social
+263,Telephilippines,1996,">10,000",7.94,Miguel O. Cojuangco,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City","Telecommunications Services, Cable Supplier"
+264,Genpact Philippines,2005,>250,7.94,Tiger Tyagarajan,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City",Business Services & Supplies
+265,Rose Pharmacy,1952,>250,7.94,Rosemarie Wong,Central Visayas,"Cebu, Cebu City",Retail and Wholesale
+266,Mercury Drug,1945,">10,000",7.93,Vivian Que-Azcona,Metropolitan Manila,"Metropolitan Manila, Quezon City",Drugs & Biotechnology
+267,Factset,1978,>250,7.93,Philip Snow,Metropolitan Manila,"Metropolitan Manila, Taguig City",Professional Services
+268,PSG Global Solutions,2009,"1,001 - 5,000",7.93,"Brian Cotter, Vivek Padmanabhan",Metropolitan Manila,"Metropolitan Manila, Ortigas City",Business Services & Supplies
+269,Majorel,1992,>250,7.93,Thomas Mackenbrock,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City",Business Services & Supplies
+270,Atlantic Gulf And Pacific Company Of Manila,1900,"1,001 - 5,000",7.92,Joseph Sigelman,Metropolitan Manila,"Metropolitan Manila, Manila","Construction, Oil & Gas Operations, Mining and Chemicals"
+271,Stefanini IT Solutions,1987,"1,001 - 5,000",7.92,Marco Stefanini,Metropolitan Manila,"Metropolitan Manila, Pasay City","IT, Internet, Software & Services"
+272,Wipro,2007,"5,001 - 10,000",7.91,Aseem Roy,Central Visayas,"Cebu, Cebu City",Business Services & Supplies
+273,RD Pawnshop,1976,"1,001 - 5,000",7.91,"Rodrigo E. Rivera, Sr.",Central Visayas,"Cebu, Cebu City",Banking and Financial Services
+274,National Grid Corporation of the Philippines,2009,"1,001 - 5,000",7.91,Anthony Almeda,Metropolitan Manila,"Metropolitan Manila, Quezon City",Utilities
+275,Asticom Technology,2015,"1,001 - 5,000",7.91,Mharicar Castillo-Reyes,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+276,South Star Drug,1937,>250,7.91,Robina Y. Gokongwei-Pe,Metropolitan Manila,"Metropolitan Manila, Quezon City",Retail and Wholesale
+277,BDO Unibank,1967,">10,000",7.91,Nestor Tan,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+278,Global Payments,1967,"1,001 - 5,000",7.90,Cameron M. Bready,Georgia,"Atlanta, GA, USA",Banking and Financial Services
+279,Gaisano Grand Malls,1970,"1,001 - 5,000",7.90,Frank S. Gaisano,Central Visayas,"Cebu, Cebu City",Retail and Wholesale
+280,Taiyo Yuden,1950,"501 - 1,000",7.90,Katsuya Sase,Metropolitan Manila,"Metropolitan Manila, Makati City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+281,Xavier University,1933,>250,7.90,"Fr. Mars P. Tan, S.J.",Northern Mindanao,"Mindanao, Cagayan de Oro",Education
+282,Western Digital (WD),1970,"5,001 - 10,000",7.90,David Goeckeler,California,"San José, CA, USA","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+283,Brother Industries,2000,"501 - 1,000",7.90,Glenn Hocson,Metropolitan Manila,"Matrapolitan Manila, Taguig City","Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+284,WNS Global Services,2008,"1,001 - 5,000",7.89,Keshav Murugesh,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+285,Afni,2012,"1,001 - 5,000",7.89,Doug Jones,Metropolitan Manila,"Metropolitan Manila, Quezon City",Business Services & Supplies
+286,Asian Hospital and Medical Center,2002,"1,001 - 5,000",7.87,Andres Licaros Jr,Metropolitan Manila,"Metropolitan Manila, Muntinlupa City",Healthcare & Social
+287,Foodpanda,2014,"1,001 - 5,000",7.86,Daniel Marogy,Metropolitan Manila,"Metropolitan Manila, Makati City",Transportation and Logistics
+288,Seven Eleven Foodstore,1982,"1,001 - 5,000",7.86,Jose Victor P. Paterno,Texas,"Irving, Texas, USA",Retail and Wholesale
+289,Maynilad Water Services,1997,"1,001 - 5,000",7.86,Ramoncito Saldua Fernandez,Metropolitan Manila,"Metropolitan Manila, Quezon City",Utilities
+290,Cyberbacker,2018,"1,001 - 5,000",7.85,Craig Goodliffe,Calabarzon,"Batangas, Lipa City",Professional Services
+291,Foundever,1994,">10,000",7.85,Laurent Uberti,Florida,"Miami, Florida, USA",Business Services & Supplies
+292,Department of Transportation (DOTr),1899,"501 - 1,000",7.85,Jaime Bautista,Metropolitan Manila,"Metropolitan Manila, Quezon City",Government Services
+293,Sutherland,2005,">10,000",7.85,Dilip Vellodi,Metropolitan Manila,"Metropolitan Manila, Taguig City",Business Services & Supplies
+294,Development Bank Of The Philippines,1958,"1,001 - 5,000",7.84,Michael O. de Jesus,Metropolitan Manila,"Metropolitan Manila, Makati City",Banking and Financial Services
+295,Straive (formerly known as SPi Global),2010,"1,001 - 5,000",7.84,Ratan Datta,Western Visayas,"Iloilo, Iloilo City",Business Services & Supplies
+296,Bureau of Customs (BOC),1902,>250,7.83,Bienvenido Rubio,Metropolitan Manila,"Metropolitan Manila, Pasay City",Government Services
+297,Qualfon,1995,>250,7.82,Mike Marrow,Central Visayas,"Cebu, Cebu City",Business Services & Supplies
+298,LifeBank,1970,"1,001 - 5,000",7.82,"Rosario B. Perlas, M.D., Vicente Perlas, M.D.",Western Visayas,"Iloilo, Iloilo City",Economy & Politics & NGO
+299,Vista Land & Lifescapes,2007,"1,001 - 5,000",7.82,Manuel Paolo Villar,Metropolitan Manila,"Metropolitan Manila, Mandaluyong City",Real Estate
+300,Holcim Philippines Manufacturing,1964,"1,001 - 5,000",7.81,Horia-Ciprian Adrian,Metropolitan Manila,"Metropolitan Manila, Taguig City","Construction, Oil & Gas Operations, Mining and Chemicals"

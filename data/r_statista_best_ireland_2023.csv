@@ -1,0 +1,151 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,LinkedIn,2010,>200,8.52,Sharon McCooey,Leinster,Dublin,"Internet, Gaming, and eCommerce"
+2,Google,2003,>200,8.38,Adaire Fox-Martin,Leinster,Dublin,"Internet, Gaming, and eCommerce"
+3,Iarnrod Eireann - Irish Rail,1986,>200,8.24,Jim Meade,Leinster,Dublin,Transportation and Logistics
+4,Lilly,1978,>200,8.23,Laura Steele,Munster,Kinsale,Drugs and Biotechnology
+5,Pfizer,1969,>200,8.18,Deb Mangone,Leinster,Dublin,Drugs and Biotechnology
+6,Apple,1980,>200,8.15,Deirdre O’Brien,Munster,Cork,"Semiconductors, Electronics, Electrical Engineering, Hardware"
+7,Irish Wheelchair Association,1960,>200,8.06,Rosemary Keogh,Leinster,Clontarf,Health Care
+8,Adobe,2001,>200,8.00,David Liddy,Leinster,Saggart,"IT, Software and Services"
+9,Joe Duffy Group,1972,>200,7.96,Gavin Hydes,Leinster,Charlestown,Automotive (Retailers/Suppliers/Producers)
+10,eBay,2005,>200,7.86,Siobhán Curtin,Leinster,Blanchardstown,"Internet, Gaming, and eCommerce"
+11,Indeed,2012,>200,7.85,Chris Hyams,Leinster,Dublin,"IT, Software and Services"
+12,Breedon Group,2010,>200,7.79,Rob Wood,Leinster,Dun Laoghaire,Construction and related Services
+13,Microsoft,1985,>200,7.79,Anne Sheehan,Leinster,Leopardstown,"Internet, Gaming, and eCommerce"
+14,An Post,1984,>200,7.75,David McRedmond,Leinster,Dublin,Transportation and Logistics
+15,Microchip Technology,2004,>200,7.74,Ronan Dillon,Leinster,Dublin,"IT, Software and Services"
+16,Next,2018,>200,7.70,Lord Wolfson of Aspley Guise,Leinster,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+17,Boston Scientific,1994,>200,7.69,James Lyons,Connaught,Galway,Health Care
+18,Bus Atha Cliath - Dublin Bus,1987,>200,7.68,Billy Hann,Leinster,Dublin,Transportation and Logistics
+19,Designer Group,1992,>200,7.63,Michael Stone,Leinster,Dublin,Construction and related Services
+20,Irish Cancer Society,1963,>200,7.58,Averil Power,Leinster,Dublin,Health Care
+21,Lidl,2000,>200,7.57,John Paul Scally,Leinster,Tallaght,Retail
+22,Harvey Norman,2003,>200,7.56,Tim Hannon,Leinster,Swords,Retail
+23,DHL,1979,>200,7.54,Saul Resnick,Leinster,Dublin,Transportation and Logistics
+24,Woodie's,1987,>200,7.53,Damien Dwyer,Leinster,Dublin,Retail
+25,Three Ireland (Hutchison),1999,>200,7.52,Robert Finnegan,Leinster,Dublin,"Telecommunications Services, Cable Supplier"
+26,Dornan Engineering,1966,>200,7.52,Micheál O’ Connor,Munster,Cork,"Engineering, Manufacturing"
+27,Alexion Pharmaceuticals,2013,>200,7.49,Marc Dunoyer,Leinster,Blanchardstown,Drugs and Biotechnology
+28,BT Communications Ireland,1990,>200,7.47,Shay Walsh,Leinster,Dublin,"Telecommunications Services, Cable Supplier"
+29,Lifestyle Sports,1979,>200,7.45,Mark Stafford,Leinster,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+30,Homestore+More,2004,>200,7.44,Don Maher,Leinster,Ballymount Drive,Retail
+31,Merck,1977,>200,7.44,Belén Garijo,Munster,Tullagreen,Drugs and Biotechnology
+32,Zara,2003,>200,7.43,Joe Mc Garry,Leinster,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+33,Grant Thornton,1899,>200,7.41,Michael McAteer,Leinster,Dublin,Consulting and Accounting
+34,Liberty IT,1997,>200,7.40,Tony Marron,Multiple Locations,Multiple Locations,"IT, Software and Services"
+35,VMware,2005,>200,7.38,Kit Colbert,Munster,Ballincollig,"IT, Software and Services"
+36,Temple Street Hospital,1872,>200,7.37,Denise Fitzgerald,Leinster,Dublin,Health Care
+37,Londis,1956,>200,7.37,Conor Hayes,Leinster,Tallaght,Retail
+38,Fidelity Investments Ireland,1996,>200,7.37,Abigail Johnson,Leinster,Dublin,Banking and Financial Services
+39,Sky,1989,>200,7.34,JD Buckley,Leinster,Ballsbridge,Media and Advertising (incl. Film / TV production and Animation)
+40,Saint-Gobain,1947,>200,7.33,Mike Chaldecott,Leinster,Dublin,Construction and related Services
+41,Electric Supply Board (ESB),1927,>200,7.31,Paddy Hayes,Leinster,Dublin,Utilities
+42,MSD,1976,>200,7.31,Mairead McCaul,Leinster,Dublin,Drugs and Biotechnology
+43,Collen Construction,1810,>200,7.30,Thomas Drumm,Leinster,East Wall Road,Construction and related Services
+44,Zurich,1950,>200,7.30,Neil Freshwater,Leinster,Dublin,Insurance
+45,John Sisk & Son,1859,>200,7.29,Paul Brown,Leinster,Dublin,Construction and related Services
+46,ESW,2010,>200,7.28,Tommy Kelly,Leinster,Dublin,Packaged Goods
+47,Airbnb,2012,>200,7.27,Derek Nolan,Leinster,Dublin,Travel and Leisure
+48,Mater Private Network,1986,>200,7.27,John Hurley,Leinster,Dublin,Health Care
+49,Bausch & Lomb,1908,>200,7.26,Mark Hennessy,Munster,Waterford,Health Care
+50,Glanbia Ireland,1997,>200,7.24,Siobhán Talbot,Leinster,Kilkenny,Agribusiness
+51,Dell Technologies,1990,>200,7.24,Jason Ward,Leinster,Cherrywood,"IT, Software and Services"
+52,Bank of Ireland,1783,>200,7.23,Myles O'Grady,Leinster,Dublin,Banking and Financial Services
+53,Marks & Spencer,1979,>200,7.23,Philip Conlon,Leinster,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+54,PM Group,1973,>200,7.23,Dave Murphy,Leinster,Tallaght,Construction and related Services
+55,HSBC Bank,1992,>200,7.22,Laura Trimble,Leinster,Dublin,Banking and Financial Services
+56,AXA,2000,>200,7.21,Marguerite Brosnan,Leinster,Dublin,Insurance
+57,IKEA,2007,>200,7.18,Peter Jelkeby,Leinster,Dublin,Retail
+58,ALDI,1999,>200,7.18,Niall O'Connor,Leinster,Dublin,Retail
+59,H&M (Hennes & Mauritz),2005,>200,7.17,Helena Helmersson,Leinster,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+60,Hubspot,2013,>200,7.16,Brian Halligan,Leinster,Dublin,"IT, Software and Services"
+61,Power City,1986,>200,7.15,Karen McKenna,Leinster,Bray,Retail
+62,John Paul Construction,1949,>200,7.15,Liam Kenny,Leinster,Dublin,Construction and related Services
+63,Blackrock Clinic,1986,>200,7.14,James O'Donoghue,Leinster,Blackrock,Health Care
+64,Mastercard,2011,>200,7.13,Sonya Geelon,Leinster,Dublin,Banking and Financial Services
+65,Grafton Group,1902,>200,7.13,Eric Born,Leinster,Dublin,Construction and related Services
+66,Siemens,1925,>200,7.12,Carl Ennis,Leinster,Dublin,"Engineering, Manufacturing"
+67,Tiktok,2018,>200,7.12,Lisa Friedrich,Leinster,Dublin,"Internet, Gaming, and eCommerce"
+68,Baxter,1931,>200,7.12,José E. Almeida,Leinster,Blackrock,Drugs and Biotechnology
+69,Mercury Engineering,1972,>200,7.11,Eoin Vaughan,Leinster,Dublin,"Engineering, Manufacturing"
+70,Mater Misericordiae University Hospital,1861,>200,7.10,Alan Sharp,Leinster,Dublin,Health Care
+71,DPD,1986,>200,7.10,Des Travers,Leinster,Athlone,Transportation and Logistics
+72,Fiserv,2017,>200,7.09,Alan Burton,Leinster,Dublin,Banking and Financial Services
+73,PwC (PricewaterhouseCoopers),1998,>200,7.09,Feargal O'Rourke,Leinster,Dublin,Consulting and Accounting
+74,Expleo,1999,>200,7.07,Phil Codd,Leinster,Dublin,"IT, Software and Services"
+75,IBM,1956,>200,7.07,Nicola Hodson,Leinster,Ballsbridge,"IT, Software and Services"
+76,Savills,1855,>200,7.07,Mark Reynolds,Leinster,Dublin,Business Services and Supplies
+77,Aviva,1780,>200,7.07,Declan O'Rourke,Leinster,Dublin,Insurance
+78,Cisco,1999,>200,7.06,David Meads,Leinster,Dublin,"Telecommunications Services, Cable Supplier"
+79,Medtronic,1981,>200,7.06,Paul Devereux,Leinster,Dublin,Health Care
+80,Regeneron Ireland,2013,>200,7.06,Ian O'Callaghan,Leinster,Dublin,Drugs and Biotechnology
+81,Zendesk,2012,>200,7.05,Jodi Mason,Leinster,Dublin,"IT, Software and Services"
+82,Cjk Engineering,1998,>200,7.05,Vincent Bruen,Leinster,Dublin,Construction and related Services
+83,Intact Software Ltd,1992,>200,7.05,Justin Lawless,Leinster,Dundalk,"IT, Software and Services"
+84,Sherry FitzGerald,1982,>200,7.04,Steven McKenna,Leinster,Dublin,Construction and related Services
+85,McAfee,2004,>200,7.03,David-Leigh Ribeiro,Munster,Cork,"Internet, Gaming, and eCommerce"
+86,Workday,2008,>200,7.03,Peter Gamble,Leinster,Dublin,"IT, Software and Services"
+87,TK Maxx,1994,>200,7.02,Tony Slipman,Leinster,Ranelagh,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+88,Tesco,1996,>200,7.02,Natasha Adams,Leinster,Dublin,Retail
+89,Genesys,2013,>200,7.01,Tony Bates,Connaught,Genesys,"IT, Software and Services"
+90,Euro General Retail,1990,>200,7.01,Charlie O'Loughlin,Leinster,Dublin,Retail
+91,Primark (Penneys),1969,>200,7.00,Paul Marchant,Leinster,Dublin,Retail
+92,Nando's,2008,>200,6.99,Colin Hill,Leinster,Dublin,Restaurants
+93,Version1 Software,1996,>200,6.98,Tom O'Connor,Leinster,Dublin,"IT, Software and Services"
+94,Boots,1996,>200,6.98,Stephen Watkins,Leinster,Citywest,Drugs and Biotechnology
+95,Bon Secours Health System Company,1861,>200,6.97,Bill Maher,Leinster,Citywest,Health Care
+96,Kerry Group,1972,>200,6.95,Edmond Scanlon,Leinster,Naas,Agribusiness
+97,Our Lady`s Hospice & Care Services,1879,>200,6.95,Audrey Houlihan,Leinster,Dublin,Health Care
+98,St. Vincent's Healthcare,2002,>200,6.94,Kay Connolly,Leinster,Dublin,Health Care
+99,AbbVie,1994,>200,6.94,Michael Collins,Leinster,Dublin,Drugs and Biotechnology
+100,Dropbox,2012,>200,6.94,Drew Houston,Leinster,Dublin,"IT, Software and Services"
+101,PayPal,2003,>200,6.93,Sean Byrne,Leinster,Dublin,Banking and Financial Services
+102,Jysk,2019,>200,6.93,Roni Tuominen,Leinster,Rathcoole,Retail
+103,Easons,1819,>200,6.93,Liam Hanly,Leinster,Swords,Retail
+104,Sage,1981,>200,6.93,Steve Hare,Leinster,Leopardstown,"IT, Software and Services"
+105,Musgrave Group,1876,>200,6.92,Noel Keeley,Munster,Ballycurreen,Retail
+106,Centra,1876,>200,6.91,Ian Allen,Munster,Cork,Retail
+107,Morgan McKinley,1988,>200,6.91,Gerald Fitzgerald,Leinster,Dublin,Business Services and Supplies
+108,Bus Eireann - Irish Bus,1987,>200,6.90,Stephen Kent,Leinster,Dublin,Transportation and Logistics
+109,Kirby Group Engineering,1964,>200,6.90,Mark Flanagan,Munster,Raheen,"Engineering, Manufacturing"
+110,Irish Life Financial Services,1939,>200,6.90,Declan Bolger,Leinster,Dublin,Banking and Financial Services
+111,A&L Goodbody,1901,>200,6.90,David Widger,Leinster,Dublin,Consulting and Accounting
+112,Dunnes Stores,1957,>200,6.89,Margaret Heffernan,Leinster,Dublin,"Clothing and Accessories, Sports Equipment (Manufacturing and Retail)"
+113,Allergan,1997,>200,6.89,Nicky Barry,Leinster,Dublin,Drugs and Biotechnology
+114,Allianz,1902,>200,6.88,Sean McGrath,Leinster,Dublin,Insurance
+115,GRAHAM Group,1955,>200,6.87,Andrew Bill,Multiple Locations,Multiple Locations,Construction and related Services
+116,Beacon Hospital,2005,>200,6.87,Michael Cullen,Leinster,Sandyford,Health Care
+117,PJ Hegarty and Sons,1925,>200,6.86,John Hegarty,Leinster,Inchicore,Construction and related Services
+118,Capita,2019,>200,6.85,Patrick Browne,Munster,Clonakilty,"IT, Software and Services"
+119,Supermacs,1978,>200,6.84,Pat McDonagh,Connaught,Ballybrit,Restaurants
+120,Cappagh National Orthopaedic Hospital,1908,>200,6.83,Angela Lee,Leinster,Finglas,Health Care
+121,Suir Engineering,1984,>200,6.83,Michael Kennedy,Munster,Waterford,Construction and related Services
+122,Permanent Tsb,1884,>200,6.83,Eamonn Crowley,Leinster,Dublin,Banking and Financial Services
+123,KSG - Kylemore Services Group,1920,>200,6.82,Brian Hogan,Leinster,Dublin,Restaurants
+124,McDonald's,1977,>200,6.79,Alistair Macrow,Leinster,Dublin,Restaurants
+125,Amazon,2004,>200,6.78,Mark Finlay,Leinster,Dublin,"Internet, Gaming, and eCommerce"
+126,UPS (United Parcel Service),1986,>200,6.78,Rick Fletcher,Leinster,Finglas,Transportation and Logistics
+127,Stryker,1998,>200,6.78,Kevin O'Connor,Leinster,Dublin,Health Care
+128,SAP,1997,>200,6.77,Michiel Verhoeven,Leinster,Dublin,"IT, Software and Services"
+129,Johnson & Johnson,1886,>200,6.76,Joaquin Duato,Leinster,Tallaght,Health Care
+130,Brothers Of Charity Services,1883,>200,6.76,Michael Hennessy,Connaught,Clarinbridge,Health Care
+131,Topline,1975,>200,6.76,Hugh O'Donnell,Leinster,Naas,Retail
+132,St. Michael's House Group,1955,>200,6.76,Liz Reynolds,Leinster,Dublin,Health Care
+133,Enable Ireland Disability Services,1948,>200,6.74,John O'Sullivan,Leinster,Dublin,Health Care
+134,Salesforce,2000,>200,6.74,Dr. David Dempsey,Leinster,Dublin,"IT, Software and Services"
+135,Insomnia,1997,>200,6.73,Harry O'Kelly,Leinster,Dublin,Wholesale
+136,AIB Group (Allied Irish Bank),1966,>200,6.73,Colin Hunt,Leinster,Dublin,Banking and Financial Services
+137,Jacobs Engineering,1974,>200,6.72,John Cronin,Leinster,Dublin,"Engineering, Manufacturing"
+138,JJ Rhatigan,1952,>200,6.69,Ger Ronayne,Connaught,Galway,Construction and related Services
+139,Bandon Co-Op,1903,>200,6.68,Ger Brickley,Munster,Bandon,Agribusiness
+140,Starbucks,2005,>200,6.68,Gary Nolan,Leinster,Dublin,Restaurants
+141,Saint John Of God Community Services Company,1960,>200,6.68,Conor McCarthy,Leinster,Dublin,Health Care
+142,Deloitte,1845,>200,6.67,Harry Goddard,Multiple Locations,Multiple Locations,Consulting and Accounting
+143,Bank of America,1968,>200,6.66,Simon Cahill,Leinster,Dublin,Banking and Financial Services
+144,Bam Contractors,1958,>200,6.66,Ruud Joosten,Leinster,Kill,Construction and related Services
+145,Kilsaran Concrete,1964,>200,6.65,David McKeown,Leinster,Dunboyne,Construction and related Services
+146,Circle K,2018,>200,6.65,Gordon Lawlor,Leinster,Dublin,Retail
+147,SSE Airtricity,1997,>200,6.64,Stephen Wheeler,Leinster,Leopardstown,Utilities
+148,Flutter,1988,>200,6.62,Peter Jackson,Leinster,Dublin,"Internet, Gaming, and eCommerce"
+149,Eurofins,1987,>200,6.62,Gilles Martin,Leinster,Dublin,Drugs and Biotechnology
+150,Intel,1989,>200,6.60,Eamonn Sinnott,Leinster,Leixlip,"Semiconductors, Electronics, Electrical Engineering, Hardware"
