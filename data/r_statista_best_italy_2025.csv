@@ -1,0 +1,451 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Google,2002,200 - 500,9.4,Melissa Ferretti Peretti,Lombardy,Milano,"Internet, IT and Telecommunications"
+2,Fratelli Carli,1911,200 - 500,9.4,Carlo Carli,Liguria,Imperia,"Food and Beverages, Other Non-Durable Consumer Goods"
+3,Tenaris,1906,"1,001 - 5,000",9.39,Paola Rocca,Lombardy,Dalmine,Mechanical Engineering and Plant Engineering
+4,Volkswagen,1985,"501 - 1,000",9.37,Marcus Osegowitsch,Veneto,Verona,"Automotive, Aeronautics and Defense"
+5,Enav,1981,"1,001 - 5,000",9.35,Pasqualino Monti,Lazio,Roma,Transportation and Logistics
+6,Luigi Lavazza,1895,"1,001 - 5,000",9.28,Antonio Baravalle,Piedmont,Torino,"Food and Beverages, Other Non-Durable Consumer Goods"
+7,AXA,1984,"1,001 - 5,000",9.25,Chiara Soldano,Lombardy,Milano,"Banks, Insurance and Financial Services"
+8,Tetra Pak International,1965,"1,001 - 5,000",9.24,Paolo Maggi,Emilia-Romagna,Rubiera,"Food and Beverages, Other Non-Durable Consumer Goods"
+9,Apple,1976,"1,001 - 5,000",9.23,Danilo Belloni,Lombardy,Milano,"Internet, IT and Telecommunications"
+10,Cisco,1994,200 - 500,9.2,Gianmatteo Manghi,Lombardy,Milano,"Internet, IT and Telecommunications"
+11,Catalent,2007,"501 - 1,000",9.2,Alessandro Maselli,Lazio,Anagni,"Pharmaceutical, Chemical and Biotechnology"
+12,Boehringer Ingelheim,1972,"501 - 1,000",9.17,Morena Sangiovanni,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+13,Ferrari,1939,"5,001 - 10,000",9.16,Benedetto Vigna,Emilia-Romagna,Modena,"Automotive, Aeronautics and Defense"
+14,Coca-Cola HBC,1927,"1,001 - 5,000",9.14,Frank O'Donnell,Lombardy,Sesto San Giovanni,"Food and Beverages, Other Non-Durable Consumer Goods"
+15,Zurich,1902,"1,001 - 5,000",9.14,Alessandro Castellano,Lombardy,Milano,"Banks, Insurance and Financial Services"
+16,Pandora,2010,"1,001 - 5,000",9.13,Massimo Basei,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+17,Versace,1978,"501 - 1,000",9.12,Emmanuel Gintzburger,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+18,Hilton Hotels & Resorts,1919,200 - 500,9.11,Sonia Ricciuti,Lazio,Roma,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+19,Pfizer,1955,"1,001 - 5,000",9.11,Albert Bourla,Lazio,Latina,"Pharmaceutical, Chemical and Biotechnology"
+20,Iliad Italia,2016,"501 - 1,000",9.07,Benedetto Levi,Lombardy,Milano,"Internet, IT and Telecommunications"
+21,Lamborghini,1963,"1,001 - 5,000",9.06,Stephan Winkelmann,Emilia-Romagna,Sant’Agata Bolognese,"Automotive, Aeronautics and Defense"
+22,Roche,1959,"1,001 - 5,000",9.06,Stefanos Tsamousis,Lombardy,Monza,"Pharmaceutical, Chemical and Biotechnology"
+23,Sirti,1921,"1,001 - 5,000",9.05,Laura Cioli,Lombardy,Sesto,"Internet, IT and Telecommunications"
+24,Microsoft,1985,"1,001 - 5,000",9.05,Vincenzo Esposito,Lombardy,Milano,"Internet, IT and Telecommunications"
+25,Hitachi,1995,"1,001 - 5,000",9.03,Claudio Facchin,Lombardy,Assago,"Electronics, Electrical Engineering and Medical Equipment"
+26,Webuild,2014,"50,001 - 100,000",9.02,Pietro Salini,Lombardy,Rozzano,Building and Construction
+27,Michelin,1901,"1,001 - 5,000",9.02,Matteo De Tomasi,Piedmont,Torino,"Automotive, Aeronautics and Defense"
+28,Nestlé,1913,"1,001 - 5,000",9.01,Marco Travaglia,Lombardy,Assago,"Food and Beverages, Other Non-Durable Consumer Goods"
+29,Bricocenter,1983,"1,001 - 5,000",9,Frederic Capdeville,Lombardy,Rozzano,Retail and Wholesale
+30,American Express,1914,"1,001 - 5,000",8.99,Sarà Tabitha Lens,Lazio,Roma,"Banks, Insurance and Financial Services"
+31,Bayer,1903,"1,001 - 5,000",8.99,Monica Poggio,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+32,Banca d'Italia,1893,"5,001 - 10,000",8.98,Fabio Penetta,Lazio,Roma,"Banks, Insurance and Financial Services"
+33,Banca Mediolanum,1997,"5,001 - 10,000",8.98,Massimo Antonio Doris,Lombardy,Basiglio,"Banks, Insurance and Financial Services"
+34,Metro,1972,"1,001 - 5,000",8.98,Arnoud J. van Wingerde,Lombardy,San Donato Milanese,Retail and Wholesale
+35,Milano Ristorazione,2000,"501 - 1,000",8.98,Davide Vincenzo Dell'Acqua,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+36,adidas,2007,"501 - 1,000",8.97,Bjørn Gulden,Lombardy,Monza,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+37,ABB,1988,"5,001 - 10,000",8.96,Simona Alberini,Lombardy,Milano,Mechanical Engineering and Plant Engineering
+38,Università degli Studi di Napoli Federico II,1224,"5,001 - 10,000",8.96,Alessandro Buttà,Campania,Napoli,Education and Research
+39,Mercedes-Benz Italia,1973,"1,001 - 5,000",8.96,Marc Langenbrinck,Lazio,Roma,"Automotive, Aeronautics and Defense"
+40,Trenitalia,1905,"50,001 - 100,000",8.94,Luigi Ferraris,Lazio,Roma,Transportation and Logistics
+41,Barilla,1877,"1,001 - 5,000",8.94,Gianluca di Tondo,Emilia-Romagna,Parma,"Food and Beverages, Other Non-Durable Consumer Goods"
+42,Heineken,1974,"1,001 - 5,000",8.93,Alexander Koch,Aosta Valley,Pollein,"Food and Beverages, Other Non-Durable Consumer Goods"
+43,STMicroelectronics,1987,"10,001 - 50,000",8.93,Jean-Marc Chery,Lombardy,Agrate Brianza,"Electronics, Electrical Engineering and Medical Equipment"
+44,De'Longhi,1902,200 - 500,8.93,Fabio de' Longhi,Veneto,Treviso,Finished Products and Consumer Durables
+45,Alpitour,1947,"1,001 - 5,000",8.93,Gabriele Burgio,Piedmont,Torino,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+46,Sielte,1925,"1,001 - 5,000",8.93,Salvatore Turrisi,Sicily,San Gregorio Di Catania,"Internet, IT and Telecommunications"
+47,Ferrero,1946,"5,001 - 10,000",8.93,Lapo Civiletti,Piedmont,Alba,"Food and Beverages, Other Non-Durable Consumer Goods"
+48,Helvetia,1948,"501 - 1,000",8.92,Roberto Lecciso,Lombardy,Milano,"Banks, Insurance and Financial Services"
+49,Sanofi,1973,"1,001 - 5,000",8.92,Marcello Cattani,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+50,Acea,1909,"10,001 - 50,000",8.92,Fabrizio Palermo,Lazio,Roma,"Raw Materials, Energy, Procurement and Disposal"
+51,Finecobank Banca Fineco,1999,"1,001 - 5,000",8.91,Alessandro Foti,Lombardy,Milano,"Banks, Insurance and Financial Services"
+52,Prada,1913,"1,001 - 5,000",8.9,Lorenzo Bertelli,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+53,Mapei,1937,"1,001 - 5,000",8.9,Marco Squinzi,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+54,Costa Crociere,1948,"5,001 - 10,000",8.89,Mario Zanetti,Liguria,Genova,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+55,Mundys,2002,"10,001 - 50,000",8.89,Andrea Mangoni,Lazio,Roma,Transportation and Logistics
+56,Bialetti,1919,"1,001 - 5,000",8.89,Egidio Cozzi,Lombardy,Coccaglio,Finished Products and Consumer Durables
+57,Banca Sella,1886,"1,001 - 5,000",8.89,Massimo Vigo,Piedmont,Biella,"Banks, Insurance and Financial Services"
+58,Terna,1999,"1,001 - 5,000",8.89,Giuseppina Di Foggia,Lazio,Roma,"Raw Materials, Energy, Procurement and Disposal"
+59,Yves Rocher,1984,200 - 500,8.88,Carlo Bertolatti,Lombardy,Milano,"Food and Beverages, Other Non-Durable Consumer Goods"
+60,Intesa Sanpaolo,1998,"50,001 - 100,000",8.88,Carlo Messina,Piedmont,Torino,"Banks, Insurance and Financial Services"
+61,Unipol Gruppo Finanziario,1963,"10,001 - 50,000",8.87,Matteo Laterza,Emilia-Romagna,Bologna,"Banks, Insurance and Financial Services"
+62,Novartis,1996,"1,001 - 5,000",8.87,Valentino Confalone,Lombardy,Origgio,"Pharmaceutical, Chemical and Biotechnology"
+63,Buzzi Unicem,1907,"1,001 - 5,000",8.86,Pietro Buzzi,Piedmont,Casale Monferrato,Building and Construction
+64,Enel,1962,"10,001 - 50,000",8.86,Flavio Cattaneo,Lazio,Roma,"Raw Materials, Energy, Procurement and Disposal"
+65,SAP,1988,"501 - 1,000",8.85,Carla Masperi,Lombardy,Vimercate,"Internet, IT and Telecommunications"
+66,NTV Italo,2006,"1,001 - 5,000",8.85,Gianbattista La Rocca,Lazio,Roma,Transportation and Logistics
+67,Università degli Studi di Milano-Bicocca,1998,"1,001 - 5,000",8.85,Giovanna Iannantuoni,Lombardy,Milano,Education and Research
+68,Boero Bartolomeo,1831,200 - 500,8.85,Giorgio Rupnik,Liguria,Genova,Building and Construction
+69,Amadori,1930,"5,001 - 10,000",8.85,Denis Amadori,Emilia-Romagna,San Vittore Di Cesena,"Food and Beverages, Other Non-Durable Consumer Goods"
+70,Wind Tre,1997,"5,001 - 10,000",8.84,Gianluca Corti,Lombardy,Rho,"Internet, IT and Telecommunications"
+71,Granarolo,1957,"1,001 - 5,000",8.84,Gianpietro Corbari,Emilia-Romagna,Bologna,"Food and Beverages, Other Non-Durable Consumer Goods"
+72,Italgas,1837,"1,001 - 5,000",8.83,Paolo Gallo,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+73,Decathlon,1993,"5,001 - 10,000",8.83,Jean Francois Mace,Lombardy,Lissone,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+74,Mediaset,1993,"1,001 - 5,000",8.83,Pier Silvio Berlusconi,Lazio,Roma,"Mass Media and Communication, Information and Culture"
+75,Deutsche Bank,1977,"1,001 - 5,000",8.82,Roberto Parazzini,Lombardy,Milano,"Banks, Insurance and Financial Services"
+76,Mediobanca,1946,"1,001 - 5,000",8.82,Alberto Nagel,Lombardy,Milano,"Banks, Insurance and Financial Services"
+77,Fastweb,1999,"1,001 - 5,000",8.82,Walter Renna,Lombardy,Milano,"Internet, IT and Telecommunications"
+78,Safilo Group,1878,"501 - 1,000",8.82,Angelo Trocchia,Veneto,Padova,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+79,GSK,1932,"1,001 - 5,000",8.81,Fabio Landazabal,Veneto,Verona,"Pharmaceutical, Chemical and Biotechnology"
+80,BMW,1973,200 - 500,8.81,Massimiliano Di Silvestre,Lombardy,San Donato Milanese,"Automotive, Aeronautics and Defense"
+81,Amazon,2010,"10,001 - 50,000",8.81,Mariangela Marseglia,Lombardy,Milano,Retail and Wholesale
+82,Allianz,2007,"1,001 - 5,000",8.81,Giacomo Campora,Lombardy,Milano,"Banks, Insurance and Financial Services"
+83,Trenord,2011,"1,001 - 5,000",8.8,Marco Giovanni Piuri,Lombardy,Milano,Transportation and Logistics
+84,Tod’s,1900,"5,001 - 10,000",8.8,Diego Della Valle,Marche,Sant'Elpidio A Mare,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+85,Università degli Studi di Roma La Sapienza,1303,"5,001 - 10,000",8.8,Antonella Polimeni,Lazio,Roma,Education and Research
+86,IBM,1990,"1,001 - 5,000",8.8,Stefano Rebattoni,Lombardy,Segrate,"Internet, IT and Telecommunications"
+87,MD,1994,"5,001 - 10,000",8.79,Marco Podini,Campania,Gricignano Di Aversa,Retail and Wholesale
+88,Siemens,1899,"1,001 - 5,000",8.79,Floriano Masoero,Lombardy,Milano,"Electronics, Electrical Engineering and Medical Equipment"
+89,ELT Elettronica,1951,"501 - 1,000",8.79,Enzo Benigni,Lazio,Roma,"Electronics, Electrical Engineering and Medical Equipment"
+90,CRIF,1988,"1,001 - 5,000",8.78,Carlo Gherardi,Emilia-Romagna,Bologna,"Consulting, Agencies, Law Firms and Auditing"
+91,ANAS,1946,"5,001 - 10,000",8.78,Aldo Isi,Lazio,Roma,Transportation and Logistics
+92,Università degli Studi di Firenze,1321,"1,001 - 5,000",8.78,Marco Degli Esposti,Tuscany,Firenze,Education and Research
+93,Alia Servizi Ambientali,2017,"1,001 - 5,000",8.78,Alberto Irace,Tuscany,Firenze,"Raw Materials, Energy, Procurement and Disposal"
+94,Unicredit,1998,"10,001 - 50,000",8.78,Andrea Orcel,Lombardy,Milano,"Banks, Insurance and Financial Services"
+95,Ermenegildo Zegna Group,1910,200 - 500,8.78,Gildo Zegna,Piedmont,Valdilana,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+96,Leonardo,1948,"10,001 - 50,000",8.78,Roberto Cingolani,Lazio,Roma,"Automotive, Aeronautics and Defense"
+97,AGOS,1986,"1,001 - 5,000",8.78,François Edouard Drion,Lombardy,Milano,"Banks, Insurance and Financial Services"
+98,EssilorLuxottica,1999,"1,001 - 5,000",8.78,Francesco Milleri,Lombardy,Milano,Finished Products and Consumer Durables
+99,Adecco,1997,"10,001 - 50,000",8.77,Angelo Lo Vecchio,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+100,Eni,1953,"10,001 - 50,000",8.77,Claudio Descalzi,Lazio,Roma,"Raw Materials, Energy, Procurement and Disposal"
+101,NIKE Retail,1998,200 - 500,8.77,Andrea Dossena,Lombardy,Assago,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+102,Bubbles Bidco (Acqua & Sapone),1992,"1,001 - 5,000",8.77,Carlo Schiavo,Lombardy,Milano,Retail and Wholesale
+103,Scuola normale superiore,1810,200 - 500,8.77,Luigi Ambrosio,Tuscany,Pisa,Education and Research
+104,Gruppo Megamark,2000,"1,001 - 5,000",8.77,Giovanni Pomarico,Apulia,Trani,Retail and Wholesale
+105,Trentino Trasporti Esercizio,2002,"1,001 - 5,000",8.76,Roberto Murru,Trentino-Alto Adige/Südtirol,Trento,Transportation and Logistics
+106,EdiliziAcrobatica,1994,"1,001 - 5,000",8.76,Anna Marras,Lombardy,Milano,Building and Construction
+107,Policlinico Umberto I di Roma,1888,"1,001 - 5,000",8.76,Fabrizio D'Alba,Lazio,Roma,Health and Social
+108,Moncler,1952,"1,001 - 5,000",8.76,Remo Ruffini,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+109,Angelini,1919,"1,001 - 5,000",8.75,Jacopo Andreose,Lazio,Roma,"Pharmaceutical, Chemical and Biotechnology"
+110,Scuola superiore Sant'Anna,1987,200 - 500,8.75,Giuliano Amato,Tuscany,Pisa,Education and Research
+111,Retelit,1999,"501 - 1,000",8.75,Jorge Álvarez,Lombardy,Milano,"Internet, IT and Telecommunications"
+112,Electrolux,1933,"1,001 - 5,000",8.75,Manuela Soffientini,Friuli-Venezia Giulia,Porcia,Finished Products and Consumer Durables
+113,Fiamm,1942,"501 - 1,000",8.75,Fujio Owa,Veneto,Montecchio Maggiore,"Automotive, Aeronautics and Defense"
+114,Huawei,1987,200 - 500,8.74,Wilson Wang,Lombardy,Milano,"Internet, IT and Telecommunications"
+115,Esselunga,1957,"10,001 - 50,000",8.74,Marina Caprotti,Lombardy,Milano,Retail and Wholesale
+116,Philip Morris,2001,"1,001 - 5,000",8.74,Marco Hannappel,Lazio,Roma,"Food and Beverages, Other Non-Durable Consumer Goods"
+117,2I Rete GAS,2009,"1,001 - 5,000",8.73,Enrico De Censi,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+118,H&M Hennes & Mauritz,2003,"1,001 - 5,000",8.73,Katarzyna Niemirowicz,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+119,Acquedotto Pugliese,1919,"1,001 - 5,000",8.73,Nicola De Sanctis,Apulia,Bari,"Raw Materials, Energy, Procurement and Disposal"
+120,CNH Industrial,1973,"1,001 - 5,000",8.73,Carlo Lambro,Piedmont,Torino,"Automotive, Aeronautics and Defense"
+121,Edison,1884,"5,001 - 10,000",8.73,Nicola Monti,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+122,Generali Italia,2015,"10,001 - 50,000",8.72,Giancarlo Fancel,Veneto,Mogliano,"Banks, Insurance and Financial Services"
+123,Medtronic,1976,"1,001 - 5,000",8.72,Paola Pirotta,Lombardy,Milano,"Electronics, Electrical Engineering and Medical Equipment"
+124,Politecnico di Milano,1863,"1,001 - 5,000",8.72,Ferruccio Resta,Lombardy,Milano,Education and Research
+125,Lilly,1959,"1,001 - 5,000",8.72,Huzur Devletsah,Tuscany,Sesto Fiorentino,"Pharmaceutical, Chemical and Biotechnology"
+126,Gefran,1998,200 - 500,8.71,Marcello Perini,Lombardy,Provaglio D'Iseo,"Electronics, Electrical Engineering and Medical Equipment"
+127,Johnson & Johnson,1975,"501 - 1,000",8.71,Mario Sturion,Lazio,Pomezia,"Pharmaceutical, Chemical and Biotechnology"
+128,BNP Paribas,1967,"10,001 - 50,000",8.71,Elena Goitini,Tuscany,Firenze,"Banks, Insurance and Financial Services"
+129,Calzedonia,1986,"1,001 - 5,000",8.71,Sandro Veronesi,Veneto,Dossobuono Di Villafranca,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+130,A2A,2008,"10,001 - 50,000",8.7,Renato Mazzoncini,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+131,Pizzarotti,1910,"501 - 1,000",8.7,Riccardo Garrè,Emilia-Romagna,Parma,Building and Construction
+132,MM Spa,1955,"1,001 - 5,000",8.7,Francesco Mascolo,Lombardy,Milano,Building and Construction
+133,Policlinico S. Orsola - Malpighi,1592,"5,001 - 10,000",8.7,Chiara Gibertoni,Emilia-Romagna,Bologna,Health and Social
+134,Consiglio Nazionale delle Ricerche,1923,"5,001 - 10,000",8.7,Maria Chiara Carrozza,Lazio,Roma,Education and Research
+135,IKEA,1989,"5,001 - 10,000",8.69,Nicoletta Basile,Lombardy,Carugate,Retail and Wholesale
+136,Unilever,1966,"1,001 - 5,000",8.69,Fulvio Guarnieri,Lazio,Roma,"Food and Beverages, Other Non-Durable Consumer Goods"
+137,Tper,2012,"1,001 - 5,000",8.69,Giuseppina Gualtieri,Emilia-Romagna,Bologna,Transportation and Logistics
+138,Biesse,1969,"1,001 - 5,000",8.69,Massimo Potenza,Marche,Pesaro,Mechanical Engineering and Plant Engineering
+139,Bosch,1904,"5,001 - 10,000",8.68,Gerhard Dambach,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+140,Vittoria Assicurazioni,1921,"501 - 1,000",8.68,Cesare Caldarelli,Lombardy,Milano,"Banks, Insurance and Financial Services"
+141,Dompé Farmaceutici,1940,200 - 500,8.68,Nathalie Dompé,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+142,FedEx,1986,"1,001 - 5,000",8.68,Frédéric François,Lombardy,Cernusco Sul Naviglio,Transportation and Logistics
+143,Alstom,1917,"1,001 - 5,000",8.68,Michele Viale,Lazio,Roma,"Automotive, Aeronautics and Defense"
+144,IMA,1961,"1,001 - 5,000",8.68,Alberto Vacchi,Emilia-Romagna,Ozzano Dell’Emilia,Mechanical Engineering and Plant Engineering
+145,Brembo,1961,"1,001 - 5,000",8.67,Daniele Schillaci,Lombardy,Curno,"Automotive, Aeronautics and Defense"
+146,Bondioli & Pavesi,1950,"501 - 1,000",8.67,Gabriele Venturini,Lombardy,Suzzara,"Products for Industry, Construction and Agriculture (Production and Processing)"
+147,Gabetti Property Solutions Agency,1950,"1,001 - 5,000",8.67,Roberto Busso,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+148,Università Cattolica del Sacro Cuore,1921,"5,001 - 10,000",8.67,Franco Anelli,Lombardy,Milano,Education and Research
+149,Prysmian Group,1879,"1,001 - 5,000",8.66,Massimo Battaini,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+150,Samsung,1991,200 - 500,8.66,Carlo Barlocco,Lombardy,Milano,Finished Products and Consumer Durables
+151,Gruppo Bracco,1927,"1,001 - 5,000",8.65,Diana Bracco,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+152,DHL,1978,"1,001 - 5,000",8.65,Nazzarena Franco,Lombardy,Peschiera Borromeo,Transportation and Logistics
+153,Banco BPM,2017,"10,001 - 50,000",8.65,Giuseppe Castagna,Lombardy,Milano,"Banks, Insurance and Financial Services"
+154,CLF - Costruzioni Linee Ferroviarie,1999,200 - 500,8.65,Enrico Peola,Emilia-Romagna,Bologna,Building and Construction
+155,Elemaster,1978,200 - 500,8.64,Valentina Cogliati,Lombardy,Lomagna,"Electronics, Electrical Engineering and Medical Equipment"
+156,Immobiliare.it,2005,200 - 500,8.64,Silvio Pagliani,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+157,Foot Locker,1974,"1,001 - 5,000",8.64,Mary Dillon,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+158,Inditex,2002,"5,001 - 10,000",8.64,Lorenzo Marcheselli,Lombardy,Milano,Retail and Wholesale
+159,Pirelli,1872,200 - 500,8.63,Andrea Casaluci,Lombardy,Milano,"Automotive, Aeronautics and Defense"
+160,F.lli De Cecco Di Filippo,1831,"501 - 1,000",8.63,Francesco Fattori,Abruzzo,Fara San Martino,"Food and Beverages, Other Non-Durable Consumer Goods"
+161,Cefla,1932,"1,001 - 5,000",8.63,Paolo Bussolari,Emilia-Romagna,Imola,Mechanical Engineering and Plant Engineering
+162,Università degli Studi Salerno,1968,"1,001 - 5,000",8.62,Flavio Moretti,Campania,Fisciano,Education and Research
+163,Dayco Europe,1905,"1,001 - 5,000",8.62,Craig Frohock,Abruzzo,Manoppello,Mechanical Engineering and Plant Engineering
+164,Università degli Studi di Bari Aldo Moro,1925,"501 - 1,000",8.62,Gaetano Prudente,Apulia,Bari,Education and Research
+165,Lactalis,1988,"5,001 - 10,000",8.62,Giovanni Pomella,Lombardy,Milano,"Food and Beverages, Other Non-Durable Consumer Goods"
+166,Teamsystem,1979,"1,001 - 5,000",8.61,Federico Leproux,Marche,Pesaro,"Internet, IT and Telecommunications"
+167,Poltronesofà,1995,"1,001 - 5,000",8.61,Renzo Ricci,Emilia-Romagna,Valsamoggia,Finished Products and Consumer Durables
+168,DB Schenker,1963,"1,001 - 5,000",8.61,Federico Girgenti,Lombardy,Peschiera Borromeo,Transportation and Logistics
+169,IRCCS Ospedale Policlinico San Martino,1422,"1,001 - 5,000",8.6,Marco Damonte Prioli,Liguria,Genova,Health and Social
+170,Università degli Studi di Bologna,1088,"5,001 - 10,000",8.6,Sabrina Luccarini,Emilia-Romagna,Bologna,Education and Research
+171,Happy Casa Store,2008,"1,001 - 5,000",8.59,Adriano Cassano,Apulia,Taranto,Retail and Wholesale
+172,ING,2001,"1,001 - 5,000",8.59,Michal Szczurek,Lombardy,Milano,"Banks, Insurance and Financial Services"
+173,Verisure,1988,"1,001 - 5,000",8.59,Stefan Konrad Mendez,Lazio,Roma,Finished Products and Consumer Durables
+174,Linkem,1998,"1,001 - 5,000",8.59,Davide Rota,Sardinia,Cagliari,"Internet, IT and Telecommunications"
+175,Enea,1952,"1,001 - 5,000",8.58,Giorgio Graditi,Lazio,Roma,"Raw Materials, Energy, Procurement and Disposal"
+176,Flying Tiger Copenhagen,2011,"1,001 - 5,000",8.57,Stefano Scarpa,Piedmont,Torino,Retail and Wholesale
+177,Università degli Studi di Siena,1240,"1,001 - 5,000",8.57,Beatrice Sassi,Tuscany,Siena,Education and Research
+178,Università di Pisa,1862,"1,001 - 5,000",8.57,Rosario Di Bartolo,Tuscany,Pisa,Education and Research
+179,Thales Group,1988,"1,001 - 5,000",8.56,Donato Amoroso,Tuscany,Sesto Fiorentino,"Automotive, Aeronautics and Defense"
+180,Sole 365,2013,"1,001 - 5,000",8.56,Antonio Apuzzo,Campania,Napoli,Retail and Wholesale
+181,CMB,1977,"501 - 1,000",8.56,Carlo Zini,Emilia-Romagna,Carpi,Building and Construction
+182,Gewiss,1970,"1,001 - 5,000",8.56,Paolo Cervini,Lombardy,Cenate Sotto,"Electronics, Electrical Engineering and Medical Equipment"
+183,AB medica,1984,"501 - 1,000",8.55,Francesca Cerruti,Lombardy,Cerro Maggiore,"Pharmaceutical, Chemical and Biotechnology"
+184,ALDI,2018,"5,001 - 10,000",8.55,Michael Gscheidlinger,Trentino-Alto Adige/Südtirol,Bolzano,Retail and Wholesale
+185,Gruppo Hera,2002,"5,001 - 10,000",8.55,Orazio Iacono,Emilia-Romagna,Bologna,"Raw Materials, Energy, Procurement and Disposal"
+186,Giorgio Armani,1975,"1,001 - 5,000",8.55,Giorgio Armani,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+187,Arco Spedizioni,1970,"501 - 1,000",8.54,Leandro Riva,Lombardy,Monza,Transportation and Logistics
+188,Unieuro,1967,"5,001 - 10,000",8.54,Giancarlo Nicosanti Monterastelli,Emilia-Romagna,Forlì,Retail and Wholesale
+189,Gruppo Veronesi,1958,"5,001 - 10,000",8.54,Alessandro d'Este,Veneto,Verona,"Food and Beverages, Other Non-Durable Consumer Goods"
+190,Coldiretti,1977,"1,001 - 5,000",8.53,Ettore Prandini,Lazio,Roma,"Consulting, Agencies, Law Firms and Auditing"
+191,Lidl,1992,"10,001 - 50,000",8.53,Massimiliano Silvestri,Veneto,Arcole,Retail and Wholesale
+192,Fincantieri,1959,"10,001 - 50,000",8.53,Pierroberto Folgiero,Friuli-Venezia Giulia,Trieste,"Automotive, Aeronautics and Defense"
+193,Starhotels,1980,"501 - 1,000",8.53,Elisabetta Fabri,Tuscany,Firenze,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+194,Randstad,1999,"1,001 - 5,000",8.53,Marco Ceresa,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+195,Swatch Group,1983,"501 - 1,000",8.53,Calogero Polizzi,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+196,Salvatore Ferragamo,1927,"1,001 - 5,000",8.53,Marco Gobbetti,Tuscany,Firenze,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+197,Axitea,2011,"1,001 - 5,000",8.52,Marco Bavazzano,Lombardy,Milano,"Internet, IT and Telecommunications"
+198,General Electric,1921,"10,001 - 50,000",8.52,Antonio Spera,Lombardy,Milano,Mechanical Engineering and Plant Engineering
+199,GLS,2001,"5,001 - 10,000",8.52,Andrea Ambrogio,Lombardy,San Giuliano Milanese,Transportation and Logistics
+200,Zucchetti,1978,"1,001 - 5,000",8.52,Alessandro Zucchetti,Lombardy,Lodi,"Internet, IT and Telecommunications"
+201,Cofidis,1996,200 - 500,8.51,Alessandro Borzacca,Lombardy,Milano,"Banks, Insurance and Financial Services"
+202,Eataly,2007,"5,001 - 10,000",8.51,Andrea Cipolloni,Piedmont,Torino,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+203,GPI,1988,"5,001 - 10,000",8.51,Fausto Manzana,Trentino-Alto Adige/Südtirol,Trento,"Internet, IT and Telecommunications"
+204,Crai,1973,"1,001 - 5,000",8.5,Giangiacomo Ibba,Lombardy,Milano,Retail and Wholesale
+205,BRT Corriere Espresso,1928,"5,001 - 10,000",8.5,Stefania Pezzetti,Lombardy,Milano,Transportation and Logistics
+206,Mondo Convenienza,1985,"1,001 - 5,000",8.5,Gianfranco Stefanoni,Lazio,Roma,Retail and Wholesale
+207,Banca Ifis,1983,"1,001 - 5,000",8.5,Frederik Geertman,Veneto,Venezia,"Banks, Insurance and Financial Services"
+208,Autogrill,1947,"5,001 - 10,000",8.5,Paolo Roverato,Piedmont,Novara,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+209,NTT Data,1988,"5,001 - 10,000",8.5,Ludovico Diaz,Lombardy,Milano,"Internet, IT and Telecommunications"
+210,Istituto Clinico Humanitas,1999,"1,001 - 5,000",8.5,Pietro Manzonetto,Lombardy,Rozzano,Health and Social
+211,Baker Hughes,2017,"1,001 - 5,000",8.5,Lorenzo Simonelli,Lombardy,Milano,Mechanical Engineering and Plant Engineering
+212,Vodafone,1994,"5,001 - 10,000",8.49,Aldo Bisio,Piedmont,Ivrea,"Internet, IT and Telecommunications"
+213,PwC,1998,"5,001 - 10,000",8.49,Giovanni Andrea Toselli,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+214,Site,1947,"1,001 - 5,000",8.49,Stefano Borghi,Emilia-Romagna,Bologna,Mechanical Engineering and Plant Engineering
+215,Poste Italiane,1862,"10,001 - 50,000",8.49,Matteo Del Fante,Lazio,Roma,"Banks, Insurance and Financial Services"
+216,Piazza Italia,1993,"1,001 - 5,000",8.49,Luigi Bernardo,Campania,Nola,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+217,Danieli,1914,"5,001 - 10,000",8.49,Giacomo Mareschi Danieli,Friuli-Venezia Giulia,Buttrio,Mechanical Engineering and Plant Engineering
+218,AOU Città della Salute e della Scienza di Torino,2012,"5,001 - 10,000",8.48,Giovanni La Valle,Piedmont,Torino,Health and Social
+219,Bulgari,1987,"1,001 - 5,000",8.48,Pietro Beccari,Lazio,Roma,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+220,Università degli Studi di Ferrara,1391,"1,001 - 5,000",8.48,Laura Ramaciotti,Emilia-Romagna,Ferrara,Education and Research
+221,Teddy,1961,"1,001 - 5,000",8.48,Alessandro Bracci,Emilia-Romagna,Rimini,Retail and Wholesale
+222,Ericsson,1918,"1,001 - 5,000",8.48,Andrea Missori,Lazio,Roma,"Internet, IT and Telecommunications"
+223,Kasanova,1968,"1,001 - 5,000",8.48,Maurizio Ghidelli,Lombardy,Arcore,Retail and Wholesale
+224,Easyjet,1995,200 - 500,8.48,Lorenzo Lagorio,Lazio,Roma,Transportation and Logistics
+225,Yoox Net-A-Porter Group,2015,"1,001 - 5,000",8.47,Federico Marchetti,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+226,MSC Crociere,1970,"501 - 1,000",8.47,Gianni Onorato,Campania,Napoli,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+227,Università degli Studi di Palermo,1806,"1,001 - 5,000",8.47,Roberto Agnello,Sicily,Palermo,Education and Research
+228,Siram,1954,"1,001 - 5,000",8.47,Emanuela Trentin,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+229,Gruppo San Donato,1957,"10,001 - 50,000",8.47,Sara Mariani,Lombardy,San Donato Milanese,Health and Social
+230,Fedrigoni,1888,"1,001 - 5,000",8.47,Marco Nespolo,Veneto,Verona,"Electronics, Electrical Engineering and Medical Equipment"
+231,Avon,1966,"1,001 - 5,000",8.46,Rosita Conte,Lombardy,Turate,"Food and Beverages, Other Non-Durable Consumer Goods"
+232,Policlinico San Matteo Pavia Fondazione IRCCS,1449,"1,001 - 5,000",8.45,Alessandro Venturi,Lombardy,Pavia,Health and Social
+233,Grandi Magazzini e Supermercati Il Gigante,1972,"1,001 - 5,000",8.45,Fabrizio Zacchetti,Lombardy,Bresso,Retail and Wholesale
+234,Haier Group,1984,"1,001 - 5,000",8.45,Zhang Ruimin,Lombardy,Brugherio,Finished Products and Consumer Durables
+235,Credem - Credito Emiliano,1910,"5,001 - 10,000",8.45,Angelo Campani,Emilia-Romagna,Reggio Emilia,"Banks, Insurance and Financial Services"
+236,Ospedale Maggiore Policlinico di Milano,1456,"1,001 - 5,000",8.44,Matteo Stocco,Lombardy,Milano,Health and Social
+237,Schindler,1948,"1,001 - 5,000",8.44,Matteo Napoli,Lombardy,Milano,Mechanical Engineering and Plant Engineering
+238,Glovo,2015,"1,001 - 5,000",8.44,Joaquín Vázquez,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+239,Consorzio per il Sistema Informativo,1977,"1,001 - 5,000",8.44,Letizia Maria Ferraris,Piedmont,Torino,"Internet, IT and Telecommunications"
+240,Gruppo ACI - Automobile Club d'Italia,1904,"1,001 - 5,000",8.43,Angelo Sticchi Damiani,Lazio,Roma,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+241,Torello Trasporti,1975,"501 - 1,000",8.43,Umberto Torello,Campania,Montoro,Transportation and Logistics
+242,Scavolini,1961,"501 - 1,000",8.43,Fabiana Scavolini,Marche,Montelabbate,Finished Products and Consumer Durables
+243,Università degli Studi di Milano,1924,"1,001 - 5,000",8.43,Roberto Conte,Lombardy,Milano,Education and Research
+244,Natuzzi,1959,"1,001 - 5,000",8.43,Antonio Achille,Apulia,Bari,Finished Products and Consumer Durables
+245,AxL Agenzia per il lavoro,2004,"1,001 - 5,000",8.42,Massimo Rosolen,Lombardy,Bonate Sotto,"Employment Agencies, Real Estate, General Services"
+246,Reale Mutua di Assicurazioni,1828,"1,001 - 5,000",8.42,Luigi Lana,Piedmont,Torino,"Banks, Insurance and Financial Services"
+247,Honda,1971,200 - 500,8.41,imone Mattogno,Lazio,Roma,"Automotive, Aeronautics and Defense"
+248,GFT,2013,"501 - 1,000",8.4,Fabrizio Callery,Lombardy,Milano,"Internet, IT and Telecommunications"
+249,Solvay,1912,"501 - 1,000",8.4,Ilham Kadri,Tuscany,Rosignano Solvay,"Pharmaceutical, Chemical and Biotechnology"
+250,Present,2009,"1,001 - 5,000",8.4,Antonio Giugliano,Lombardy,Milano,"Internet, IT and Telecommunications"
+251,McDonald's,1985,"10,001 - 50,000",8.4,Giorgia Favaro,Lombardy,Assago,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+252,Sogei,1976,"1,001 - 5,000",8.4,Cristiano Cannarsa,Lazio,Roma,"Internet, IT and Telecommunications"
+253,Sky,2003,"1,001 - 5,000",8.4,Andrea Duilio,Lombardy,Milano,"Mass Media and Communication, Information and Culture"
+254,Engineering,1980,"5,001 - 10,000",8.39,Maximo Ibarra,Lazio,Roma,"Internet, IT and Telecommunications"
+255,Università degli Studi di Torino,1404,"1,001 - 5,000",8.38,Andrea Silvestri,Piedmont,Torino,Education and Research
+256,ISTAT,1926,"1,001 - 5,000",8.38,Francesco Maria Chelli,Lazio,Roma,Education and Research
+257,Philips,1889,"501 - 1,000",8.38,Roy Jakobs,Lombardy,Milano,"Electronics, Electrical Engineering and Medical Equipment"
+258,Rai - Radiotelevisione Italiana,1944,"10,001 - 50,000",8.38,Roberto Sergio,Lazio,Roma,"Mass Media and Communication, Information and Culture"
+259,Gruppo BCC Iccrea,1963,"10,001 - 50,000",8.37,Mauro Pastore,Lazio,Roma,"Banks, Insurance and Financial Services"
+260,Schneider Electric,2001,"1,001 - 5,000",8.37,Davide Zardo,Lombardy,Bergamo,"Electronics, Electrical Engineering and Medical Equipment"
+261,Conad,1962,"5,001 - 10,000",8.37,Francesco Pugliese,Emilia-Romagna,Bologna,Retail and Wholesale
+262,Acciaierie Arvedi spa,1963,"5,001 - 10,000",8.37,Mario Caldonazzo,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+263,Micron Semiconductor,1978,"501 - 1,000",8.36,Sanjay Mehrotra,Lombardy,Vimercate,"Electronics, Electrical Engineering and Medical Equipment"
+264,AccorHotels,1967,200 - 500,8.36,Sébastien Bazin,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+265,Openjobmetis Agenzia per il Lavoro,2001,"501 - 1,000",8.36,Rosario Rasizza,Lombardy,Gallarate,"Employment Agencies, Real Estate, General Services"
+266,Business Integration Partners,2003,"1,001 - 5,000",8.36,Alberto Idone,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+267,Birra Peroni,1846,"501 - 1,000",8.36,Enrico Galasso,Lazio,Roma,"Food and Beverages, Other Non-Durable Consumer Goods"
+268,Alleanza Assicurazioni,1898,"10,001 - 50,000",8.35,Davide Passero,Lombardy,Milano,"Banks, Insurance and Financial Services"
+269,Assist Digital,2003,"501 - 1,000",8.35,Andréa Donadel,Lombardy,Milano,"Internet, IT and Telecommunications"
+270,Tempocasa,1988,"1,001 - 5,000",8.35,Paolo di Rocco,Lombardy,Bresso,"Employment Agencies, Real Estate, General Services"
+271,Eurospin,1993,"10,001 - 50,000",8.35,Romano Mion,Veneto,San Martino Buon Albergo,Retail and Wholesale
+272,Stellantis,2021,"5,001 - 10,000",8.35,Carlos Tavares,Piedmont,Torino,"Automotive, Aeronautics and Defense"
+273,Agrifarma,1998,"1,001 - 5,000",8.35,Nicolò Galante,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+274,NH Hotel Group,1978,"1,001 - 5,000",8.35,Hugo Rovira,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+275,Gruppo Lagardère,1996,"1,001 - 5,000",8.34,Alberto Niero,Veneto,Gaggio di Marcon,Retail and Wholesale
+276,Sacmi,1919,"1,001 - 5,000",8.34,Mauro Fenzi,Emilia-Romagna,Imola,Mechanical Engineering and Plant Engineering
+277,Gruppo La Piadineria,1994,"1,001 - 5,000",8.34,Donato Romano,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+278,Comet,1959,"1,001 - 5,000",8.34,Paolo Bucchi,Emilia-Romagna,Bologna,Retail and Wholesale
+279,AEFFE,1980,"1,001 - 5,000",8.34,Simone Badioli,Emilia-Romagna,San Giovanni in Marignano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+280,Marelli,1919,"5,001 - 10,000",8.34,David Slump,Lombardy,Corbetta,"Automotive, Aeronautics and Defense"
+281,Iren,1907,"5,001 - 10,000",8.34,Enrico Clara,Emilia-Romagna,Reggio Emilia,"Raw Materials, Energy, Procurement and Disposal"
+282,Snam,1941,"1,001 - 5,000",8.33,Stefano Vernier,Lombardy,San Donato Milanese,"Raw Materials, Energy, Procurement and Disposal"
+283,Azienda Ospedaliera di Padova,1778,"5,001 - 10,000",8.33,Giuseppe Dal Ben,Veneto,Padova,Education and Research
+284,ISS,1941,"50,001 - 100,000",8.33,Jacob Aarup-Andersen,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+285,IQVIA,1982,200 - 500,8.32,Antonella Levante,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+286,Teleperformance,2003,"1,001 - 5,000",8.32,Diego Pisa,Lazio,Roma,"Internet, IT and Telecommunications"
+287,Mediamarket,1991,"5,001 - 10,000",8.32,Guido Monferrini,Lombardy,Verano Brianza,Retail and Wholesale
+288,BASF,1946,"1,001 - 5,000",8.32,Lorenzo Bottinelli,Lombardy,Cesano Maderno,"Pharmaceutical, Chemical and Biotechnology"
+289,Thun,1950,"501 - 1,000",8.32,Francesco Pandolfi,Trentino-Alto Adige/Südtirol,Bolzano,"Food and Beverages, Other Non-Durable Consumer Goods"
+290,DXC Technology,2017,"1,001 - 5,000",8.31,Eugenio Maria Bonomi,Lombardy,Cernusco Sul Naviglio,"Internet, IT and Telecommunications"
+291,La Rinascente,1865,"1,001 - 5,000",8.31,Pierluigi Cocchini,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+292,Risparmio Casa,1987,"501 - 1,000",8.31,Fabio Tommasini,Lazio,Roma,Retail and Wholesale
+293,Capgemini,1995,"1,001 - 5,000",8.31,Monia Ferrari,Lazio,Roma,"Internet, IT and Telecommunications"
+294,KCS Caregiver Cooperativa Sociale,1991,"1,001 - 5,000",8.31,Carlo Vincenzo,Lombardy,Bergamo,Health and Social
+295,E.on,2000,200 - 500,8.3,Luca Conti,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+296,Marazzi Group,1935,"1,001 - 5,000",8.3,Mauro Vandini,Emilia-Romagna,Sassuolo,Building and Construction
+297,BPER Banca,1983,"10,001 - 50,000",8.3,Piero Luigi Montani,Sardinia,Sassari,"Banks, Insurance and Financial Services"
+298,Sara Assicurazioni,1946,"501 - 1,000",8.3,Alberto Tosti,Lazio,Roma,"Banks, Insurance and Financial Services"
+299,Iperal,1986,"1,001 - 5,000",8.29,Antonio Tirelli,Lombardy,Milano,Retail and Wholesale
+300,Magna,1957,"1,001 - 5,000",8.29,Aldo Cirilli,Piedmont,Torino,"Automotive, Aeronautics and Defense"
+301,AFV Acciaierie Beltrame,1896,"5,001 - 10,000",8.29,Antonio Beltrame,Veneto,Vicenza,"Products for Industry, Construction and Agriculture (Production and Processing)"
+302,Trony,1991,"501 - 1,000",8.29,Francesco Fanni,Lombardy,Milano,Retail and Wholesale
+303,CMC Ravenna,1901,"501 - 1,000",8.29,Romano Paoletti,Emilia-Romagna,Ravenna,"Products for Industry, Construction and Agriculture (Production and Processing)"
+304,Deco Industrie,1951,"501 - 1,000",8.28,Stanislao Fabbrino,Emilia-Romagna,Bagnacavallo,"Food and Beverages, Other Non-Durable Consumer Goods"
+305,Menarini Group,1915,"1,001 - 5,000",8.28,Elcin Barker Ergun,Tuscany,Firenze,"Pharmaceutical, Chemical and Biotechnology"
+306,Politecnico di Torino,1958,"1,001 - 5,000",8.27,Vincenzo Tedesco,Piedmont,Torino,Education and Research
+307,ICM,1921,"501 - 1,000",8.27,Alberto Liberatori,Veneto,Vicenza,Building and Construction
+308,Valeo,1964,"501 - 1,000",8.27,Alberto Alfieri,Piedmont,Santena,Mechanical Engineering and Plant Engineering
+309,Gruppo Pam,1958,"5,001 - 10,000",8.27,Andrea Zoratti,Veneto,Spinea,Retail and Wholesale
+310,Burger King,1999,"5,001 - 10,000",8.27,Kevin Derycke,Lombardy,Assago,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+311,My Chef Ristorazione Commerciale,1994,"1,001 - 5,000",8.27,Sergio Castelli,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+312,Lottomatica,2021,"1,001 - 5,000",8.26,Guglielmo Angelozzi,Lazio,Roma,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+313,Sammontana,1948,"501 - 1,000",8.26,Leonardo Bagnoli,Tuscany,Empoli,"Food and Beverages, Other Non-Durable Consumer Goods"
+314,Euronics,2001,"1,001 - 5,000",8.26,Massimo Dell'Acqua,Lombardy,Milano,Retail and Wholesale
+315,Zambon,1906,"501 - 1,000",8.26,Giovanni Magnaghi,Lombardy,Bresso,"Pharmaceutical, Chemical and Biotechnology"
+316,SEA Aeroporti di Milano,1948,"10,001 - 50,000",8.26,Armando Brunini,Lombardy,Linate,Transportation and Logistics
+317,Alì supermercati,1958,"1,001 - 5,000",8.26,Francesco Canella,Veneto,Padova,Retail and Wholesale
+318,Ariston Thermo,1930,"1,001 - 5,000",8.26,Maurizio Brusadelli,Marche,Fabriano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+319,Oracle,1993,"1,001 - 5,000",8.25,Alessandro Ippolito,Lombardy,Milano,"Internet, IT and Telecommunications"
+320,Deloitte,1845,"5,001 - 10,000",8.25,Fabio Pompei,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+321,Perfetti Van Melle,1946,"1,001 - 5,000",8.25,Corrado Bianchi,Lombardy,Lainate,"Food and Beverages, Other Non-Durable Consumer Goods"
+322,Gruppo TIM,1994,"10,001 - 50,000",8.24,Pietro Labriola,Lazio,Roma,"Internet, IT and Telecommunications"
+323,Cebi Motors,1976,"501 - 1,000",8.24,Maurizio Basso,Marche,Osimo Stazione,Mechanical Engineering and Plant Engineering
+324,Kering Italia,1963,"10,001 - 50,000",8.24,Francesca Bellettini,Tuscany,Scandicci,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+325,Ceramiche Atlas Concorde,1969,"501 - 1,000",8.24,Maurizio Mazzotti,Emilia-Romagna,Spezzano Di Fiorano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+326,Italtrans,1985,"1,001 - 5,000",8.24,Laura Bertulessi,Lombardy,Calcinate,Transportation and Logistics
+327,Ipsos,1990,200 - 500,8.24,Nicola Neri,Lombardy,Milano,Education and Research
+328,Cigierre - Compagnia Generale Ristorazione,1995,"1,001 - 5,000",8.24,Marco Di Giusto,Friuli-Venezia Giulia,Tavagnacco,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+329,Scm Group,1952,"1,001 - 5,000",8.24,Marco Mancini,Emilia-Romagna,Rimini,"Products for Industry, Construction and Agriculture (Production and Processing)"
+330,EY,1989,"5,001 - 10,000",8.24,Massimo Antonelli,Lazio,Roma,"Consulting, Agencies, Law Firms and Auditing"
+331,KONE,1980,"501 - 1,000",8.23,Giovanni Lorino,Lombardy,Pero,Mechanical Engineering and Plant Engineering
+332,Beghelli,1982,"501 - 1,000",8.23,Gian Pietro Beghelli,Emilia-Romagna,Valsamoggia,Retail and Wholesale
+333,Leroy Merlin,1996,"5,001 - 10,000",8.23,Giannalberto Cancemi,Lombardy,Rozzano,Retail and Wholesale
+334,Iper,1974,"5,001 - 10,000",8.23,Michela Bettoni,Lombardy,Milano,Retail and Wholesale
+335,Cassa di Risparmio di Asti,1842,"1,001 - 5,000",8.23,Giorgio Galvagno,Piedmont,Asti,"Banks, Insurance and Financial Services"
+336,Gruppo Servizi Associati,1997,"1,001 - 5,000",8.22,Antonio Musacchio,Lazio,Roma,"Employment Agencies, Real Estate, General Services"
+337,Cooper Standard,1994,200 - 500,8.22,Jeffrey S. Edwards,Piedmont,Borgaro Torinese,"Automotive, Aeronautics and Defense"
+338,Piaggio Group,1884,"1,001 - 5,000",8.22,Michele Colaninno,Tuscany,Pontedera,"Automotive, Aeronautics and Defense"
+339,Università degli Studi di Verona,1982,"1,001 - 5,000",8.22,Federico Gallo,Veneto,Verona,Education and Research
+340,Bticino,1936,"1,001 - 5,000",8.22,Franco Villani,Lombardy,Varese,"Electronics, Electrical Engineering and Medical Equipment"
+341,Fater,1958,"1,001 - 5,000",8.22,Antonio Fazzari,Abruzzo,Spoltore,"Food and Beverages, Other Non-Durable Consumer Goods"
+342,Ferretti,1968,"1,001 - 5,000",8.21,Alberto Galassi,Emilia-Romagna,Cattolica,"Automotive, Aeronautics and Defense"
+343,Alfasigma,1948,"1,001 - 5,000",8.21,Francesco Balestrieri,Emilia-Romagna,Bologna,"Pharmaceutical, Chemical and Biotechnology"
+344,UPS (United Parcel Service),1987,"1,001 - 5,000",8.2,Francisco Conejo,Lombardy,Milano,Transportation and Logistics
+345,Accenture,1957,"10,001 - 50,000",8.2,Mauro Macchi,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+346,Bricofer,1979,"501 - 1,000",8.2,Massimo Pulcinelli,Lazio,Roma,Retail and Wholesale
+347,Banca Monte Dei Paschi Di Siena,1472,"10,001 - 50,000",8.19,Luigi Lovaglio,Tuscany,Siena,"Banks, Insurance and Financial Services"
+348,Chiesi,1935,"1,001 - 5,000",8.19,Giuseppe Accogli,Emilia-Romagna,Parma,"Pharmaceutical, Chemical and Biotechnology"
+349,Reply,1996,"1,001 - 5,000",8.19,Tatiana Rizzante,Apulia,Bari,"Internet, IT and Telecommunications"
+350,Università degli Studi di Catania,1434,"1,001 - 5,000",8.18,Corrado Spinella,Sicily,Catania,Education and Research
+351,Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo,1790,"1,001 - 5,000",8.18,Valter Alpe,Piedmont,Alessandria,Health and Social
+352,Penny,1994,"1,001 - 5,000",8.18,Nicola Pierdomenico,Lombardy,Cernusco Sul Naviglio,Retail and Wholesale
+353,Liu.Jo,1995,"1,001 - 5,000",8.18,Marco Manchi,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+354,HP (Hewlett-Packard),1964,200 - 500,8.18,Giampiero Savorelli,Lombardy,Cernusco Sul Naviglio,Finished Products and Consumer Durables
+355,Uvet Viaggi Turismo,1950,"501 - 1,000",8.17,Francesco Patanè,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+356,Coop,1967,"50,001 - 100,000",8.17,Maura Latini,Emilia-Romagna,Casalecchio Di Reno,Retail and Wholesale
+357,ExxonMobil,1891,200 - 500,8.17,Gianni Murano,Lazio,Roma,"Raw Materials, Energy, Procurement and Disposal"
+358,Smurfit Kappa,2012,"1,001 - 5,000",8.17,Gianluca Castellini,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+359,Thermo Fisher Scientific,1985,"1,001 - 5,000",8.16,Marc Casper,Lombardy,Monza,"Pharmaceutical, Chemical and Biotechnology"
+360,Istituto Giannina Gaslini,1938,"1,001 - 5,000",8.16,Giuseppe Pintor,Liguria,Genova,Health and Social
+361,Tecnocasa,1979,"10,001 - 50,000",8.16,Luigi Sada,Lombardy,Rozzano,"Employment Agencies, Real Estate, General Services"
+362,Desigual,2012,200 - 500,8.15,Thomas Meyer,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+363,Marposs,1952,"1,001 - 5,000",8.15,Mario Galesi,Emilia-Romagna,Bentivoglio,"Electronics, Electrical Engineering and Medical Equipment"
+364,McKinsey & Company,1969,"501 - 1,000",8.15,Massimo Giordano,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+365,Compass Group,1976,"1,001 - 5,000",8.15,Dominic Blakemore,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+366,Alten,2004,"1,001 - 5,000",8.15,Gualtiero Bazzana,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+367,Fincons Group,1983,"1,001 - 5,000",8.15,Michele Moretti,Lazio,Roma,"Internet, IT and Telecommunications"
+368,Open Fiber,2016,"1,001 - 5,000",8.14,Giuseppe Gola,Lombardy,Milano,"Internet, IT and Telecommunications"
+369,Azimut Benetti,1985,"1,001 - 5,000",8.13,Marco Valle,Tuscany,Lucca,"Automotive, Aeronautics and Defense"
+370,GTT,2003,"1,001 - 5,000",8.13,Serena Lancione,Piedmont,Torino,Transportation and Logistics
+371,Denso Thermal Systems,1987,"1,001 - 5,000",8.13,Marco Di Rao Marotta,Piedmont,Poirino,"Automotive, Aeronautics and Defense"
+372,Ansaldo Energia,1991,"1,001 - 5,000",8.13,Lorenza Franca Franzino,Liguria,Genova,"Raw Materials, Energy, Procurement and Disposal"
+373,Burberry Group,1856,200 - 500,8.13,Jonathan Akeroyd,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+374,ENGIE,2008,"1,001 - 5,000",8.13,Monica Iacono,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+375,Banca Agricola Popolare di Ragusa,1935,"501 - 1,000",8.12,Saverio Continella,Sicily,Ragusa,"Banks, Insurance and Financial Services"
+376,Tiberina,1999,"501 - 1,000",8.12,Orlando Caldari,Umbria,Umbertide,"Automotive, Aeronautics and Defense"
+377,Comoli Ferrari,1929,"1,001 - 5,000",8.12,Paolo Ferrari,Piedmont,Novara,Retail and Wholesale
+378,OVS,1972,"5,001 - 10,000",8.12,Stefano Beraldo,Veneto,Venezia,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+379,Fondazione Policlinico Universitario Agostino Gemelli,1964,"1,001 - 5,000",8.12,Marco Elefanti,Lazio,Roma,Health and Social
+380,Valentino,1960,"1,001 - 5,000",8.11,Jacopo Venturini,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+381,The Space Cinema,2009,"1,001 - 5,000",8.11,Francesco Grandinetti,Lazio,Roma,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+382,Toyota,1971,200 - 500,8.11,Luigi Ksawery Luca,Lazio,Roma,"Automotive, Aeronautics and Defense"
+383,British American Tobacco,2004,200 - 500,8.11,Fabio de Petris,Lazio,Roma,"Food and Beverages, Other Non-Durable Consumer Goods"
+384,Teatro alla Scala,1778,"501 - 1,000",8.11,Fiorenzo Tagliabue,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+385,ATAC Roma,1909,"10,001 - 50,000",8.1,Alberto Zorzan,Lazio,Roma,Transportation and Logistics
+386,Stroili Oro,1996,"1,001 - 5,000",8.1,Nicola Saraceno,Friuli-Venezia Giulia,Amaro,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+387,Dolce & Gabbana,1985,"1,001 - 5,000",8.09,Alfonso Dolce,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+388,Codess Sociale,1984,"1,001 - 5,000",8.09,Alberto Ruggeri,Veneto,Padova,Health and Social
+389,Miroglio,1947,"1,001 - 5,000",8.09,Alberto Racca,Piedmont,Alba,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+390,Cisalfa Sport,1974,"1,001 - 5,000",8.09,Maurizio Mancini,Lazio,Roma,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+391,Trafilerie Carlo Gnutti,1947,200 - 500,8.09,Renato Gnutti,Lombardy,Chiari,"Products for Industry, Construction and Agriculture (Production and Processing)"
+392,Sorgenia,1999,"501 - 1,000",8.08,Michele Enrico De Censi,Lombardy,Milano,"Raw Materials, Energy, Procurement and Disposal"
+393,Bricoman,2008,"1,001 - 5,000",8.08,Maria Tamborra,Lombardy,Rozzano,Retail and Wholesale
+394,System House,1981,"1,001 - 5,000",8.08,Antonio Catalano,Lazio,Roma,"Internet, IT and Telecommunications"
+395,Università degli Studi di Pavia,1361,"1,001 - 5,000",8.08,Emma Varasio,Lombardy,Pavia,Education and Research
+396,OBI,1991,"1,001 - 5,000",8.08,Gabriele Gennai,Lombardy,Cologno Monzese,Retail and Wholesale
+397,INAIL,1883,"5,001 - 10,000",8.07,Marcello Fiori,Lazio,Roma,Education and Research
+398,Gruppo Ceramiche Gresmalt,1968,200 - 500,8.06,Filippo Salvarani,Emilia-Romagna,Casalgrande,"Products for Industry, Construction and Agriculture (Production and Processing)"
+399,UCI Cinemas,1920,"1,001 - 5,000",8.05,Gianluca Pantano,Lombardy,Cernusco Sul Naviglio,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+400,Maldarizzi Automotive,1979,200 - 500,8.05,Francesco Maldarizzi,Apulia,Bari,"Automotive, Aeronautics and Defense"
+401,Ducati,1935,"1,001 - 5,000",8.05,Claudio Domenicali,Emilia-Romagna,Bologna,"Automotive, Aeronautics and Defense"
+402,Galbusera,1938,"501 - 1,000",8.03,Roberto Serra,Lombardy,Cosio Valtellino,"Food and Beverages, Other Non-Durable Consumer Goods"
+403,Merck,1668,"501 - 1,000",8.03,Jan Kirsten,Lazio,Roma,"Pharmaceutical, Chemical and Biotechnology"
+404,Pellegrini,1965,"5,001 - 10,000",8.03,Ernesto Pellegrini,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+405,Gruppo Mastrotto,1958,"1,001 - 5,000",8.03,Chiara Mastrotto,Veneto,Arzignano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+406,Golden Goose,2000,200 - 500,8.02,Silvio Campara,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+407,Wolters Kluwer,1836,"1,001 - 5,000",8.02,Giulietta Lemmi,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+408,Università degli Studi di Roma Tor Vergata,1982,"1,001 - 5,000",8.02,Silvia Quattrociocche,Lazio,Roma,Education and Research
+409,Atlas Copco,1950,200 - 500,8.01,Marco Piroli,Lombardy,Milano,Mechanical Engineering and Plant Engineering
+410,Davide Campari-Milano,1860,"1,001 - 5,000",8.01,Matteo Fantacchiotti,Lombardy,Sesto San Giovanni,"Food and Beverages, Other Non-Durable Consumer Goods"
+411,Groupe PSA,2020,"10,001 - 50,000",8,Gaetano Thorel,Piedmont,Torino,Transportation and Logistics
+412,Gruppo Riva,1954,"1,001 - 5,000",8,Claudio Riva,Lombardy,Milano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+413,Nexi,1939,"1,001 - 5,000",7.99,Paolo Bertoluzzo,Lombardy,Milano,"Internet, IT and Telecommunications"
+414,Innovaway,2013,"501 - 1,000",7.99,Antonio Giacomini,Campania,Napoli,"Internet, IT and Telecommunications"
+415,Sisal,1945,"1,001 - 5,000",7.98,Francesco Durante,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+416,Network Contacts,2016,"1,001 - 5,000",7.97,Lelio Borgherese,Lombardy,Molfetta,"Employment Agencies, Real Estate, General Services"
+417,Crédit Agricole,1860,"10,001 - 50,000",7.97,Giampiero Maioli,Sicily,Parma,"Banks, Insurance and Financial Services"
+418,Unico - La Farmacia Dei Farmacisti,2002,"501 - 1,000",7.96,Paolo Agostinelli,Lombardy,Lainate,"Pharmaceutical, Chemical and Biotechnology"
+419,Manpower,1994,"1,001 - 5,000",7.96,Anna Gionfriddo,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+420,Banca del Piemonte,1912,200 - 500,7.94,Camillo Venesio,Piedmont,Torino,"Banks, Insurance and Financial Services"
+421,Bottega Verde,1993,"501 - 1,000",7.94,Benedetto Lavino,Tuscany,Pienza,"Food and Beverages, Other Non-Durable Consumer Goods"
+422,Gruppo Mutuionline,2000,"1,001 - 5,000",7.93,Marco Pescarmona,Lombardy,Milano,"Banks, Insurance and Financial Services"
+423,Artsana Group,1946,"5,001 - 10,000",7.92,Nicola Zotta,Lombardy,Grandate,Finished Products and Consumer Durables
+424,Gardaland,1975,"501 - 1,000",7.92,Aldo Vigevani,Veneto,Castelnuovo Del Garda,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+425,Bristol Myers Squibb,1946,200 - 500,7.91,Regina Vasiliou,Lazio,Roma,"Pharmaceutical, Chemical and Biotechnology"
+426,Roadhouse,2001,"1,001 - 5,000",7.91,Nicolas Bigard,Emilia-Romagna,Castelvetro,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+427,SEDA,1964,"501 - 1,000",7.91,Giovanni De Rosa,Campania,Arzano,"Products for Industry, Construction and Agriculture (Production and Processing)"
+428,CIVIS,1971,"1,001 - 5,000",7.9,Matteo Costante,Lombardy,Milano,"Employment Agencies, Real Estate, General Services"
+429,Poliform,1970,"501 - 1,000",7.9,Giovanni Anzani,Lombardy,Inverigo,Finished Products and Consumer Durables
+430,Abbanoa,2005,"1,001 - 5,000",7.89,Franco Piga,Sardinia,Nuoro,"Raw Materials, Energy, Procurement and Disposal"
+431,Just Eat,2011,200 - 500,7.87,Daniele Contini,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+432,Elior Ristorazione,1954,"5,001 - 10,000",7.87,Rosario Ambrosino,Lombardy,Milano,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+433,Max Mara,1951,"501 - 1,000",7.87,Eugenio Sidoli,Emilia-Romagna,Cavriago,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+434,KPMG,1987,"5,001 - 10,000",7.87,Mario Corti,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+435,Lucart Group,1953,"1,001 - 5,000",7.87,Massimo Pasqualini,Tuscany,Porcari,Finished Products and Consumer Durables
+436,Primark,2016,"1,001 - 5,000",7.86,Luca Ciuffreda,Lombardy,Milano,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+437,Medihospes ONLUS,2008,"1,001 - 5,000",7.86,Camillo Aceto,Apulia,Bari,Health and Social
+438,Telecontrol,1947,"501 - 1,000",7.86,Mariangela Brendolan,Piedmont,Rivoli,"Consulting, Agencies, Law Firms and Auditing"
+439,Benetton Group,1965,"1,001 - 5,000",7.85,Claudio Sforza,Veneto,Ponzano Veneto,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+440,Cotral,1976,"1,001 - 5,000",7.85,Amalia Colaceci,Lazio,Roma,Transportation and Logistics
+441,San Benedetto,1956,"1,001 - 5,000",7.83,Enrico Zoppas,Veneto,Scorzè,"Food and Beverages, Other Non-Durable Consumer Goods"
+442,Original Marines,1983,"1,001 - 5,000",7.83,Antonio Di Vincenzo,Campania,Nola,"Fashion, Accessories, Sports Equipment (Production and Trade)"
+443,Franke Group,1911,200 - 500,7.83,Alexander Pieper,Marche,Fabriano,Finished Products and Consumer Durables
+444,AstraZeneca,1999,"1,001 - 5,000",7.81,Claudio Longo,Lombardy,Milano,"Pharmaceutical, Chemical and Biotechnology"
+445,Altea Federation,1993,"1,001 - 5,000",7.8,Andrea Ruscica,Lombardy,Milano,"Consulting, Agencies, Law Firms and Auditing"
+446,Fidia farmaceutici,1946,"1,001 - 5,000",7.8,Carlo Pizzoccari,Veneto,Abano Terme,"Pharmaceutical, Chemical and Biotechnology"
+447,Cambielli Edilfriuli,2011,"1,001 - 5,000",7.8,Tullio di Battista,Lombardy,Cinisello Balsamo,Building and Construction
+448,Ocme,1954,"1,001 - 5,000",7.79,Gaetano Libratti,Emilia-Romagna,Parma,Mechanical Engineering and Plant Engineering
+449,CIR Food,1992,"10,001 - 50,000",7.78,Chiara Nasi,Emilia-Romagna,Reggio Emilia,"Catering, Tourism, Hotel, Entertainment and Recreational Activities"
+450,Lfoundry,2008,"1,001 - 5,000",7.77,Marcello D'Antiochia,Abruzzo,Avezzano,Mechanical Engineering and Plant Engineering

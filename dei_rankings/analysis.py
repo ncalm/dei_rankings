@@ -56,3 +56,26 @@ def get_rankings_data(file_pattern: str = '.csv') -> pd.DataFrame:
     logger.info("Found %s rows in %s files.", len(df_result), len(dfs))
 
     return df_result
+
+# function get_source_data(country, study, year) to retrieve url from datasets.xlsx
+def get_source_data(country: str, study: str, year: int) -> pd.DataFrame:
+    """
+    Retrieves the source data from datasets.xlsx for a given country, study, and year.
+
+    Arguments:
+        country (str) -- the country to retrieve data for
+        study (str) -- the study to retrieve data for
+        year (int) -- the year to retrieve data for
+
+    Returns:
+        A dataframe containing the source data for the given country, study, and year.
+    """
+
+    # Load Sheet1 from datasets.xlsx file from the root folder
+    df_datasets = pd.read_excel(r'..\data\datasets.xlsx', sheet_name='datasets')
+
+    # filter df_datasets for rows where country, study, and year match the input arguments
+    df_result = df_datasets[(df_datasets.country == country) & (df_datasets.study == study) & 
+                            (df_datasets.year == year)]
+
+    return df_result

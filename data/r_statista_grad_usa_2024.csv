@@ -1,0 +1,501 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Delta Air Lines,1924,"50,001 - 100,000",100,Ed Bastian,Georgia,Atlanta,Transportation and Logistics
+2,In-N-Out Burger,1948,"10,001 - 50,000",99,Lynsi Snyder,California,Irvine,Restaurants
+3,American Express,1850,"10,001 - 50,000",98.93,Stephen J. Squeri,New York,New York,Banking and Financial Services
+4,Dutch Bros. Coffee,1992,"10,001 - 50,000",98.77,Joth Ricci,Oregon,Grants Pass,Restaurants
+5,UCLA Health,1955,"10,001 - 50,000",98.77,John C. Mazziotta,California,Los Angeles,Healthcare & Social Services
+6,Ally Financial,1919,"10,001 - 50,000",98.69,Douglas Timmerman,Michigan,Detroit,Banking and Financial Services
+7,Takeda Pharmaceutical,1781,"10,001 - 50,000",97.73,Christophe Weber,Massachusetts,Lexington,Drugs & Biotechnology
+8,Google,1998,"100,001 - 500,000",97.68,Sundar Pichai,California,Mountain View,IT Software & Services
+9,Businessolver,1998,"1,001 - 5,000",97.55,Jon Shanahan,Iowa,West Des Moines,IT Software & Services
+10,Garmin,1989,>5000,97.53,Clifton Pemble,Kansas,Olathe,"Semiconductors, Electronics, Electrical Engineering"
+11,Principal Financial Group,1879,"10,001 - 50,000",97.28,Daniel J. Houston,Iowa,Des Moines,Banking and Financial Services
+12,Microsoft,1975,"100,001 - 500,000",97.14,Satya Nadella,Washington,Redmond,IT Software & Services
+13,Kimberly-Clark,1872,"10,001 - 50,000",96.71,Michael D. Hsu,Texas,Irving,Packaged Goods
+14,"University of Tennessee, Knoxville",1794,"1,001 - 5,000",96.52,Donde Plowman,Tennessee,Knoxville,Education
+15,Bridgestone,1931,"100,001 - 500,000",96.51,Paolo Ferrari,Tennessee,Nashville,Automotive (Automotive and Suppliers)
+16,University of Michigan,1817,"50,001 - 100,000",96.5,Santa J. Ono,Michigan,Ann Arbor,Education
+17,World Wide Technology,1990,"5,001 - 10,000",96.32,Jim Kavanaugh,Missouri,Maryland Heights,IT Software & Services
+18,Bristol Meyers Squibb,1887,"10,001 - 50,000",96.3,Giovanni Caforio,New York,New York,Drugs & Biotechnology
+19,Houston Methodist,1919,"10,001 - 50,000",96.18,Marc L. Boom,Texas,Houston,Healthcare & Social Services
+20,Chevron,1879,"10,001 - 50,000",95.65,Michael K. Wirth,California,San Ramon,"Construction, Chemicals, Raw Materials"
+21,Acorn Engineering Company,1954,>1000,95.35,Jonathan Coiley,California,City of Industry,"Engineering, Manufacturing"
+22,Office of the Director of National Intelligence (ODNI),2005,>1000,95.01,Avril Haines,District of Columbia,Washington,Government Services
+23,H-E-B,1905,"100,001 - 500,000",94.67,Charles Butt,Texas,San Antonio,Retail and Wholesale
+24,Gilbane Building Company,1870,"1,001 - 5,000",94.64,Thomas F. Gilbane,Rhode Island,Providence,"Construction, Chemicals, Raw Materials"
+25,Mayo Clinic,1889,"50,001 - 100,000",94.63,Gianrico Farrugia,Minnesota,Rochester,Healthcare & Social Services
+26,Cardinal Health,1971,"10,001 - 50,000",94.62,Mike Kaufmann,Ohio,Dublin,Health Care Equipment & Services
+27,Apple,1976,"100,001 - 500,000",94.5,Tim Cook,California,Cupertino,"Semiconductors, Electronics, Electrical Engineering"
+28,Fidelity Investments,1946,"50,001 - 100,000",94.49,Abigail Johnson,Massachusetts,Boston,Banking and Financial Services
+29,Capital One Financial,1994,"50,001 - 100,000",94.44,Richard D. Fairbank,Virginia,McLean,Banking and Financial Services
+30,Methodist Health System (Nebraska),1891,"5,001 - 10,000",94.43,Steve Goeser,Nebraska,Omaha,Healthcare & Social Services
+31,Toyota USA,1937,"50,001 - 100,000",94.19,Tetsuo “Ted” Ogawa,Texas,Plano,Automotive (Automotive and Suppliers)
+32,Edward Jones,1922,"10,001 - 50,000",94,Penny Pennington,Missouri,St. Louis,Banking and Financial Services
+33,Turner Construction,1902,"5,001 - 10,000",93.92,Peter J. Davoren,New York,New York,"Construction, Chemicals, Raw Materials"
+34,American Savings Bank Hawaii,1925,"1,001 - 5,000",93.92,Ann Teranishi,Hawaii,Honolulu,Banking and Financial Services
+35,Bellin Health,1907,"5,001 - 10,000",93.91,Scott Rathgaber,Wisconsin,Green Bay,Healthcare & Social Services
+36,Boston Scientific,1979,"10,001 - 50,000",93.84,Michael F. Mahoney,Massachusetts,Marlborough,Health Care Equipment & Services
+37,NASA,1958,"10,001 - 50,000",93.84,Bill Nelson,District of Columbia,Washington,Aerospace & Defense
+38,Amgen,1980,"10,001 - 50,000",93.62,Robert Bradway,California,Thousand Oaks,Drugs & Biotechnology
+39,Progressive,1937,"50,001 - 100,000",93.62,Tricia Griffith,Ohio,Mayfield Village,Insurance
+40,Finance of America Companies,2013,"501 - 1,000",93.61,Graham Fleming,Texas,Irving,Banking and Financial Services
+41,Nationwide Children's Hospital,1892,"10,001 - 50,000",93.59,Timothy Robinson,Ohio,Columbus,Healthcare & Social Services
+42,Premium Retail Services,1985,>10000,93.52,Brian Travers Kevin Travers,Missouri,Chesterfield,Business Services & Supplies
+43,Goodwill Industries of Greater New York & Northern New Jersey,1915,>1000,93.35,Katy Gaul-Stigge,New York,Brooklyn,Retail and Wholesale
+44,NVIDIA,1993,"10,001 - 50,000",93.34,Jensen Huang,California,Santa Clara,"Semiconductors, Electronics, Electrical Engineering"
+45,American Electric Power,1906,"10,001 - 50,000",93.16,Julie Sloat,Ohio,Columbus,Utilities
+46,Cincinnati Children's,1883,"10,001 - 50,000",93.13,Steve Davis,Ohio,Cincinnati,Healthcare & Social Services
+47,Intuit,1983,"10,001 - 50,000",92.97,Sasan Goordazi,California,Mountain View,IT Software & Services
+48,Co-op Solutions,1981,>1000,92.88,Todd Clark,California,Rancho Cucamonga,Banking and Financial Services
+49,Memorial Sloan Kettering Cancer Center,1884,"10,001 - 50,000",92.78,Selwyn M. Vickers,New York,New York,Healthcare & Social Services
+50,HonorHealth,1962,"10,001 - 50,000",92.77,Todd LaPorte,Arizona,Scottsdale,Healthcare & Social Services
+51,Choctaw Nation of Oklahoma,1820,"10,001 - 50,000",92.76,Gary Batton,Oklahoma,Tuskahoma,Government Services
+52,Alpha Baking Company,1979,"501 - 1,000",92.72,Lawrence L. Marcucci,Illinois,Chicago,"Food, Soft Beverages, Alcohol & Tobacco"
+53,Discover Financial Services,1985,"10,001 - 50,000",92.71,John Owen,Illinois,Riverwoods,Banking and Financial Services
+54,Resources for Human Development (rhd),1970,>1000,92.64,Marco Giordano,Pennsylvania,Philadelphia,Healthcare & Social Services
+55,Toyota Boshoku,1918,"10,001 - 50,000",92.61,Masayoshi Shirayanagi,Kentucky,Erlanger,Automotive (Automotive and Suppliers)
+56,Raymond James Financial,1962,"10,001 - 50,000",92.57,Paul C. Reilly,Florida,St. Petersburg,Banking and Financial Services
+57,Trader Joe's,1967,"10,001 - 50,000",92.44,Dan Bane,California,Monrovia,Retail and Wholesale
+58,"Salesforce, Inc.",1999,"5,001 - 10,000",92.3,Marc Benioff,California,San Francisco,IT Software & Services
+59,United States Environmental Protection Agency (EPA),1970,"10,001 - 50,000",92.29,Michael S. Regan,District of Columbia,Washington,Government Services
+60,IBM,1911,"100,001 - 500,000",92.28,Arvind Krishna,New York,Armonk,IT Software & Services
+61,George Washington University,1821,"10,001 - 50,000",92.03,Ellen Granberg,District of Columbia,Washington,Education
+62,Great American Insurance,1872,"5,001 - 10,000",92.02,Chee Keng Koon,Ohio,Cincinnati,Insurance
+63,Epic Games,1991,"1,001 - 5,000",91.97,Tim Sweeney,North Carolina,Cary,Media & Advertising
+64,Costco Wholesale,1983,"100,001 - 500,000",91.84,Ron M. Vachris,Washington,Issaquah,Retail and Wholesale
+65,Auto-Owners Insurance,1916,"5,001 - 10,000",91.82,Jeffrey S. Tagsold,Michigan,Lansing,Insurance
+66,Dana-Farber Cancer Institute,1947,"5,001 - 10,000",91.77,Laurie H. Glimcher,Massachusetts,Boston,Healthcare & Social Services
+67,Arkansas Blue Cross and Blue Shield,1929,"1,001 - 5,000",91.75,Curtis Barnett,Arkansas,Little Rock,Insurance
+68,Stryker,1941,"10,001 - 50,000",91.74,Kevin A. Lobo,Michigan,Kalamazoo,Health Care Equipment & Services
+69,JetBlue Airways,1999,"10,001 - 50,000",91.73,Robin Hayes,New York,Long Island City,Transportation and Logistics
+70,New York-Presbyterian Hospital,1998,>10000,91.68,Steven J. Corwin,New York,New York,Healthcare & Social Services
+71,Interim HealthCare,1966,"10,001 - 50,000",91.68,Paul Mastrapa,Florida,Sunrise,Healthcare & Social Services
+72,LinkedIn,2002,"10,001 - 50,000",91.67,Ryan Roslansky,California,Sunnyvale,IT Software & Services
+73,Intel,1968,"100,001 - 500,000",91.53,Patrick Gelsinger,California,Santa Clara,"Semiconductors, Electronics, Electrical Engineering"
+74,Texas Health Resources,1997,"10,001 - 50,000",91.52,Barclay E. Berdan,Texas,Arlington,Healthcare & Social Services
+75,D.R. Horton,1978,"10,001 - 50,000",91.52,David V. Auld,Texas,Arlington,"Construction, Chemicals, Raw Materials"
+76,Workday,2005,"10,001 - 50,000",91.5,Aneel Bhuri,California,Pleasanton,IT Software & Services
+77,Experian Information Solutions,1992,"10,001 - 50,000",91.44,Brian Cassin,California,Costa Mesa,Business Services & Supplies
+78,Nike,1964,"50,001 - 100,000",91.41,John Donahoe,Oregon,Beaverton,"Clothing, Shoes, Sports Equipment"
+79,Procter & Gamble,1837,"10,001 - 50,000",91.19,Jon R. Moeller,Ohio,Cincinnati,Packaged Goods
+80,AbbVie,2013,"10,001 - 50,000",91.16,Richard A. Gonzalez,Illinois,North Chicago,Drugs & Biotechnology
+81,TD Bank,1855,"100,001 - 500,000",91.1,Bharat Masrani,New Jersey,Cherry Hill,Banking and Financial Services
+82,The University of Kansas Health System,1906,"10,001 - 50,000",91.03,Bob Page,Kansas,Kansas City,Healthcare & Social Services
+83,Community Healthcare System (Indiana),1962,"5,001 - 10,000",91.03,Randy Neiswonger,Indiana,Indianapolis,Healthcare & Social Services
+84,United Rentals,1997,"10,001 - 50,000",90.99,Matthew J. Flannery,Connecticut,Stamford,Business Services & Supplies
+85,Citizens Financial Group,1828,"10,001 - 50,000",90.95,Bruce Van Saun,Rhode Island,Providence,Banking and Financial Services
+86,Nintendo,1889,"1,001 - 5,000",90.9,Doug Bowser,Washington,Redmond,IT Software & Services
+87,Navy Federal Credit Union,1933,"10,001 - 50,000",90.89,Mary McDuffie,Virginia,Vienna,Banking and Financial Services
+88,Texas Instruments,1930,"10,001 - 50,000",90.85,Richard K. Templeton,Texas,Dallas,"Semiconductors, Electronics, Electrical Engineering"
+89,InfoCision,1982,>1000,90.85,Sean Yalamanchi,Ohio,Akron,Business Services & Supplies
+90,Wipro,1945,"100,001 - 500,000",90.85,Thierry Delaporte,Karnataka,Bangalore,IT Software & Services
+91,Community Health Network,1976,"10,001 - 50,000",90.84,Bryan Mills,Indiana,Indianapolis,Healthcare & Social Services
+92,BlueCross BlueShield of North Carolina,1933,"5,001 - 10,000",90.78,Tunde Sotunde,North Carolina,Durham,Insurance
+93,University of Texas Southwestern Medical Center,1943,"10,001 - 50,000",90.76,Daniel K. Podolsky,Texas,Dallas,Healthcare & Social Services
+94,EBSCO Information Services,1984,"1,001 - 5,000",90.57,Tim Collins,Massachusetts,Ipswich,Business Services & Supplies
+95,Keller Williams Realty,1983,"100,001 - 500,000",90.57,Gary Keller,Texas,Austin,Business Services & Supplies
+96,Washington University in Saint Louis,1853,"10,001 - 50,000",90.56,Andrew D. Martin,Missouri,St. Louis,Education
+97,Aya Healthcare,2001,"5,001 - 10,000",90.55,Alan Braynin,California,San Diego,Healthcare & Social Services
+98,Paychex,1971,"10,001 - 50,000",90.55,"John B. Gibson, Jr.",New York,Rochester,Business Services & Supplies
+99,Norton Healthcare,1886,"10,001 - 50,000",90.5,Russell F. Cox,Kentucky,Louisville,Healthcare & Social Services
+100,Michigan Medicine,1997,"10,001 - 50,000",90.42,Marschall S. Runge,Michigan,Ann Arbor,Healthcare & Social Services
+101,BlueCross BlueShield of Tennessee,1945,>5000,90.39,JD Hickey,Tennessee,Chattanooga,Insurance
+102,"The Ohio State University, Columbus",1870,"10,001 - 50,000",90.34,Kristina M. Johnson,Ohio,Columbus,Education
+103,Emerson Electric,1890,"50,001 - 100,000",90.32,Lal Karsanbhai,Missouri,St. Louis,"Engineering, Manufacturing"
+104,Amedisys Home Health & Hospice,1982,"10,001 - 50,000",90.32,Richard Ashworth,Louisiana,Baton Rouge,Healthcare & Social Services
+105,Discount Tire,1960,>10000,90.32,Dean Muglia,Arizona,Scottsdale,Retail and Wholesale
+106,Chickasaw Nation,1983,"10,001 - 50,000",90.26,Bill Anoatubby,Oklahoma,Ada,Travel & Leisure
+107,America First Credit Union,1939,>1000,90.26,Thayne Shaffer,Utah,Ogden,Banking and Financial Services
+108,Oklahoma State University - Stillwater,1890,>1000,90.24,Kayse Shrum,Oklahoma,Stillwater,Education
+109,Caterpillar,1925,"100,001 - 500,000",90.23,James Umpleby,Illinois,Deerfield,"Engineering, Manufacturing"
+110,Hallmark Cards,1910,"10,001 - 50,000",90.22,Mike Perry,Missouri,Kansas City,Packaged Goods
+111,Syneos Health,1998,"10,001 - 50,000",90.22,Colin Shannon,North Carolina,Raleigh,Healthcare & Social Services
+112,University of Utah Health Care,1965,"10,001 - 50,000",90.15,Dan Lundergan,Utah,Salt Lake City,Healthcare & Social Services
+113,Mondelez International,2012,"10,001 - 50,000",90.15,Dirk Van de Put,Illinois,Deerfield,"Food, Soft Beverages, Alcohol & Tobacco"
+114,Bank of America,1904,"100,001 - 500,000",90.12,Brian Moynihan,North Carolina,Charlotte,Banking and Financial Services
+115,BMW Group,1975,"100,001 - 500,000",90.09,Sebastian Mackensen,New Jersey,Woodcliff Lake,Automotive (Automotive and Suppliers)
+116,Baptist Health (Kentucky),1924,"10,001 - 50,000",90.04,Gerard Colman,Kentucky,Louisville,Healthcare & Social Services
+117,"Live Nation Entertainment, Inc.",2005,"10,001 - 50,000",89.97,Michael Rapino,California,Beverly Hills,Travel & Leisure
+118,Hyatt,1957,"50,001 - 100,000",89.96,Mark S. Hoplamazian,Illinois,Chicago,Travel & Leisure
+119,Oregon Health & Science University,1887,"10,001 - 50,000",89.92,Danny Jacobs,Oregon,Portland,Education
+120,Dell Technologies,1984,"10,001 - 50,000",89.89,Michael Dell,Texas,Round Rock,"Semiconductors, Electronics, Electrical Engineering"
+121,Capital Group,1930,"5,001 - 10,000",89.88,Timothy D. Armour,California,Los Angeles,Banking and Financial Services
+122,CarMax,1993,"10,001 - 50,000",89.84,Bill Nash,Virginia,Richmond,Retail and Wholesale
+123,Ivanti,1985,"1,001 - 5,000",89.83,Jeff Abbott,Utah,South Jordan,IT Software & Services
+124,Bobby Jones Links,2001,>1000,89.8,Whitney Crouse,Georgia,Atlanta,Travel & Leisure
+125,Executive Management Services,1989,"1,001 - 5,000",89.77,David A. Bego,Indiana,Greenfield,Business Services & Supplies
+126,Medtronic,1949,"10,001 - 50,000",89.73,Geoffrey S. Martha,Minnesota,Minneapolis,Health Care Equipment & Services
+127,Sysco,1969,"10,001 - 50,000",89.65,Kevin P. Hourican,Texas,Houston,"Food, Soft Beverages, Alcohol & Tobacco"
+128,Gundersen Health System,1902,>5000,89.64,Frank Perez-Guerra,Wisconsin,La Crosse,Healthcare & Social Services
+129,Thermo Fisher Scientific,1983,"100,001 - 500,000",89.63,Marc N. Casper,Massachusetts,Waltham,Drugs & Biotechnology
+130,Memorial Hermann Health System,1907,"10,001 - 50,000",89.61,David L. Callender,Texas,Houston,Healthcare & Social Services
+131,Airbus,1970,"1,001 - 5,000",89.54,Guillaume Faury,South Holland,Leiden,"Engineering, Manufacturing"
+132,Alvaria,1973,>1000,89.51,Jeff Cotten,Massachusetts,Westford,IT Software & Services
+133,University of Virginia,1819,"10,001 - 50,000",89.48,James E. Ryan,Virginia,Charlottesville,Education
+134,University of Alabama,1820,"10,001 - 50,000",89.48,Stuart R. Bell,Alabama,Tuscaloosa,Education
+135,Cisco Systems,1984,"10,001 - 50,000",89.36,Chuck Robbins,California,San Jose,IT Software & Services
+136,New Balance,1906,"5,001 - 10,000",89.33,Joe Preston,Massachusetts,Boston,"Clothing, Shoes, Sports Equipment"
+137,St. Luke's University Health Network,1872,"10,001 - 50,000",89.22,Richard A. Anderson,Pennsylvania,Bethlehem,Healthcare & Social Services
+138,Adidas,1949,"5,001 - 10,000",89.21,Bjørn Gulden,Oregon,Portland,"Clothing, Shoes, Sports Equipment"
+139,Morgan Stanley,1931,"50,001 - 100,000",89.02,James Gorman,New York,New York,Banking and Financial Services
+140,State University of New York,1948,>10000,88.99,John B. King,New York,Albany,Education
+141,SoFi,2011,"1,001 - 5,000",88.98,Anthony Noto,California,San Fransisco,Banking and Financial Services
+142,The University of Texas Health Science Center at Houston,1972,"10,001 - 50,000",88.96,Giuseppe Colasurdo,Texas,Huston,Healthcare & Social Services
+143,University of North Carolina at Chapel Hill,1789,"10,001 - 50,000",88.92,David L. Boliek,North Carolina,Chapel Hill,Education
+144,Wegmans Food Markets,1916,"50,001 - 100,000",88.86,Colleen Wegman,New York,Rochester,Retail and Wholesale
+145,State of Michigan,1837,"10,001 - 50,000",88.85,Gretchen Whitmer,Michigan,Lansing,Government Services
+146,Panasonic,1918,"100,001 - 500,000",88.83,Kazuhiro Tsuga,New Jersey,Newark,"Semiconductors, Electronics, Electrical Engineering"
+147,Baylor College of Medicine,1900,"5,001 - 10,000",88.8,Paul Klotman,Texas,Houston,Education
+148,Children's Mercy Kansas City,1897,>5000,88.79,Paul Kempinski,Missouri,Kansas City,Healthcare & Social Services
+149,New York Life,1845,"10,001 - 50,000",88.78,Craig DeSanto,New York,New York,Insurance
+150,HealthPartners,1957,"10,001 - 50,000",88.78,Andrea M. Walsh,Minnesota,Bloomington,Healthcare & Social Services
+151,Schweitzer Engineering Laboratories (SEL),1982,"5,001 - 10,000",88.78,Dave Whitehead,Washington,Pullman,"Engineering, Manufacturing"
+152,IKEA,1985,"100,001 - 500,000",88.76,Jon Abrahamsson Ring,Pennsylvania,Conshohocken,Retail and Wholesale
+153,University of Iowa Hospitals & Clinics,1873,"10,001 - 50,000",88.75,Kimberly Hunter,Iowa,Iowa City,Healthcare & Social Services
+154,American Axle & Manufacturing,1917,"5,001 - 10,000",88.72,David C. Dauch,Michigan,Detroit,Automotive (Automotive and Suppliers)
+155,Nemours Children's Health System,1936,>5000,88.57,Lawrence Moss,Florida,Jacksonville,Healthcare & Social Services
+156,Absolute Health Services,1994,>1000,88.55,Jerry Schroer,Ohio,North Canton,Healthcare & Social Services
+157,Levi Strauss & Co,1853,"5,001 - 10,000",88.54,Chip Bergh,California,San Francisco,"Clothing, Shoes, Sports Equipment"
+158,Michelin Group,1889,"100,001 - 500,000",88.51,Florent Menegaux,South Carolina,Greenville,Automotive (Automotive and Suppliers)
+159,Purdue University,1869,"1,001 - 5,000",88.51,Mung Chiang,Indiana,West Lafayette,Education
+160,Johnson Controls,1885,"10,001 - 50,000",88.46,George Oliver,Wisconsin,Milwaukee,"Engineering, Manufacturing"
+161,Marriott International,1927,"100,001 - 500,000",88.44,Anthony Capuano,Maryland,Bethesda,Travel & Leisure
+162,Volvo Group,1927,"10,001 - 50,000",88.4,Martin Lundstedt,North Carolina,Greensboro,Automotive (Automotive and Suppliers)
+163,Sanofi,1973,"10,001 - 50,000",88.39,Paul Hudson,New Jersey,Bridgewater,Drugs & Biotechnology
+164,Honda Motor,1959,"10,001 - 50,000",88.38,Noriya Kaihara,California,Torrance,Automotive (Automotive and Suppliers)
+165,Safelite AutoGlass,1947,>10000,88.34,Renee Cacchillo,Ohio,Columbus,Retail and Wholesale
+166,Halliburton,1919,"10,001 - 50,000",88.32,Alan M. Bennett,Texas,Houston,"Construction, Chemicals, Raw Materials"
+167,Cleveland Clinic,1921,"50,001 - 100,000",88.32,Tomislav Mihaljevic,Ohio,Cleveland,Healthcare & Social Services
+168,Harmons,1932,>1000,88.25,Troy Johnson,Utah,West Valley,Retail and Wholesale
+169,Datavant,2017,>1000,88.19,Pete McCabe,California,San Francisco,Health Care Equipment & Services
+170,HCL Technologies,1976,"100,001 - 500,000",88.18,C Vijayakumar,California,Sunnyvale,IT Software & Services
+171,"Pinellas School District, Largo, FL",1912,"10,001 - 50,000",88.13,Kevin K. Hendrick,Florida,Largo,Education
+172,Kwik Trip/Kwik Star,1965,"10,001 - 50,000",88.06,Scott Zietlow,Wisconsin,La Crosse,Retail and Wholesale
+173,Lennar,1954,"10,001 - 50,000",88.02,Rick Beckwitt Jon Jaffe,Florida,Miami,"Construction, Chemicals, Raw Materials"
+174,General Mills,1866,"10,001 - 50,000",87.97,Jeffrey L. Harmening,Minnesota,Minneapolis,"Food, Soft Beverages, Alcohol & Tobacco"
+175,Anywhere Real Estate Inc.,2006,"5,001 - 10,000",87.94,Ryan M. Schneider,New Jersey,Madison,Business Services & Supplies
+176,Microchip Technology,1989,>10000,87.94,Ganesh Moorthy,Arizona,Chandler,"Semiconductors, Electronics, Electrical Engineering"
+177,"California State University, Fullerton",1962,"1,001 - 5,000",87.93,Framoze Virjee,California,Fullerton,Education
+178,Rutgers University,1766,"10,001 - 50,000",87.81,Jonathan Holloway,New Jersey,New Brunswick,Education
+179,University of Wisconsin-Madison,1848,"10,001 - 50,000",87.77,Jay O. Rothman,Wisconsin,Madison,Education
+180,Ralph Lauren,1967,"10,001 - 50,000",87.76,Patrice Louvet,New York,New York,"Clothing, Shoes, Sports Equipment"
+181,American Family Insurance,1927,"10,001 - 50,000",87.72,Bill Westrate,Wisconsin,Madison,Insurance
+182,State of Minnesota,1858,"50,001 - 100,000",87.64,Tim Walz,Minnesota,Saint Paul,Government Services
+183,State of Connecticut,1788,"10,001 - 50,000",87.63,Ned Lamont,Connecticut,Hartford,Government Services
+184,Alaska Airlines,1932,"10,001 - 50,000",87.49,Ben Minicucci,Washington,SeaTac,Transportation and Logistics
+185,Gwinnett County Public Schools (GCPS),1996,"10,001 - 50,000",87.47,Calvin J. Watts,Georgia,Suwanee,Education
+186,United States Department of Transportation (DOT),1967,"50,001 - 100,000",87.47,Pete Buttigieg,District of Columbia,Washington,Government Services
+187,Cushman & Wakefield,1917,"10,001 - 50,000",87.46,John Forrester,Illinois,Chicago,Business Services & Supplies
+188,Volkswagen,1955,"500,001 - 1,000,000",87.39,Pablo Di Si,Virginia,Herndon,Automotive (Automotive and Suppliers)
+189,U.S. Cellular,1983,"1,001 - 5,000",87.34,Laurent Therivel,Illinois,Chicago,"Telecommunications Services, Cable Supplier"
+190,Acument Global Technologies,1995,"1,001 - 5,000",87.19,Daniel Di Sebastian,Michigan,Sterling Heights,"Engineering, Manufacturing"
+191,Big 5 Sporting Goods,1955,"5,001 - 10,000",87.18,Steven G. Miller,California,El Segundo,Retail and Wholesale
+192,University of Houston,1927,"10,001 - 50,000",87.16,Renu Khator,Texas,Houston,Education
+193,Victoria’s Secret & Co.,1977,"10,001 - 50,000",87.15,Martin Waters,Ohio,Reynoldsburg,"Clothing, Shoes, Sports Equipment"
+194,Sony,1946,"100,001 - 500,000",87.13,Kenichiro Yoshida,Tokyo,Tokyo,"Semiconductors, Electronics, Electrical Engineering"
+195,"Rocket Mortgage, LLC",1985,"10,001 - 50,000",87.12,Jay Farner,Michigan,Detroit,Banking and Financial Services
+196,Clorox,1913,"5,001 - 10,000",87.1,Linda Rendle,California,Oakland,Packaged Goods
+197,Architect of the Capitol,1793,"1,001 - 5,000",87.09,Joseph R. DiPietro,District of Columbia,Washington,Government Services
+198,eXp Realty,2009,>10000,87.03,Glenn Sanford,Washington,Bellingham,Business Services & Supplies
+199,Abbott Laboratories,1888,"10,001 - 50,000",86.98,Robert B. Ford,Illinois,Chicago,Health Care Equipment & Services
+200,Health Care Service Corporation,1936,"10,001 - 50,000",86.97,Maurice Smith,Illinois,Chicago,Insurance
+201,State of Maryland,1634,"50,001 - 100,000",86.95,Wes Moore,Maryland,Baltimore,Government Services
+202,Bosch,1886,"10,001 - 50,000",86.88,Mike Mansuetti,Michigan,Farmington Hills,"Engineering, Manufacturing"
+203,Commerce Bank,1865,"1,001 - 5,000",86.87,John W. Kemper,Missouri,Kansas City,Banking and Financial Services
+204,United Services Automobile Association (USAA),1922,"10,001 - 50,000",86.83,Wayne Peacock,Texas,San Antonio,Insurance
+205,Stanley Black & Decker,1843,"10,001 - 50,000",86.82,"Donald Allan, Jr.",Connecticut,New Britain,"Semiconductors, Electronics, Electrical Engineering"
+206,EnerSys,2000,"10,001 - 50,000",86.82,David M. Shaffer,Pennsylvania,Reading,"Engineering, Manufacturing"
+207,Citigroup,1812,"100,001 - 500,000",86.81,Jane Fraser,New York,New York,Banking and Financial Services
+208,JPMorgan Chase,2000,"100,001 - 500,000",86.81,James Dimon,New York,New York,Banking and Financial Services
+209,Yale University,1701,"10,001 - 50,000",86.76,Peter Salovey,Connecticut,New Haven,Education
+210,Chugach Government Solutions,1971,"1,001 - 5,000",86.76,Scott Davis,Alaska,Anchorage,"Construction, Chemicals, Raw Materials"
+211,Sephora,1970,"10,001 - 50,000",86.66,Jean-André Rougeot,California,San Francisco,Retail and Wholesale
+212,Southwest Airlines,1967,"50,001 - 100,000",86.64,Robert E. Jordan,Texas,Dallas,Transportation and Logistics
+213,Burns & McDonnell Engineering,1898,"10,001 - 50,000",86.61,Leslie Duke,Missouri,Kansas City,"Construction, Chemicals, Raw Materials"
+214,Shake Shack,2004,"10,001 - 50,000",86.61,Rob Lynch,New York,New York,Restaurants
+215,Transworld Systems,1970,>10000,86.56,Joseph Laughlin,Pennsylvania,Fort Washington,Banking and Financial Services
+216,M&T Bank,1856,"10,001 - 50,000",86.55,René F. Jones,New York,Buffalo,Banking and Financial Services
+217,Adobe,1982,"10,001 - 50,000",86.55,Shantanu Narayen,California,San Jose,IT Software & Services
+218,CNA Financial,1853,>5000,86.55,Dino E. Robusto,Illinois,Chicago,Insurance
+219,Publix Super Markets,1930,"100,001 - 500,000",86.53,"Randall T. Jones, Sr.",Florida,Lakeland,Retail and Wholesale
+220,CDW,1984,"10,001 - 50,000",86.52,Christine A. Leahy,Illinois,Vernon Hills,IT Software & Services
+221,Alfa Insurance,1946,"1,001 - 5,000",86.5,Jimmy Parnell,Alabama,Montgomery,Insurance
+222,C.H. Robinson,1905,"10,001 - 50,000",86.4,Scott Anderson,Minnesota,Eden Prairie,Business Services & Supplies
+223,L3Harris,2019,"10,001 - 50,000",86.39,Christopher E. Kubasik,Florida,Melbourne,Aerospace & Defense
+224,Sumitomo Mitsui Banking Corporation,2001,"1,001 - 5,000",86.38,Makoto Takashima,Tokyo,Tokyo,Banking and Financial Services
+225,Schneider Electric,1836,"10,001 - 50,000",86.37,Jean-Pascal Tricoire,Massachusetts,Andover,"Semiconductors, Electronics, Electrical Engineering"
+226,Royal Caribbean Group,1997,"1,001 - 5,000",86.33,Jason Liberty,Florida,Miami,Travel & Leisure
+227,Mutual of Omaha,1909,"5,001 - 10,000",86.33,James T. Blackledge,Nebraska,Omaha,Insurance
+228,Belk,1888,>10000,86.31,Don Hendricks,North Carolina,Charlotte,Retail and Wholesale
+229,Arvest Bank,1961,"5,001 - 10,000",86.27,Kevin Sabin,Arkansas,Lowell,Banking and Financial Services
+230,Intuitive Surgical,1995,"10,001 - 50,000",86.26,Gary S. Guthart,California,Sunnyvale,Health Care Equipment & Services
+231,University of Pennsylvania,1740,"10,001 - 50,000",86.21,Liz Magill,Pennsylvania,Philadelphia,Education
+232,MetLife,1868,"10,001 - 50,000",86.19,Michel A. Khalaf,New York,New York,Insurance
+233,Indeed,2004,"10,001 - 50,000",86.17,Chris Hyams,Texas,Austin,IT Software & Services
+234,Ford Motor,1903,"50,001 - 100,000",86.16,"James D. Farley, Jr.",Michigan,Dearborn,Automotive (Automotive and Suppliers)
+235,Grand Canyon University,1949,>1000,86.13,Brian Mueller,Arizona,Phoenix,Education
+236,Kirklands,1966,"1,001 - 5,000",86.12,Amy E. Sullivan,Tennessee,Brentwood,Retail and Wholesale
+237,University of Florida,1853,"10,001 - 50,000",86.1,Ben Sasse,Florida,Gainesville,Education
+238,lululemon athletica,1998,"10,001 - 50,000",86.1,Calvin McDonald,Washington,Sumner,"Clothing, Shoes, Sports Equipment"
+239,Brown University,1764,>1000,86.07,Christina Paxson,Rhode Island,Providence,Education
+240,LEGO Group,1932,"1,001 - 5,000",85.99,Niels B. Christiansen,Connecticut,Enfield,Packaged Goods
+241,"Wichita Public Schools, Wichita, KS",1870,"5,001 - 10,000",85.98,Kelly Bielefeld,Kansas,Wichita,Education
+242,Lockheed Martin,1912,"100,001 - 500,000",85.93,Jim Taiclet,Maryland,Bethesda,Aerospace & Defense
+243,United States Department of Health and Human Services,1979,"10,001 - 50,000",85.81,Xavier Becerra,District of Columbia,Washington,Government Services
+244,University of Oregon,1876,>1000,85.74,Karl Scholz,Oregon,Eugene,Education
+245,University of Colorado Denver | Anschutz Medical Campus,1912,"10,001 - 50,000",85.66,Michelle Marks,Colorado,Denver,Education
+246,First Horizon National,1864,"5,001 - 10,000",85.66,Bryan Jordan,Tennessee,Memphis,Banking and Financial Services
+247,"Forvis, LLP",2022,"5,001 - 10,000",85.65,Tom Watson,Missouri,Springfield,Professional Services
+248,Cox Enterprises,1898,"10,001 - 50,000",85.64,Alex Taylor,Georgia,Atlanta,"Telecommunications Services, Cable Supplier"
+249,United Airlines,1926,"100,001 - 500,000",85.63,Scott Kirby,Illinois,Chicago,Transportation and Logistics
+250,Foot Locker,1974,"10,001 - 50,000",85.56,Mary N. Dillon,New York,New York,"Clothing, Shoes, Sports Equipment"
+251,"Colorado State University, Fort Collins",1903,"5,001 - 10,000",85.53,Amy Parsons,Colorado,Fort Collins,Education
+252,HDR,1917,"10,001 - 50,000",85.5,John W. Henderson,Nebraska,Omaha,"Construction, Chemicals, Raw Materials"
+253,World Bank Group,1944,"10,001 - 50,000",85.49,Ajay Banga,District of Columbia,Washington,Banking and Financial Services
+254,LG Electronics,1958,"50,001 - 100,000",85.49,Kwang Mo Koo,New Jersey,Englewood Cliffs,"Semiconductors, Electronics, Electrical Engineering"
+255,Amadeus IT Group,1987,"1,001 - 5,000",85.47,Luis Maroto,Community of Madrid,Madrid,IT Software & Services
+256,State of Iowa,1846,"50,001 - 100,000",85.46,Kim Reynolds,Iowa,Des Moines,Government Services
+257,Coca-Cola,1886,"5,001 - 10,000",85.46,James Quincey,Georgia,Atlanta,"Food, Soft Beverages, Alcohol & Tobacco"
+258,Duke University,1924,"10,001 - 50,000",85.45,Vincent E. Price,North Carolina,Durham,Education
+259,athenahealth,1997,>1000,85.44,Bob Segert,Massachusetts,Watertown,Health Care Equipment & Services
+260,Simmons Foods,1949,"5,001 - 10,000",85.44,Todd Simmons,Arkansas,Siloam Springs,"Food, Soft Beverages, Alcohol & Tobacco"
+261,Merck,1891,"10,001 - 50,000",85.42,Robert M. Davis,New Jersey,Kenilworth,Drugs & Biotechnology
+262,Ancora Education,2013,>1000,85.38,Bill Nance,Texas,Hurst,Education
+263,Penn Entertainment,1972,"10,001 - 50,000",85.3,Jay Snowden,Pennsylvania,Wyomissing,Travel & Leisure
+264,Frost Bank,1868,"5,001 - 10,000",85.23,Phillip D. Green,Texas,San Antonio,Banking and Financial Services
+265,Cleveland-Cliffs,1847,"10,001 - 50,000",85.22,Lourenco Goncalves,Ohio,Cleveland,"Construction, Chemicals, Raw Materials"
+266,Apex Systems,1995,>1000,85.21,Sean Casey,Virginia,Glen Allen,Business Services & Supplies
+267,Zurich North America,1912,"5,001 - 10,000",85.19,Kristof Terryn,Illinois,Schaumburg,Insurance
+268,MassMutual,1851,"5,001 - 10,000",85.18,Roger W. Crandall Mark T. Bertolini,Massachusetts,Springfield,Insurance
+269,Northrop Grumman Corporation,1939,"100,001 - 500,000",85.18,Kathy Warden,Virginia,Falls Church,Aerospace & Defense
+270,22nd Century Technologies,1997,"5,001 - 10,000",85.17,Anil Sharma,New Jersey,Somerset,IT Software & Services
+271,Constellation Software,1995,"10,001 - 50,000",85.16,Mark Leonard Leonard,Ontario,Toronto,IT Software & Services
+272,Chewy,2011,"10,001 - 50,000",85.09,Sumit Singh,Florida,Dania Beach,Retail and Wholesale
+273,Topgolf,2000,>10000,85.04,Artie Starrs,Texas,Dallas,Travel & Leisure
+274,Innova Solutions,1998,"10,001 - 50,000",84.99,Raj Sardana,Georgia,Duluth,Professional Services
+275,Travelers,1864,"10,001 - 50,000",84.98,Alan D. Schnitzer,New York,New York,Insurance
+276,Airbnb,2008,"5,001 - 10,000",84.96,Brian Chesky,California,San Francisco,IT Software & Services
+277,General Motors,1908,"50,001 - 100,000",84.95,Mary T. Barra,Michigan,Detroit,Automotive (Automotive and Suppliers)
+278,LHH Recruitment Solutions,1997,"5,001 - 10,000",84.94,Gaëlle de la Fosse,Florida,Jacksonville,Professional Services
+279,Northwestern Mutual,1857,"5,001 - 10,000",84.88,John E. Schlifske,Wisconsin,Milwaukee,Insurance
+280,PSEG (Public Service Enterprise Group),1903,"10,001 - 50,000",84.86,Ralph LaRossa,New Jersey,Newark,Utilities
+281,Zions Bank,1873,"5,001 - 10,000",84.84,A. Scott Anderson,Utah,Salt Lake City,Banking and Financial Services
+282,Dave & Buster's,1982,"10,001 - 50,000",84.71,Chris Morris,Texas,Dallas,Restaurants
+283,Allstate,1931,"50,001 - 100,000",84.7,Thomas J. Wilson,Illinois,Northbrook,Insurance
+284,United States Social Security Administration,1935,"50,001 - 100,000",84.68,Martin O’Malley,Maryland,Baltimore,Government Services
+285,Dupont De Nemours,1897,"10,001 - 50,000",84.62,Edward Breen,Delaware,Wilmington,"Construction, Chemicals, Raw Materials"
+286,Cigna,1792,"50,001 - 100,000",84.57,David Cordani,Connecticut,Bloomfield,Insurance
+287,Southern Glazer's Wine & Spirits,1968,>10000,84.57,Douglas Wieland,Florida,Miami,Retail and Wholesale
+288,State of California,1850,"100,001 - 500,000",84.56,Gavin Newsom,California,Sacramento,Government Services
+289,QuikTrip,1958,"10,001 - 50,000",84.51,Chet Cadieux,Oklahoma,Tulsa,Retail and Wholesale
+290,CACI International,1962,"10,001 - 50,000",84.48,John S. Mengucci,Virginia,Reston,Aerospace & Defense
+291,Hilton,1919,"100,001 - 500,000",84.47,Christopher J. Nassetta,Virginia,McLean,Travel & Leisure
+292,Bath & Body Works,1990,"50,001 - 100,000",84.46,Gina Boswell,Ohio,Columbus,Retail and Wholesale
+293,WL Gore & Associates,1958,"10,001 - 50,000",84.4,Bret Snyder,Delaware,Newark,"Engineering, Manufacturing"
+294,U.S. Bank,1863,"50,001 - 100,000",84.38,Andrew Cecere,Minnesota,Minneapolis,Banking and Financial Services
+295,PepsiCo,1965,"100,001 - 500,000",84.38,Ramon L. Laguarta,New York,Purchase,"Food, Soft Beverages, Alcohol & Tobacco"
+296,United States Department of State,1789,"50,001 - 100,000",84.32,Antony J. Blinken,District of Columbia,Washington,Government Services
+297,ADT Security Systems,1874,"10,001 - 50,000",84.29,Jim DeVries,Florida,Boca Raton,Business Services & Supplies
+298,Guitar Center,1959,>10000,84.26,Gabe Dalporto,California,Westlake Village,Retail and Wholesale
+299,Disney,1923,"100,001 - 500,000",84.25,Robert A. Iger,California,Burbank,Media & Advertising
+300,State Farm,1922,"50,001 - 100,000",84.25,Michael L. Tipsord,Illinois,Bloomington,Insurance
+301,Cummins,1919,"50,001 - 100,000",84.25,Jennifer Rumsey,Indiana,Columbus,"Engineering, Manufacturing"
+302,BCD Travel,2006,"10,001 - 50,000",84.24,Stephan Baars,Georgia,Atlanta,Business Services & Supplies
+303,PayPal,1998,"10,001 - 50,000",84.22,Dan Schulman,California,San Jose,Banking and Financial Services
+304,"City and County of Honolulu, HI",1828,>5000,84.19,Rick Blangiardi,Hawaii,Honolulu,Government Services
+305,Dartmouth College,1769,"1,001 - 5,000",84.17,Sian Beilock,New Hampshire,Hanover,Education
+306,Washington State University,1890,>5000,84.11,Kirk Schulz,Washington,Pullman,Education
+307,Mississippi State University,1878,"5,001 - 10,000",84.1,Mark E. Keenum,Mississippi,Mississippi State,Education
+308,Milliken & Company,1865,"5,001 - 10,000",84.1,"Halsey M. Cook, Jr.",South Carolina,Spartanburg,"Engineering, Manufacturing"
+309,Adtalem Global Education,2010,"5,001 - 10,000",84.04,Stephen W. Beard,Illinois,Chicago,Education
+310,Western Governors University,1997,"5,001 - 10,000",84.02,Scott D. Pulsipher,Utah,Salt Lake City,Education
+311,Internal Revenue Service,1862,"50,001 - 100,000",83.98,Charles P. Rettig,District of Columbia,Washington,Government Services
+312,1st Source Bank,1863,"1,001 - 5,000",83.98,Christopher J. Murphy III,Indiana,South Bend,Banking and Financial Services
+313,Gartner,1979,"10,001 - 50,000",83.97,Eugene A. Hall,Connecticut,Stamford,Professional Services
+314,Rockwell Automation,1903,"5,001 - 10,000",83.93,Blake Moret,Wisconsin,Milwaukee,"Semiconductors, Electronics, Electrical Engineering"
+315,IBEX Global,2017,"10,001 - 50,000",83.92,Robert Dechant,District of Columbia,Washington,Business Services & Supplies
+316,"Q2 Software, Inc.",2004,"1,001 - 5,000",83.87,Matt Flake,Texas,Austin,Banking and Financial Services
+317,Wellmark Blue Cross and Blue Shield,1939,"1,001 - 5,000",83.84,Cory R. Harris,Iowa,Des Moines,Insurance
+318,Freddy's Frozen Custard & Steakburgers,2002,>5000,83.8,Chris Dull,Kansas,Wichita,Restaurants
+319,Booz Allen Hamilton,1914,"10,001 - 50,000",83.78,Horacio Rozanski,Virginia,McLean,Professional Services
+320,UnitedHealth Group,1977,"100,001 - 500,000",83.77,Andrew Witty,Minnesota,Minnetonka,Insurance
+321,EMCOR Group,1994,"10,001 - 50,000",83.73,Anthony J. Guzzi,Connecticut,Norwalk,Business Services & Supplies
+322,ACE Hardware,1924,>5000,83.62,John Venhuizen,Illinois,Oak Brook,Retail and Wholesale
+323,Foundever,1985,"10,001 - 50,000",83.62,Laurent Uberti,Florida,Miami,Business Services & Supplies
+324,Oklahoma Gas & Electric,1902,"1,001 - 5,000",83.54,Sean Trauschke,Oklahoma,Oklahoma City,Utilities
+325,PricewaterhouseCoopers,1998,"100,001 - 500,000",83.5,Bob Moritz,New York,New York,Professional Services
+326,The Estée Lauder Companies,1946,"10,001 - 50,000",83.46,Fabrizio Freda,New York,New York,Packaged Goods
+327,Ames Construction,1960,"1,001 - 5,000",83.44,Jerry Ouimet,Minnesota,Burnsville,"Construction, Chemicals, Raw Materials"
+328,"SASR Workforce Solutions (Set and Service Resources, LLC)",2003,"10,001 - 50,000",83.4,Patrick Henderson,North Carolina,Raleigh,Business Services & Supplies
+329,Johnsonville,1945,"1,001 - 5,000",83.37,Don Fussner,Wisconsin,Sheboygan Falls,"Food, Soft Beverages, Alcohol & Tobacco"
+330,Air Canada,1937,"10,001 - 50,000",83.35,Michael Rousseau,Quebec,Montreal,Transportation and Logistics
+331,Verizon Communications,1983,"50,001 - 100,000",83.34,Hans Vestberg,New York,New York,"Telecommunications Services, Cable Supplier"
+332,JM Smucker,1897,"5,001 - 10,000",83.34,Mark Smucker,Ohio,Orrville,"Food, Soft Beverages, Alcohol & Tobacco"
+333,Comcast NBCUniversal,1963,"100,001 - 500,000",83.33,Brian L. Roberts,Pennsylvania,Philadelphia,Media & Advertising
+334,Netflix,1997,"5,001 - 10,000",83.33,Greg Peters Ted Sarandos,California,Los Gatos,Media & Advertising
+335,Hyundai,1967,"10,001 - 50,000",83.32,Don Romano,California,Fountain Valley,Automotive (Automotive and Suppliers)
+336,Acceptance Insurance,1969,"1,001 - 5,000",83.25,Ken Russell,Tennessee,Nashville,Insurance
+337,Delta Galil Industries,1975,>10000,83.22,Isaac Dabah,New York,New York,"Clothing, Shoes, Sports Equipment"
+338,DTE Energy,1996,"5,001 - 10,000",83.22,Jerry Norcia,Michigan,Detroit,Utilities
+339,BAE Systems,1999,"10,001 - 50,000",83.21,Charles Woodburn,Virginia,Falls Church,Aerospace & Defense
+340,Regeneron Pharmaceuticals,1988,"10,001 - 50,000",83.19,Leonard S. Schleifer,New York,Tarrytown,Drugs & Biotechnology
+341,United States Department of Commerce,1903,"10,001 - 50,000",83.1,Gina Raimondo,District of Columbia,Washington,Government Services
+342,Johnson & Johnson,1886,"10,001 - 50,000",83.06,Joaquin Duato,New Jersey,New Brunswick,Drugs & Biotechnology
+343,United States Department of Justice,1870,"100,001 - 500,000",83.02,Merrick B. Garland,District of Columbia,Washington,Government Services
+344,Comtech Telecommunications,1967,"1,001 - 5,000",83,Ken Peterman,New York,Huntington,"Telecommunications Services, Cable Supplier"
+345,JLL,1999,"10,001 - 50,000",82.98,Christian Ulbrich,Illinois,Chicago,Business Services & Supplies
+346,RSM US,1926,"10,001 - 50,000",82.96,Brian Becker,Illinois,Chicago,Professional Services
+347,ABC Technologies,1974,"5,001 - 10,000",82.95,Terry Campbell,Ontario,Toronto,Automotive (Automotive and Suppliers)
+348,Oscar Health,2012,"1,001 - 5,000",82.93,Mario Schlosser,New York,New York City,Insurance
+349,Medline Industries,1966,"10,001 - 50,000",82.92,Charlie Mills,Illinois,Northfield,Health Care Equipment & Services
+350,Textron,1923,"10,001 - 50,000",82.87,Scott C. Donnelly,Rhode Island,Providence,Aerospace & Defense
+351,Exelon,2000,"10,001 - 50,000",82.86,Calvin G. Butler,Illinois,Chicago,Utilities
+352,Gainwell Technologies,2020,>10000,82.84,Mark Knickrehm,Arkansas,Conway,Health Care Equipment & Services
+353,Liberty Mutual Insurance,1912,"10,001 - 50,000",82.82,Timothy M. Sweeney,Massachusetts,Boston,Insurance
+354,Polaris Inc.,1954,"5,001 - 10,000",82.73,Michael T. Speetzen,Minnesota,Medina,Automotive (Automotive and Suppliers)
+355,United States Government Publishing Office,1861,"1,001 - 5,000",82.66,Hugh Nathanial Halpern,District of Columbia,Washington,Government Services
+356,Oracle,1977,"100,001 - 500,000",82.66,Safra A. Catz,California,Redwood Shores,IT Software & Services
+357,Bechtel,1898,"10,001 - 50,000",82.65,Brendan Bechtel,Virginia,Reston,"Construction, Chemicals, Raw Materials"
+358,Akamai,1998,"1,001 - 5,000",82.64,Tom Leighton,Massachusetts,Cambridge,IT Software & Services
+359,Primerica,1977,"1,001 - 5,000",82.62,Glenn J. Williams,Georgia,Duluth,Insurance
+360,Kia Motors,1992,"1,001 - 5,000",82.62,Ho-Sung Song,California,Irvine,Automotive (Automotive and Suppliers)
+361,Humana,1961,"50,001 - 100,000",82.52,Bruce D. Broussard,Kentucky,Louisville,Insurance
+362,Carvana,2012,"10,001 - 50,000",82.46,"Ernie Garcia, III",Arizona,Tempe,Retail and Wholesale
+363,United Refining Company,1902,"1,001 - 5,000",82.45,John A. Catsimatidis,Pennsylvania,Warren,"Construction, Chemicals, Raw Materials"
+364,MGM Resorts,1986,"50,001 - 100,000",82.42,William J. Hornbuckle,Nevada,Las Vegas,Travel & Leisure
+365,Cintas,1968,"10,001 - 50,000",82.4,Todd Schneider,Ohio,Cincinnati,Business Services & Supplies
+366,eBay,1995,"5,001 - 10,000",82.37,Jamie Iannone,California,San Jose,Retail and Wholesale
+367,Estes Express Lines,1931,"10,001 - 50,000",82.36,Rob Estes,Virginia,Richmond,Transportation and Logistics
+368,Wawa,1964,"10,001 - 50,000",82.36,Chris Gheysens,Pennsylvania,Wawa,Retail and Wholesale
+369,Coupa Software,2006,"1,001 - 5,000",82.35,Leagh Turner,California,San Mateo,IT Software & Services
+370,Four Seasons Hotels and Resorts,1960,"50,001 - 100,000",82.29,John Davison,Ontario,Toronto,Travel & Leisure
+371,United States Department of the Interior,1849,"50,001 - 100,000",82.28,Deb Haaland,District of Columbia,Washington,Government Services
+372,Apple Leisure Group,1969,>10000,82.28,Mark S. Hoplamazian,Pennsylvania,Newtown Square,Travel & Leisure
+373,Arrow Electronics,1935,"5,001 - 10,000",82.21,Sean J. Kerins,Colorado,Centennial,"Semiconductors, Electronics, Electrical Engineering"
+374,Alamo Drafthouse Cinema,1997,"1,001 - 5,000",82.2,Michael Kustermann,Texas,Austin,Travel & Leisure
+375,Lear,1917,"100,001 - 500,000",82.19,Ray Scott,Michigan,Southfield,Automotive (Automotive and Suppliers)
+376,Steel Dynamics,1993,"10,001 - 50,000",82.17,Mark D. Millet,Indiana,Fort Wayne,"Engineering, Manufacturing"
+377,Tory Burch,2004,>1000,82.15,Pierre-Yeves Roussel,New York,New York,"Clothing, Shoes, Sports Equipment"
+378,Alliance Hospitality Management,2003,>1000,82.14,Rolf Tweeten,North Carolina,Raleigh,Business Services & Supplies
+379,State of Nebraska,1867,>10000,82.07,Jim Pillen,Nebraska,Lincoln,Government Services
+380,Parsons,1896,"10,001 - 50,000",82.06,Carey Smith,Virginia,Centreville,"Construction, Chemicals, Raw Materials"
+381,Unilever,1872,"100,001 - 500,000",82.05,Alan Jope,New Jersey,Englewood Cliffs,Packaged Goods
+382,Nucor,1905,"10,001 - 50,000",82.02,Leon J. Topalian,North Carolina,Charlotte,"Engineering, Manufacturing"
+383,SAP,1972,"100,001 - 500,000",82,Lloyd Adams,Pennsylvania,Newtown Square,IT Software & Services
+384,Dow,1897,"10,001 - 50,000",82,Jim Fitterling,Michigan,Midland,"Construction, Chemicals, Raw Materials"
+385,Blue Shield of California,1939,"5,001 - 10,000",82,Paul Markovich,California,Oakland,Insurance
+386,GlaxoSmithKline,2000,"50,001 - 100,000",81.96,Emma Walmsley,Pennsylvania,Philadelphia,Drugs & Biotechnology
+387,H&R Block,1955,"1,001 - 5,000",81.93,Jeffrey J. Jones II,Missouri,Kansas City,Professional Services
+388,Allen Tate Companies,1957,>1000,81.92,Pat Riley,North Carolina,Charlotte,Business Services & Supplies
+389,FTI Consulting,1982,"5,001 - 10,000",81.88,Steven H. Gunby,District of Columbia,Washington,Professional Services
+390,Ferguson Enterprises,1953,>10000,81.86,Kevin Murphy,Virginia,Newport News,Retail and Wholesale
+391,Align Technology,1997,"1,001 - 5,000",81.81,Joseph M. Hogan,Arizona,Tempe,Health Care Equipment & Services
+392,Spirit Aero Systems,2005,"10,001 - 50,000",81.8,Pat Shanahan,Kansas,Wichita,Aerospace & Defense
+393,Chanel,1910,"10,001 - 50,000",81.75,Alain Wertheimer,New Jersey,Piscataway Township,Packaged Goods
+394,Insight Global,2001,>1000,81.74,Bert Bean,Georgia,Atlanta,Business Services & Supplies
+395,O'Reilly Auto Parts,1957,"50,001 - 100,000",81.74,Greg Johnson,Missouri,Springfield,Retail and Wholesale
+396,American Express Global Business Travel,1850,"10,001 - 50,000",81.74,Paul Abbott,New York,New York,Business Services & Supplies
+397,George P. Johnson Experience Marketing,1914,"1,001 - 5,000",81.65,Chris Meyer,Michigan,Auburn Hills,Business Services & Supplies
+398,AstraZeneca,1953,"10,001 - 50,000",81.63,Joris Silon,Delaware,Wilmington,Drugs & Biotechnology
+399,BMWC Constructors,1955,>1000,81.58,Chris Buckman,Indiana,Indianapolis,"Construction, Chemicals, Raw Materials"
+400,AmeriGas,1959,"5,001 - 10,000",81.52,Raymond Kaszuba,Pennsylvania,King of Prussia,Retail and Wholesale
+301,Cummins,1919,"50,001 - 100,000",84.25,Jennifer Rumsey,Indiana,Columbus,"Engineering, Manufacturing"
+302,BCD Travel,2006,"10,001 - 50,000",84.24,Stephan Baars,Georgia,Atlanta,Business Services & Supplies
+303,PayPal,1998,"10,001 - 50,000",84.22,Dan Schulman,California,San Jose,Banking and Financial Services
+304,"City and County of Honolulu, HI",1828,>5000,84.19,Rick Blangiardi,Hawaii,Honolulu,Government Services
+305,Dartmouth College,1769,"1,001 - 5,000",84.17,Sian Beilock,New Hampshire,Hanover,Education
+306,Washington State University,1890,>5000,84.11,Kirk Schulz,Washington,Pullman,Education
+307,Mississippi State University,1878,"5,001 - 10,000",84.1,Mark E. Keenum,Mississippi,Mississippi State,Education
+308,Milliken & Company,1865,"5,001 - 10,000",84.1,"Halsey M. Cook, Jr.",South Carolina,Spartanburg,"Engineering, Manufacturing"
+309,Adtalem Global Education,2010,"5,001 - 10,000",84.04,Stephen W. Beard,Illinois,Chicago,Education
+310,Western Governors University,1997,"5,001 - 10,000",84.02,Scott D. Pulsipher,Utah,Salt Lake City,Education
+311,Internal Revenue Service,1862,"50,001 - 100,000",83.98,Charles P. Rettig,District of Columbia,Washington,Government Services
+312,1st Source Bank,1863,"1,001 - 5,000",83.98,Christopher J. Murphy III,Indiana,South Bend,Banking and Financial Services
+313,Gartner,1979,"10,001 - 50,000",83.97,Eugene A. Hall,Connecticut,Stamford,Professional Services
+314,Rockwell Automation,1903,"5,001 - 10,000",83.93,Blake Moret,Wisconsin,Milwaukee,"Semiconductors, Electronics, Electrical Engineering"
+315,IBEX Global,2017,"10,001 - 50,000",83.92,Robert Dechant,District of Columbia,Washington,Business Services & Supplies
+316,"Q2 Software, Inc.",2004,"1,001 - 5,000",83.87,Matt Flake,Texas,Austin,Banking and Financial Services
+317,Wellmark Blue Cross and Blue Shield,1939,"1,001 - 5,000",83.84,Cory R. Harris,Iowa,Des Moines,Insurance
+318,Freddy's Frozen Custard & Steakburgers,2002,>5000,83.8,Chris Dull,Kansas,Wichita,Restaurants
+319,Booz Allen Hamilton,1914,"10,001 - 50,000",83.78,Horacio Rozanski,Virginia,McLean,Professional Services
+320,UnitedHealth Group,1977,"100,001 - 500,000",83.77,Andrew Witty,Minnesota,Minnetonka,Insurance
+321,EMCOR Group,1994,"10,001 - 50,000",83.73,Anthony J. Guzzi,Connecticut,Norwalk,Business Services & Supplies
+322,ACE Hardware,1924,>5000,83.62,John Venhuizen,Illinois,Oak Brook,Retail and Wholesale
+323,Foundever,1985,"10,001 - 50,000",83.62,Laurent Uberti,Florida,Miami,Business Services & Supplies
+324,Oklahoma Gas & Electric,1902,"1,001 - 5,000",83.54,Sean Trauschke,Oklahoma,Oklahoma City,Utilities
+325,PricewaterhouseCoopers,1998,"100,001 - 500,000",83.5,Bob Moritz,New York,New York,Professional Services
+326,The Estée Lauder Companies,1946,"10,001 - 50,000",83.46,Fabrizio Freda,New York,New York,Packaged Goods
+327,Ames Construction,1960,"1,001 - 5,000",83.44,Jerry Ouimet,Minnesota,Burnsville,"Construction, Chemicals, Raw Materials"
+328,"SASR Workforce Solutions (Set and Service Resources, LLC)",2003,"10,001 - 50,000",83.4,Patrick Henderson,North Carolina,Raleigh,Business Services & Supplies
+329,Johnsonville,1945,"1,001 - 5,000",83.37,Don Fussner,Wisconsin,Sheboygan Falls,"Food, Soft Beverages, Alcohol & Tobacco"
+330,Air Canada,1937,"10,001 - 50,000",83.35,Michael Rousseau,Quebec,Montreal,Transportation and Logistics
+331,Verizon Communications,1983,"50,001 - 100,000",83.34,Hans Vestberg,New York,New York,"Telecommunications Services, Cable Supplier"
+332,JM Smucker,1897,"5,001 - 10,000",83.34,Mark Smucker,Ohio,Orrville,"Food, Soft Beverages, Alcohol & Tobacco"
+333,Comcast NBCUniversal,1963,"100,001 - 500,000",83.33,Brian L. Roberts,Pennsylvania,Philadelphia,Media & Advertising
+334,Netflix,1997,"5,001 - 10,000",83.33,Greg Peters Ted Sarandos,California,Los Gatos,Media & Advertising
+335,Hyundai,1967,"10,001 - 50,000",83.32,Don Romano,California,Fountain Valley,Automotive (Automotive and Suppliers)
+336,Acceptance Insurance,1969,"1,001 - 5,000",83.25,Ken Russell,Tennessee,Nashville,Insurance
+337,Delta Galil Industries,1975,>10000,83.22,Isaac Dabah,New York,New York,"Clothing, Shoes, Sports Equipment"
+338,DTE Energy,1996,"5,001 - 10,000",83.22,Jerry Norcia,Michigan,Detroit,Utilities
+339,BAE Systems,1999,"10,001 - 50,000",83.21,Charles Woodburn,Virginia,Falls Church,Aerospace & Defense
+340,Regeneron Pharmaceuticals,1988,"10,001 - 50,000",83.19,Leonard S. Schleifer,New York,Tarrytown,Drugs & Biotechnology
+341,United States Department of Commerce,1903,"10,001 - 50,000",83.1,Gina Raimondo,District of Columbia,Washington,Government Services
+342,Johnson & Johnson,1886,"10,001 - 50,000",83.06,Joaquin Duato,New Jersey,New Brunswick,Drugs & Biotechnology
+343,United States Department of Justice,1870,"100,001 - 500,000",83.02,Merrick B. Garland,District of Columbia,Washington,Government Services
+344,Comtech Telecommunications,1967,"1,001 - 5,000",83,Ken Peterman,New York,Huntington,"Telecommunications Services, Cable Supplier"
+345,JLL,1999,"10,001 - 50,000",82.98,Christian Ulbrich,Illinois,Chicago,Business Services & Supplies
+346,RSM US,1926,"10,001 - 50,000",82.96,Brian Becker,Illinois,Chicago,Professional Services
+347,ABC Technologies,1974,"5,001 - 10,000",82.95,Terry Campbell,Ontario,Toronto,Automotive (Automotive and Suppliers)
+348,Oscar Health,2012,"1,001 - 5,000",82.93,Mario Schlosser,New York,New York City,Insurance
+349,Medline Industries,1966,"10,001 - 50,000",82.92,Charlie Mills,Illinois,Northfield,Health Care Equipment & Services
+350,Textron,1923,"10,001 - 50,000",82.87,Scott C. Donnelly,Rhode Island,Providence,Aerospace & Defense
+351,Exelon,2000,"10,001 - 50,000",82.86,Calvin G. Butler,Illinois,Chicago,Utilities
+352,Gainwell Technologies,2020,>10000,82.84,Mark Knickrehm,Arkansas,Conway,Health Care Equipment & Services
+353,Liberty Mutual Insurance,1912,"10,001 - 50,000",82.82,Timothy M. Sweeney,Massachusetts,Boston,Insurance
+354,Polaris Inc.,1954,"5,001 - 10,000",82.73,Michael T. Speetzen,Minnesota,Medina,Automotive (Automotive and Suppliers)
+355,United States Government Publishing Office,1861,"1,001 - 5,000",82.66,Hugh Nathanial Halpern,District of Columbia,Washington,Government Services
+356,Oracle,1977,"100,001 - 500,000",82.66,Safra A. Catz,California,Redwood Shores,IT Software & Services
+357,Bechtel,1898,"10,001 - 50,000",82.65,Brendan Bechtel,Virginia,Reston,"Construction, Chemicals, Raw Materials"
+358,Akamai,1998,"1,001 - 5,000",82.64,Tom Leighton,Massachusetts,Cambridge,IT Software & Services
+359,Primerica,1977,"1,001 - 5,000",82.62,Glenn J. Williams,Georgia,Duluth,Insurance
+360,Kia Motors,1992,"1,001 - 5,000",82.62,Ho-Sung Song,California,Irvine,Automotive (Automotive and Suppliers)
+361,Humana,1961,"50,001 - 100,000",82.52,Bruce D. Broussard,Kentucky,Louisville,Insurance
+362,Carvana,2012,"10,001 - 50,000",82.46,"Ernie Garcia, III",Arizona,Tempe,Retail and Wholesale
+363,United Refining Company,1902,"1,001 - 5,000",82.45,John A. Catsimatidis,Pennsylvania,Warren,"Construction, Chemicals, Raw Materials"
+364,MGM Resorts,1986,"50,001 - 100,000",82.42,William J. Hornbuckle,Nevada,Las Vegas,Travel & Leisure
+365,Cintas,1968,"10,001 - 50,000",82.4,Todd Schneider,Ohio,Cincinnati,Business Services & Supplies
+366,eBay,1995,"5,001 - 10,000",82.37,Jamie Iannone,California,San Jose,Retail and Wholesale
+367,Estes Express Lines,1931,"10,001 - 50,000",82.36,Rob Estes,Virginia,Richmond,Transportation and Logistics
+368,Wawa,1964,"10,001 - 50,000",82.36,Chris Gheysens,Pennsylvania,Wawa,Retail and Wholesale
+369,Coupa Software,2006,"1,001 - 5,000",82.35,Leagh Turner,California,San Mateo,IT Software & Services
+370,Four Seasons Hotels and Resorts,1960,"50,001 - 100,000",82.29,John Davison,Ontario,Toronto,Travel & Leisure
+371,United States Department of the Interior,1849,"50,001 - 100,000",82.28,Deb Haaland,District of Columbia,Washington,Government Services
+372,Apple Leisure Group,1969,>10000,82.28,Mark S. Hoplamazian,Pennsylvania,Newtown Square,Travel & Leisure
+373,Arrow Electronics,1935,"5,001 - 10,000",82.21,Sean J. Kerins,Colorado,Centennial,"Semiconductors, Electronics, Electrical Engineering"
+374,Alamo Drafthouse Cinema,1997,"1,001 - 5,000",82.2,Michael Kustermann,Texas,Austin,Travel & Leisure
+375,Lear,1917,"100,001 - 500,000",82.19,Ray Scott,Michigan,Southfield,Automotive (Automotive and Suppliers)
+376,Steel Dynamics,1993,"10,001 - 50,000",82.17,Mark D. Millet,Indiana,Fort Wayne,"Engineering, Manufacturing"
+377,Tory Burch,2004,>1000,82.15,Pierre-Yeves Roussel,New York,New York,"Clothing, Shoes, Sports Equipment"
+378,Alliance Hospitality Management,2003,>1000,82.14,Rolf Tweeten,North Carolina,Raleigh,Business Services & Supplies
+379,State of Nebraska,1867,>10000,82.07,Jim Pillen,Nebraska,Lincoln,Government Services
+380,Parsons,1896,"10,001 - 50,000",82.06,Carey Smith,Virginia,Centreville,"Construction, Chemicals, Raw Materials"
+381,Unilever,1872,"100,001 - 500,000",82.05,Alan Jope,New Jersey,Englewood Cliffs,Packaged Goods
+382,Nucor,1905,"10,001 - 50,000",82.02,Leon J. Topalian,North Carolina,Charlotte,"Engineering, Manufacturing"
+383,SAP,1972,"100,001 - 500,000",82,Lloyd Adams,Pennsylvania,Newtown Square,IT Software & Services
+384,Dow,1897,"10,001 - 50,000",82,Jim Fitterling,Michigan,Midland,"Construction, Chemicals, Raw Materials"
+385,Blue Shield of California,1939,"5,001 - 10,000",82,Paul Markovich,California,Oakland,Insurance
+386,GlaxoSmithKline,2000,"50,001 - 100,000",81.96,Emma Walmsley,Pennsylvania,Philadelphia,Drugs & Biotechnology
+387,H&R Block,1955,"1,001 - 5,000",81.93,Jeffrey J. Jones II,Missouri,Kansas City,Professional Services
+388,Allen Tate Companies,1957,>1000,81.92,Pat Riley,North Carolina,Charlotte,Business Services & Supplies
+389,FTI Consulting,1982,"5,001 - 10,000",81.88,Steven H. Gunby,District of Columbia,Washington,Professional Services
+390,Ferguson Enterprises,1953,>10000,81.86,Kevin Murphy,Virginia,Newport News,Retail and Wholesale
+391,Align Technology,1997,"1,001 - 5,000",81.81,Joseph M. Hogan,Arizona,Tempe,Health Care Equipment & Services
+392,Spirit Aero Systems,2005,"10,001 - 50,000",81.8,Pat Shanahan,Kansas,Wichita,Aerospace & Defense
+393,Chanel,1910,"10,001 - 50,000",81.75,Alain Wertheimer,New Jersey,Piscataway Township,Packaged Goods
+394,Insight Global,2001,>1000,81.74,Bert Bean,Georgia,Atlanta,Business Services & Supplies
+395,O'Reilly Auto Parts,1957,"50,001 - 100,000",81.74,Greg Johnson,Missouri,Springfield,Retail and Wholesale
+396,American Express Global Business Travel,1850,"10,001 - 50,000",81.74,Paul Abbott,New York,New York,Business Services & Supplies
+397,George P. Johnson Experience Marketing,1914,"1,001 - 5,000",81.65,Chris Meyer,Michigan,Auburn Hills,Business Services & Supplies
+398,AstraZeneca,1953,"10,001 - 50,000",81.63,Joris Silon,Delaware,Wilmington,Drugs & Biotechnology
+399,BMWC Constructors,1955,>1000,81.58,Chris Buckman,Indiana,Indianapolis,"Construction, Chemicals, Raw Materials"
+400,AmeriGas,1959,"5,001 - 10,000",81.52,Raymond Kaszuba,Pennsylvania,King of Prussia,Retail and Wholesale

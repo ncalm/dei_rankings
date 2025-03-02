@@ -1,0 +1,501 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Hilton Worldwide Holdings,1919,"10,001 - 50,000",86.36,Christopher J. Nassetta,United States,McLean,Travel & Leisure
+2,MAIF,1934,"5,001 - 10,000",84.45,Pascal Demurger,France,Paris,Insurance
+3,Douglas,1821,"10,001 - 50,000",84,Sander van der Laan,Germany,Düsseldorf,Retail and Wholesale
+4,Virgin Group,1970,"50,001 - 100,000",83.52,Josh Bayliss,United Kingdom,London,Business Services & Supplies
+5,Netflix,1997,"10,001 - 50,000",82.97,Greg Ted Peters Sarandos,United States,Los Gatos,Media & Advertising
+6,RIO Tinto PLC,1873,"10,001 - 50,000",82.94,Jakob Stausholm,United Kingdom,London,"Construction, Oil & Gas Operations, Mining and Chemicals"
+7,Sappi,1936,"10,001 - 50,000",82.19,Stephen Robert Binnie,South Africa,Johannesburg,"Construction, Oil & Gas Operations, Mining and Chemicals"
+8,Microsoft,1975,"100,001 - 500,000",81.74,Satya Nadella,United States,Redmond,"IT, Software and Services"
+9,Generali Group,1831,"50,001 - 100,000",81.64,Philippe Donnet,Italy,Trieste,Insurance
+10,Deloitte,1845,"100,001 - 500,000",81.49,Joe Ucuzoglu,United Kingdom,London,Professional Services
+11,Hennes & Mauritz,1947,"100,001 - 500,000",81.4,Daniel Ervér,Sweden,Stockholm,"Clothing, Shoes, Sports Equipment"
+12,BioNTech,2008,"5,001 - 10,000",81.4,Ugur Sahin,Germany,Mainz,Drugs & Biotechnology
+13,Roche,1896,"100,001 - 500,000",81.16,Thomas Schinecker,Switzerland,Basel,Drugs & Biotechnology
+14,Coca-Cola HBC,1969,"10,001 - 50,000",81.15,Zoran Bogdanovic,Switzerland,Zug,"Food, Soft Beverages, Alcohol & Tobacco"
+15,Marks and Spencer Group,1884,"50,001 - 100,000",80.9,Stuart Machin,United Kingdom,Leeds,Retail and Wholesale
+16,NICE,1986,"5,001 - 10,000",80.77,Barak Eilam,Israel,Ra'anana,"IT, Software and Services"
+17,Accor,1967,"100,001 - 500,000",80.72,Sébastien Bazin,France,Issy-les-Moulineaux,Travel & Leisure
+18,Nielsen,1923,"10,001 - 50,000",80.64,Karthik Rao,United Kingdom,Oxford,Business Services & Supplies
+19,The Estée Lauder Companies,1946,"50,001 - 100,000",80.46,Fabrizio Freda,United States,New York,"Construction, Oil & Gas Operations, Mining and Chemicals"
+20,McKinsey & Company,1926,"10,001 - 50,000",80.36,Bob Sternfels,United States,New York,Professional Services
+21,Mondi,1967,"10,001 - 50,000",80.21,Andrew King,United Kingdom,London,"Engineering, Manufacturing"
+22,L'Oreal,1909,"50,001 - 100,000",80.15,Nicolas Hieronimus,France,Clichy,Packaged Goods
+23,Citigroup,1998,"100,001 - 500,000",80.13,Jane Fraser,United States,New York,Banking and Financial Services
+24,Fnac Darty,1957,"10,001 - 50,000",80.12,Enrique Martinez,France,Ivry-sur-Seine,Retail and Wholesale
+25,Adidas,1949,"50,001 - 100,000",79.61,Bjørn Gulden,Germany,Herzogenaurach,"Clothing, Shoes, Sports Equipment"
+26,MAN Group,1783,"1,001 - 5,000",79.45,Robyn Grew,United Kingdom,London,Banking and Financial Services
+27,Grifols,1940,"10,001 - 50,000",79.36,Nacho Abia,Spain,Barcelona,Health Care Equipment & Services
+28,3M Company,1902,"50,001 - 100,000",79.32,William M. Brown,United States,Saint Paul,Packaged Goods
+29,Apple,1976,"100,001 - 500,000",79.29,Tim Cook,United States,Cupertino,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+30,National Bank of Canada,1979,"10,001 - 50,000",79.14,Laurent Ferreira,Canada,Montreal,Banking and Financial Services
+31,Unilever,1929,"100,001 - 500,000",79.03,Hein Schumacher,United Kingdom,London,Packaged Goods
+32,Accenture,1989,"500,001 - 1,000,000",79.01,Julie Sweet,Ireland,Dulin,Professional Services
+33,Manitou BF SA,1957,"5,001 - 10,000",78.63,Michel Denis,France,Ancenis,"Engineering, Manufacturing"
+34,Canadian Imperial Bank of Commerce,1961,"10,001 - 50,000",78.58,Victor G. Dodig,Canada,Toronto,Banking and Financial Services
+35,Next,1864,"10,001 - 50,000",78.24,Simon Wolfson,United Kingdom,Leicester,"Clothing, Shoes, Sports Equipment"
+36,Capita,1984,"10,001 - 50,000",78.04,Adolfo Hernandez,United Kingdom,London,Business Services & Supplies
+37,Nike,1964,"50,001 - 100,000",77.95,John Donahoe,United States,Beaverton,"Clothing, Shoes, Sports Equipment"
+38,Marriott International,1927,"100,001 - 500,000",77.71,Anthony Capuano,United States,Bethesda,Travel & Leisure
+39,Natura & Co,1969,"10,001 - 50,000",77.3,Fábio Colletti Barbosa,Brazil,São Paulo,Retail and Wholesale
+40,Alphabet,1998,"100,001 - 500,000",77.2,Sundar Pichai,United States,Mountain View,"IT, Software and Services"
+41,AptarGroup,1992,"10,001 - 50,000",77.13,Stephan Tanda,United States,Crystal Lake,Packaged Goods
+42,Fidelity Investments,1946,"50,001 - 100,000",77.12,Abigail Johnson,United States,Boston,Banking and Financial Services
+43,Ikea,1943,"100,001 - 500,000",77.08,Jon Abrahamsson Ring,Netherlands,Delft,Retail and Wholesale
+44,CNP Assurances,1959,"5,001 - 10,000",76.93,Marie-Aude Thépaut,France,Paris,Insurance
+45,Merck Group,1668,"50,001 - 100,000",76.7,Belén Garijo,Germany,Darmstadt,Drugs & Biotechnology
+46,Goodyear,1898,"50,001 - 100,000",76.67,Mark Stewart,United States,Akron,Automotive (Automotive and Suppliers)
+47,Clorox CO,1913,"5,001 - 10,000",76.55,Linda Rendle,United States,Oakland,Retail and Wholesale
+48,Micron Technology,1978,"10,001 - 50,000",76.49,Sanjay Mehrotra,United States,Boise,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+49,Johnson & Johnson,1886,"100,001 - 500,000",76.33,Joaquin Duato,United States,New Brunswick,Drugs & Biotechnology
+50,Rolls-Royce Holdings,1906,"10,001 - 50,000",76.08,Tufan Erginbilgic,United Kingdom,London,Aerospace & Defense
+51,Autodesk,1982,"10,001 - 50,000",76,Andrew Anagnost,United States,San Francisco,"IT, Software and Services"
+52,Ipsos,1975,"10,001 - 50,000",75.97,Ben Page,France,Paris,Business Services & Supplies
+53,Air France - KLM,2004,"50,001 - 100,000",75.9,Benjamin Smith,France,Paris,Transportation and Logistics
+54,Airbnb,2008,"5,001 - 10,000",75.48,Brian Chesky,United States,San Francisco,Travel & Leisure
+55,Hewlett Packard Enterprise,2015,"50,001 - 100,000",75.47,Antonio Neri,United States,Spring,"IT, Software and Services"
+56,Advanced Micro Devices (AMD),1969,"10,001 - 50,000",75.42,Lisa Su,United States,Santa Clara,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+57,Adecco Group,1996,"10,001 - 50,000",75.37,Denis Machuel,Switzerland,Zürich,Business Services & Supplies
+58,Colgate Palmolive,1806,"10,001 - 50,000",75.28,Noel Wallace,United States,New York,Packaged Goods
+59,Koito Manufacturing,1915,"10,001 - 50,000",75.22,Masahiro Otake,Japan,Yokohama,Automotive (Automotive and Suppliers)
+60,Manulife,1887,"10,001 - 50,000",75.01,Roy Gori,Canada,Toronto,Banking and Financial Services
+61,Teck Resources,1906,"10,001 - 50,000",74.73,Jonathan Price,Canada,Vancouver,"Construction, Oil & Gas Operations, Mining and Chemicals"
+62,OpenText,1991,"10,001 - 50,000",74.71,Mark J. Barrenechea,Canada,Waterloo,"IT, Software and Services"
+63,LUSH Fresh Handmade Cosmetics,1995,"10,001 - 50,000",74.64,Mark Constantine,United Kingdom,Poole,Retail and Wholesale
+64,Kelly Services,1946,"5,001 - 10,000",74.59,Peter Quigley,United States,Troy,Professional Services
+65,OMV Group,1956,"10,001 - 50,000",74.51,Alfred Stern,Austria,Vienna,"Construction, Oil & Gas Operations, Mining and Chemicals"
+66,Indeed,2004,"10,001 - 50,000",74.43,Chris Hyams,United States,Austin,"IT, Software and Services"
+67,Decathlon,1976,"100,001 - 500,000",74.41,Barbara Martin Coppola,France,Villeneuve-d'Ascq,Retail and Wholesale
+68,Sulzer,1834,"10,001 - 50,000",74.29,Suzanne Thoma,Switzerland,Winterthur,"Engineering, Manufacturing"
+69,SMA Solar Technology,1981,"1,001 - 5,000",74.26,Jürgen Reinert,Germany,Niestetal,"Engineering, Manufacturing"
+70,Jungheinrich,1953,"10,001 - 50,000",74.19,Lars Brzoska,Germany,Hamburg,Transportation and Logistics
+71,AXA Group,1946,"100,001 - 500,000",74.13,Thomas Buberl,France,Paris,Insurance
+72,Veolia Environnement,1853,"100,001 - 500,000",74.07,Estelle Brachlianoff,France,Paris,Utilities
+73,Erste Group Bank,2008,"10,001 - 50,000",73.96,Willi Cernko,Austria,Vienna,Banking and Financial Services
+74,Dell Technologies,1984,"100,001 - 500,000",73.84,Michael Dell,United States,Round Rock,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+75,Bucher Industries,1807,"10,001 - 50,000",73.75,Jacques Sanche,Switzerland,Niederweningen,"Engineering, Manufacturing"
+76,Shopify,2006,"5,001 - 10,000",73.68,Tobi Lütke,Canada,Ottawa,"IT, Software and Services"
+77,Intersport,1968,"50,001 - 100,000",73.65,Steve Evers,Switzerland,Bern,Retail and Wholesale
+78,Perrigo Company,1887,"5,001 - 10,000",73.64,Patrick Lockwood-Taylor,Ireland,Dublin,Drugs & Biotechnology
+79,Procter & Gamble,1837,"100,001 - 500,000",73.57,Jon R. Moeller,United States,Cincinnati,Packaged Goods
+80,Puma,1948,"10,001 - 50,000",73.53,Arne Freundt,Germany,Herzogenaurach,"Clothing, Shoes, Sports Equipment"
+81,Liebherr Group,1949,"50,001 - 100,000",73.37,Jan Liebherr,Switzerland,Bulle,"Engineering, Manufacturing"
+82,Amica Mutual Insurance,1907,"1,001 - 5,000",73.29,Edmund Shallcross III,United States,Lincoln,Insurance
+83,Motorola Solutions,2011,"10,001 - 50,000",73.29,Greg Brown,United States,Chicago,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+84,International Distributions Services,1516,"100,001 - 500,000",73.13,Martin Seidenberg,United Kingdom,London,Transportation and Logistics
+85,Mastercard,1966,"10,001 - 50,000",73.03,Michael Miebach,United States,Purchase,Banking and Financial Services
+86,Kerry Group,1972,"10,001 - 50,000",72.93,Edmond Scanlon​,Ireland,Tralee,"Food, Soft Beverages, Alcohol & Tobacco"
+87,Ayala,1834,"50,001 - 100,000",72.83,Cezar P. Consing,Philippines,Makati,Banking and Financial Services
+88,BAE Systems,1999,"50,001 - 100,000",72.74,Tom Arseneault,United Kingdom,Farnborough,Aerospace & Defense
+89,BSH Home Appliances,1967,"50,001 - 100,000",72.7,Matthias Metz,Germany,Munich,Retail and Wholesale
+90,Applied Materials,1967,"10,001 - 50,000",72.66,Gary E. Dickerson,United States,Santa Clara,"Engineering, Manufacturing"
+91,Telefonica,1924,"100,001 - 500,000",72.49,José Marí Álvarez-Pallete Lopez,Spain,Madrid,"Telecommunications Services, Cable Supplier"
+92,Ajinomoto,1917,"10,001 - 50,000",72.37,Taro Fujie,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco"
+93,CAE,1947,"10,001 - 50,000",72.23,Marc Parent,Canada,Montreal,Transportation and Logistics
+94,OBI Group Holding,1970,"10,001 - 50,000",72.21,Sebastian Gundel,Germany,Wermelskirchen,Retail and Wholesale
+95,Kellanova,1906,"10,001 - 50,000",72.21,Steve Cahillane,United States,Battle Creek,"Food, Soft Beverages, Alcohol & Tobacco"
+96,Klépierre,1990,"1,001 - 5,000",72.18,Jean-Marc Jestin,France,Paris,Business Services & Supplies
+97,Liberty Global,2005,"10,001 - 50,000",72.18,Mike Fries,United Kingdom,London,"Telecommunications Services, Cable Supplier"
+98,GSK,2000,"50,001 - 100,000",72.18,Emma Walmsley,United Kingdom,London,Drugs & Biotechnology
+99,Lenovo Group,1984,"50,001 - 100,000",71.95,Yuanqing Yang,Hong Kong,Quarry Bay,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+100,Mueller,1953,"10,001 - 50,000",71.93,Erwin Müller,Germany,Ulm,Retail and Wholesale
+101,Bain & Company,1973,"10,001 - 50,000",71.86,Christophe De Vusser,United States,Chicago,Professional Services
+102,National Grid PLC,1990,"10,001 - 50,000",71.56,John Pettigrew,United Kingdom,London,Utilities
+103,Schwarz Gruppe,1930,"500,001 - 1,000,000",71.52,Christian Groh,Germany,Neckarsulm,Retail and Wholesale
+104,BPCE,2009,"50,001 - 100,000",71.51,Nicolas Namias,France,Paris,Banking and Financial Services
+105,LGT Group,1920,"1,001 - 5,000",71.43,Olivier de Perregaux,Liechtenstein,Vaduz,Banking and Financial Services
+106,Adobe,1982,"10,001 - 50,000",71.41,Shantanu Narayen,United States,San Jose,"IT, Software and Services"
+107,Nordstrom INC,1901,"50,001 - 100,000",71.31,Erik B. Nordstrom,United States,Seattle,Retail and Wholesale
+108,Intercontinental Hotels Group,2003,"100,001 - 500,000",71.3,Elie Maalouf,United Kingdom,Denham,Travel & Leisure
+109,Associated British Foods,1935,"100,001 - 500,000",71.27,George Weston,United Kingdom,London,"Food, Soft Beverages, Alcohol & Tobacco"
+110,Allianz,1890,"100,001 - 500,000",71.27,Tobias C. Pross,Germany,Munich,Insurance
+111,Starbucks,1971,"100,001 - 500,000",71.17,Laxman Narasimhan,United States,Seattle,Restaurants
+112,Meta,2004,"50,001 - 100,000",71.16,Mark Zuckerberg,United States,Menlo Park,"IT, Software and Services"
+113,Tesco,1919,"100,001 - 500,000",71.09,Ken Murphy,United Kingdom,Welwyn Garden City,Retail and Wholesale
+114,Vivendi,1853,"50,001 - 100,000",71.08,Arnaud de Puyfontaine,France,Paris,Media & Advertising
+115,Mott Macdonald Group,1989,"10,001 - 50,000",71.07,James Harris,United Kingdom,Croydon,"Engineering, Manufacturing"
+116,Cushman & Wakefield plc,1917,"50,001 - 100,000",70.98,Michelle MacKay,United States,Chicago,Business Services & Supplies
+117,Becton Dickinson,1897,"50,001 - 100,000",70.93,Tom Polen,United States,Franklin Lakes,Health Care Equipment & Services
+118,Auchan,1961,"100,001 - 500,000",70.89,Yves Claude,France,Croix,Retail and Wholesale
+119,BT Group plc,1846,"50,001 - 100,000",70.89,Allison Kirby,United Kingdom,London,"Telecommunications Services, Cable Supplier"
+120,Chanel,1910,"10,001 - 50,000",70.87,Leena Nair,United Kingdom,London,"Clothing, Shoes, Sports Equipment"
+121,Shiseido Company,1872,"10,001 - 50,000",70.84,Masahiko Uotani,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+122,Alcon,1945,"10,001 - 50,000",70.77,David J. Endicott,Switzerland,Geneva,Health Care Equipment & Services
+123,Enel,1962,"50,001 - 100,000",70.75,Flavio Cattaneo,Italy,Rome,Utilities
+124,Hermes International,1837,"10,001 - 50,000",70.72,Axel Dumas,France,Paris,Retail and Wholesale
+125,Inditex,1985,"100,001 - 500,000",70.62,Mary N. Dillon,Spain,A Coruña,"Clothing, Shoes, Sports Equipment"
+126,Elior Group,1991,"100,001 - 500,000",70.61,Daniel Derichebourg,France,Paris,Professional Services
+127,Paypal,1998,"10,001 - 50,000",70.51,Alex Chriss,United States,San Jose,Banking and Financial Services
+128,Croda International,1925,"5,001 - 10,000",70.48,Steve Foots,United Kingdom,Goole,"Construction, Oil & Gas Operations, Mining and Chemicals"
+129,AON,1982,"10,001 - 50,000",70.42,Greg Case,Ireland,Dublin,Banking and Financial Services
+130,Honeywell International,1906,"50,001 - 100,000",70.38,Vimal Kapur,United States,Charlotte,Aerospace & Defense
+131,Miele,1899,"10,001 - 50,000",70.36,Markus Miele,Germany,Gütersloh,"Engineering, Manufacturing"
+132,Bacardi,1862,"5,001 - 10,000",70.34,Mahesh Madhavan,Bermuda,Hamilton,"Food, Soft Beverages, Alcohol & Tobacco"
+133,Subway,1965,"10,001 - 50,000",70.28,John Chidsey,United States,Shelton,Restaurants
+134,Haniel,1756,"10,001 - 50,000",70.26,Joachim Drees,Germany,Duisburg,Professional Services
+135,ANZ Group Holdings,1835,"10,001 - 50,000",70.24,Antonia Watson,Australia,Melbourne,Banking and Financial Services
+136,Industrial Alliance Insurance & Financial Services,1892,"5,001 - 10,000",70.2,Denis Ricard,Canada,Québec,Banking and Financial Services
+137,Jacobs Engineering Group,1947,"50,001 - 100,000",70.13,Bob Pragada,United States,Dallas,Professional Services
+138,Cooperl ARC Atlantique,1966,"5,001 - 10,000",70.02,Bernard Rouxel,France,Lamballe,"Food, Soft Beverages, Alcohol & Tobacco"
+139,Booking Holdings,1996,"10,001 - 50,000",70.01,Glenn D. Fogel,United States,Norwalk,Travel & Leisure
+140,SAP,1972,"100,001 - 500,000",69.96,Christian Klein,Germany,Walldorf,"IT, Software and Services"
+141,Expedia Group,1996,"10,001 - 50,000",69.94,Ariane Gorin,United States,Seattle,Travel & Leisure
+142,Salesforce,1999,"50,001 - 100,000",69.81,Marc Benioff,United States,San Francisco,"IT, Software and Services"
+143,Rheinmetall,1889,"10,001 - 50,000",69.79,Armin Papperger,Germany,Düsseldorf,"Engineering, Manufacturing"
+144,AIG,1919,"10,001 - 50,000",69.78,Peter Zaffino,United States,New York,Banking and Financial Services
+145,Cooperatieve Rabobank,1972,"10,001 - 50,000",69.74,Stefaan Decreane,Netherlands,Utrecht,Banking and Financial Services
+146,ING Group,1991,"50,001 - 100,000",69.73,Steven Rijswijk,Netherlands,Amsterdam,Banking and Financial Services
+147,Imperial Brands PLC,1901,"10,001 - 50,000",69.64,Stefan Bomhard,United Kingdom,Bristol,"Food, Soft Beverages, Alcohol & Tobacco"
+148,Lixil Group,1949,"50,001 - 100,000",69.6,Kinya Seto,Japan,Tokyo,"Engineering, Manufacturing"
+149,SNCF Group,1938,"100,001 - 500,000",69.57,Jean-Pierre Farandou,France,Saint-Denis,Transportation and Logistics
+150,Amadeus IT Group,1987,"10,001 - 50,000",69.53,Luis Maroto,Spain,Madrid,"IT, Software and Services"
+151,Progressive,1937,"50,001 - 100,000",69.52,Tricia Griffith,United States,Mayfield,Insurance
+152,Thomson Reuters,2008,"10,001 - 50,000",69.42,Steve Hasker,Canada,Toronto,"IT, Software and Services"
+153,McCain Foods Group,1957,"10,001 - 50,000",69.41,Max Koeune,Canada,Toronto,"Food, Soft Beverages, Alcohol & Tobacco"
+154,Covestro,2015,"10,001 - 50,000",69.37,Markus Steilemann,Germany,Leverkusen,"Construction, Oil & Gas Operations, Mining and Chemicals"
+155,AECOM Technology,1990,"50,001 - 100,000",69.25,Troy Rudd,United States,Dallas,"Engineering, Manufacturing"
+156,Abbott Laboratories,1888,"100,001 - 500,000",69.15,Robert B. Ford,United States,Abbott Park,Drugs & Biotechnology
+157,Tiger Brands,1921,"5,001 - 10,000",69.15,Tjaart Kruger,South Africa,Bryanston,Retail and Wholesale
+158,Intel,1968,"100,001 - 500,000",69.14,Patrick Gelsinger,United States,Santa Clara,"IT, Software and Services"
+159,Desjardins Group,1900,"50,001 - 100,000",69.08,Nicolas Richard,Canada,Lévis,Banking and Financial Services
+160,American Express,1850,"50,001 - 100,000",69.08,Stephen J. Squeri,United States,New York,Banking and Financial Services
+161,Novo Nordisk,1923,"50,001 - 100,000",69.05,Lars Fruergaard Jørgensen,Denmark,Bagsværd,Banking and Financial Services
+162,William Demant Fonden,1904,"10,001 - 50,000",68.98,Søren Nielsen,Denmark,Smørum,Business Services & Supplies
+163,PVH Corporation,1881,"10,001 - 50,000",68.98,Stefan Larsson,United States,New York,"Clothing, Shoes, Sports Equipment"
+164,Banco Santander,1857,"100,001 - 500,000",68.93,Héctor Grisi,Spain,Madrid,Banking and Financial Services
+165,Vinci,1899,"100,001 - 500,000",68.87,Xavier Huillard,France,Paris,"Construction, Oil & Gas Operations, Mining and Chemicals"
+166,E.On,2000,"50,001 - 100,000",68.82,Leonhard Birnbaum,Germany,Essen,Utilities
+167,Cemex,1906,"10,001 - 50,000",68.81,Fernando A. González,Mexico,San Pedro Garza García,"Construction, Oil & Gas Operations, Mining and Chemicals"
+168,Canon,1937,"100,001 - 500,000",68.75,Fujio Mitarai,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+169,Sandvik,1862,"10,001 - 50,000",68.73,Stefan Widing,Sweden,Stockholm,"Engineering, Manufacturing"
+170,Arca Continental,2001,"50,001 - 100,000",68.73,Arturo Gutiérrez Hernández,Mexico,Monterrey,"Food, Soft Beverages, Alcohol & Tobacco"
+171,PTT,1978,"1,001 - 5,000",68.68,Kongkrapan Intarajang,Thailand,Bangkok,"Construction, Oil & Gas Operations, Mining and Chemicals"
+172,Rolex,1905,"5,001 - 10,000",68.63,Jean-Frédéric Dufour,Switzerland,Geneva,"Clothing, Shoes, Sports Equipment"
+173,Rossmann,1972,"50,001 - 100,000",68.58,Raoul Rossmann,Germany,Burgwedel,Retail and Wholesale
+174,BCG (Boston Consulting Group),1963,"10,001 - 50,000",68.57,Christoph Schweizer,United States,Boston,Professional Services
+175,Marubeni,1858,"50,001 - 100,000",68.55,Masumi Kakinoki,Japan,Tokyo,Retail and Wholesale
+176,SC Johnson & SON,1886,"10,001 - 50,000",68.45,H. Fisk Johnson,United States,Racine,"Engineering, Manufacturing"
+177,Conocophillips,1875,"5,001 - 10,000",68.41,Ryan Lance,United States,Houston,"Construction, Oil & Gas Operations, Mining and Chemicals"
+178,HP,1939,"50,001 - 100,000",68.34,Enrique Lores,United States,Palo Alto,"IT, Software and Services"
+179,Brunswick Corp,1845,"10,001 - 50,000",68.32,David M. Foulkes,United States,Mettawa,"Engineering, Manufacturing"
+180,Arcadis,1888,"10,001 - 50,000",68.29,Alan Brookes,Netherlands,Amsterdam,Business Services & Supplies
+181,ABN AMRO Group,1991,"10,001 - 50,000",68.29,Robert Swaak,Netherlands,Amsterdam,Banking and Financial Services
+182,General Electric Company,1892,"100,001 - 500,000",68.19,"H. Lawrence Culp, Jr.",United States,Boston,"Engineering, Manufacturing"
+183,Amazon,1994,"500,001 - 1,000,000",68.18,Andy Jassy,United States,Seattle,"IT, Software and Services"
+184,Pfeifer & Langen,1870,"1,001 - 5,000",68.13,Michael Schaupp,Germany,Köln,"Food, Soft Beverages, Alcohol & Tobacco"
+185,Baker Hughes Company,1908,"50,001 - 100,000",68.09,Lorenzo Simonelli,United States,Houston,"Engineering, Manufacturing"
+186,Worldline,1973,"10,001 - 50,000",68.07,Gilles Grapinet,France,Paris,Banking and Financial Services
+187,Ebay,1995,"10,001 - 50,000",68.06,Jamie Iannone,United States,San Jose,"IT, Software and Services"
+188,Oracle,1977,"100,001 - 500,000",68.05,Safra A. Catz,United States,Austin,"IT, Software and Services"
+189,Carter's,1865,"10,001 - 50,000",68.04,Michael D. Casey,United States,Atlanta,Retail and Wholesale
+190,Live Nation Entertainment,2010,"10,001 - 50,000",67.94,Micheal Rapino,United States,Beverly Hills,"IT, Software and Services"
+191,Coca-Cola Europacific Partners - CCEP,2016,"10,001 - 50,000",67.85,Damian Gammell,United Kingdom,Uxbridge,"Food, Soft Beverages, Alcohol & Tobacco"
+192,Brookfield Asset Management,1899,"100,001 - 500,000",67.83,Bruce Flatt,Canada,Toronto,Banking and Financial Services
+193,Orange,1988,"100,001 - 500,000",67.81,Christel Heydemann,France,Paris,"Telecommunications Services, Cable Supplier"
+194,Kimberly Clark,1872,"10,001 - 50,000",67.78,Mike Hsu,United States,Irving,Packaged Goods
+195,Glanbia,1997,"5,001 - 10,000",67.78,Hugh McGuire,Ireland,Kilkenny,"Food, Soft Beverages, Alcohol & Tobacco"
+196,ENI,1953,"10,001 - 50,000",67.78,Claudio Descalzi,Italy,Rome,"Construction, Oil & Gas Operations, Mining and Chemicals"
+197,Nokia,1865,"50,001 - 100,000",67.78,Pekka Lundmark,Finland,Espoo,"Telecommunications Services, Cable Supplier"
+198,Eurofins Scientific,1987,"50,001 - 100,000",67.75,Gilles G. Martin,Luxembourg,Luxembourg,Drugs & Biotechnology
+199,Delivery Hero,2011,"10,001 - 50,000",67.57,Niklas Östberg,Germany,Berlin,Transportation and Logistics
+200,Medline Industries,1966,"10,001 - 50,000",67.53,Jim Boyle,United States,Northfield,"Engineering, Manufacturing"
+201,Agnico-Eagle Mines,1953,"10,001 - 50,000",67.53,Ammar Al-Joundi,Canada,Toronto,"Construction, Oil & Gas Operations, Mining and Chemicals"
+202,Amgen,1980,"10,001 - 50,000",67.48,Robert Bradway,United States,Thousand Oaks,Drugs & Biotechnology
+203,MetLife,1868,"10,001 - 50,000",67.44,Michel A. Khalaf,United States,New York,Insurance
+204,Georg Fischer,1802,"10,001 - 50,000",67.37,Andreas Müller,Switzerland,Schaffhausen,"Engineering, Manufacturing"
+205,BRP,2003,"10,001 - 50,000",67.3,José Boisjoli,Canada,Valcourt,Automotive (Automotive and Suppliers)
+206,Cisco Systems,1984,"50,001 - 100,000",67.28,Chuck Robbins,United States,San Jose,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+207,Orano,2001,"10,001 - 50,000",67.26,Nicolas Maes,France,Châtillon,Utilities
+208,Bristol Myers Squibb,1933,"10,001 - 50,000",67.14,Chris Boerner,United States,New York,Drugs & Biotechnology
+209,DACHSER Group,1930,"10,001 - 50,000",67.11,Burkhard Eling,Germany,Kempten,Transportation and Logistics
+210,Smurfit Kappa Group PLC,1934,"10,001 - 50,000",67.1,Anthony Smurfit,Ireland,Dublin,"Engineering, Manufacturing"
+211,Fortis,1987,"5,001 - 10,000",67.01,David G. Hutchens,Canada,St. John's,Utilities
+212,Caisse de depot et de placement du Quebec,1965,"1,001 - 5,000",66.99,Charles Emond,Canada,Montreal,Banking and Financial Services
+213,Sage,1981,"10,001 - 50,000",66.94,steve Hare,United Kingdom,Newcastle upon Tyne,"IT, Software and Services"
+214,Bayer,1863,"100,001 - 500,000",66.93,Bill Anderson,Germany,Leverkusen,"Construction, Oil & Gas Operations, Mining and Chemicals"
+215,Amdocs,1982,"10,001 - 50,000",66.92,Shuky Sheffer,United States,Chesterfield,"IT, Software and Services"
+216,Sompo Japan Insurance,1887,"10,001 - 50,000",66.9,Mikio Okumura,Japan,Tokyo,Insurance
+217,Polaris,1954,"10,001 - 50,000",66.87,Michael T. Speetzen,United States,Medina,Automotive (Automotive and Suppliers)
+218,Crown Holdings,1892,"10,001 - 50,000",66.84,Timothy J. Donahue,United States,Philadelphia,"Engineering, Manufacturing"
+219,Constellium,2011,"10,001 - 50,000",66.81,Jean-Marc Germain,France,Paris,"Engineering, Manufacturing"
+220,Danone,1919,"50,001 - 100,000",66.77,Antoine de Saint-Affrique,France,Paris,"Food, Soft Beverages, Alcohol & Tobacco"
+221,Bureau Veritas,1828,"50,001 - 100,000",66.73,Hinda Gharbi,France,Paris,Business Services & Supplies
+222,Stora Enso,1988,"10,001 - 50,000",66.73,Hans Sohlström,Finland,Helsinki,"Engineering, Manufacturing"
+223,Helvetia Holding,1858,"10,001 - 50,000",66.69,Fabian Rupprecht,Switzerland,St.Gallen,Insurance
+224,Ferrero International,1946,"10,001 - 50,000",66.66,Lapo Civiletti,Italy,Alba,"Food, Soft Beverages, Alcohol & Tobacco"
+225,Allstate,1931,"50,001 - 100,000",66.63,Tom Wilson,United States,Northbrook,Insurance
+226,American Eagle Outfitters,1977,"10,001 - 50,000",66.62,Jay Schottenstein,United States,Pittsburgh,"Clothing, Shoes, Sports Equipment"
+227,Howmet Aerospace,1888,"10,001 - 50,000",66.61,John C. Plant,United States,Pittsburgh,Aerospace & Defense
+228,Metro Group,1964,"50,001 - 100,000",66.45,Steffen Greubel,Germany,Düsseldorf,"Food, Soft Beverages, Alcohol & Tobacco"
+229,Fresenius,1999,"100,001 - 500,000",66.4,Pierluigi Antonelli,Germany,Bad Homburg v.d.H.,Health Care Equipment & Services
+230,Intact Financial Corp,1809,"10,001 - 50,000",66.37,Charles Brindamour,Canada,Toronto,Insurance
+231,Sun Life Financial,1865,"50,001 - 100,000",66.31,Kevin D. Strain,Canada,Toronto,Banking and Financial Services
+232,Clarins,1954,"5,001 - 10,000",66.31,Jonathan Zrihen,France,Paris,Packaged Goods
+233,Naval Group,1631,"10,001 - 50,000",66.29,Pierre Éric Pommellet,France,Paris,Aerospace & Defense
+234,Sanofi,2004,"50,001 - 100,000",66.22,Paul Hudson,France,Paris,Drugs & Biotechnology
+235,KPMG,1987,"100,001 - 500,000",66.18,Bill Thomas,United Kingdom,London,Business Services & Supplies
+236,Palfinger,1932,"10,001 - 50,000",66.15,Andreas Klauser,Austria,Bergheim bei Salzburg,"Engineering, Manufacturing"
+237,Carrier Global Corp,1915,"50,001 - 100,000",66.13,David Gitlin,United States,Palm Beach Gardens,"Engineering, Manufacturing"
+238,UnitedHealth Group,1977,"100,001 - 500,000",66.1,Andrew Witty,United States,Minnetonka,Insurance
+239,Komatsu,1921,"50,001 - 100,000",66.08,Rodney Schrader,Japan,Tokyo,"Engineering, Manufacturing"
+240,Teleperformance,1978,"100,001 - 500,000",66.08,Daniel Julien,France,Paris,Business Services & Supplies
+241,Walgreens Boots Alliance,1901,"100,001 - 500,000",66.04,Tim Wentworth,United States,Deerfield,Retail and Wholesale
+242,Beiersdorf,1882,"10,001 - 50,000",66.03,Vincent Warnery,Germany,Hamburg,Packaged Goods
+243,Cenovus Energy,2009,"5,001 - 10,000",65.91,Jon McKenzie,Canada,Calgary,Utilities
+244,Baxter International,1931,"50,001 - 100,000",65.79,José E. Almeida,United States,Deerfield,Health Care Equipment & Services
+245,Rohde & Schwarz,1933,"10,001 - 50,000",65.64,Christian Leicher,Germany,Munich,"Engineering, Manufacturing"
+246,Groupe Lactalis,1933,"50,001 - 100,000",65.63,Emmanuel Besnier,France,Mayenne,Retail and Wholesale
+247,Acer,1976,"5,001 - 10,000",65.63,Jason Chen,Taiwan,New Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+248,Sartorius,1870,"10,001 - 50,000",65.62,Joachim Kreuzburg,Germany,Göttingen,Drugs & Biotechnology
+249,Lego,1932,"10,001 - 50,000",65.62,Niels B. Christiansen,Denmark,Billund,Packaged Goods
+250,Freudenberg & Co.,1849,"50,001 - 100,000",65.62,Mohsen Sohi,Germany,Weinheim,Automotive (Automotive and Suppliers)
+251,GAP,1969,"50,001 - 100,000",65.61,Richard Dickson,United States,San Francisco,"Clothing, Shoes, Sports Equipment"
+252,Corning,1851,"50,001 - 100,000",65.61,Wendell Weeks,United States,Corning,"Construction, Oil & Gas Operations, Mining and Chemicals"
+253,Mckesson Corporation,1833,"50,001 - 100,000",65.61,Brian Tyler,United States,Irving,Health Care Equipment & Services
+254,ACS Actividades de Construccion Y Servicios,1997,"100,001 - 500,000",65.6,Juan Santamaría,Spain,Madrid,"Construction, Oil & Gas Operations, Mining and Chemicals"
+255,Agfa-Gevaert (Agfa),1867,"10,001 - 50,000",65.58,Pascal Juéry,Belgium,Mortsel,Health Care Equipment & Services
+256,Great-West Lifeco,1925,"10,001 - 50,000",65.54,Paul A. Mahon,Canada,Montreal,Insurance
+257,Siemens,1847,"100,001 - 500,000",65.52,Roland Busch,Germany,Munich,"Engineering, Manufacturing"
+258,BDO Unibank Inc,1967,"10,001 - 50,000",65.46,Nestor V. Tan,Philippines,Makati City,Banking and Financial Services
+259,McDonald's Corporation,1995,"100,001 - 500,000",65.43,Chris Kempczinski,United States,Chicago,Restaurants
+260,Avaya,2000,"5,001 - 10,000",65.41,Alan Masarek,United States,Morristown,"Telecommunications Services, Cable Supplier"
+261,Linde plc,1879,"50,001 - 100,000",65.38,Sanjiv Lamba,Ireland,Dublin,"Construction, Oil & Gas Operations, Mining and Chemicals"
+262,General Mills,1928,"10,001 - 50,000",65.23,Jeffrey Harmening,United States,Golden Valley,"Food, Soft Beverages, Alcohol & Tobacco"
+263,Samsung,1938,"100,001 - 500,000",65.22,Jong-Hee Han,South Korea,Seoul,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+264,WPP,1971,"100,001 - 500,000",65.21,Mark Read CBE,United Kingdom,London,Media & Advertising
+265,Canadian Natural Resources,1973,"10,001 - 50,000",65.2,N. Murray Edwards,Canada,Calgary,"Construction, Oil & Gas Operations, Mining and Chemicals"
+266,Owens Corning,1938,"10,001 - 50,000",65.12,Brian Chambers,United States,Toledo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+267,Visa,1958,"10,001 - 50,000",65.11,Ryan McInerney,United States,San Francisco,Banking and Financial Services
+268,Total S.A.,1924,"50,001 - 100,000",65.1,Patrick Pouyanné,France,Paris,"Construction, Oil & Gas Operations, Mining and Chemicals"
+269,Canadian Tire Corporation,1922,"10,001 - 50,000",65.08,Greg Hicks,Canada,Toronto,Retail and Wholesale
+270,Flex,1969,"100,001 - 500,000",65.08,Revathi Advaithi,United States,Austin,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+271,IBM,1911,"100,001 - 500,000",65.07,​​​​​Arvind Krishna,United States,Armonk,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+272,Telenor,1855,"10,001 - 50,000",65.07,Sigve Brekke,Norway,Fornebu,"Telecommunications Services, Cable Supplier"
+273,Computacenter,1981,"10,001 - 50,000",65.06,Mike Norris,United Kingdom,Hatfield,"IT, Software and Services"
+274,Esprit,1968,"1,001 - 5,000",65.01,William Eui Won Pak,Hong Kong,Hong Kong,"Clothing, Shoes, Sports Equipment"
+275,Keppel Corporation,1968,"10,001 - 50,000",64.98,Loh Chin Hua,Singapore,Singapore,Banking and Financial Services
+276,Royal Bank of Canada,1864,"50,001 - 100,000",64.82,David McKay,Canada,Montreal,Banking and Financial Services
+277,Mitsui & CO,1947,"50,001 - 100,000",64.75,Kenichi Hori,Japan,Tokyo,Retail and Wholesale
+278,AstraZeneca,1999,"50,001 - 100,000",64.75,Pascal Soriot,United Kingdom,Cambridge,Drugs & Biotechnology
+279,San Miguel,1890,"50,001 - 100,000",64.72,Ramon S. Ang,Philippines,Mandaluyong,"Food, Soft Beverages, Alcohol & Tobacco"
+280,Hilti,1941,"10,001 - 50,000",64.71,Jahangir Doongaji,Liechtenstein,Schaan,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+281,Goldman Sachs Group,1869,"10,001 - 50,000",64.68,Fabrice Collet,United States,New York,Banking and Financial Services
+282,Bath & Body Works,1963,"50,001 - 100,000",64.65,Gina Boswell,United States,Columbus,Retail and Wholesale
+283,Liberty Mutual Group,1912,"10,001 - 50,000",64.65,Timothy Sweeney,United States,Boston,Insurance
+284,Swiss Re,1863,"10,001 - 50,000",64.65,Christian Mumenthaler,Switzerland,Zürich,Insurance
+285,Chevron,1879,"10,001 - 50,000",64.64,Michael K. (Mike) Wirth,United States,San Ramon,"Construction, Oil & Gas Operations, Mining and Chemicals"
+286,Amplifon,1950,"10,001 - 50,000",64.59,Enrico Vita,Italy,Milan,Health Care Equipment & Services
+287,AIR Products & Chemicals,1940,"10,001 - 50,000",64.53,Seifi Ghasemi,United States,Allentown,"Construction, Oil & Gas Operations, Mining and Chemicals"
+288,Lvmh Moet Hennessy - Louis Vuitton,1987,"100,001 - 500,000",64.4,Bernard Arnault,France,Paris,"Clothing, Shoes, Sports Equipment"
+289,Kapsch,1892,"1,001 - 5,000",64.2,Georg Kapsch,Austria,Vienna,"Telecommunications Services, Cable Supplier"
+290,Burelle,1957,"10,001 - 50,000",64.18,Laurent Favre,France,Paris,"Construction, Oil & Gas Operations, Mining and Chemicals"
+291,Societe Generale,1864,"100,001 - 500,000",64.14,Slawomir Krupa,France,Paris,Banking and Financial Services
+292,Walt Disney,1923,"100,001 - 500,000",64.14,Robert A. Iger,United States,Burbank,Media & Advertising
+293,Alimentation Couche-Tard,1980,"100,001 - 500,000",64.09,Alex Miller,Canada,Laval,"Food, Soft Beverages, Alcohol & Tobacco"
+294,Molson Coors,2005,"10,001 - 50,000",63.98,Gavin Hattersley,United States,Chicago,"Food, Soft Beverages, Alcohol & Tobacco"
+295,Prudential Plc,1848,"10,001 - 50,000",63.92,Anil Wadhwani,United Kingdom,Hong Kong & London,Banking and Financial Services
+296,Frasers Property,1988,"5,001 - 10,000",63.89,Panote Sirivadhanabhakdi,Singapore,Singapore,Professional Services
+297,Novartis,1996,"100,001 - 500,000",63.88,Vasant Narasimhan,Switzerland,Basel,Drugs & Biotechnology
+298,Global Payments,2000,"10,001 - 50,000",63.86,Cameron Bready,United States,Atlanta,"IT, Software and Services"
+299,Cinemark Holdings,1984,"10,001 - 50,000",63.86,Sean Gamble,United States,Plano,Travel & Leisure
+300,Royal Dutch Shell,2005,"100,001 - 500,000",63.86,Wael Sawan,United Kingdom,London,"Construction, Oil & Gas Operations, Mining and Chemicals"
+301,Boston Scientific,1979,"10,001 - 50,000",63.85,Michael F. Mahoney,United States,Marlborough,Health Care Equipment & Services
+302,IFF,1889,"10,001 - 50,000",63.85,Erik Fyrwald,United States,New York,"Construction, Oil & Gas Operations, Mining and Chemicals"
+303,BAWAG Group,1883,"1,001 - 5,000",63.81,Anas Abuzaakouk,Austria,Vienna,Banking and Financial Services
+304,Barclays,1896,"50,001 - 100,000",63.78,C.S. Venkatakrishnan,United Kingdom,London,Banking and Financial Services
+305,CommScope,1976,"10,001 - 50,000",63.71,Charles L. Treadway,United States,Claremont,"Telecommunications Services, Cable Supplier"
+306,Zalando,2008,"10,001 - 50,000",63.69,Robert Gentz David Schröder,Germany,Berlin,"Clothing, Shoes, Sports Equipment"
+307,Intuit,1983,"10,001 - 50,000",63.65,Sasan Goodarzi,United States,Mountain View,"IT, Software and Services"
+308,BorgWarner,1880,"10,001 - 50,000",63.63,Frédéric Lissalde,United States,Auburn Hills,Automotive (Automotive and Suppliers)
+309,HelloFresh,2011,"10,001 - 50,000",63.61,Dominik Richter,Germany,Berlin,"Food, Soft Beverages, Alcohol & Tobacco"
+310,Keysight Technologies,2014,"10,001 - 50,000",63.61,Satish Dhanasekaran,United States,Santa Rosa,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+311,Carnival Corporation,1972,"100,001 - 500,000",63.6,Josh Weinstein,United States,Miami,Travel & Leisure
+312,Sodexo,1966,"100,001 - 500,000",63.6,Sophie Bellon,France,Issy-les-Moulineaux,Business Services & Supplies
+313,Netapp,1992,"10,001 - 50,000",63.53,George Kurian,United States,San Jose,"IT, Software and Services"
+314,NCR Corp,1884,"10,001 - 50,000",63.52,David Wilkinson,United States,Atlanta,Banking and Financial Services
+315,Arrow Electronics,1935,"10,001 - 50,000",63.51,Sean J. Kerins,United States,Centennial,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+316,Arkema,2004,"10,001 - 50,000",63.49,Thierry Le Hénaff,France,Colombes,"Construction, Oil & Gas Operations, Mining and Chemicals"
+317,Bloomin' Brands,1987,"50,001 - 100,000",63.48,David Deno,United States,Tampa,Restaurants
+318,Menarini Group,1886,"10,001 - 50,000",63.47,Elcin Barker Ergun,Italy,Florence,Drugs & Biotechnology
+319,EF Education First,1965,"50,001 - 100,000",63.42,Edward Hult,Switzerland,Lucerne,Education
+320,Parexel,1982,"10,001 - 50,000",63.28,Peyton Howell,United States,Durham,Drugs & Biotechnology
+321,Aviva,2000,"10,001 - 50,000",63.2,Amanda Blanc,United Kingdom,London,Insurance
+322,Aareal Bank,1923,"1,001 - 5,000",63.2,Christian Ricken,Germany,Wiesbaden,Banking and Financial Services
+323,Absa Group,1991,"10,001 - 50,000",63.17,Arrie Rautenbach,South Africa,Johannesburg,Banking and Financial Services
+324,Maximus,1975,"10,001 - 50,000",63.15,Bruce Caswell,United States,Reston,Professional Services
+325,Tenaris,2001,"10,001 - 50,000",63.11,Paolo Rocca,Luxembourg,Luxembourg,"Engineering, Manufacturing"
+326,Aegon,1844,"100,001 - 500,000",63.11,Lard Friese,Netherlands,South Holland,Insurance
+327,Otto,1949,"10,001 - 50,000",63.07,Alexander Birken,Germany,Hamburg,Retail and Wholesale
+328,Baywa,1923,"10,001 - 50,000",63.06,Marcus Pöllinger,Germany,Munich,"Construction, Oil & Gas Operations, Mining and Chemicals"
+329,Automatic Data Processing,1949,"50,001 - 100,000",63.06,Maria Blanck,United States,Roseland,"IT, Software and Services"
+330,Specsavers Optical Group,1984,"10,001 - 50,000",63.04,John Perkins,United Kingdom,Guernsey,Retail and Wholesale
+331,KIA Motors,1944,"50,001 - 100,000",63.03,Ho-Sung Song,South Korea,Seoul,Automotive (Automotive and Suppliers)
+332,Kbr,1998,"10,001 - 50,000",63.01,Stuart J. B. Bradie,United States,Houston,"IT, Software and Services"
+333,Fraport,1924,"50,001 - 100,000",62.94,Stefan Schulte,Germany,Frankfurt am Main,Transportation and Logistics
+334,Bechtle,1983,"10,001 - 50,000",62.91,Thomas Olemotz,Germany,Neckarsulm,"Construction, Oil & Gas Operations, Mining and Chemicals"
+335,FedEx,1971,"500,001 - 1,000,000",62.89,Raj Subramaniam,United States,Memphis,Transportation and Logistics
+336,Legrand,1860,"10,001 - 50,000",62.88,Benoît Coquart,France,Limoges,"Engineering, Manufacturing"
+337,Autoliv,1953,"50,001 - 100,000",62.88,Mikael Bratt,Sweden,Stockholm,Automotive (Automotive and Suppliers)
+338,Nestle,1866,"100,001 - 500,000",62.87,Mark Schneider,Switzerland,Vevey,"Food, Soft Beverages, Alcohol & Tobacco"
+339,Panasonic,1918,"50,001 - 100,000",62.84,Masahiro Shinada,Japan,Osaka,"Engineering, Manufacturing"
+340,UNIQA,1999,"10,001 - 50,000",62.83,Andreas Brandstetter,Austria,Vienna,Insurance
+341,Merck & Co.,1891,"50,001 - 100,000",62.81,Robert M. Davis,United States,Rahway,Drugs & Biotechnology
+342,Mediclinic International,1983,"10,001 - 50,000",62.67,Ronnie van der Merwe,South Africa,Stellenbosch,Healthcare & Social
+343,Electrolux Group,1919,"50,001 - 100,000",62.65,Jonas Samuelson,Sweden,Stockholm,"Engineering, Manufacturing"
+344,Concordia Financial Group,2016,"5,001 - 10,000",62.64,Tatsuya Kataoka,Japan,Tokyo,Banking and Financial Services
+345,BearingPoint,1997,"5,001 - 10,000",62.62,Kiumars Hamidian,Netherlands,Amsterdam,Professional Services
+346,Egger,1961,"10,001 - 50,000",62.61,Thomas Leissing,Austria,St. Johann in Tirol,"Engineering, Manufacturing"
+347,Concentrix,1983,"100,001 - 500,000",62.59,Chris Caldwell,United States,Newark,Business Services & Supplies
+348,Fast Retailing,1963,"50,001 - 100,000",62.58,Tadashi Yanai,Japan,Yamaguchi,Retail and Wholesale
+349,Anywhere,2003,"5,001 - 10,000",62.54,Ryan M. Scneider,United States,Madison,Business Services & Supplies
+350,SHI International Corp.,1989,"5,001 - 10,000",62.52,Thai Lee,United States,Somerset,"IT, Software and Services"
+351,dm-Drogerie Markt,1973,"50,001 - 100,000",62.46,Christoph Werner,Germany,Karlsruhe,Retail and Wholesale
+352,Valeo,1980,"100,001 - 500,000",62.45,Christophe Périllat,France,Paris,Automotive (Automotive and Suppliers)
+353,Stellantis,2021,"100,001 - 500,000",62.42,Carlos Tavares,Netherlands,Hoofddorp,Automotive (Automotive and Suppliers)
+354,Energie AG Oberoesterreich,1892,"5,001 - 10,000",62.38,Leonhard Schitter,Austria,Linz,Utilities
+355,KLA,1997,"10,001 - 50,000",62.24,Rick Wallace,United States,Milpitas,"IT, Software and Services"
+356,Airbus,1970,"100,001 - 500,000",62.17,Guillaume Faury,Netherlands,Leiden,Aerospace & Defense
+357,Vestas Wind Systems,1945,"10,001 - 50,000",62.16,Henrik Andersen,Denmark,Aarhus,"Engineering, Manufacturing"
+358,Clariant,1995,"10,001 - 50,000",62.1,Conrad Keijzer,Switzerland,Muttenz,"Construction, Oil & Gas Operations, Mining and Chemicals"
+359,Ericsson,1876,"50,001 - 100,000",62.09,Börje Ekholm,Sweden,Stockholm,"Telecommunications Services, Cable Supplier"
+360,CBRE,1906,"100,001 - 500,000",62.07,Leslie Wininger,United States,Dallas,Professional Services
+361,Carlsberg,1847,"10,001 - 50,000",62.06,Jacob Aarup-Andersen,Denmark,Copenhagen,"Food, Soft Beverages, Alcohol & Tobacco"
+362,RE/MAX,1973,"501 - 1,000",62.03,ERIK CARLSON,United States,Denver,Business Services & Supplies
+363,Cargill,1865,"100,001 - 500,000",62.01,Bracken P. Sikes,United States,Minneapolis,"Food, Soft Beverages, Alcohol & Tobacco"
+364,ByteDance,2012,"100,001 - 500,000",61.99,Liang Rubo,China,Beijing,"IT, Software and Services"
+365,Edizione,1981,"50,001 - 100,000",61.98,Alessandro Benetton,Italy,Treviso,Retail and Wholesale
+366,TJX Companies,1987,"100,001 - 500,000",61.98,Ernie Herrman,United States,Framingham,Retail and Wholesale
+367,Raiffeisen Bank International,2010,"10,001 - 50,000",61.88,Johann Strobl,Austria,Vienna,Banking and Financial Services
+368,Covea,1999,"10,001 - 50,000",61.87,Georges de Macedo,France,Paris,Insurance
+369,Nucor,1955,"10,001 - 50,000",61.86,Leon Topalian,United States,Charlotte,"Construction, Oil & Gas Operations, Mining and Chemicals"
+370,Magna International,1957,"100,001 - 500,000",61.86,Seetarama Kotagiri,Canada,Aurora,Automotive (Automotive and Suppliers)
+371,Mahle Group,1920,"50,001 - 100,000",61.84,Arnd Franz,Germany,Stuttgart,Automotive (Automotive and Suppliers)
+372,LG,1958,"10,001 - 50,000",61.82,William Cho,South Korea,Seoul,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+373,Dupont de Nemours,2017,"10,001 - 50,000",61.74,Lori Koch,United States,Wilmington,"Construction, Oil & Gas Operations, Mining and Chemicals"
+374,Standard Chartered,1969,"50,001 - 100,000",61.69,Bill Winters,United Kingdom,London,Banking and Financial Services
+375,International Airlines Group,2011,"50,001 - 100,000",61.68,Luis Gallego,United Kingdom,London,Transportation and Logistics
+376,Abbvie,2013,"10,001 - 50,000",61.68,Robert Michael,United States,North Chicago,Drugs & Biotechnology
+377,Daimler,1998,"100,001 - 500,000",61.67,Ola Kaellenius,Germany,Stuttgart,Automotive (Automotive and Suppliers)
+378,LEONI,1917,"50,001 - 100,000",61.67,Klaus Rinnerberger,Germany,Nuremberg,Automotive (Automotive and Suppliers)
+379,AAK,2005,"1,001 - 5,000",61.65,Johan Westman,Sweden,Malmö,"Food, Soft Beverages, Alcohol & Tobacco"
+380,Thermo Fisher Scientific,1956,"100,001 - 500,000",61.59,Marc N. Casper,United States,Waltham,Health Care Equipment & Services
+381,J. M. Smucker Company,1897,"5,001 - 10,000",61.52,Mark Smucker,United States,Orrville,"Food, Soft Beverages, Alcohol & Tobacco"
+382,Jysk,1979,"10,001 - 50,000",61.52,Rami Jensen,Denmark,Aarhus,Retail and Wholesale
+383,Cooper Standard Automotiv,1936,"10,001 - 50,000",61.46,Jeffrey S. Edwards,United States,Novi,Automotive (Automotive and Suppliers)
+384,Belron,1878,"10,001 - 50,000",61.44,Francis Deprez,Belgium,Brussels,Automotive (Automotive and Suppliers)
+385,Eli Lilly,1876,"10,001 - 50,000",61.44,David A. Ricks,United States,Indianapolis,Drugs & Biotechnology
+386,Xerox,1906,"10,001 - 50,000",61.41,Steve Bandrowczak,United States,Norwalk,Business Services & Supplies
+387,Frasers Group,1982,"10,001 - 50,000",61.29,Michael Murray,United Kingdom,Mansfield,Retail and Wholesale
+388,Omron,1933,"10,001 - 50,000",61.26,Junta Tsujinaga,Japan,Kyoto,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+389,Midea Group Company,1968,"100,001 - 500,000",61.25,Hongbo Fang,China,Guandong,"Engineering, Manufacturing"
+390,Air Liquide,1902,"50,001 - 100,000",61.2,François Jackow,France,Paris,"Construction, Oil & Gas Operations, Mining and Chemicals"
+391,ArianeGroup,2015,"5,001 - 10,000",61.2,Martin Sion,France,Paris,Aerospace & Defense
+392,Robert Half International,1948,"10,001 - 50,000",61.17,M. Keith Waddell,United States,Menlo Park,Business Services & Supplies
+393,Bank of America,1998,"100,001 - 500,000",61.13,Brian Moynihan,United States,New York,Banking and Financial Services
+394,Viatris,1961,"10,001 - 50,000",61.06,Scott A. Smith,United States,Canonsburg,Drugs & Biotechnology
+395,CCL Industries,1951,"10,001 - 50,000",61.06,Geoffrey Martin,Canada,Toronto,"Engineering, Manufacturing"
+396,TD Synnex,1980,"10,001 - 50,000",61.02,Rich Hume,United States,Fremont,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+397,Grupo Saica,1943,"5,001 - 10,000",60.99,Susana Alejandro,Spain,Zaragoza,"Engineering, Manufacturing"
+398,Cadence Design Systems,1988,"10,001 - 50,000",60.96,Anirudh Devgan,United States,San Jose,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+399,Bank of Ireland,1783,"10,001 - 50,000",60.96,Myles O’Grady,Ireland,Dublin,Banking and Financial Services
+400,Fraunhofer Society,1949,"10,001 - 50,000",60.95,Holger Hanselka,Germany,Munich,Healthcare & Social
+301,Boston Scientific,1979,"10,001 - 50,000",63.85,Michael F. Mahoney,United States,Marlborough,Health Care Equipment & Services
+302,IFF,1889,"10,001 - 50,000",63.85,Erik Fyrwald,United States,New York,"Construction, Oil & Gas Operations, Mining and Chemicals"
+303,BAWAG Group,1883,"1,001 - 5,000",63.81,Anas Abuzaakouk,Austria,Vienna,Banking and Financial Services
+304,Barclays,1896,"50,001 - 100,000",63.78,C.S. Venkatakrishnan,United Kingdom,London,Banking and Financial Services
+305,CommScope,1976,"10,001 - 50,000",63.71,Charles L. Treadway,United States,Claremont,"Telecommunications Services, Cable Supplier"
+306,Zalando,2008,"10,001 - 50,000",63.69,Robert Gentz David Schröder,Germany,Berlin,"Clothing, Shoes, Sports Equipment"
+307,Intuit,1983,"10,001 - 50,000",63.65,Sasan Goodarzi,United States,Mountain View,"IT, Software and Services"
+308,BorgWarner,1880,"10,001 - 50,000",63.63,Frédéric Lissalde,United States,Auburn Hills,Automotive (Automotive and Suppliers)
+309,HelloFresh,2011,"10,001 - 50,000",63.61,Dominik Richter,Germany,Berlin,"Food, Soft Beverages, Alcohol & Tobacco"
+310,Keysight Technologies,2014,"10,001 - 50,000",63.61,Satish Dhanasekaran,United States,Santa Rosa,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+311,Carnival Corporation,1972,"100,001 - 500,000",63.6,Josh Weinstein,United States,Miami,Travel & Leisure
+312,Sodexo,1966,"100,001 - 500,000",63.6,Sophie Bellon,France,Issy-les-Moulineaux,Business Services & Supplies
+313,Netapp,1992,"10,001 - 50,000",63.53,George Kurian,United States,San Jose,"IT, Software and Services"
+314,NCR Corp,1884,"10,001 - 50,000",63.52,David Wilkinson,United States,Atlanta,Banking and Financial Services
+315,Arrow Electronics,1935,"10,001 - 50,000",63.51,Sean J. Kerins,United States,Centennial,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+316,Arkema,2004,"10,001 - 50,000",63.49,Thierry Le Hénaff,France,Colombes,"Construction, Oil & Gas Operations, Mining and Chemicals"
+317,Bloomin' Brands,1987,"50,001 - 100,000",63.48,David Deno,United States,Tampa,Restaurants
+318,Menarini Group,1886,"10,001 - 50,000",63.47,Elcin Barker Ergun,Italy,Florence,Drugs & Biotechnology
+319,EF Education First,1965,"50,001 - 100,000",63.42,Edward Hult,Switzerland,Lucerne,Education
+320,Parexel,1982,"10,001 - 50,000",63.28,Peyton Howell,United States,Durham,Drugs & Biotechnology
+321,Aviva,2000,"10,001 - 50,000",63.2,Amanda Blanc,United Kingdom,London,Insurance
+322,Aareal Bank,1923,"1,001 - 5,000",63.2,Christian Ricken,Germany,Wiesbaden,Banking and Financial Services
+323,Absa Group,1991,"10,001 - 50,000",63.17,Arrie Rautenbach,South Africa,Johannesburg,Banking and Financial Services
+324,Maximus,1975,"10,001 - 50,000",63.15,Bruce Caswell,United States,Reston,Professional Services
+325,Tenaris,2001,"10,001 - 50,000",63.11,Paolo Rocca,Luxembourg,Luxembourg,"Engineering, Manufacturing"
+326,Aegon,1844,"100,001 - 500,000",63.11,Lard Friese,Netherlands,South Holland,Insurance
+327,Otto,1949,"10,001 - 50,000",63.07,Alexander Birken,Germany,Hamburg,Retail and Wholesale
+328,Baywa,1923,"10,001 - 50,000",63.06,Marcus Pöllinger,Germany,Munich,"Construction, Oil & Gas Operations, Mining and Chemicals"
+329,Automatic Data Processing,1949,"50,001 - 100,000",63.06,Maria Blanck,United States,Roseland,"IT, Software and Services"
+330,Specsavers Optical Group,1984,"10,001 - 50,000",63.04,John Perkins,United Kingdom,Guernsey,Retail and Wholesale
+331,KIA Motors,1944,"50,001 - 100,000",63.03,Ho-Sung Song,South Korea,Seoul,Automotive (Automotive and Suppliers)
+332,Kbr,1998,"10,001 - 50,000",63.01,Stuart J. B. Bradie,United States,Houston,"IT, Software and Services"
+333,Fraport,1924,"50,001 - 100,000",62.94,Stefan Schulte,Germany,Frankfurt am Main,Transportation and Logistics
+334,Bechtle,1983,"10,001 - 50,000",62.91,Thomas Olemotz,Germany,Neckarsulm,"Construction, Oil & Gas Operations, Mining and Chemicals"
+335,FedEx,1971,"500,001 - 1,000,000",62.89,Raj Subramaniam,United States,Memphis,Transportation and Logistics
+336,Legrand,1860,"10,001 - 50,000",62.88,Benoît Coquart,France,Limoges,"Engineering, Manufacturing"
+337,Autoliv,1953,"50,001 - 100,000",62.88,Mikael Bratt,Sweden,Stockholm,Automotive (Automotive and Suppliers)
+338,Nestle,1866,"100,001 - 500,000",62.87,Mark Schneider,Switzerland,Vevey,"Food, Soft Beverages, Alcohol & Tobacco"
+339,Panasonic,1918,"50,001 - 100,000",62.84,Masahiro Shinada,Japan,Osaka,"Engineering, Manufacturing"
+340,UNIQA,1999,"10,001 - 50,000",62.83,Andreas Brandstetter,Austria,Vienna,Insurance
+341,Merck & Co.,1891,"50,001 - 100,000",62.81,Robert M. Davis,United States,Rahway,Drugs & Biotechnology
+342,Mediclinic International,1983,"10,001 - 50,000",62.67,Ronnie van der Merwe,South Africa,Stellenbosch,Healthcare & Social
+343,Electrolux Group,1919,"50,001 - 100,000",62.65,Jonas Samuelson,Sweden,Stockholm,"Engineering, Manufacturing"
+344,Concordia Financial Group,2016,"5,001 - 10,000",62.64,Tatsuya Kataoka,Japan,Tokyo,Banking and Financial Services
+345,BearingPoint,1997,"5,001 - 10,000",62.62,Kiumars Hamidian,Netherlands,Amsterdam,Professional Services
+346,Egger,1961,"10,001 - 50,000",62.61,Thomas Leissing,Austria,St. Johann in Tirol,"Engineering, Manufacturing"
+347,Concentrix,1983,"100,001 - 500,000",62.59,Chris Caldwell,United States,Newark,Business Services & Supplies
+348,Fast Retailing,1963,"50,001 - 100,000",62.58,Tadashi Yanai,Japan,Yamaguchi,Retail and Wholesale
+349,Anywhere,2003,"5,001 - 10,000",62.54,Ryan M. Scneider,United States,Madison,Business Services & Supplies
+350,SHI International Corp.,1989,"5,001 - 10,000",62.52,Thai Lee,United States,Somerset,"IT, Software and Services"
+351,dm-Drogerie Markt,1973,"50,001 - 100,000",62.46,Christoph Werner,Germany,Karlsruhe,Retail and Wholesale
+352,Valeo,1980,"100,001 - 500,000",62.45,Christophe Périllat,France,Paris,Automotive (Automotive and Suppliers)
+353,Stellantis,2021,"100,001 - 500,000",62.42,Carlos Tavares,Netherlands,Hoofddorp,Automotive (Automotive and Suppliers)
+354,Energie AG Oberoesterreich,1892,"5,001 - 10,000",62.38,Leonhard Schitter,Austria,Linz,Utilities
+355,KLA,1997,"10,001 - 50,000",62.24,Rick Wallace,United States,Milpitas,"IT, Software and Services"
+356,Airbus,1970,"100,001 - 500,000",62.17,Guillaume Faury,Netherlands,Leiden,Aerospace & Defense
+357,Vestas Wind Systems,1945,"10,001 - 50,000",62.16,Henrik Andersen,Denmark,Aarhus,"Engineering, Manufacturing"
+358,Clariant,1995,"10,001 - 50,000",62.1,Conrad Keijzer,Switzerland,Muttenz,"Construction, Oil & Gas Operations, Mining and Chemicals"
+359,Ericsson,1876,"50,001 - 100,000",62.09,Börje Ekholm,Sweden,Stockholm,"Telecommunications Services, Cable Supplier"
+360,CBRE,1906,"100,001 - 500,000",62.07,Leslie Wininger,United States,Dallas,Professional Services
+361,Carlsberg,1847,"10,001 - 50,000",62.06,Jacob Aarup-Andersen,Denmark,Copenhagen,"Food, Soft Beverages, Alcohol & Tobacco"
+362,RE/MAX,1973,"501 - 1,000",62.03,ERIK CARLSON,United States,Denver,Business Services & Supplies
+363,Cargill,1865,"100,001 - 500,000",62.01,Bracken P. Sikes,United States,Minneapolis,"Food, Soft Beverages, Alcohol & Tobacco"
+364,ByteDance,2012,"100,001 - 500,000",61.99,Liang Rubo,China,Beijing,"IT, Software and Services"
+365,Edizione,1981,"50,001 - 100,000",61.98,Alessandro Benetton,Italy,Treviso,Retail and Wholesale
+366,TJX Companies,1987,"100,001 - 500,000",61.98,Ernie Herrman,United States,Framingham,Retail and Wholesale
+367,Raiffeisen Bank International,2010,"10,001 - 50,000",61.88,Johann Strobl,Austria,Vienna,Banking and Financial Services
+368,Covea,1999,"10,001 - 50,000",61.87,Georges de Macedo,France,Paris,Insurance
+369,Nucor,1955,"10,001 - 50,000",61.86,Leon Topalian,United States,Charlotte,"Construction, Oil & Gas Operations, Mining and Chemicals"
+370,Magna International,1957,"100,001 - 500,000",61.86,Seetarama Kotagiri,Canada,Aurora,Automotive (Automotive and Suppliers)
+371,Mahle Group,1920,"50,001 - 100,000",61.84,Arnd Franz,Germany,Stuttgart,Automotive (Automotive and Suppliers)
+372,LG,1958,"10,001 - 50,000",61.82,William Cho,South Korea,Seoul,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+373,Dupont de Nemours,2017,"10,001 - 50,000",61.74,Lori Koch,United States,Wilmington,"Construction, Oil & Gas Operations, Mining and Chemicals"
+374,Standard Chartered,1969,"50,001 - 100,000",61.69,Bill Winters,United Kingdom,London,Banking and Financial Services
+375,International Airlines Group,2011,"50,001 - 100,000",61.68,Luis Gallego,United Kingdom,London,Transportation and Logistics
+376,Abbvie,2013,"10,001 - 50,000",61.68,Robert Michael,United States,North Chicago,Drugs & Biotechnology
+377,Daimler,1998,"100,001 - 500,000",61.67,Ola Kaellenius,Germany,Stuttgart,Automotive (Automotive and Suppliers)
+378,LEONI,1917,"50,001 - 100,000",61.67,Klaus Rinnerberger,Germany,Nuremberg,Automotive (Automotive and Suppliers)
+379,AAK,2005,"1,001 - 5,000",61.65,Johan Westman,Sweden,Malmö,"Food, Soft Beverages, Alcohol & Tobacco"
+380,Thermo Fisher Scientific,1956,"100,001 - 500,000",61.59,Marc N. Casper,United States,Waltham,Health Care Equipment & Services
+381,J. M. Smucker Company,1897,"5,001 - 10,000",61.52,Mark Smucker,United States,Orrville,"Food, Soft Beverages, Alcohol & Tobacco"
+382,Jysk,1979,"10,001 - 50,000",61.52,Rami Jensen,Denmark,Aarhus,Retail and Wholesale
+383,Cooper Standard Automotiv,1936,"10,001 - 50,000",61.46,Jeffrey S. Edwards,United States,Novi,Automotive (Automotive and Suppliers)
+384,Belron,1878,"10,001 - 50,000",61.44,Francis Deprez,Belgium,Brussels,Automotive (Automotive and Suppliers)
+385,Eli Lilly,1876,"10,001 - 50,000",61.44,David A. Ricks,United States,Indianapolis,Drugs & Biotechnology
+386,Xerox,1906,"10,001 - 50,000",61.41,Steve Bandrowczak,United States,Norwalk,Business Services & Supplies
+387,Frasers Group,1982,"10,001 - 50,000",61.29,Michael Murray,United Kingdom,Mansfield,Retail and Wholesale
+388,Omron,1933,"10,001 - 50,000",61.26,Junta Tsujinaga,Japan,Kyoto,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+389,Midea Group Company,1968,"100,001 - 500,000",61.25,Hongbo Fang,China,Guandong,"Engineering, Manufacturing"
+390,Air Liquide,1902,"50,001 - 100,000",61.2,François Jackow,France,Paris,"Construction, Oil & Gas Operations, Mining and Chemicals"
+391,ArianeGroup,2015,"5,001 - 10,000",61.2,Martin Sion,France,Paris,Aerospace & Defense
+392,Robert Half International,1948,"10,001 - 50,000",61.17,M. Keith Waddell,United States,Menlo Park,Business Services & Supplies
+393,Bank of America,1998,"100,001 - 500,000",61.13,Brian Moynihan,United States,New York,Banking and Financial Services
+394,Viatris,1961,"10,001 - 50,000",61.06,Scott A. Smith,United States,Canonsburg,Drugs & Biotechnology
+395,CCL Industries,1951,"10,001 - 50,000",61.06,Geoffrey Martin,Canada,Toronto,"Engineering, Manufacturing"
+396,TD Synnex,1980,"10,001 - 50,000",61.02,Rich Hume,United States,Fremont,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+397,Grupo Saica,1943,"5,001 - 10,000",60.99,Susana Alejandro,Spain,Zaragoza,"Engineering, Manufacturing"
+398,Cadence Design Systems,1988,"10,001 - 50,000",60.96,Anirudh Devgan,United States,San Jose,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+399,Bank of Ireland,1783,"10,001 - 50,000",60.96,Myles O’Grady,Ireland,Dublin,Banking and Financial Services
+400,Fraunhofer Society,1949,"10,001 - 50,000",60.95,Holger Hanselka,Germany,Munich,Healthcare & Social

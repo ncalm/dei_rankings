@@ -1,0 +1,333 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Die Mobiliar,1826,>200,8.71,Michèle Rodoni,null,Bern,Insurance
+2,Delica,2021,>200,8.47,Thomas Gubler,null,Buchs,Manufacture of Food and other Consumer Goods
+3,Rhätische Bahn,1888,>200,8.41,Dr. Renato Fasciati,null,Chur,Transportation and Logistics
+4,Zurich,1872,>200,8.24,Juan Beer,null,Zürich,Insurance
+5,Rivella,1952,>200,8.24,Silvan Brauen,null,Rothrist,Manufacture of Food and other Consumer Goods
+6,Breitling,1884,>200,8.18,Georges Kern,null,Grenchen,Watches and Jewelry
+7,BLS,1906,>200,8.16,Daniel Schafer,null,Bern,Transportation and Logistics
+8,Rolex,1905,>200,8.12,Jean-Frédéric Dufour,null,Genf,Watches and Jewelry
+9,Sanitas Krankenversicherung,1958,>200,8.07,Dr. Andreas Schönenberger,null,Zürich,Insurance
+10,UCB Farchim,1996,>200,8.07,Jean-Christophe Tellier,null,Bulle,Chemicals and Pharmaceuticals
+11,CSS Versicherung,1899,>200,8.06,Philomena Colatrella,null,Luzern,Insurance
+12,Confiserie Sprüngli,1836,>200,8.05,Tomas Prenosil,null,Zürich,Manufacture of Food and other Consumer Goods
+13,Zweifel Pomy-Chips,1958,>200,8.03,Dr. Christoph Zweifel,null,Zürich,Manufacture of Food and other Consumer Goods
+14,Victorinox,1884,>200,7.99,Carl Elsener junior,null,Ibach-Schwyz,Manufacture of Food and other Consumer Goods
+14,Victorinox,1884,>200,7.99,Carl Elsener junior,null,Ibach-Schwyz,Watches and Jewelry
+15,Thurgauer Kantonalbank,1871,>200,7.97,Thomas Koller,null,Weinfelden,International and Investment Banking
+16,Schweizerische Südostbahn,2001,>200,7.95,Thomas Küchler,null,St. Gallen,Transportation and Logistics
+17,EPFL Eidgenössische Technische Hochschule Lausanne,1853,>200,7.92,Martin Vetterli,null,Lausanne,Education and Research
+18,BEKB Berner Kantonalbank,1834,>200,7.9,Armin Brun,null,Bern,International and Investment Banking
+19,Google,2004,>200,7.89,Christine Antlanger-Winter,null,Zürich,"Internet, Telecommunications and IT"
+20,Richemont,1988,>200,7.87,Nicolas Bos,null,Bellevue,Watches and Jewelry
+21,Universität Freiburg,1889,>200,7.86,Katharina Fromm,null,Freiburg,Education and Research
+22,Schweizer Paraplegiker-Gruppe,1975,>200,7.85,Luca Jelmoni,null,Nottwil,Healthcare and Social
+23,Cisco,1984,>200,7.85,Christopher Tighe,null,Wallisellen,"Internet, Telecommunications and IT"
+24,LVMH,1987,>200,7.83,Bernard Arnault,null,La Chaux-de-Fonds,Watches and Jewelry
+25,Helvetia Versicherungen,1858,>200,7.81,Fabian Rupprecht,null,Basel,Insurance
+26,Marti Gruppe,1922,>200,7.79,Peter Blättler,null,Moosseedorf,Construction
+27,Pistor,1916,>200,7.78,Patrick Lobsiger,null,Rothenburg,Wholesale
+28,Bühler,1860,>200,7.78,Stefan Scheiber,null,Uzwil,Mechanical and Plant Engineering
+29,Decathlon,2016,>200,7.76,Christian Ollier,null,Genf,Retail
+30,ti&m,2005,>200,7.76,Thomas Wüst,null,Zürich,"Internet, Telecommunications and IT"
+31,Zürcher Kantonalbank,1869,>200,7.75,Urs Baumann,null,Zürich,International and Investment Banking
+32,Pax Gruppe,1876,>200,7.75,Peter Kappeler,null,Basel,Insurance
+33,Emmi Gruppe,1993,>200,7.75,Ricarda Demarmels,null,Luzern,Manufacture of Food and other Consumer Goods
+34,Roche,1896,>200,7.74,Dr. Thomas Schinecker,null,Basel,Chemicals and Pharmaceuticals
+35,ETH Eidgenössische Technische Hochschule Zürich,1855,>200,7.74,Dr. Joël Mesot,null,Zürich,Education and Research
+36,Axpo,2001,>200,7.73,Christoph Brand,null,Baden,Energy and Communal Services
+37,Schweizerische Bundesbahnen SBB,1902,>200,7.72,Vincent Ducrot,null,Bern,Transportation and Logistics
+38,Caritas,1901,>200,7.71,Peter Lack,null,Luzern,Healthcare and Social
+39,Suva,1912,>200,7.7,Felix Weber,null,Luzern,Insurance
+40,CERN,1954,>200,7.69,Fabiola Gianotti,null,Geneva,Education and Research
+41,Swiss Life,1857,>200,7.68,Roman Stein,null,Zürich,Insurance
+42,Stiftung Bühl,1870,>200,7.67,Brigitte Steimen,null,Wädenswil,Healthcare and Social
+43,CHRIST,1975,>200,7.66,Massimo Carraro,null,Winterthur,Retail
+44,Aare Seeland Mobil,1999,>200,7.66,Fredy Miller,null,Langenthal,Transportation and Logistics
+45,Huawei Technologies,2008,>200,7.64,Michael Yang,null,Liebefeld,"Internet, Telecommunications and IT"
+46,Canon Schweiz,1946,>200,7.64,Markus Naegeli,null,Wallisellen,"Electronics, Electrical Engineering, Medical Devices"
+47,IKEA Schweiz,1973,>200,7.63,Janie Bisset,null,Spreitenbach,Retail
+48,Swiss Re,1863,>200,7.63,Andreas Berger,null,Zürich,Insurance
+49,Pilatus Flugzeugwerke,1939,>200,7.62,Markus Bucher,null,Stans,Automotive and Vehicle Manufacturing and Sales
+50,Bernmobil,1900,>200,7.62,René Schmied,null,Bern,Transportation and Logistics
+51,ITRIS Gruppe,1986,>200,7.61,Alfred Winkler,null,Spreitenbach,"Internet, Telecommunications and IT"
+52,CAMION TRANSPORT,1925,>200,7.6,Josef Jäger,null,Wil,Transportation and Logistics
+53,Zur Rose,1993,>200,7.6,Emanuel Lorini,null,Frauenfeld,Wholesale
+54,ABB,1891,>200,7.58,Nora Teuwsen,null,Zürich,Mechanical and Plant Engineering
+55,Implenia,2006,>200,7.57,André Wyss,null,Glattpark,Construction
+56,BKW,1898,>200,7.55,Robert Itschner,null,Bern,Energy and Communal Services
+57,AXA Versicherungen,1875,>200,7.55,Fabrizio Petrillo,null,Winterthur,Insurance
+58,LGT,1983,>200,7.55,Anke Bridge Haux,null,Basel,International and Investment Banking
+59,Losinger Marazzi,1917,>200,7.55,Pascal Bärtschi,null,Bern,Construction
+60,Services industriels de Genève,1896,>200,7.54,Alain Zbinden,null,Le Lignon,Energy and Communal Services
+61,Schindler,1874,>200,7.54,Patrick Hess,null,Ebikon,Mechanical and Plant Engineering
+62,Uniklinik Balgrist,1912,>200,7.54,Thomas Huggler,null,Zürich,Healthcare and Social
+63,UMB,1978,>200,7.54,Martin Gartmann,null,Cham,"Internet, Telecommunications and IT"
+64,Franke Gruppe,1911,>200,7.53,Patrik Wohlhauser,null,Aarburg,"Electronics, Electrical Engineering, Medical Devices"
+65,AEW Energie,1916,>200,7.53,Marc Ritter,null,Aarau,Energy and Communal Services
+66,Aebi Schmidt,1883,>200,7.51,ceo internationa?,null,Frauenfeld,Automotive and Vehicle Manufacturing and Sales
+67,Hirslanden,1932,>200,7.51,Daniel Liedtke,null,Glattpark,Healthcare and Social
+68,Helsana Gruppe,1996,>200,7.49,Roman Sonderegger,null,Dübendorf,Insurance
+69,Audika,2016,>200,7.48,Michael Grathwohl,null,Urdorf,Retail
+70,PostFinance,1906,>200,7.48,Beat Röthlisberger,null,Bern,International and Investment Banking
+71,Kinderspital Zürich,1874,>200,7.48,Georg Schäppi,null,Zürich,Healthcare and Social
+72,IBM Schweiz,1927,>200,7.48,Christian Keller,null,Zürich,"Internet, Telecommunications and IT"
+73,Luzerner Kantonalbank,1850,>200,7.47,Daniel Salzman,null,Luzern,International and Investment Banking
+74,Universität St. Gallen,1898,>200,7.45,Manuel Ammann,null,St. Gallen,Education and Research
+75,Schweizerisches Rotes Kreuz,1866,>200,7.44,Thomas Zeltner,null,Bern,Healthcare and Social
+76,Chicorée Mode,1982,>200,7.44,Pascal Weber,null,Dietikon,Retail
+77,Noser Group,1984,>200,7.42,Herbert Ender,null,Zürich,"Internet, Telecommunications and IT"
+78,Walliser Kantonalbank,1917,>200,7.42,Oliver Schnyder,null,Sitten,International and Investment Banking
+79,Universität Basel,1460,>200,7.42,Andrea Schenker-Wicki,null,Basel,Education and Research
+80,Stadtspital Zürich Triemli,1953,>200,7.42,Marc Widmer,null,Zürich,Healthcare and Social
+81,Frutiger Gruppe,1869,>200,7.42,Rudolf Lagger,null,Thun,Construction
+82,Raiffeisen Gruppe,1899,>200,7.41,Heinz Huber,null,St. Gallen,International and Investment Banking
+83,AMAC Aerospace,2007,>200,7.41,Kadri Muhiddin,null,Basel,Transportation and Logistics
+84,ESA - Einkaufsorganisation des Schweizerischen Auto- und Motorfahrzeuggewerbes,1930,>200,7.41,Giorgio Feitknecht,null,Burgdorf,Wholesale
+85,Ypsomed,1984,>200,7.4,Simon Michel,null,Burgdorf,"Electronics, Electrical Engineering, Medical Devices"
+86,Coop,1890,>200,7.4,Philipp Wyss,null,Basel,Retail
+87,SWICA Gesundheitsorganisation,1992,>200,7.4,Reto Dahinden,null,Winterthur,Insurance
+88,Geberit,1874,>200,7.4,Christian Buhl,null,Jona,Production and Processing of Raw and Building Materials
+89,Holcim Schweiz,1912,>200,7.4,Marco Maccarelli,null,Zürich,Production and Processing of Raw and Building Materials
+90,Lonza,1897,>200,7.4,Wolfgang Wienand,null,Basel,Chemicals and Pharmaceuticals
+91,T-Systems,1965,>200,7.39,Thomas Reitze,null,Zollikofen,"Internet, Telecommunications and IT"
+92,Skyguide,1922,>200,7.39,Alex Bristol,null,Genf,Transportation and Logistics
+92,Skyguide,1922,>200,7.39,Alex Bristol,null,Genf,Consulting
+93,Allianz,1890,>200,7.39,Ruedi Kubat,null,Wallisellen,Insurance
+94,Patek Philippe,1839,>200,7.37,Thierry Stern,null,Plan les Ouates,Watches and Jewelry
+95,Unilever,1883,>200,7.37,Bernhard Schober,null,Thayngen,Manufacture of Food and other Consumer Goods
+96,Matterhorn Gotthard Bahn,1891,>200,7.37,Fernando Lehner,null,Brig,Transportation and Logistics
+97,Burkhalter,1959,>200,7.37,Zeno Böhm,null,Zürich,"Electronics, Electrical Engineering, Medical Devices"
+97,Burkhalter,1959,>200,7.37,Zeno Böhm,null,Zürich,Consulting
+98,DER Touristik Suisse,1906,>200,7.37,Stephanie Schulze zur Wiesch,null,Zürich,"Restaurants, Tourism, Sports and Recreational Services"
+99,CSEM Centre Suisse d’Electronique et de Microtechnique,1984,>200,7.36,Alexandre Pauchard,null,Neuenburg,Education and Research
+100,Stiftung Brändi,1968,>200,7.36,Marcel Hossli,null,Kriens,Healthcare and Social
+101,Siemens Schweiz,1894,>200,7.36,Gerd Scheller,null,Zürich,Automotive and Vehicle Manufacturing and Sales
+101,Siemens Schweiz,1894,>200,7.36,Gerd Scheller,null,Zürich,Mechanical and Plant Engineering
+102,Alstom,1842,>200,7.35,Henri Poupart-Lafarge,null,Zürich,Automotive and Vehicle Manufacturing and Sales
+103,Thurbo,2001,>200,7.35,Claudia Bossert,null,Kreuzlingen,Transportation and Logistics
+104,Hälg Group,1922,>200,7.34,Sandro Keller,null,St. Gallen,Construction
+105,Bobst Group,1890,>200,7.34,Jean-Pascal Bobst,null,Lausanne,Mechanical and Plant Engineering
+106,Vaudoise Versicherungen,1895,>200,7.34,Jean-Daniel Laffely,null,Lausanne,Insurance
+107,Abacus Research,1985,>200,7.33,Claudio Hintermann,null,Wittenbach,"Internet, Telecommunications and IT"
+108,Adval Tech,1924,>200,7.33,René Rothen,null,Niederwangen,Production and Processing of Raw and Building Materials
+109,AMAG Group,1945,>200,7.33,Helmut Ruhl,null,Cham,Automotive and Vehicle Manufacturing and Sales
+110,Tchibo Schweiz,2001,>200,7.32,Marcel R. Saluz,null,Wallisellen,Retail
+111,Pro Infirmis,1920,>200,7.32,Felicitas Huggenberger,null,Zürich,Healthcare and Social
+112,EMPA,1880,>200,7.32,Tanja Zimmermann,null,Dübendorf,Education and Research
+113,BMW,1953,>200,7.32,Sergio Solero,null,Dielsdorf,Automotive and Vehicle Manufacturing and Sales
+114,Derendinger,1930,>200,7.31,Karl Heusi,null,Cham,Automotive and Vehicle Manufacturing and Sales
+115,Abbott,1894,>200,7.31,Robert B. Ford,null,Baar,Chemicals and Pharmaceuticals
+115,Abbott,1894,>200,7.31,Robert B. Ford,null,Baar,"Electronics, Electrical Engineering, Medical Devices"
+116,Schulthess Klinik,1883,>200,7.28,Andrea Rytz,null,Zürich,Healthcare and Social
+117,Johnson & Johnson,1886,>200,7.27,Sarah Müllerund Roman Iselin,null,Schaffhausen,Chemicals and Pharmaceuticals
+117,Johnson & Johnson,1886,>200,7.27,Sarah Müllerund Roman Iselin,null,Schaffhausen,Manufacture of Food and other Consumer Goods
+118,BFH Berner Fachhochschule,1997,>200,7.26,Sebastian Wörwag,null,Bern,Education and Research
+119,Bechtle,1983,>200,7.26,Christian Speck,null,Dübendorf,"Internet, Telecommunications and IT"
+119,Bechtle,1983,>200,7.26,Christian Speck,null,Dübendorf,Wholesale
+120,bbv Software Services,1995,>200,7.25,Philipp Kronenberg,null,Luzern,"Internet, Telecommunications and IT"
+121,C&A Mode,1841,>200,7.24,Edward Brenninkmeijer,null,Baar,Retail
+122,Lindenhofgruppe,1908,>200,7.24,Jan Wiegand,null,Bern,Healthcare and Social
+123,Universität Bern,1834,>200,7.24,Virginia Richter,null,Bern,Education and Research
+124,Givaudan Schweiz,1895,>200,7.23,Gilles Andrier,null,Vernier,Chemicals and Pharmaceuticals
+125,Ferrum,1923,>200,7.23,Karl A. Baumann,null,Schafisheim,Mechanical and Plant Engineering
+126,FHNW Fachhochschule Nordwestschweiz,2006,>200,7.23,Crispino Bergamaschi,null,Windisch,Education and Research
+127,Orell Füssli Gruppe,1519,>200,7.23,Daniel Link,null,Zürich,Retail
+128,SFS Group,1928,>200,7.23,Jens Breu,null,Heerbrugg,Production and Processing of Raw and Building Materials
+129,Novartis,1996,>200,7.23,Vasant Narasimhan,null,Basel,Chemicals and Pharmaceuticals
+130,Debrunner Koenig,1755,>200,7.22,Thomas Liner,null,St. Gallen,Wholesale
+131,Baloise Group,1863,>200,7.22,Michael Müller,null,Basel,Insurance
+132,Accenture Schweiz,1951,>200,7.21,ceo internationa?,null,Basel,Consulting
+133,Hospice général,1535,>200,7.21,Christophe Girod,null,Genf,Healthcare and Social
+134,HES-SO Fachhochschule Westschweiz,1998,>200,7.2,Luciana Vaccaro,null,Delémont,Education and Research
+135,EKZ Elektrizitätswerke des Kantons Zürich,1908,>200,7.2,Yannick Hanselmann,null,Zürich,Energy and Communal Services
+136,Landi Schweiz,1964,>200,7.2,Ernst Hunkeler,null,Dotzigen,Retail
+137,Universität Lausanne,1890,>200,7.2,Frédéric Herman,null,Lausanne,Education and Research
+138,Nespresso,1986,>200,7.19,Guillaume Le Cunff,null,Vevey,Manufacture of Food and other Consumer Goods
+139,Elektrizitätswerk der Stadt Zürich,1892,>200,7.19,Benedikt Loepfe,null,Zürich,Energy and Communal Services
+140,Hamilton Bonaduz,1966,>200,7.18,Steve Hamilton,null,Bonaduz,"Electronics, Electrical Engineering, Medical Devices"
+141,ZHAW Zürcher Hochschule für Angewandte Wissenschaften,2007,>200,7.17,Silvia Steiner,null,Winterthur,Education and Research
+142,Clientis Bank,2003,>200,7.17,Christian Egli,null,Bern,International and Investment Banking
+143,Migros Bank,1958,>200,7.17,Manuel Kunzelmann,null,Zürich,International and Investment Banking
+144,Glarner Kantonalbank,1884,>200,7.16,Sven Wiederkehr,null,Glarus,International and Investment Banking
+145,Agrisano,1992,>200,7.16,Christian Scharpf,null,Brugg,Insurance
+146,Jungfraubahn,1912,>200,7.15,Us Kessler,null,Interlaken,Transportation and Logistics
+147,Hotelplan Suisse,1935,>200,7.15,Laura Meyer,null,Glattbrugg,"Restaurants, Tourism, Sports and Recreational Services"
+148,VBZ Verkehrsbetriebe Zürich,1896,>200,7.15,Marco Lüthi,null,Zürich,Transportation and Logistics
+149,Bank Vontobel,1936,>200,7.14,Christel Rendu de Lint und Georg Schubiger,null,Zürich,International and Investment Banking
+150,Flughafen Zürich,1948,>200,7.14,Lukas Brosi,null,Zürich,Transportation and Logistics
+151,Migros,1925,>200,7.14,Mario Irminger,null,Zürich,Retail
+152,CSL Behring,1949,>200,7.13,Paul McKenzie,null,Bern,Chemicals and Pharmaceuticals
+153,Basler Kantonalbank,1899,>200,7.13,Basil Heeb,null,Basel,International and Investment Banking
+154,VZ VermögensZentrum,1993,>200,7.12,Philipp Heer,null,Zürich,International and Investment Banking
+155,WSP Ingenieure und Berater AG,1954,>200,7.12,Tobias Hohermuth,null,Luzern,Construction
+155,WSP Ingenieure und Berater AG,1954,>200,7.12,Tobias Hohermuth,null,Luzern,Consulting
+156,HG Commerciale,1899,>200,7.11,Martin Tobler,null,Zürich,Production and Processing of Raw and Building Materials
+156,HG Commerciale,1899,>200,7.11,Martin Tobler,null,Zürich,Wholesale
+157,CKW-Gruppe,1950,>200,7.11,Martin Schwab,null,Luzern,Energy and Communal Services
+158,Kantonsspital Winterthur,1876,>200,7.1,Guido Speck,null,Winterthur,Healthcare and Social
+159,Prodega/Growa/Transgourmet,1964,>200,7.1,​Philipp Dautzenberg,null,Moosseedorf,Wholesale
+160,Groupe E,1907,>200,7.09,Jacques Mauron,null,Granges-Paccot,Energy and Communal Services
+161,ALDI Schweiz,2005,>200,7.07,Jérôme Meyer,null,Schwarzenbach,Retail
+162,PSI Paul Scherrer Institut,1988,>200,7.07,Christian Rüegg,null,Villigen,Education and Research
+163,Swisscom,1997,>200,7.07,Christoph Aeschlimann,null,Bern,"Internet, Telecommunications and IT"
+164,Aargauische Kantonalbank,1913,>200,7.07,Dieter Widmer,null,Aarau,International and Investment Banking
+165,TPF - Freiburgische Verkehrsbetriebe,1968,>200,7.07,Serge Collaud,null,Givisiez,Transportation and Logistics
+166,St.Galler Kantonalbank,1868,>200,7.06,Christian Schmid,null,St. Gallen,International and Investment Banking
+167,Hitachi Group,1910,>200,7.05,Keiji Kojima,null,Zürich,"Internet, Telecommunications and IT"
+168,Sandoz,1886,>200,7.05,Alexander Salzmann,null,Rotkreuz,Healthcare and Social
+169,Kantonsspital Baselland,2012,>200,7.04,Norbert Schnitzler,null,Liestal,Healthcare and Social
+170,Universität Genf,1873,>200,7.04,Audrey Leuba,null,Genf,Education and Research
+171,Emil Frey,1924,>200,7.03,Gerhard Schürmann,null,Zürich,Automotive and Vehicle Manufacturing and Sales
+172,Die Schweizerische Post,1849,>200,7.03,Roberto Cirillo,null,Bern,Transportation and Logistics
+173,Kliniken Valens,1970,>200,7.03,Till Hornung,null,Valens,Healthcare and Social
+174,Swissquote Bank,2000,>200,7.02,Marc Bürki,null,Gland,International and Investment Banking
+175,Sika,1987,>200,7.02,Mario Schwegler,null,Zürich,Production and Processing of Raw and Building Materials
+176,Mercedes-Benz Schweiz,1912,>200,7.01,Roland Schell,null,Schlieren,Automotive and Vehicle Manufacturing and Sales
+177,Equans Switzerland,1834,>200,7.01,Antonin Guez,null,Zürich,Consulting
+178,Abraxas Informatik,1998,>200,7.01,Reto Gutmann,null,St. Gallen,"Internet, Telecommunications and IT"
+179,BLKB Basellandschaftliche Kantonalbank,1864,>200,7,John Häfelfinger,null,Liestal,International and Investment Banking
+180,Mettler Toledo,1945,>200,6.99,Patrick Kaltenbach,null,Greifensee,"Electronics, Electrical Engineering, Medical Devices"
+181,BASF,1865,>200,6.99,Markus Kamieth,null,Basel,Chemicals and Pharmaceuticals
+182,Bio Partner Schweiz,2007,>200,6.99,Andreas Lieberherr,null,Seon,Wholesale
+183,Badrutt's Palace Hotel,1896,>200,6.99,Richard Leuenberger,null,St. Moritz,"Restaurants, Tourism, Sports and Recreational Services"
+184,Robert Bosch,1920,>200,6.98,Stefan Hartung,null,Zuchwil,Automotive and Vehicle Manufacturing and Sales
+184,Robert Bosch,1920,>200,6.98,Stefan Hartung,null,Zuchwil,"Electronics, Electrical Engineering, Medical Devices"
+185,Julius Baer,1890,>200,6.98,Stefan Bollinger,null,Zürich,International and Investment Banking
+186,Ergon Informatik,1984,>200,6.96,Gabriela Keller,null,Zürich,"Internet, Telecommunications and IT"
+187,Dosenbach-Ochsner,1865,>200,6.96,Jürgen Pinggera und Stefan Küppers,null,Dietikon,Retail
+188,KPT,1890,>200,6.96,Thomas Harnischberg,null,Bern,Insurance
+189,Aligro,1966,>200,6.96,"Etienne Demaurex, Dominique Demaurex",null,Gossau,Wholesale
+190,Calida,1941,>200,6.96,Felix Sulzberger,null,Oberkirch,Retail
+191,Universität Zürich,1833,>200,6.96,Michael Schaepman,null,Zürich,Education and Research
+192,Saint-Gobain,1665,>200,6.95,Benoit Bazin,null,Zürich,Production and Processing of Raw and Building Materials
+193,Bucher Industries,1807,>200,6.94,Jacques Sanche,null,Niederweningen,Automotive and Vehicle Manufacturing and Sales
+193,Bucher Industries,1807,>200,6.94,Jacques Sanche,null,Niederweningen,Mechanical and Plant Engineering
+194,Güdel,1954,>200,6.94,Armin Haller,null,Langenthal,Mechanical and Plant Engineering
+194,Güdel,1954,>200,6.94,Armin Haller,null,Langenthal,Production and Processing of Raw and Building Materials
+195,Stadler,1942,>200,6.94,Markus Bernsteiner,null,Bussnang,Automotive and Vehicle Manufacturing and Sales
+196,Romande Energie,1997,>200,6.93,Petit Christian,null,Morges,Energy and Communal Services
+197,Fritz Studer,1912,>200,6.93,Jens Bleher,null,Thun,Mechanical and Plant Engineering
+198,Twerenbold,1895,>200,6.92,Thomas Meier,null,Rütihof,"Restaurants, Tourism, Sports and Recreational Services"
+199,Sunrise,1996,>200,6.92,André Krause,null,Glattpark,"Internet, Telecommunications and IT"
+200,ELCA Informatik,1968,>200,6.92,Cédric Moret,null,Pully,"Internet, Telecommunications and IT"
+201,KPMG,1910,>200,6.92,Stefan Pfister,null,Zürich,Consulting
+202,The Swatch Group,1983,>200,6.92,Nick Hayek,null,Biel,Watches and Jewelry
+203,Competec,1994,>200,6.92,Stefan Fraude,null,Mägenwil,Retail
+204,Merck,1929,>200,6.92,Florian Schick,null,Zug,Chemicals and Pharmaceuticals
+205,CHUV,1890,>200,6.89,Nicolas Demartines,null,Lausanne,Healthcare and Social
+206,Atupri Gesundheitsversicherung,1910,>200,6.88,Christof Zürchner,null,Bern,Insurance
+207,SWISS,2002,>200,6.88,Dennis Weber,null,Basel,Transportation and Logistics
+208,Burckhardt Compression,1844,>200,6.87,Fabrice Billard,null,Winterthur,Mechanical and Plant Engineering
+209,Jansen,1923,>200,6.87,Priska Jansen; Christoph Jansen,null,Oberriet,Production and Processing of Raw and Building Materials
+210,Zuger Kantonsspital,1864,>200,6.87,Daniel Staffelbach,null,Baar,Healthcare and Social
+211,Renault,1898,>200,6.87,Luca de Meo,null,Urdorf,Automotive and Vehicle Manufacturing and Sales
+212,SABAG,1913,>200,6.86,Harry Bosshardt / Hanspeter Jordi,null,Biel,Production and Processing of Raw and Building Materials
+212,SABAG,1913,>200,6.86,Harry Bosshardt / Hanspeter Jordi,null,Biel,Wholesale
+213,BCV Waadtländische Kantonalbank,1845,>200,6.85,Pascal Kiener,null,Lausanne,International and Investment Banking
+214,PDGR Psychiatrische Dienste Graubünden,1855,>200,6.85,Marc Kollegger,null,Cazis,Healthcare and Social
+215,Interdiscount,1970,>200,6.84,Pierre Wenger,null,Jegenstorf,Retail
+216,Lamprecht Transport,1945,>200,6.83,Jenny Vargas Lamprecht,null,Basel,Transportation and Logistics
+217,TUI,1996,>200,6.83,Philipp von Czapiewski,null,Zürich,"Restaurants, Tourism, Sports and Recreational Services"
+218,Pro Senectute,1917,>200,6.82,Alain Huber,null,Zürich,Healthcare and Social
+219,Medbase,2001,>200,6.82,Marcel Napierala,null,Winterthur,Healthcare and Social
+220,Swiss Automotive Group,1930,>200,6.82,Arnold Marty,null,Cham,Automotive and Vehicle Manufacturing and Sales
+221,BDO,1932,>200,6.82,Thomas Studhalter,null,Zürich,Consulting
+222,Electrolux,1919,>200,6.81,Jonas Samuelson,null,Zürich,"Electronics, Electrical Engineering, Medical Devices"
+223,Adecco,1996,>200,6.81,Denis Machuel,null,Lausanne,Consulting
+224,DSM,1902,>200,6.81,Dimitri de Vreeze,null,Kaiseraugst,Manufacture of Food and other Consumer Goods
+225,Liebherr,1949,>200,6.8,Jan Liebherr,null,Bulle,Mechanical and Plant Engineering
+225,Liebherr,1949,>200,6.8,Jan Liebherr,null,Bulle,"Electronics, Electrical Engineering, Medical Devices"
+226,Syngenta,2000,>200,6.79,Jeff Rowe,null,Basel,Chemicals and Pharmaceuticals
+227,Compass Group,1971,>200,6.78,Dr. Christian Funk,null,Kloten,"Restaurants, Tourism, Sports and Recreational Services"
+228,Bayer,1954,>200,6.78,Ernst Coppens,null,Zürich,Chemicals and Pharmaceuticals
+229,Swisscard AECS,1998,>200,6.78,Guido Müller,null,Horgen,International and Investment Banking
+230,Baumann Federn,1886,>200,6.77,Thomas H. Rüegg,null,Ermenswil,Production and Processing of Raw and Building Materials
+231,SV Group,1914,>200,6.77,Patrick Camele,null,Dübendorf,"Restaurants, Tourism, Sports and Recreational Services"
+232,MSD Merck Sharp & Dohme,1891,>200,6.77,Dimitri Gitas,null,Luzern,Chemicals and Pharmaceuticals
+233,PHSG Pädagogische Hochschule St. Gallen,2007,>200,6.77,Prof. Dr. Horst Biedermann,null,St. Gallen,Education and Research
+234,BMS Building Materials Suisse,1865,>200,6.76,Remco Teulings,null,Bern,Wholesale
+235,EHL Group,1893,>200,6.75,Markus Venzin,null,Lausanne,Education and Research
+236,EF Education First,1965,>200,6.74,Edward Hult,null,Zürich,Education and Research
+237,Spital Thun,1875,>200,6.74,Adrian Gehri,null,Thun,Healthcare and Social
+238,Edmond de Rothschild,1953,>200,6.74,Yves Perrier,null,Genf,International and Investment Banking
+239,V-ZUG,1913,>200,6.74,Peter Spirig,null,Zug,Retail
+240,Spitex,1995,>200,6.73,Markus Reck,null,Bern,Healthcare and Social
+241,FOJ - Fondation Officielle de la jeunesse,1898,>200,6.73,David Crisafulli,null,Lancy,Education and Research
+241,FOJ - Fondation Officielle de la jeunesse,1898,>200,6.73,David Crisafulli,null,Lancy,Healthcare and Social
+242,UBS,1998,>200,6.73,Sergio P. Ermotti,null,Zürich,International and Investment Banking
+243,Universitätsspital Genf,1995,>200,6.73,Mr Alain Kolly,null,Genf,Healthcare and Social
+244,GEWA Stiftung für berufliche Integration,1986,>200,6.73,Thomas Harnisch,null,Zollikofen,Healthcare and Social
+245,EFG Bank,1995,>200,6.72,Giorgio Pradelli,null,Zürich,International and Investment Banking
+246,UniversitätsSpital Zürich,1833,>200,6.72,Monika Jänicke,null,Zürich,Healthcare and Social
+247,Universitäre Psychiatrische Dienste Bern,1996,>200,6.72,Josef Müller,null,Ostermundigen,Healthcare and Social
+247,Universitäre Psychiatrische Dienste Bern,1996,>200,6.72,Josef Müller,null,Ostermundigen,Education and Research
+248,Luzerner Kantonsspital,1907,>200,6.72,Benno Fuchs,null,Luzern,Healthcare and Social
+249,Migrol,1954,>200,6.71,Andreas Flütsch,null,Adliswil,Energy and Communal Services
+250,Micarna,1958,>200,6.71,Hans-Ruedi Christen,null,Zürich,Manufacture of Food and other Consumer Goods
+191,Universität Zürich,1833,>200,6.96,Michael Schaepman,null,Zürich,Education and Research
+192,Saint-Gobain,1665,>200,6.95,Benoit Bazin,null,Zürich,Production and Processing of Raw and Building Materials
+193,Bucher Industries,1807,>200,6.94,Jacques Sanche,null,Niederweningen,Automotive and Vehicle Manufacturing and Sales
+193,Bucher Industries,1807,>200,6.94,Jacques Sanche,null,Niederweningen,Mechanical and Plant Engineering
+194,Güdel,1954,>200,6.94,Armin Haller,null,Langenthal,Mechanical and Plant Engineering
+194,Güdel,1954,>200,6.94,Armin Haller,null,Langenthal,Production and Processing of Raw and Building Materials
+195,Stadler,1942,>200,6.94,Markus Bernsteiner,null,Bussnang,Automotive and Vehicle Manufacturing and Sales
+196,Romande Energie,1997,>200,6.93,Petit Christian,null,Morges,Energy and Communal Services
+197,Fritz Studer,1912,>200,6.93,Jens Bleher,null,Thun,Mechanical and Plant Engineering
+198,Twerenbold,1895,>200,6.92,Thomas Meier,null,Rütihof,"Restaurants, Tourism, Sports and Recreational Services"
+199,Sunrise,1996,>200,6.92,André Krause,null,Glattpark,"Internet, Telecommunications and IT"
+200,ELCA Informatik,1968,>200,6.92,Cédric Moret,null,Pully,"Internet, Telecommunications and IT"
+201,KPMG,1910,>200,6.92,Stefan Pfister,null,Zürich,Consulting
+202,The Swatch Group,1983,>200,6.92,Nick Hayek,null,Biel,Watches and Jewelry
+203,Competec,1994,>200,6.92,Stefan Fraude,null,Mägenwil,Retail
+204,Merck,1929,>200,6.92,Florian Schick,null,Zug,Chemicals and Pharmaceuticals
+205,CHUV,1890,>200,6.89,Nicolas Demartines,null,Lausanne,Healthcare and Social
+206,Atupri Gesundheitsversicherung,1910,>200,6.88,Christof Zürchner,null,Bern,Insurance
+207,SWISS,2002,>200,6.88,Dennis Weber,null,Basel,Transportation and Logistics
+208,Burckhardt Compression,1844,>200,6.87,Fabrice Billard,null,Winterthur,Mechanical and Plant Engineering
+209,Jansen,1923,>200,6.87,Priska Jansen; Christoph Jansen,null,Oberriet,Production and Processing of Raw and Building Materials
+210,Zuger Kantonsspital,1864,>200,6.87,Daniel Staffelbach,null,Baar,Healthcare and Social
+211,Renault,1898,>200,6.87,Luca de Meo,null,Urdorf,Automotive and Vehicle Manufacturing and Sales
+212,SABAG,1913,>200,6.86,Harry Bosshardt / Hanspeter Jordi,null,Biel,Production and Processing of Raw and Building Materials
+212,SABAG,1913,>200,6.86,Harry Bosshardt / Hanspeter Jordi,null,Biel,Wholesale
+213,BCV Waadtländische Kantonalbank,1845,>200,6.85,Pascal Kiener,null,Lausanne,International and Investment Banking
+214,PDGR Psychiatrische Dienste Graubünden,1855,>200,6.85,Marc Kollegger,null,Cazis,Healthcare and Social
+215,Interdiscount,1970,>200,6.84,Pierre Wenger,null,Jegenstorf,Retail
+216,Lamprecht Transport,1945,>200,6.83,Jenny Vargas Lamprecht,null,Basel,Transportation and Logistics
+217,TUI,1996,>200,6.83,Philipp von Czapiewski,null,Zürich,"Restaurants, Tourism, Sports and Recreational Services"
+218,Pro Senectute,1917,>200,6.82,Alain Huber,null,Zürich,Healthcare and Social
+219,Medbase,2001,>200,6.82,Marcel Napierala,null,Winterthur,Healthcare and Social
+220,Swiss Automotive Group,1930,>200,6.82,Arnold Marty,null,Cham,Automotive and Vehicle Manufacturing and Sales
+221,BDO,1932,>200,6.82,Thomas Studhalter,null,Zürich,Consulting
+222,Electrolux,1919,>200,6.81,Jonas Samuelson,null,Zürich,"Electronics, Electrical Engineering, Medical Devices"
+223,Adecco,1996,>200,6.81,Denis Machuel,null,Lausanne,Consulting
+224,DSM,1902,>200,6.81,Dimitri de Vreeze,null,Kaiseraugst,Manufacture of Food and other Consumer Goods
+225,Liebherr,1949,>200,6.8,Jan Liebherr,null,Bulle,Mechanical and Plant Engineering
+225,Liebherr,1949,>200,6.8,Jan Liebherr,null,Bulle,"Electronics, Electrical Engineering, Medical Devices"
+226,Syngenta,2000,>200,6.79,Jeff Rowe,null,Basel,Chemicals and Pharmaceuticals
+227,Compass Group,1971,>200,6.78,Dr. Christian Funk,null,Kloten,"Restaurants, Tourism, Sports and Recreational Services"
+228,Bayer,1954,>200,6.78,Ernst Coppens,null,Zürich,Chemicals and Pharmaceuticals
+229,Swisscard AECS,1998,>200,6.78,Guido Müller,null,Horgen,International and Investment Banking
+230,Baumann Federn,1886,>200,6.77,Thomas H. Rüegg,null,Ermenswil,Production and Processing of Raw and Building Materials
+231,SV Group,1914,>200,6.77,Patrick Camele,null,Dübendorf,"Restaurants, Tourism, Sports and Recreational Services"
+232,MSD Merck Sharp & Dohme,1891,>200,6.77,Dimitri Gitas,null,Luzern,Chemicals and Pharmaceuticals
+233,PHSG Pädagogische Hochschule St. Gallen,2007,>200,6.77,Prof. Dr. Horst Biedermann,null,St. Gallen,Education and Research
+234,BMS Building Materials Suisse,1865,>200,6.76,Remco Teulings,null,Bern,Wholesale
+235,EHL Group,1893,>200,6.75,Markus Venzin,null,Lausanne,Education and Research
+236,EF Education First,1965,>200,6.74,Edward Hult,null,Zürich,Education and Research
+237,Spital Thun,1875,>200,6.74,Adrian Gehri,null,Thun,Healthcare and Social
+238,Edmond de Rothschild,1953,>200,6.74,Yves Perrier,null,Genf,International and Investment Banking
+239,V-ZUG,1913,>200,6.74,Peter Spirig,null,Zug,Retail
+240,Spitex,1995,>200,6.73,Markus Reck,null,Bern,Healthcare and Social
+241,FOJ - Fondation Officielle de la jeunesse,1898,>200,6.73,David Crisafulli,null,Lancy,Education and Research
+241,FOJ - Fondation Officielle de la jeunesse,1898,>200,6.73,David Crisafulli,null,Lancy,Healthcare and Social
+242,UBS,1998,>200,6.73,Sergio P. Ermotti,null,Zürich,International and Investment Banking
+243,Universitätsspital Genf,1995,>200,6.73,Mr Alain Kolly,null,Genf,Healthcare and Social
+244,GEWA Stiftung für berufliche Integration,1986,>200,6.73,Thomas Harnisch,null,Zollikofen,Healthcare and Social
+245,EFG Bank,1995,>200,6.72,Giorgio Pradelli,null,Zürich,International and Investment Banking
+246,UniversitätsSpital Zürich,1833,>200,6.72,Monika Jänicke,null,Zürich,Healthcare and Social
+247,Universitäre Psychiatrische Dienste Bern,1996,>200,6.72,Josef Müller,null,Ostermundigen,Healthcare and Social
+247,Universitäre Psychiatrische Dienste Bern,1996,>200,6.72,Josef Müller,null,Ostermundigen,Education and Research
+248,Luzerner Kantonsspital,1907,>200,6.72,Benno Fuchs,null,Luzern,Healthcare and Social
+249,Migrol,1954,>200,6.71,Andreas Flütsch,null,Adliswil,Energy and Communal Services
+250,Micarna,1958,>200,6.71,Hans-Ruedi Christen,null,Zürich,Manufacture of Food and other Consumer Goods

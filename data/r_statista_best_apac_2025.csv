@@ -1,0 +1,501 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,META,2004,>10001,100,Mark Zuckerberg,United States,Menlo Park,"IT, Internet, Software & Services"
+2,KLA,1976,>10001,94.92,Richard P. Wallace,United States,Milpitas,"IT, Internet, Software & Services"
+3,Hilton Worldwide,1919,>10001,94.27,Christopher J. Nassetta,United States,McLean,Travel & Leisure
+4,ANA,1952,>1000,93.34,Koji Shibata,Japan,Tokyo,Transportation and Logistics
+5,JPMorgan Chase,2000,>100001,92.74,Jamie Dimon,United States,New York,Banking and Financial Services
+6,Kone,1910,>50001,92.65,Henrik Ehrnrooth,Finland,Espoo,"Engineering, Manufacturing"
+7,Apple,1976,>100001,91.77,Tim Cook,United States,Cupertino,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+8,Aditya Birla,1857,>1000,91.37,Kumar Mangalam Birla,India,Mumbai,Conglomerate
+9,Suntory,1899,>1000,91.2,Makiko Ono,Japan,Osaka,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+10,Alphabet,1998,>1000,89.96,Sundar Pichai,United States,Mountain View,"IT, Internet, Software & Services"
+11,NTT,1952,>1000,89.9,Yo Hunma,Japan,Tokyo,"IT, Internet, Software & Services"
+12,Wise,2010,>1000,89.57,Kristo Käärmann,United Kingdom,London,"IT, Internet, Software & Services"
+13,Toyota,1937,>1000,89.57,Koji Sato,Japan,Tokyo,Automotive (Automotive and Suppliers)
+14,Intel,1968,>1000,89.56,Patrick Gelsinger,United States,Santa Clara,"IT, Internet, Software & Services"
+15,Puma,1948,>1000,88.45,Arne Freundt,Germany,Herzogenaurach,"Clothing, Shoes, Sports Equipment"
+16,Tata,1868,>1000,88.42,Natarajan Chandrasekaran,India,Mumbai,Professional Services
+17,American Express,1850,>1000,88.05,Stephen Squeri,United States,New York,Banking and Financial Services
+18,Siemens,1847,>1000,87.54,Roland Busch,Germany,Munich,"Engineering, Manufacturing"
+19,BMW,1916,>1000,87.53,Oliver Zipse,Germany,Munich,Automotive (Automotive and Suppliers)
+20,Microsoft,1975,>1000,87.48,Satya Nadella,United States,Redmond,"IT, Internet, Software & Services"
+21,SAP,1972,>1000,87.3,Christian Klein,Germany,Walldorf,"IT, Internet, Software & Services"
+22,Isuzu Motors,1916,>1000,87.13,Masanori Katayama,Japan,Tokyo,Automotive (Automotive and Suppliers)
+23,Mitsubishi,1954,>1000,86.65,Seiji Izumisawa,Japan,Tokyo,Conglomerate
+24,Bank of America,1998,>1000,86.63,Brian Moynihan,United States,New York,Banking and Financial Services
+25,Procter & Gamble,1837,>1000,86.52,Jon R. Moeller,United States,Cincinnati,Packaged Goods
+26,DB Schenker,1872,>1000,86.52,Jochen Thewes,Germany,Essen,Transportation and Logistics
+27,Epson,1942,>1000,86.51,Yasunori Yoshino,Japan,Nagano,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+28,CBRE,1906,>1000,86.29,Robert E. Sulentic,United States,Dallas,Business Services & Supplies
+29,Panasonic,1918,>1000,86.13,Yuki Kusumi,Japan,Osaka,"Engineering, Manufacturing"
+30,AXA,1946,>1000,86.11,Thomas Buberl,France,Paris,Banking and Financial Services
+31,Coca-Cola,1886,>1000,85.91,James Quincey,United States,Atlanta,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+32,Unilever,1929,>1000,85.8,Hein Schumacher,United Kingdom,London,Packaged Goods
+33,Atos,1997,>1000,85.74,Jean-Pierre Mustier,France,Bezons,"IT, Internet, Software & Services"
+34,Deloitte,1845,>1000,85.05,Joe Ucuzoglu,United States,London,Professional Services
+35,Ricoh,1936,>1000,84.69,Akira Oyama,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+36,Punjab National Bank,1895,>1000,84.65,Atul Kumar Goel,India,New Delhi,Banking and Financial Services
+37,Duskin,1963,>1000,84.52,Teruji Yamamura,Japan,Osaka,Business Services & Supplies
+38,HSBC,1865,>1000,84.38,Noel Quinn,United Kingdom,London,Banking and Financial Services
+39,Cisco,1984,>1000,84.26,Chuck Robbins,United States,San Jose,"IT, Internet, Software & Services"
+40,Pertamina,1957,>1000,83.84,Nicke Widyawati,Indonesia,Jakarta,"Construction, Oil & Gas Operations, Mining and Chemicals"
+41,3M,1902,>1000,83.74,William M. Brown,United States,Saint Paul,Conglomerate
+42,Dell Technologies,1984,>1000,83.69,Michael S. Dell,United States,Round Rock,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+43,FedEx,1971,>1000,83.63,Raj Subramaniam,United States,Memphis,Transportation and Logistics
+44,Okamura,1945,>1000,83.46,Masayuki Nakamura,Japan,Tokyo,"Engineering, Manufacturing"
+45,Celltrion,2002,>1000,83.35,Kee Woo-sung,South Korea,Incheon,Drugs & Biotechnology
+46,DENSO,1949,>1000,83.33,Shinnosuke Hayashi,Japan,Kariya,Automotive (Automotive and Suppliers)
+47,McDonald's,1955,>1000,83.33,Chris Kempczinski,United States,Chicago,Restaurants
+48,Nabtesco,2003,>1000,83.3,Katsuhiro Teramoto,Japan,Tokyo,"Engineering, Manufacturing"
+49,Samsung Electronics,1969,>1000,83.27,Han Jong-hee,South Korea,Seoul,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+50,Goldman Sachs,1869,>1000,83.22,David M. Solomon,United States,New York,Banking and Financial Services
+51,Sony,1946,>1000,82.95,Kenichiro Yoshida,Japan,Tokyo,Conglomerate
+52,Bloomberg,1981,>1000,82.88,Vlad Kliatchko,United States,New York,"IT, Internet, Software & Services"
+53,Yokogawa Electric,1915,>1000,82.85,Hitoshi Nara,Japan,Japan,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+54,Micron Technology,1978,>1000,82.75,Sanjay Mehrotra,United States,Boise,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+55,IQVIA,1954,>1000,82.58,Ari Bousbib,United States,Danbury,Health Care Equipment & Services
+56,Biprogy,1947,>1000,82.55,Noboru Saito,Japan,Tokyo,"IT, Internet, Software & Services"
+57,Motorola Solutions,2011,>1000,82.28,Gregory Q. Brown,United States,Chicago,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+58,KB Financial Group,2008,>1000,82.23,Jong-Hee Yang,South Korea,Seoul,Banking and Financial Services
+59,Nissan Motor,1933,>1000,82.12,Makoto Uchida,Japan,Yokohama,Automotive (Automotive and Suppliers)
+60,SBI,1955,>1000,82.04,Yoshitaka Kitao,Japan,Minato City,Banking and Financial Services
+61,IBM,1911,>1000,81.98,Arvind Krishna,United States,Armonk,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+62,Teijin,1918,>1000,81.8,Akimoto Uchikawa,Japan,Osaka,Health Care Equipment & Services
+63,Infosys,1981,>1000,81.79,Salil Parekh,India,Bangalore,"IT, Internet, Software & Services"
+64,Nitori,1967,>1000,81.61,Akio Nitori,Japan,Sapporo,Retail and Wholesale
+65,Danone,1919,>1000,81.29,Antoine de Saint-Affrique,France,Paris,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+66,TOTO,1917,>1000,81.26,Noriaki Kiyota,Japan,Fukuoka,"Engineering, Manufacturing"
+67,Roche,1896,>1000,81.24,Thomas Schinecker,Switzerland,Basel,Drugs & Biotechnology
+68,Baxter,1931,>1000,81.11,José E. Almeida,United States,Deerfield,Health Care Equipment & Services
+69,Canva,2012,>1000,81.05,Melanie Perkins,Australia,Sydney,"IT, Internet, Software & Services"
+70,ADP,1949,>1000,80.9,Maria Black,United States,Roseland,Business Services & Supplies
+71,FPT,1988,>1000,80.87,Nguyen Van Khoa,Vietnam,Cau Giay,"IT, Internet, Software & Services"
+72,Emerson,1890,>1000,80.68,Lal Karsanbhai,United States,Ferguson,"Engineering, Manufacturing"
+73,Sun Life Financial,1865,>1000,80.63,Kevin David Strain,Canada,Toronto,Banking and Financial Services
+74,Yaoko,1890,>1000,80.6,Sumito Kawano,Japan,Saitama,Retail and Wholesale
+75,NEC,1899,>1000,80.49,Takayuki Morita,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+76,TELUS,1990,>1000,80.48,Darren W. Entwistle,Canada,Vancouver,"Telecommunications Services, Cable Supplier"
+77,Caterpillar,1925,>1000,80.42,Jim Umpleby,United States,Irving,"Engineering, Manufacturing"
+78,Indofood,1990,>1000,80.21,Anthoni Salim,Indonesia,Jakarta,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+79,Brother Industries,1908,>1000,80.19,Toshikazu Koike,Japan,Nagoya,"Engineering, Manufacturing"
+80,Zendesk,2007,>1000,80.16,Tom Eggemeier,United States,San Francisco,"IT, Internet, Software & Services"
+81,Verizon Communications,1983,>1000,80.13,Hans Vestberg,United States,New York,"Telecommunications Services, Cable Supplier"
+82,Taisei,1917,>1000,80.12,Yoshiro Aikawa,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+83,Inventec,1975,>1000,80.04,Kou-I Yeh,Taiwan,Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+84,Schneider Electric,1836,>1000,79.98,Peter Herweck,France,Rueil-Malmaison,"Engineering, Manufacturing"
+85,Adastria,1953,>1000,79.73,Michio Fukuda,Japan,Tokyo,"Clothing, Shoes, Sports Equipment"
+86,Mayora,1977,>1000,79.71,Jogi Hendra Atmadja,Indonesia,Jakarta,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+87,Fujifilm,1934,>1000,79.58,Teiichi Goto,Japan,Tokyo,Conglomerate
+88,Kokuyo,1905,>1000,79.56,Hidekuni Kuroda,Japan,Tokyo,"Engineering, Manufacturing"
+89,International Game Technology (IGT),1990,>1000,79.55,Haviv Ilan,United Kingdom,London,"IT, Internet, Software & Services"
+90,ERA Singapore,1982,>1000,79.36,Marcus Chu,Singapore,Singapore,Professional Services
+91,KOSE,1946,>1000,79.21,Kazutoshi Kobayashi,Japan,Tokyo,Packaged Goods
+92,VinFast,2017,>1000,79.01,Pham Nhat Vuong,Vietnam,Haiphong,Automotive (Automotive and Suppliers)
+93,Workday,2005,>1000,79.01,Carl M. Eschenbach,Taiwan,Hsinchu,"IT, Internet, Software & Services"
+94,Logitech,1981,>1000,78.75,Hanneke Faber,Switzerland,Lausanne,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+95,Wipro,1945,>1000,78.75,Srini Pallia,India,Bengaluru,"IT, Internet, Software & Services"
+96,Salesforce,1999,>1000,78.75,Marc Benioff,United States,San Francisco,"IT, Internet, Software & Services"
+97,Telenor,1855,>1000,78.69,Sigve Brekke,Norway,Fornebu,"Telecommunications Services, Cable Supplier"
+98,Inditex,1985,>1000,78.63,Óscar García Maceiras,Spain,A Coruña,"Clothing, Shoes, Sports Equipment"
+99,Sea,2009,>1000,78.57,Forrest Li,Singapore,Singapore,"IT, Internet, Software & Services"
+100,TTEC,1982,>1000,78.35,David J. Seybold,United States,Englewood,"IT, Internet, Software & Services"
+101,Rio Tinto,1873,>1000,78.32,Jakob Stausholm,United Kingdom,London,"Construction, Oil & Gas Operations, Mining and Chemicals"
+102,Charoen Pokphand,1921,>1000,78.29,Suphachai Chearavanont,Thailand,Bangkok,Conglomerate
+103,Sumitomo,1919,>1000,78.29,Yukinori Takada,Japan,Tokyo,Conglomerate
+104,BIDV,1957,>1000,78.22,Phan Duc Tu,Vietnam,Hanoi,Banking and Financial Services
+105,Maxell,1960,>1000,78.13,Keiji Nakamura,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+106,KPMG,1987,>1000,77.91,William B. Thomas,United States,London,Professional Services
+107,Reliance Industries,1957,>1000,77.87,Mukesh D. Ambani,India,Mumbai,"Construction, Oil & Gas Operations, Mining and Chemicals"
+108,Yamaha,1887,>1000,77.8,Atsushi Yamaura,Japan,Hamamatsu,"Engineering, Manufacturing"
+109,ICICI Bank,1955,>1000,77.78,Sandeep Bakhshi,India,Mumbai,Banking and Financial Services
+110,Texas Instruments,1930,>1000,77.77,Haviv Ilan,United States,Dallas,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+111,CitiGroup,1998,>1000,77.72,Jane Fraser,United States,New York,Banking and Financial Services
+112,Medtronic,1949,>1000,77.58,Geoff Martha,Ireland,Galway,Health Care Equipment & Services
+113,UNIQLO,1949,>1000,77.45,Tadashi Yanai,Japan,Tokyo,"Clothing, Shoes, Sports Equipment"
+114,Starbucks,1971,>1000,77.39,Brian Niccol,United States,Seattle,Restaurants
+115,Inizio,2020,>1000,77.29,Paul Taaffe,United States,New York,Business Services & Supplies
+116,Cognizant,1994,>1000,77.25,Ravi Kumar S,United States,Teaneck,Professional Services
+117,Merck Sharp & Dohme (MSD),1891,>1000,77.2,Robert M Davis,United States,Rahway,Drugs & Biotechnology
+118,AECOM,1910,>1000,77.13,Troy Rudd,United States,Dallas,"Construction, Oil & Gas Operations, Mining and Chemicals"
+119,Grab,2014,>1000,77.07,Anthony Tan,Singapore,Singapore,Travel & Leisure
+120,Kawasaki Heavy Industries,1896,>1000,76.96,Yasuhiko Hashimoto,Japan,Tokyo,"Engineering, Manufacturing"
+121,Australia and New Zealand Banking (ANZ),1835,>1000,76.95,Shayne Elliott,Australia,Melbourne,Banking and Financial Services
+122,DBS Bank,1968,>1000,76.74,Piyush Gupta,Singapore,Singapore,Banking and Financial Services
+123,IKEA,1943,>1000,76.68,Jesper Brodin,Netherlands,Delft,Retail and Wholesale
+124,Abbott Laboratories,1888,>1000,76.66,Robert B. Ford,United States,Abbott Park,Drugs & Biotechnology
+125,Shell,1907,>1000,76.57,Wael Sawan,Netherlands,Den Haag,"Construction, Oil & Gas Operations, Mining and Chemicals"
+126,Glory,1944,>1000,76.57,Toshimitsu Yoshinari,Japan,Tokyo,"Engineering, Manufacturing"
+127,NAVER,1999,>1000,76.49,Choi Soo-yeon,South Korea,Seongnam-si,"IT, Internet, Software & Services"
+128,Louis Vuitton,1854,>1000,76.49,Bernard Arnault,France,Paris,"Clothing, Shoes, Sports Equipment"
+129,Continental,1871,>1000,76.42,Nikolai Setzer,Germany,Hanover,Automotive (Automotive and Suppliers)
+130,Xero,2006,>1000,76.36,Sukhinder Singh Cassidy,New Zealand,Wellington,"IT, Internet, Software & Services"
+131,Nestle,1866,>1000,76.35,Mark Schneider,Switzerland,Vevey,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+132,Deutsche Post DHL,1995,>1000,76.34,Tobias Meyer,Germany,Bonn,Transportation and Logistics
+133,Walt Disney,1923,>1000,76.29,Bob Iger,United States,Burbank,Media & Advertising
+134,KDDI,1953,>1000,76.28,Makoto Takahashi,Japan,Tokyo,Utilities
+135,Amgen,1980,>1000,76.26,Robert A. Bradway,United States,Thousand Oaks,Drugs & Biotechnology
+136,OSAKA GAS,1897,>1000,76.21,Masataka Fujiwara,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+137,Larsen & Toubro,1946,>1000,76.19,S N Subrahmanyan,India,Mumbai,"Construction, Oil & Gas Operations, Mining and Chemicals"
+138,AIA,1919,>1000,76.18,Lee Yuan Siong,Hong Kong,Hong Kong,Insurance
+139,Chevron,1879,>1000,75.97,Michael K. Wirth,United States,San Ramon,"Construction, Oil & Gas Operations, Mining and Chemicals"
+140,Johnson & Johnson,1886,>1000,75.92,Joaquin Duato,United States,New Brunswick,Drugs & Biotechnology
+141,Far East Organization,1960,>1000,75.91,Phillip Ng,Singapore,Singapore,Conglomerate
+142,Uchida Yoko,1910,>1000,75.9,Noboru Ohkubo,Japan,Tokyo,Business Services & Supplies
+143,Applied Materials,1967,>1000,75.84,Gary Dickserson,United States,Santa Clara,"Engineering, Manufacturing"
+144,Volvo,1927,>1000,75.79,Martin Lundstedt,Sweden,Goteborg,"Engineering, Manufacturing"
+145,BCG (Boston Consulting Group),1963,>1000,75.47,Christoph Schweizer,United States,Boston,Professional Services
+146,Hitachi,1910,>1000,75.4,Keiji Kojima,Japan,Tokyo,Conglomerate
+147,Reckitt,2007,>1000,75.35,Kris Licht,United Kingdom,Slough,Packaged Goods
+148,Amazon,1994,>1000,75.22,Andy Jassy,United States,Seattle,"IT, Internet, Software & Services"
+149,Mitsui Fudosan,1941,>1000,75.09,Takashi Ueda,Japan,Tokyo,Professional Services
+150,Zomato,2008,>1000,75.04,Deepinder Goyal,India,Gurgaon,"IT, Internet, Software & Services"
+151,Public Bank Berhad,1966,>1000,75.04,Tan Sri Dato' Sri Dr. Tay Ah Lek,Malaysia,Kuala Lumpur,Banking and Financial Services
+152,LOTTE,1967,>1000,74.9,Dong-Woo Lee,South Korea,Seoul,Conglomerate
+153,Godrej,1897,>1000,74.78,Sudhir Sitapati,India,Mumbai,Conglomerate
+154,Kuraray,1926,>1000,74.74,Hitoshi Kawahara,Japan,Tokyo,"Engineering, Manufacturing"
+155,Allianz,1890,>1000,74.69,Oliver Bäte,Germany,Munich,Insurance
+156,Unisys,1986,>1000,74.56,Peter Altabef,United States,United States,"IT, Internet, Software & Services"
+157,MITSUI & CO,1947,>1000,74.56,Kenichi Hori,Japan,Tokyo,Retail and Wholesale
+158,Barclays,1896,>1000,74.5,C.S. Venkatakrishnan,United Kingdom,London,Banking and Financial Services
+159,Hakuhodo,1895,>1000,74.4,Masayuki Mizushima,Japan,Tokyo,Professional Services
+160,ITO EN,1966,>1000,74.38,Daisuke Honjo,Japan,Shizuoka,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+161,Thermo Fisher Scientific,1956,>1000,74.31,Marc N. Casper,United States,Waltham,Health Care Equipment & Services
+162,Mitsui Chemicals,1997,>1000,74.14,Hashimoto Osamu,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+163,CP Axtra,1988,>1000,74.07,Tanin Buranamanit,Thailand,Bangkok,Retail and Wholesale
+164,Life Insurance Corporation of India,1956,>1000,73.92,Siddhartha Mohanty,India,Mumbai,Insurance
+165,Oracle,1977,>1000,73.84,Safra Catz,United States,Austin,"IT, Internet, Software & Services"
+166,Ernst & Young (EY),1989,>1000,73.78,Janet Truncale,United Kingdom,London,Professional Services
+167,ABB,1883,>1000,73.72,Björn Rosengren,Switzerland,Zürich,"Engineering, Manufacturing"
+168,Prudential,1848,>1000,73.7,Anil Wadhwani,United Kingdom,London,Insurance
+169,Suzuki Motor,1909,>1000,73.64,Toshihiro Suzuki,Japan,Shizuoka,Automotive (Automotive and Suppliers)
+170,Foundever,1985,>1000,73.62,Laurent Uberti,United States,Omaha,Business Services & Supplies
+171,Hazama Ando,2013,>1000,73.46,Takeshi Komatsu,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+172,QBE Insurance,1886,>1000,73.44,Andrew Horton,Australia,Sydney,Insurance
+173,GlaxoSmithKline (GSK),2000,>1000,73.41,Emma Walmsley,United Kingdom,Brentford,Drugs & Biotechnology
+174,EEI,1931,>1000,73.36,Henry D. Antonio,Philippines,Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+175,Recruit,1960,>1000,73.32,Hisayuki Idekoba,United States,New York,Media & Advertising
+176,AAC Technologies,1993,>1000,73.32,Pan Benjamin Zhengmin,Hong Kong,Hong Kong,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+177,Sutherland,1986,>1000,73.31,Dilip R. Vellodi,United States,New York,"IT, Internet, Software & Services"
+178,Olympus,1968,>1000,73.3,Yasuo Takeuchi,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+179,DXC Technology,2017,>1000,73.19,Mike Salvino,United States,Tysons,"IT, Internet, Software & Services"
+180,BNP Paribas,1848,>1000,73.19,Jean-Laurent Bonnafé,France,Paris,Banking and Financial Services
+181,Takashimaya,1831,>1000,73.14,Yoshio Murata,Japan,Tokyo,Retail and Wholesale
+182,Wistron,2001,>1000,73.12,Jeff Lin,Taiwan,Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+183,Adidas,1949,>1000,73.05,Bjørn Gulden,Germany,Herzogenaurach,"Clothing, Shoes, Sports Equipment"
+184,Amadeus IT,1987,>1000,72.96,Luis Maroto,Spain,Madrid,"IT, Internet, Software & Services"
+185,HDFC Bank,1994,>1000,72.94,Sashidhar Jagdishan​​​​​​​,India,Mumbai,Banking and Financial Services
+186,Linfox,1956,>1000,72.93,Mark Mazurek,Australia,Melbourne,Transportation and Logistics
+187,Nintendo,1889,>1000,72.87,Shuntaro Furukawa,Japan,Kyoto,Media & Advertising
+188,Sanofi,2004,>1000,72.86,Paul Hudson,France,Paris,Drugs & Biotechnology
+189,Mazda Motor,1920,>1000,72.67,Masahiro Moro,Japan,Hiroshima,Automotive (Automotive and Suppliers)
+190,Groupe SEB,1857,>1000,72.61,Thierry de la tour d'artaise,France,Ecully,Packaged Goods
+191,Westpac Banking,1982,>1000,72.59,Anthony Miller,Australia,Sydney,Banking and Financial Services
+192,ASUS,1989,>1000,72.57,S.Y. Hsu Samson Hu,Taiwan,Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+193,Kubota,1890,>1000,72.56,Yuichi Kitao,Japan,Osaka,"Engineering, Manufacturing"
+194,Delta Air Lines,1925,>1000,72.47,Ed Bastian,United States,Atlanta,Transportation and Logistics
+195,Pricewaterhousecoopers (PwC),1998,>1000,72.4,Bob Moritz,United Kingdom,London,Business Services & Supplies
+196,Chiba Bank,1943,>1000,72.34,Tsutomu Yonemoto,Japan,Tokyo,Banking and Financial Services
+197,HP,1939,>1000,72.34,Enrique Lores,United States,Palo Alto,"IT, Internet, Software & Services"
+198,Sephora,1970,>1000,72.32,Jean-André Rougeot,France,San Francisco,Retail and Wholesale
+199,Transcom,1995,>1000,72.31,Jonas Dahlberg,Sweden,Rostock,Professional Services
+200,Daiichi Sankyo,2005,>1000,72.29,Sunao Manabe,Japan,Tokyo,Drugs & Biotechnology
+201,State Bank of India,1955,>1000,72.28,Shri Dinesh Kumar Khara,India,Mumbai,Banking and Financial Services
+202,Telstra,1992,>1000,72.03,Vicki Brady,Australia,Melbourne,"Telecommunications Services, Cable Supplier"
+203,Kajima,1840,>1000,71.91,Hiromasa Amano,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+204,Uber,2009,>1000,71.9,Dara Khosrowshahi,United States,San Francisco,Transportation and Logistics
+205,Exxon Mobil,1999,>1000,71.88,Darren W. Woods,United States,Irving,"Construction, Oil & Gas Operations, Mining and Chemicals"
+206,GS Group,2005,>1000,71.8,Huh Yoon-hong,South Korea,Seoul,"Engineering, Manufacturing"
+207,S&P Global,1860,>1000,71.78,Douglas L. Peterson,United States,New York,Banking and Financial Services
+208,Interpublic Group (IPG),1930,>1000,71.52,Philippe Krakowsky,United States,New York,Media & Advertising
+209,Bayer,1863,>1000,71.52,Bill Anderson,Germany,Leverkusen,"Construction, Oil & Gas Operations, Mining and Chemicals"
+210,Bank of Japan,1882,>1000,71.51,Ueda Kazuo,Japan,Tokyo,Banking and Financial Services
+211,foodpanda,2012,>1000,71.4,John Fang,Singapore,Singapore,Transportation and Logistics
+212,Marubeni,1858,>1000,71.4,Masumi Kakinoki,Japan,Tokyo,Conglomerate
+213,CIMB Bank,1924,>1000,71.35,Novan Amirudin,Malaysia,Kuala Lumpur,Banking and Financial Services
+214,Metropolitan Bank & Trust Company (Metrobank),1962,>1000,71.32,Fabian S. Dee,Philippines,Manila,Banking and Financial Services
+215,Nike,1964,>1000,71.16,John Donahoe,United States,Beaverton,"Clothing, Shoes, Sports Equipment"
+216,Takenaka,1899,>1000,71.15,Masato Sasaki,Japan,Osaka,"Engineering, Manufacturing"
+217,Agilent Technologies,1999,>1000,71.14,Mike McMullen,United States,Santa Clara,Health Care Equipment & Services
+218,Advanced Micro Devices (AMD),1969,>1000,71.14,Lisa Su,United States,Santa Clara,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+219,AIG Shared Services,1919,>1000,71.12,Peter Zaffino,United States,Manila,Banking and Financial Services
+220,Ocean Network Express,2017,>1000,71.08,Jeremy Nixon,Japan,Tokyo,"IT, Internet, Software & Services"
+221,Infineon,1999,>1000,70.95,Jochen Hanebeck,Germany,Neubiberg,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+222,ASE,1984,>1000,70.95,Dave Johnson,Taiwan,Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+223,Amway,1959,>1000,70.94,Milind Pant,United States,Ada,"Engineering, Manufacturing"
+224,AbbVie,2013,>1000,70.86,Robert A. Michael,United States,North Chicago,Drugs & Biotechnology
+225,Stellantis,2021,>1000,70.67,Carlos Tavares,Netherlands,Hoofddorp,Automotive (Automotive and Suppliers)
+226,TOA,1924,>1000,70.57,Kazuhiro Takeuchi,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+227,Gucci,1921,>1000,70.5,Marco Bizzarri,Italy,Secaucus,"Clothing, Shoes, Sports Equipment"
+228,EXL,1999,>1000,70.38,Rohit Kapoor,United States,New York,"IT, Internet, Software & Services"
+229,Collabera Digital,1991,>1000,70.2,Kaushik Sarkar,United States,Parsippany,"IT, Internet, Software & Services"
+230,Mondelez,2012,>1000,70.16,Dirk Van De Put,United States,Chicago,Packaged Goods
+231,DKSH,1865,>1000,70.14,Stefan Butz,Switzerland,Zürich,Business Services & Supplies
+232,Warner Bros. Discovery (WBD),2022,>1000,70.13,David Zaslav,United States,Burbank,Media & Advertising
+233,SAS Institute,1976,>1000,70.1,Dr. Jim Goodnight,United States,Cary,"IT, Internet, Software & Services"
+234,LG,1958,>1000,69.99,Mo Koo Kwang,South Korea,Seoul,Conglomerate
+235,Koito Manufacturing,1915,>1000,69.96,Masahiro Otake,Japan,Yokohama,Automotive (Automotive and Suppliers)
+236,Pfizer,1849,>1000,69.95,Albert Bourla,United States,New York,Drugs & Biotechnology
+237,Volkswagen,1937,>1000,69.94,Oliver Blume,Germany,Herndon,Automotive (Automotive and Suppliers)
+238,Technopro,1996,>1000,69.92,Takeshi Yagi,Japan,Tokyo,"IT, Internet, Software & Services"
+239,Yum! Brands,1997,>1000,69.92,David Gibbs,United States,Louisville,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+240,Sysmex,1968,>1000,69.84,Dan Zortman,Japan,Tokyo,Health Care Equipment & Services
+241,J&T EXPRESS,2015,>1000,69.81,Jet Lee,Indonesia,Jakarta,Transportation and Logistics
+242,Nielsen,1923,>1000,69.77,David Kenny,United Kingdom,Oxford,Business Services & Supplies
+243,Halliburton,1919,>1000,69.77,Jeff Miller,United States,Houston,"Construction, Oil & Gas Operations, Mining and Chemicals"
+244,Murata Manufacturing,1944,>1000,69.76,Tsuneo Murata,Japan,Tokyo,"Engineering, Manufacturing"
+245,NU Skin Enterprises,1984,>1000,69.65,Ryan Napierski,United States,Provo,Retail and Wholesale
+246,Qualcomm,1985,>1000,69.5,Cristiano Amon,United States,San Diego,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+247,Novartis,1996,>1000,69.44,Vasant Narasimhan,Switzerland,Basel,Drugs & Biotechnology
+248,Airbus,1970,>1000,69.41,Guillaume Faury,Netherlands,Leiden,Aerospace & Defense
+249,Home Credit,1997,>1000,69.31,Ondrej Kubik,Netherlands,Prague,Banking and Financial Services
+250,Autodesk,1982,>1000,69.27,Andrew Anagnost,United States,San Rafael,"IT, Internet, Software & Services"
+251,Western Digital,1970,>1000,69.19,David Goeckeler,United States,San Jose,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+252,HL Mando,1962,>1000,69.04,Seong-Hyeon Cho,South Korea,Seongnam-si,Automotive (Automotive and Suppliers)
+253,AEON,1758,>1000,68.94,Keiji Ohno,Japan,Tokyo,Retail and Wholesale
+254,KT,1981,>1000,68.91,Kim Young Shub,South Korea,Seoul,"Telecommunications Services, Cable Supplier"
+255,Softbank,1981,>1000,68.76,Masayoshi Son,Japan,Tokyo,"IT, Internet, Software & Services"
+256,Kirin,1885,>1000,68.73,Yoshinori Isozaki,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+257,LEGO,1932,>1000,68.72,Niels B. Christiansen,Denmark,Billund,Packaged Goods
+258,Asian Development Bank,1966,>1000,68.69,Masatsugu Asakawa,Philippines,Manila,Banking and Financial Services
+259,Futaba,1948,>1000,68.65,Motoaki Arima,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+260,MatsukiyoCocokara & Co,2021,>1000,68.64,Kiyoo Matsumoto,Japan,Tokyo,Retail and Wholesale
+261,Singapore Telecommunications,1879,>1000,68.62,Kuan Moon Yuen,Singapore,Singapore,"Telecommunications Services, Cable Supplier"
+262,Bandai Namco,1955,>1000,68.51,Masaru Kawaguchi,Japan,Tokyo,Media & Advertising
+263,Tech Mahindra,1986,>1000,68.42,Anish Shah,India,Mumbai,"IT, Internet, Software & Services"
+264,Sapporo,1876,>1000,68.39,Hiroyuki Nose,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+265,Fast Retailing,1949,>1000,68.33,Tadashi Yanai,Japan,Yamaguchi,Retail and Wholesale
+266,Costco Wholesale,1983,>1000,68.32,Ron M. Vachris,United States,Issaquah,Retail and Wholesale
+267,Renault,1898,>1000,68.29,Luca de Meo,France,Boulogne-Billancourt,Automotive (Automotive and Suppliers)
+268,Astellas Pharma,2005,>1000,68.27,Kenji Yasukawa,Japan,Tokyo,Drugs & Biotechnology
+269,CBM,1983,>1000,68.26,Roy Chiang,Japan,Tokyo,"IT, Internet, Software & Services"
+270,Mercuries & Associates,1986,>1000,68.24,Hsiang Li Chen,Taiwan,Taipei,Insurance
+271,Henkel,1876,>1000,68.15,Carsten Knobel,Germany,Düsseldorf,Packaged Goods
+272,Bharti Airtel,1995,>1000,68.15,Sharat Sinha,India,New Delhi,"Telecommunications Services, Cable Supplier"
+273,Grundfos,1945,>1000,68.1,Poul Due Jensen,Denmark,Bjerringbro,"Engineering, Manufacturing"
+274,Bank Mandiri,1999,>1000,68.08,Darmawan Junaidi,Indonesia,Jakarta,Banking and Financial Services
+275,Kansai Electric Power,1951,>1000,67.99,Takayuki Hakugin,Japan,Tokyo,Utilities
+276,Air New Zealand,1940,>1000,67.99,Greg Foran,New Zealand,Auckland,Transportation and Logistics
+277,L'Oreal,1909,>1000,67.99,Nicolas Hieronimus,France,Clichy,Packaged Goods
+278,Omnicom,1986,>1000,67.98,Florian Adamski,United States,New York,Media & Advertising
+279,Jollibee Foods,1975,>1000,67.97,Ernesto Tanmantiong,Philippines,Pasig City,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+280,Hennes & Mauritz,1947,>1000,67.95,Daniel Ervér,Sweden,Stockholm,"Clothing, Shoes, Sports Equipment"
+281,Capgemini,1967,>1000,67.89,Aiman Ezzat,France,New York,Business Services & Supplies
+282,New World Development,1970,>1000,67.79,Dr. Cheng Kar-Shun,Hong Kong,Hong Kong,Conglomerate
+283,ROHM,1958,>1000,67.78,Isao Matsumoto,Japan,Kyoto,"Engineering, Manufacturing"
+284,TDCX,1995,>1000,67.78,Laurent Junique,Singapore,Singapore,Business Services & Supplies
+285,Shangri-La,1971,>1000,67.77,Kuok Hui Kwong,Hong Kong,Hong Kong,Travel & Leisure
+286,Morgan Stanley,1924,>1000,67.74,Ted Pick,United States,New York,Banking and Financial Services
+287,Fresenius,1999,>1000,67.72,Michael Sen,Germany,Bad Homburg,Health Care Equipment & Services
+288,Ibiden,1912,>1000,67.71,Koji Kawashima,Japan,Ogaki,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+289,Bridgestone,1931,>1000,67.7,Shuichi Ishibashi,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+290,Axis Bank,1993,>1000,67.64,Amitabh Chaudhry,India,Mumbai,Banking and Financial Services
+291,HCLTech,1976,>1000,67.53,C Vijayakumar,India,Noida,"IT, Internet, Software & Services"
+292,Lazada,2012,>1000,67.43,James Dong,Singapore,Singapore,Retail and Wholesale
+293,Japan Airlines,1951,>1000,67.33,Yuji Akasaka,Japan,Tokyo,Transportation and Logistics
+294,AIA Engineering,1979,>1000,67.3,Bhadresh Shah,Hong Kong,Mumbai,"Engineering, Manufacturing"
+295,Nokia,1865,>1000,67.28,Pekka Lundmark,Finland,Espoo,"Telecommunications Services, Cable Supplier"
+296,Las Vegas Sands,1989,>1000,67.27,Robert Goldstein,United States,Las Vegas,Travel & Leisure
+297,Canon,1937,>1000,67.23,Fujio Mitarai,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+298,Komatsu,1921,>1000,67.22,Hiroyuki Ogawa,Japan,Tokyo,"Engineering, Manufacturing"
+299,Cosmo Energy,1986,>1000,67.2,Shigeru Yamada,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+300,DNP,1876,>1000,67.2,Yoshinari Kitajima,Japan,Tokyo,Media & Advertising
+301,Air India,1932,>1000,67.17,Campbell Wilson,India,New Delhi,Transportation and Logistics
+302,TSMC (Taiwan Semiconductor Manufacturing Company),1987,>1000,67.13,C.C. Wei,Taiwan,Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+303,Fujitsu,1935,>1000,67.11,Takahito Tokita,Japan,Tokyo,"IT, Internet, Software & Services"
+304,ENEOS,1888,>1000,67.08,Miyata Tomohide,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+305,Cargill,1865,>1000,66.94,David MacLennan,United States,Wayzata,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+306,Veolia,1853,>1000,66.88,Calvin McDonald,France,Vancouver,Utilities
+307,Asurion,1994,>1000,66.85,Tony Detter,United States,Nashville,Insurance
+308,Agoda,2005,>1000,66.83,Omri Morgenshtern,Singapore,Singapore,Travel & Leisure
+309,Concentrix,1980,>1000,66.82,Chris Caldwell,United States,Greenville,Business Services & Supplies
+310,Flipkart,2007,>1000,66.79,Kalyan Krishnamurthy,India,Bangalore,Retail and Wholesale
+311,Nomura,1925,>1000,66.79,Koji Nagai,Japan,Tokyo,Banking and Financial Services
+312,Alfamart,1989,>1000,66.76,Djoko Susanto,Indonesia,Jakarta,Retail and Wholesale
+313,Amdocs,1982,>1000,66.72,Shuky Sheffer,United States,Chesterfield,"IT, Internet, Software & Services"
+314,Obayashi,1892,>1000,66.71,Kenji Hasuwa,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+315,Cushman & Wakefield,1917,>1000,66.65,Brett White,United States,Chicago,Business Services & Supplies
+316,Illumina,1998,>1000,66.51,Francis deSouza,United States,San Diego,Drugs & Biotechnology
+317,Asahi,1888,>1000,66.5,Atsushi Katsuki,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+318,Woh Hup,1927,>1000,66.49,Yong Tiam Yoon Kim,Singapore,Singapore,"Construction, Oil & Gas Operations, Mining and Chemicals"
+319,Wijaya Karya,1960,>1000,66.45,Agung Budi Waskito,Indonesia,Jakarta,"Construction, Oil & Gas Operations, Mining and Chemicals"
+320,Compass Group,1941,>1000,66.45,Dominic Blakemore,United Kingdom,Chertsey,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+321,Boeing,1916,>1000,66.42,David L. Calhoun,United States,Chicago,Aerospace & Defense
+322,Appen,1996,>1000,66.41,Mark Brayan,Australia,Kirkland,"IT, Internet, Software & Services"
+323,Yakult,1935,>1000,66.41,Carlos Kasuga,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+324,Evonik,2007,>1000,66.31,Christian Kullmann,Germany,Essen,"Construction, Oil & Gas Operations, Mining and Chemicals"
+325,Mphasis,1998,>1000,66.29,Nitin Rakesh,India,Bangalore,"IT, Internet, Software & Services"
+326,Philips,1891,>1000,66.27,Roy Jakobs,Netherlands,Amsterdam,Health Care Equipment & Services
+327,Singapore Airlines,1971,>1000,66.26,Goh Choon Phong,Singapore,Singapore,Transportation and Logistics
+328,MicroSourcing,2006,>1000,66.25,Haidee Enriquez,Philippines,Quezon City,Business Services & Supplies
+329,Union Bank of India,1919,>1000,66.14,A. Manimekhalai,India,Mumbai,Banking and Financial Services
+330,Nice,1986,>1000,66.14,Barak Eilam,United States,Ra'anana,Professional Services
+331,Haseko,1937,>1000,66.13,Noriaki Tsuji,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+332,TVS Motor,1911,>1000,66.09,K. N. Radhakrishnan,India,Chennai,"Engineering, Manufacturing"
+333,Spotify,2006,>1000,66.01,Daniel Ek,Sweden,Stockholm,"IT, Internet, Software & Services"
+334,Sompo Japan Insurance,1888,>1000,65.92,Keiji Nishizawa,Japan,Tokyo,Insurance
+335,Paytm,2010,>1000,65.92,Vijay Shekhar Sharma,India,Noida,"IT, Internet, Software & Services"
+336,Omron,1933,>1000,65.92,Junta Tsujinaga,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+337,Chubu Electric Power,1951,>1000,65.88,Hayashi Kingo,Japan,Tokyo,Utilities
+338,General Electric,1892,>1000,65.8,H.Lawrence Culp,United States,Boston,"Engineering, Manufacturing"
+339,PT Bank Rakyat Indonesia,1895,>1000,65.76,Sunarso,Indonesia,Jakarta,Banking and Financial Services
+340,Novo Nordisk,1923,>1000,65.71,Lars Fruergaard Jørgensen,Denmark,Plainsboro,Banking and Financial Services
+341,Federal Bank,1945,>1000,65.68,KVS Manian,India,Kochi,Banking and Financial Services
+342,Surbana Jurong,2015,>1000,65.63,Sean Chiao,Singapore,Singapore,"Engineering, Manufacturing"
+343,Raffles Medical,1976,>1000,65.63,Dr Loo Choon Yong,Singapore,Singapore,Health Care Equipment & Services
+344,MakeMyTrip,2000,>1000,65.6,Rajesh Magow,India,Gurgaon,Travel & Leisure
+345,JGC,1928,>1000,65.56,Masayuki Sato,Japan,Tokyo,"Engineering, Manufacturing"
+346,United Laboratories,1946,>1000,65.54,Dan Young,Philippines,Quezon City,Drugs & Biotechnology
+347,Nissin Food,1900,>1000,65.53,Koki Ando,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+348,LIXIL,2011,>1000,65.51,Kinya Seto,Japan,Tokyo,"Engineering, Manufacturing"
+349,Havells India,1958,>1000,65.37,Anil Rai Gupta,India,Noida,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+350,Standard Industries,1886,>1000,65.34,David Millstone David Winter,United States,New York,"Engineering, Manufacturing"
+351,Nippon Yusen Kabushiki Kaisha,1885,>1000,65.3,Takaya Soga,Japan,Tokyo,Transportation and Logistics
+352,Industrial Bank of Korea,1961,>1000,65.3,Kim Sung-tae,South Korea,Seoul,Banking and Financial Services
+353,Genpact,1997,>1000,65.28,Tiger Tyagarajan,United States,New York,Professional Services
+354,Daiwa House Industry,1955,>1000,65.21,Keiichi Yoshii,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+355,Acer,1976,>1000,65.18,Jason Chen,Taiwan,New Taipei,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+356,Shinhan Financial Group,2001,>1000,65.13,Okdong Jin,South Korea,Seoul,Banking and Financial Services
+357,Dai-ichi Life,1902,>1000,65.08,Tetsuya Kikuta,Japan,Tokyo,Insurance
+358,BW Group,1997,>1000,65.05,Andreas Sohmen-Pao,Bermuda,Hamilton,Transportation and Logistics
+359,American Axle & Manufacturing,1994,>1000,65.05,David C. Dauch,United States,Detroit,Automotive (Automotive and Suppliers)
+360,AON,1982,>1000,65.05,Gregory C. Case,United Kingdom,London,Insurance
+361,Vestas Wind Systems,1945,>1000,65.02,Henrik Andersen,Denmark,Aarhus,"Engineering, Manufacturing"
+362,Toyobo,1917,>1000,65,Chikao Morishige,Japan,Tokyo,"Engineering, Manufacturing"
+363,Ninja Van,2014,>1000,64.95,Chang Wen Lai,Singapore,Singapore,Transportation and Logistics
+364,Alcon,1945,>1000,64.94,David J. Endicott,Switzerland,Fort Worth,Health Care Equipment & Services
+365,PepsiCo,1965,>1000,64.94,Ramon L. Laguarta,United States,Purchase,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+366,SIG,1986,>1000,64.93,Samuel Sigrist.,United Kingdom,Neuhausen am Rheinfall,Business Services & Supplies
+367,Carrier Global,1915,>1000,64.69,David Gitlin,United States,Syracuse,"Engineering, Manufacturing"
+368,Daekyo,1976,>1000,64.56,Kang Ho-jun,South Korea,Seoul,Professional Services
+369,Mastercard,1966,>1000,64.53,Michael Miebach,United States,Purchase,Banking and Financial Services
+370,Hindustan Aeronautics,1940,>1000,64.52,Saket chaturvedi,India,Bangalore,Aerospace & Defense
+371,Kuehne + Nagel,1890,>1000,64.51,Stefan Paul,Switzerland,Jersey City,Transportation and Logistics
+372,Ayala Property Management (APMC),2002,>1000,64.45,Laurent P. Lamasuta,Philippines,Makati City,Professional Services
+373,Visa,1958,>1000,64.44,Ryan McInerney,United States,San Francisco,Banking and Financial Services
+374,Deutsche Bank,1870,>1000,64.4,Christian Sewing,Germany,New York,Banking and Financial Services
+375,Lendlease,1958,>1000,64.36,Tony Lombardo,Australia,Sydney,"Construction, Oil & Gas Operations, Mining and Chemicals"
+376,Exyte Singapore,1991,>1000,64.36,Dr. Wolfgang Büchele,Singapore,Singapore,"Engineering, Manufacturing"
+377,Credit Suisse,1856,>1000,64.35,Thomas Gottstein,Switzerland,New York,Banking and Financial Services
+378,Accton Technology,1988,>1000,64.3,Jun Shi,Taiwan,Hsinchu,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+379,Daihatsu Motor,1951,>1000,64.27,Masahiro Inoue,Japan,Tokyo,Automotive (Automotive and Suppliers)
+380,Ford Motor,1903,>1000,64.21,"James D. Farley, Jr.",United States,Dearborn,Automotive (Automotive and Suppliers)
+381,Nippon Life Insurance,1889,>1000,64.2,Hiroshi Shimizu,Japan,Tokyo,Insurance
+382,Cotton On Australia,1988,>1000,64.14,Peter Johnson,Australia,Geelong,Retail and Wholesale
+383,TDK,1935,>1000,64.14,Noboru Saito,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+384,Bangkok Bank,1944,>1000,64.13,Deja Tulananda,Thailand,Bangkok,Banking and Financial Services
+385,SATS,1947,>1000,64.09,Kerry Mok,Singapore,Singapore,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+386,Lupin,1968,>1000,64.09,Vinita D. Gupta,India,Mumbai,Drugs & Biotechnology
+387,Raymond,1925,>1000,64.07,Gautam Hari Singhania,India,Mumbai,"Engineering, Manufacturing"
+388,Atlassian,2002,>1000,63.97,Mike Cannon-Brookes Scott Farquhar,Australia,Sydney,"IT, Internet, Software & Services"
+389,PayPal,1998,>1000,63.88,Alex Chriss,United States,San Jose,Banking and Financial Services
+390,Ubisoft Entertainment,1986,>1000,63.81,Yves Guillemot,France,Montreuil,Media & Advertising
+391,Marsh,1871,>1000,63.78,John Q. Doyle,United States,New York,Insurance
+392,GoTo,2020,>1000,63.75,Rich Veldran,Indonesia,Jakarta,"IT, Internet, Software & Services"
+393,Harvey Norman,1982,>1000,63.67,Kay Lesley Page,Australia,Sydney,Retail and Wholesale
+394,Lexmark,1991,>1000,63.6,Allen Waugerman,United States,Lexington,"IT, Internet, Software & Services"
+395,Woolworths,1924,>1000,63.59,Bradford Banducci,Australia,Bella Vista,Retail and Wholesale
+396,Symrise,2003,>1000,63.59,Jean-Yves Parisot,Germany,Holzminden,"Construction, Oil & Gas Operations, Mining and Chemicals"
+397,Honeywell International,1906,>1000,63.45,Vimal Kapur,United States,Charlotte,Conglomerate
+398,CP ALL,1980,>1000,63.45,Yuthasak Poomsurakul,Thailand,Bangkok,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+399,BELLSYSTEM24,1982,>1000,63.4,Hiroshi Kajiwara,Japan,Tokyo,Conglomerate
+400,Daimler,1890,>1000,63.39,Ola Kallenius,Germany,Stuttgart,Automotive (Automotive and Suppliers)
+401,POSCO,1968,>1000,63.3,Jeong-Woo Choi,South Korea,Pohang,"Construction, Oil & Gas Operations, Mining and Chemicals"
+402,Apar Technologies,2006,>1000,63.27,Sai Sudhakar,Singapore,Singapore,"IT, Internet, Software & Services"
+403,Biocon,1978,>1000,63.21,Peter Bains,India,Bangalore,Drugs & Biotechnology
+404,Chip Eng Seng,2015,>1000,63.21,Chia Lee Meng Raymond,Singapore,Singapore,"Construction, Oil & Gas Operations, Mining and Chemicals"
+405,Lear,1917,>1000,63.19,Ray Scott,United States,Southfield,Automotive (Automotive and Suppliers)
+406,Denka,1915,>1000,63.17,Toshio Imai,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+407,Amkor Technology,1986,>1000,63.13,Giel Rutten,United States,Tempe,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+408,Philip Morris International,1847,>1000,63.1,Jacek Olczak,United States,New York,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+409,Saizeriya,1967,>1000,63.09,Yasuhiko Shogaki,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+410,GAP,1969,>1000,63.04,Richard Dickson,United States,San Francisco,"Clothing, Shoes, Sports Equipment"
+411,Noritz,1951,>1000,62.97,Satoshi Haramaki,Japan,Tokyo,"Engineering, Manufacturing"
+412,Indorama,1976,>1000,62.85,Aloke Lohia,Thailand,Jakarta,"Construction, Oil & Gas Operations, Mining and Chemicals"
+413,Seagate,1979,>1000,62.83,Dave Mosley,United States,Cupertino,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+414,Hyatt Hotels,1957,>1000,62.77,Mark S. Hoplamazian,United States,Chicago,Travel & Leisure
+415,Resonac,2021,>1000,62.73,Hidehito Takahashi,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+416,BDO Unibank,1963,>1000,62.72,Nestor Tan,Philippines,Makati City,Banking and Financial Services
+417,YKK,1934,>1000,62.71,Tadahiro Yoshida,Japan,Tokyo,"Engineering, Manufacturing"
+418,Arup,1946,>1000,62.62,Andy Howard,United Kingdom,London,Professional Services
+419,Toray Industries,1926,>1000,62.6,Mitsuo Ohya,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+420,HEIWADO,1953,>1000,62.53,Masatsugu Hiramatsu/Masashi Hiramatsu,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+421,Mott Macdonald,1982,>1000,62.52,James Harris,United Kingdom,London,Professional Services
+422,Kimia Farma,1971,>1000,62.51,Djagad Prakasa Dwialam,Indonesia,Jakarta,Drugs & Biotechnology
+423,National Oilwell Varco,1841,>1000,62.48,Clay C. Williams,United States,Houston,"Construction, Oil & Gas Operations, Mining and Chemicals"
+424,Iris Ohyama,1982,>1000,62.48,Kentaro Ohyama,Japan,Tokyo,"Engineering, Manufacturing"
+425,Standard Chartered Bank,1969,>1000,62.47,Bill Winters,United Kingdom,London,Banking and Financial Services
+426,Adecco,1996,>1000,62.45,Denis Machuel,Switzerland,Zürich,Business Services & Supplies
+427,Anritsu,1895,>1000,62.35,Hirokazu Hamada,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+428,Kotak Mahindra Bank,1985,>1000,62.3,Ashok Vaswani,India,Mumbai,Banking and Financial Services
+429,Daewoo E&C,1973,>1000,62.28,Baek Jung-wan,South Korea,Seoul,"Engineering, Manufacturing"
+430,ASML,1984,>1000,62.25,Christophe Fouquet,Netherlands,Veldhoven,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+431,Walmart,1962,>1000,62.1,Doug McMillon,United States,Bentonville,Retail and Wholesale
+432,Kalbe Farma,1966,>1000,62.09,Vidjongtius,Indonesia,Jakarta,Drugs & Biotechnology
+433,Arquitectonica,1977,>1000,62.07,Timothy Reedy,United States,Miami,Professional Services
+434,Keppel Ltd.,1968,>1000,62.06,Chin Hua Loh,Singapore,Singapore,Banking and Financial Services
+435,EMS-Chemie,1962,>1000,62.04,Magdalena Martullo,Switzerland,Domat/Ems,"Construction, Oil & Gas Operations, Mining and Chemicals"
+436,Devyani International,1991,>1000,62.01,Virag Joshi,India,New Delhi,Restaurants
+437,Natura &Co,1969,>1000,61.97,Fabio Barbosa,Brazil,São Paulo,Retail and Wholesale
+438,Niterra,1953,>1000,61.94,Shinichi Odo,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+439,ACCIONA,1984,>1000,61.93,Jose Manuel Entrecanales Domecq,Spain,Alcobendas,Conglomerate
+440,Toshiba,1875,>1000,61.9,Taro Shimada,Japan,Tokyo,Conglomerate
+441,Securitas,1934,>1000,61.88,Magnus Ahlqvist,Sweden,Parsippany-Troy Hills,Business Services & Supplies
+442,ABM Industries,1909,>1000,61.84,Scott Salmirs,United States,New York,Business Services & Supplies
+443,Garuda Indonesia,1947,>1000,61.84,Irfan Setiaputra,Indonesia,Jakarta,Travel & Leisure
+444,ABN AMRO,1824,>1000,61.81,Robert Swaak,Netherlands,Amsterdam,Banking and Financial Services
+445,Nikon,1917,>1000,61.78,Toshikazu Umatate,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+446,Maxis,1995,>1000,61.74,Goh Seow Eng,Malaysia,Kuala Lumpur,"Telecommunications Services, Cable Supplier"
+447,K Line,1950,>1000,61.74,Yukikazu Myochin,Japan,Tokyo,Transportation and Logistics
+448,Scorpio Tankers,2002,>1000,61.73,Emanuele A. Lauro,Monaco,Monaco,Transportation and Logistics
+449,LTIMindtree,1997,>1000,61.71,Debashis Chatterjee,India,Bangalore,"IT, Internet, Software & Services"
+450,Adobe,1982,>1000,61.69,Shantanu Narayen,United States,San Jose,"IT, Internet, Software & Services"
+451,Qualfon,1995,>1000,61.66,Doug Kearney,United States,Grand Prairie,"IT, Internet, Software & Services"
+452,Alfa Laval,1883,>1000,61.65,Tom Erixon,Sweden,Lund,"Engineering, Manufacturing"
+453,Brenntag,1874,>1000,61.65,Steven Holland,Germany,Reading,"Construction, Oil & Gas Operations, Mining and Chemicals"
+454,Ottogi Co.,1969,>1000,61.64,Hwang SungMan,South Korea,Seoul,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+455,Grant Thornton,1924,>1000,61.62,Yuzo Ushiyama,United States,Chicago,Professional Services
+456,Capital One,1994,>1000,61.6,Richard D. Fairbank,United States,McLean,Banking and Financial Services
+457,RealPage,1998,>1000,61.57,Dana Jones,United States,Richardson,"IT, Internet, Software & Services"
+458,Sandvik,1862,>1000,61.53,Leena Nair,Sweden,London,"Construction, Oil & Gas Operations, Mining and Chemicals"
+459,Caixa Geral de Depositos,1876,>1000,61.52,Paulo José de Ribeiro Moita de Macedo,Portugal,Lisbon,Banking and Financial Services
+460,Nippon Paint,1881,>1000,61.42,Goh Hup Jin,Japan,Osaka,"Construction, Oil & Gas Operations, Mining and Chemicals"
+461,Adaro Energy,1982,>1000,61.39,Garibaldi Thohir,Indonesia,Jakarta,"Construction, Oil & Gas Operations, Mining and Chemicals"
+462,Bain & Company,1973,>1000,61.39,Christophe De Vusser,United States,Boston,Professional Services
+463,Tokyu Construction,1948,>1000,61.34,Mitsuhiro Terada,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+464,Mankind Pharma,1995,>1000,61.32,Sheetal Arora,India,New Delhi,Drugs & Biotechnology
+465,Hisamitsu Pharmaceutical,1847,>1000,61.29,Nakatomi Kazuhide,Japan,Tokyo,Drugs & Biotechnology
+466,Wesfarmers,1928,>1000,61.26,Rob Scott,Australia,Perth,Retail and Wholesale
+467,Handsome,2012,>1000,61.25,Kim Min Duk,South Korea,Seoul,Retail and Wholesale
+468,Dole,1851,>1000,61.23,Rory Byrne,Ireland,Dublin,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+469,Hero Motocorp,1984,>1000,61.17,Amit Gupta,India,New Delhi,Automotive (Automotive and Suppliers)
+470,Jones Lang LaSalle (JLL),1783,>1000,61.1,Christian Ulbrich,United States,Chicago,Professional Services
+471,Energizer,1896,>1000,61.08,Mark Lavigne,United States,Town and Country,"Engineering, Manufacturing"
+472,Stefanini,1987,>1000,61.05,Marco Stefanini,Brazil,São Paulo,"IT, Internet, Software & Services"
+473,SUMCO,2006,>1000,61.05,Mayuki Hashimoto,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+474,Randstad,1960,>1000,61.01,sander van 't noordende,Netherlands,Amsterdam,Business Services & Supplies
+475,Jabil Circuit,1966,>1000,61,Mark T. Mondello,United States,St. Petersburg,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+476,Fuji Electric,1923,>1000,61,Michihiro Kitazawa,Japan,Tokyo,"Engineering, Manufacturing"
+477,Perusahaan Listrik Negara (PLN),1961,>1000,60.93,Darmawan Prasodjo,Indonesia,Jakarta,Utilities
+478,Netflix,1997,>1000,60.87,Ted Sarandos Greg Peters,United States,Los Gatos,Media & Advertising
+479,CapitaLand,2000,>1000,60.86,Tan Yew Chin,Singapore,Singapore,Professional Services
+480,FairPrice,1973,>1000,60.81,Vipul Chawla,Singapore,Singapore,Retail and Wholesale
+481,Nvidia,1993,>1000,60.79,Jen-Hsun Huang,United States,Santa Clara,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+482,Parsons,1896,>1000,60.74,Carey Smith,United States,Centreville,"IT, Internet, Software & Services"
+483,Boustead,1828,>1000,60.73,Izaddeen Daud,Malaysia,Kuala Lumpur,"Construction, Oil & Gas Operations, Mining and Chemicals"
+484,Doosan,1896,>1000,60.71,Jeongwon Park,South Korea,Seoul,"Engineering, Manufacturing"
+485,Benesse,1955,>1000,60.63,Hitoshi Kobayashi,Japan,Okayama,Professional Services
+486,Seven & i,2005,>1000,60.57,Ryuichi Isaka,Japan,Tokyo,Retail and Wholesale
+487,Viettel Construction,2016,>1000,60.53,Pham Dinh Truong,Vietnam,Hanoi,"Construction, Oil & Gas Operations, Mining and Chemicals"
+488,Goodyear,1898,>1000,60.52,Richard J. Kramer,United States,Akron,Automotive (Automotive and Suppliers)
+489,Palo Alto Networks,2003,>1000,60.49,Nikesh Arora,United States,Santa Clara,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+490,Accenture,1989,>1000,60.46,Julie Sweet,Ireland,New York,Professional Services
+491,Asahi Kasei,1931,>1000,60.43,Hideki Kobori,Japan,Tokyo,"Construction, Oil & Gas Operations, Mining and Chemicals"
+492,South Indian Bank,1949,>1000,60.43,P. R. Seshadri,India,Thrissur,Banking and Financial Services
+493,Ajinomoto,1909,>1000,60.39,Taro Fujie,Japan,Tokyo,"Food, Soft Beverages, Alcohol & Tobacco (including Agriculture Production)"
+494,Gartner,1979,>1000,60.32,Eugene A. Hall,United States,Stamford,Professional Services
+495,FWD Insurance,2013,>1000,60.26,Huynh Thanh Phong,Hong Kong,Hong Kong,Insurance
+496,SHARP,1912,>1000,60.24,Masahiro Okitsu,Japan,Tokyo,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+497,Reed Elsevier (RELX),1992,>1000,60.24,Erik Engstrom,United Kingdom,London,Professional Services
+498,Domino's Pizza,1983,>1000,60.24,Russell Weiner,United States,Ann Arbor,Restaurants
+499,PERSOL,2003,>1000,60.23,Takao Wada,Japan,Tokyo,Professional Services
+500,Shimamura,1951,>1000,60.04,Makoto Suzuki,Japan,Tokyo,Retail and Wholesale

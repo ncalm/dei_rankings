@@ -1,0 +1,401 @@
+rank,company,founded,employees,score,ceo,state,hq,industry
+1,Ayala Land,1988,>10000,9.18,Anna Ma. Margarita B. Dy,null,Metropolitan Manila,Real Estate
+2,Google,2013,"5,001 - 10,000",9.08,Bernadette Nacario,null,Metropolitan Manila,"IT, Internet, Software & Services"
+3,Bureau of Fire Protection,1991,>10000,9.08,Fdir. Louie S. Puracan,null,Metropolitan Manila,Government Services
+4,Unilever,1927,"1,001 - 5,000",9.07,Fredy Ong,null,Metropolitan Manila,Packaged Goods
+5,JPMorgan Chase,1961,>10000,9.02,Jamie Dimon,null,Metropolitan Manila,Banking and Financial Services
+6,Samsung,1969,"501 - 1,000",8.97,Jong Hee Han,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+7,Procter & Gamble (P&G),1935,>250,8.96,Jon R. Moeller,null,Metropolitan Manila,Packaged Goods
+8,Supreme Court of the Philippines,1901,"1,001 - 5,000",8.94,Alexander G. Gesmundo,null,Metropolitan Manila,Government Services
+9,Accenture,1985,>10000,8.93,Ambe Tierro,null,Metropolitan Manila,Professional Services
+10,Toyota Aisin Philippines,1988,"1,001 - 5,000",8.91,Toru Takeuchi,null,Calabarzon,Automotive (Automotive and Suppliers)
+11,Metropolitan Bank & Trust (Metrobank),1962,>10000,8.87,Fabian Dee,null,Metropolitan Manila,Banking and Financial Services
+12,Ateneo de Manila University,1859,"1,001 - 5,000",8.85,Fr Roberto C Yap Sj,null,Metropolitan Manila,Education
+13,Unilab,1945,"1,001 - 5,000",8.84,Clinton Campos Hess,null,Metropolitan Manila,Drugs & Biotechnology
+14,De La Salle University,1911,"1,001 - 5,000",8.83,Br. Bernard S. Oca Fsc,null,Metropolitan Manila,Education
+15,University of the Philippines,1908,"5,001 - 10,000",8.81,Atty. Angelo A. Jimenez,null,Metropolitan Manila,Education
+16,Samsung Electro-Mechanics,1997,>10000,8.8,Chang Duckhyun,null,Calabarzon,"Engineering, Manufacturing"
+17,Manila Doctors Hospital,1956,"1,001 - 5,000",8.78,Arlene P. Ledesma,null,Metropolitan Manila,Healthcare & Social
+18,Jollibee Foods,1975,>10000,8.78,Ernesto Tanmantiong,null,Metropolitan Manila,Restaurants
+19,Honda,1990,"501 - 1,000",8.77,Ms. Rie Miyake,null,Calabarzon,Automotive (Automotive and Suppliers)
+20,Mindanao State University,1968,"501 - 1,000",8.77,Atty. Basari D. Mapupuno,null,Northern Mindanao,Education
+21,Mang Inasal,2003,"1,001 - 5,000",8.75,Edgar Sia,null,Metropolitan Manila,Restaurants
+22,Isuzu Automotive Dealership,1996,>250,8.75,Hajime Koso,null,Metropolitan Manila,Automotive (Automotive and Suppliers)
+23,SM Development,1958,"1,001 - 5,000",8.72,Jose Mari Banzon,null,Metropolitan Manila,Real Estate
+24,St. Luke's Medical Center,1903,"1,001 - 5,000",8.72,Dr. Dennis P. Serrano,null,Metropolitan Manila,Healthcare & Social
+25,Chowking,1985,"1,001 - 5,000",8.72,"Andrew L. Santos, Jr.",null,Metropolitan Manila,Restaurants
+26,Monde Nissin,1979,"1,001 - 5,000",8.72,Henry Soesanto,null,Calabarzon,"Food, Soft Beverages, Alcohol & Tobacco"
+27,The Armed Forces of the Philippines,1898,>10000,8.72,Ltgen. Romeo Brawner Jr. Jr Pa,null,Metropolitan Manila,Government Services
+28,Department of Trade and Industry,1898,"1,001 - 5,000",8.71,Ma. Cristina A. Roque,null,Metropolitan Manila,Government Services
+29,San Miguel Food and Beverage,1956,"5,001 - 10,000",8.69,Ramon S. Ang,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+30,Megawide Construction,1997,"1,001 - 5,000",8.68,Edgar B. Saavedra,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+31,Emerson Electric Asia,1890,"1,001 - 5,000",8.64,Lal Karsanbhai,null,Metropolitan Manila,"IT, Internet, Software & Services"
+32,Negros Women for Tomorrow Foundation,1984,"501 - 1,000",8.61,Suzzette D. Gaston,null,Western Visayas,Economy & Politics & NGO
+33,Department of Social Welfare and Development,1915,"5,001 - 10,000",8.59,Rex Gatchalian,null,Metropolitan Manila,Government Services
+34,Bank of The Philippine Island,1851,>10000,8.59,Jose Teodoro K. Limcaoco,null,Metropolitan Manila,Banking and Financial Services
+35,PAG IBIG Fund,1978,"5,001 - 10,000",8.59,Marilene C. Acosta,null,Metropolitan Manila,Government Services
+36,American Express International,1916,"1,001 - 5,000",8.58,Stephen J. Squeri,null,Metropolitan Manila,Banking and Financial Services
+37,Philippine Manufacturing Co. of Murata,1944,>10000,8.57,Masayoshi Koda,null,Calabarzon,"Engineering, Manufacturing"
+38,Department of Health,1898,"5,001 - 10,000",8.57,Dr. Teodoro J. Herbosa,null,Calabarzon,Government Services
+39,Bounty Fresh Food,1986,"1,001 - 5,000",8.57,Tennyson G. Chen,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+40,Shearwater Health Advisors,1973,"1,001 - 5,000",8.55,Tom Kendrot,null,Metropolitan Manila,Healthcare & Social
+41,Aboitiz Construction,1975,"501 - 1,000",8.55,Sabin M. Aboitiz,null,Central Visayas,"Construction, Oil & Gas Operations, Mining and Chemicals"
+42,Coca-Cola,1981,"1,001 - 5,000",8.54,Gareth Mcgeown,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+43,Robinsons Mall,1980,>10000,8.54,Robina Y. Gokongwei-Pe,null,Metropolitan Manila,Retail and Wholesale
+44,Goldilocks Bakeshop,1966,"1,001 - 5,000",8.53,Richard L. Yee,null,Metropolitan Manila,Restaurants
+45,Technical Education and Skills Development Authority,1994,>10000,8.51,Jose Francisco Bantug Benitez,null,Metropolitan Manila,Government Services
+46,Kentucky Fried Chicken (KFC),1967,"501 - 1,000",8.51,Bertie Sanger,null,Metropolitan Manila,Restaurants
+47,Pru Life UK,1848,>10000,8.51, Sanjay Chakrabarty,null,Metropolitan Manila,Insurance
+48,Maersk,1931,"1,001 - 5,000",8.51,Vincent Clerc,null,Metropolitan Manila,Transportation and Logistics
+49,RiteMED Philippines,2002,"501 - 1,000",8.5,Jose Maria A. Ochave,null,Metropolitan Manila,Drugs & Biotechnology
+50,Capital One Philippines Support Services,2015,"1,001 - 5,000",8.49,Richard D. Fairbank,null,Metropolitan Manila,Business Services & Supplies
+51,FedEx,1984,"501 - 1,000",8.49,Noel F. Manankil,null,Metropolitan Manila,Transportation and Logistics
+52,Okada Manila,2007,"5,001 - 10,000",8.49,Tomohiro Okada,null,Metropolitan Manila,Travel & Leisure
+53,Oracle,1990,"501 - 1,000",8.48,Safra Catz,null,Metropolitan Manila,"IT, Internet, Software & Services"
+54,Microsoft,1995,"501 - 1,000",8.47,Peter Maquera,null,Metropolitan Manila,"IT, Internet, Software & Services"
+55,Avon Cosmetics,1886,>250,8.47,Kristof Neirynck,null,Metropolitan Manila,Packaged Goods
+56,Sun Life Philippines,1895,"1,001 - 5,000",8.47,Benedict Sison,null,Metropolitan Manila,Insurance
+57,Maxicare Healthcare,1987,"1,001 - 5,000",8.47,Christian Sean Argos,null,Metropolitan Manila,Healthcare & Social
+58,University of Santo Tomas,1611,>250,8.46,Very Rev. Fr. Gerard Francisco P.,null,Metropolitan Manila,Education
+59,West Visayas State University,1924,>250,8.46,"Joselito F. Villaruz M.D., Ph. D.",null,Ilocos Region,Education
+60,Abbott,1943,"501 - 1,000",8.46,Robert B. Ford,null,Metropolitan Manila,Health Care Equipment & Services
+61,Globe Telecom,1935,>10000,8.46,Ernest L. Cu,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+62,Verizon Communications,2000,"501 - 1,000",8.45,Dojie Dizon F.,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+63,Del Monte Phillippines,1920,"1,001 - 5,000",8.45,Rolando C. Gapud,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+64,University of Southeastern Philippines,1978,"501 - 1,000",8.45,"Bonifacio G. Gabales Jr., Phd",null,Davao Region,Education
+65,Canva Solutions,2014,"501 - 1,000",8.44,Yani Hornilla-Donato,null,Metropolitan Manila,"IT, Internet, Software & Services"
+66,Makati Medical Center,1969,"1,001 - 5,000",8.44,Atty. Pilar Nenuca P. Almira,null,Metropolitan Manila,Healthcare & Social
+67,RCBC,1960,"5,001 - 10,000",8.43,Eugene S. Acevedo,null,Metropolitan Manila,Banking and Financial Services
+68,Department of Agrarian Reform,1971,"1,001 - 5,000",8.42,Conrado M. Estrella Iii.,null,Metropolitan Manila,Government Services
+69,Western Mindanao State University,1987,"1,001 - 5,000",8.41,Hon. Ma. Carla A. Ochotorena,null,Zamboanga Peninsula,Education
+70,Amazon,2018,"1,001 - 5,000",8.41,Andy Jassy,null,Central Visayas,Retail and Wholesale
+71,The Manufacturers Life Insurance (Manulife),1907,"1,001 - 5,000",8.41,Rahul Hora,null,Ontario,Insurance
+72,Robinsons Retail Holdings,1980,>10000,8.41,Robina Y. Gokongwei-Pe,null,Metropolitan Manila,Retail and Wholesale
+73,Lyceum of The Philippines University,1966,"1,001 - 5,000",8.41,Atty. Roberto P. Laurel,null,Metropolitan Manila,Education
+74,Epson,1996,"1,001 - 5,000",8.39,Yasunori Ogawa,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+75,Polytechnic University of The Philippines,1952,"1,001 - 5,000",8.39,Manuel M. Muhi,null,Metropolitan Manila,Education
+76,Cebu Institute of Technology University,1946,>250,8.37,Engr. Bernard Nicolas E. Villamor,null,Central Visayas,Education
+77,Shangri-La,1971,"1,001 - 5,000",8.37,Kuok Hui Kwong,null,Metropolitan Manila,Travel & Leisure
+78,Department of the Interior and Local Government,1897,"1,001 - 5,000",8.37,Benhur Abalos,null,Metropolitan Manila,Government Services
+79,ACE Hardware,1997,>250,8.37,Bernard Ong,null,Metropolitan Manila,Retail and Wholesale
+80,Telus International,2005,>10000,8.37,Jeff Puritt,null,Metropolitan Manila,Business Services & Supplies
+81,Department of Science and Technology,1987,"1,001 - 5,000",8.36,"Dr. Renato U. Solidum, Jr.",null,Metropolitan Manila,Government Services
+82,IBM,1937,>250,8.36,Aileen Judan-Jiao,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+83,Johnson & Johnson,1956,"1,001 - 5,000",8.36,Joaquin Duato,null,New Jersey,Drugs & Biotechnology
+84,Penshoppe,1986,>250,8.35,Bernie Liu,null,Metropolitan Manila,"Clothing, Shoes, Sports Equipment"
+85,University of San Carlos,1948,>250,8.35,"Fr. Francisco Antonio T. Estepa, Svd",null,Central Visayas,Education
+86,MIESCOR,1973,"1,001 - 5,000",8.34,Richard O. Ochava,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+87,HSBC,1875,>250,8.33,Sandeep Uppal,null,Metropolitan Manila,Banking and Financial Services
+88,SM Prime Holdings,1994,>10000,8.32,Jeffrey C. Lim,null,Metropolitan Manila,Real Estate
+89,JT International,1999,>10000,8.31,Eddy Pirard,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+90,Bangko Sentral ng Pilipinas,1993,>250,8.31,"Eli M. Remolona, Jr.",null,Metropolitan Manila,Banking and Financial Services
+91,Watsons,2002,"1,001 - 5,000",8.31,Malina Ngai,null,Metropolitan Manila,Retail and Wholesale
+92,CNX,1983,>10000,8.31,Chris Caldwell,null,Metropolitan Manila,Business Services & Supplies
+93,Philippine National Police,1991,>10000,8.31,Rommel Francisco Marbil,null,Metropolitan Manila,Government Services
+94,Petron,1973,>250,8.3,Ramon S. Ang,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+95,Department of Labor and Employment,1987,"1,001 - 5,000",8.3,"Patrick P. Patriwirawan Jr., Ceso Iii",null,Metropolitan Manila,Government Services
+96,CDO Foodsphere,1975,"1,001 - 5,000",8.3,Jerome Ong,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+97,Philippine Business For Social Progress,1970,"501 - 1,000",8.29,Elvin Ivan Uy / Manuel V. Pangilinan,null,Metropolitan Manila,Economy & Politics & NGO
+98,Commission on Audit,1899,"5,001 - 10,000",8.29,Gamaliel Asis Cordoba,null,Metropolitan Manila,Government Services
+99,NESTLÉ,2018,"1,001 - 5,000",8.28,Kais Marzouki,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+100,PSBank,1960,"1,001 - 5,000",8.28,Jose Vicente L. Alde,null,Metropolitan Manila,Banking and Financial Services
+101,Philippine National Bank,1916,"1,001 - 5,000",8.28,Florido P. Casuela,null,Metropolitan Manila,Banking and Financial Services
+102,Mitsumi,1951,>10000,8.28,Yoshihisa Kainuma,null,Central Luzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+103,Seaoil,1997,"1,001 - 5,000",8.27,Francis Glenn L. Yu,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+104,Centre for Agriculture and Rural Development,1986,>250,8.27,Mr. Jaime Aristotle B. Alip,null,Metropolitan Manila,Economy & Politics & NGO
+105,Fujitsu,1975,>250,8.26,Raul Santiago,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+106,Wilcon Depot,1977,"1,001 - 5,000",8.26,Lorraine Belo-Cincochan,null,Metropolitan Manila,Retail and Wholesale
+107,National Food Authority,1972,>250,8.26,Judy Carol L. Dansal,null,Metropolitan Manila,Government Services
+108,Land Bank of The Philippines,1963,>10000,8.26,Lynette Ortiz,null,Metropolitan Manila,Banking and Financial Services
+109,Mercury Drug,1945,>10000,8.26,Vivian Que-Azcona,null,Metropolitan Manila,Drugs & Biotechnology
+110,Universal Leaf,1964,>250,8.26,Paul G. Beevor,null,Ilocos Region,"Food, Soft Beverages, Alcohol & Tobacco"
+111,Asian Development Bank,1966,"1,001 - 5,000",8.26,Masatsugu Asakawa,null,Metropolitan Manila,Banking and Financial Services
+112,BDO Unibank,1967,>10000,8.25,Nestor Tan,null,Metropolitan Manila,Banking and Financial Services
+113,TaskUs,2009,>10000,8.25,Bryce Maddock,null,Metropolitan Manila,Business Services & Supplies
+114,LTHFood Industries,2003,>250,8.25,Michael Irwin F. Chua,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+115,Canon,1996,"1,001 - 5,000",8.25,Mr. Anuj Aggarwal,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+116,United HealthCare,1977,>250,8.24,Brian Thompson,null,Metropolitan Manila,Healthcare & Social
+117,Philippine Statistics Authority,2013,"1,001 - 5,000",8.23,"Usec. Dennis Mapa, Ph. D.",null,Metropolitan Manila,Government Services
+118,Government Service Insurance System,1937,"1,001 - 5,000",8.23,Jose Arnulfo “Wick” Veloso,null,Metropolitan Manila,Government Services
+119,Phinma,1956,"1,001 - 5,000",8.23,"Ramon R. Del Rosario, Jr.",null,Metropolitan Manila,Education
+120,Synchrony Global Services,1932,"1,001 - 5,000",8.23,Brian Doubles,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+121,Asa Philippines Foundation,2004,>10000,8.23,Richard J. Smith,null,Metropolitan Manila,Economy & Politics & NGO
+122,Wells Fargo,2011,>250,8.22,Uday Odedra,null,Metropolitan Manila,Banking and Financial Services
+123,Microsourcing,2006,>250,8.22,Haidee Enriquez,null,Metropolitan Manila,Business Services & Supplies
+124,Adamson University,1932,"501 - 1,000",8.21,Daniel Franklin Pilario,null,Metropolitan Manila,Education
+125,Silliman University,1938,"501 - 1,000",8.21,"Betty C. Mccann, Ph.D.",null,Central Visayas,Education
+126,Transcom,1995,"1,001 - 5,000",8.21,Brian Johnson,null,Metropolitan Manila,Business Services & Supplies
+127,ON Semiconductor,1999,>250,8.2,Hassane El-Khoury,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+128,Batangas State University,1903,>250,8.2,Tirso A. Ronquillo,null,Calabarzon,Education
+129,Department of Agriculture,1898,"1,001 - 5,000",8.2,"Francisco ""Kiko"" P. Tiu Laurel Jr.",null,Metropolitan Manila,Government Services
+130,Centro Escolar University,1907,>250,8.19,Dr. Ma. Cristina D. Padolina,null,Metropolitan Manila,Education
+131,Technological Institute of The Philippines,1962,>250,8.19,Dr. Elizabeth Quirino-Lahoz,null,Metropolitan Manila,Education
+132,Quantrics Enterprises,2016,"5,001 - 10,000",8.19,Alexia Hamel,null,Calabarzon,"IT, Internet, Software & Services"
+133,DHL,1971,>250,8.19,Ken Lee,null,Metropolitan Manila,Transportation and Logistics
+134,Hyundai,1967,>250,8.18,Maria Fe Perez-Agudo,null,Metropolitan Manila,Automotive (Automotive and Suppliers)
+135,Rockwell Land,1975,"501 - 1,000",8.18,Nestor J. Padilla,null,Metropolitan Manila,Real Estate
+136,Sanyo Denki,2000,"1,001 - 5,000",8.17,Hirokazu Takeuchi,null,Central Luzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+137,Cavite State University,1906,>250,8.17,Hon. Marita R. Canapi,null,Calabarzon,Education
+138,Department of Justice,1897,"501 - 1,000",8.17,Jesus Crispin C. Remulla,null,Metropolitan Manila,Government Services
+139,The Medical City,1967,"1,001 - 5,000",8.17,Dr. Eugenio Jose F. Ramos,null,Metropolitan Manila,Healthcare & Social
+140,Department of National Defense,1939,"501 - 1,000",8.17,"Atty. Gilberto C. Teodoro, Jr.",null,Metropolitan Manila,Government Services
+141,Rohm Electronics,1989,"1,001 - 5,000",8.16,Takahiro Tanaka,null,Calabarzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+142,DMCI Project Developers,1954,>250,8.16,Alfredo R. Austria,null,Metropolitan Manila,Real Estate
+143,Dunkin' Donuts,1981,>250,8.16,David Hoffman,null,Metropolitan Manila,Restaurants
+144,Miriam College,1926,"1,001 - 5,000",8.16,"Ambassador Laura Quiambao-Del Rosario, M.A.",null,Metropolitan Manila,Education
+145,Knowles Electronics,1946,"501 - 1,000",8.16,Jeffrey S. Niew,null,Central Visayas,"Engineering, Manufacturing"
+146,Department of Budget and Management,1936,"501 - 1,000",8.15,Amenah F. Pangandaman,null,Metropolitan Manila,Government Services
+147,Philippine Health Insurance Corporation,1995,"5,001 - 10,000",8.15,Emmanuel Rufino Ledesma Jr.,null,Metropolitan Manila,Government Services
+148,Department of Education,2001,>10000,8.15,Sonny M. Angara,null,Metropolitan Manila,Government Services
+149,Pepsi,1985,"1,001 - 5,000",8.15,Frederick D. Ong,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+150,Philippine General Hospital,1907,"1,001 - 5,000",8.14,"Dr. Gerardo D. Legaspi, Md",null,Metropolitan Manila,Healthcare & Social
+151,Commission on Higher Education,1994,"501 - 1,000",8.14,Prospero De Vera Iii,null,Metropolitan Manila,Government Services
+152,IHG Philippines,2003,"1,001 - 5,000",8.14,Elie Maalouf,null,Metropolitan Manila,Travel & Leisure
+153,Baguio General Hospital,1902,"1,001 - 5,000",8.13,Dr. Ricardo B. Runez,null,Cordillera Administrative Region,Healthcare & Social
+154,KPMG (R.G. Manabat & Co.),2008,"1,001 - 5,000",8.13,Sharon G. Dayoan,null,Metropolitan Manila,Professional Services
+155,Alta Resources,1982,"1,001 - 5,000",8.13,James F. Beré,null,Metropolitan Manila,Business Services & Supplies
+156,Aboitiz Power,1998,>10000,8.13,Danel Aboitiz,null,Metropolitan Manila,Utilities
+157,Realpage,2011,"1,001 - 5,000",8.13,Dana Jones,null,Metropolitan Manila,"IT, Internet, Software & Services"
+158,Western Digital,1970,"5,001 - 10,000",8.12,David Goeckeler,null,California,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+159,Lear Corporation,1917,>250,8.11,Ray Scott,null,Central Visayas,Automotive (Automotive and Suppliers)
+160,Department of Finance,1897,>250,8.11,Ralph Gonzalez Recto,null,Metropolitan Manila,Government Services
+161,Awesome CX,2006,"1,001 - 5,000",8.11,Eric Gist,null,Davao Region,Business Services & Supplies
+162,Security Bank,1951,"5,001 - 10,000",8.11,Sanjiv Vohra,null,Metropolitan Manila,Banking and Financial Services
+163,Makati Development,1958,>10000,8.1,Dante M. Abando,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+164,Uniqlo,2012,>250,8.1,Tadashi Yanai,null,Metropolitan Manila,"Clothing, Shoes, Sports Equipment"
+165,Brother Industries,2000,"5,001 - 10,000",8.1,Glenn Hocson,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+166,Gardenia Bakeries,1998,>250,8.1,"Simplicio P. Umali, Jr.",null,Calabarzon,"Food, Soft Beverages, Alcohol & Tobacco"
+167,Peak Support,2015,"1,001 - 5,000",8.09,Jonathan Steiman,null,Massachusetts,Business Services & Supplies
+168,New City Commercial Corporation,1952,"5,001 - 10,000",8.09,Lafayette A. Lim,null,Davao Region,Retail and Wholesale
+169,GCash,2015,>250,8.09,Martha Sazon,null,Metropolitan Manila,Banking and Financial Services
+170,National Housing Authority,1975,"1,001 - 5,000",8.08,Joeben Tai,null,Metropolitan Manila,Government Services
+171,AIG,1920,"1,001 - 5,000",8.08,Gary Wong,null,Metropolitan Manila,Insurance
+172,SM Supermalls,1985,"5,001 - 10,000",8.08,Steven Tan,null,Metropolitan Manila,Retail and Wholesale
+173,SM Retail,1950,>10000,8.08,Frederic C. Dybuncio,null,Metropolitan Manila,Retail and Wholesale
+174,Vivo Philippines,2016,>250,8.07,Shen Wei,null,Metropolitan Manila,Retail and Wholesale
+175,Integrated Micro-Electronics,1980,>250,8.07,Mr. Lou Hughes,null,Calabarzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+176,Rebisco,1963,"1,001 - 5,000",8.07,Jacinto Ng,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+177,DXC Technology,2017,"1,001 - 5,000",8.07,Raul Fernandez,null,Metropolitan Manila,Business Services & Supplies
+178,Shell Pilipinas,1914,"1,001 - 5,000",8.07,Lorelie Q. Osial,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+179,Southern Philippines Medical Center,1917,>250,8.05,"Ricardo B. Audan, Md",null,Davao Region,Healthcare & Social
+180,Yazaki Torres Industry,1941,"5,001 - 10,000",8.05,Riku Yazaki,null,Tokyo,Automotive (Automotive and Suppliers)
+181,Toshiba,1996,>10000,8.04,Taro Shimada,null,Calabarzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+182,Grab,2013,"1,001 - 5,000",8.04,Grace Vera Cruz,null,Metropolitan Manila,Transportation and Logistics
+183,Dito Telecommunity,1988,"1,001 - 5,000",8.04,Ernesto Alberto,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+184,Nutri-Asia,1991,"501 - 1,000",8.04,"Joselito D. Campos, Jr.",null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+185,Asian Hospital and Medical Center,2002,"1,001 - 5,000",8.03,Dr. Beaver R. Tamesis,null,Metropolitan Manila,Healthcare & Social
+186,Cognizant Technology Solutions,2009,"501 - 1,000",8.03,Ravi Kumar S,null,Metropolitan Manila,"IT, Internet, Software & Services"
+187,Malayan Insurance Company,1930,"501 - 1,000",8.03,Paolo Abaya,null,Metropolitan Manila,Insurance
+188,Filinvest Land,1989,"501 - 1,000",8.02,Tristaneil D. Las Marias,null,Metropolitan Manila,Real Estate
+189,The University of Cebu Medical Center,2015,>250,8.02,Candice Gotianuy,null,Central Visayas,Healthcare & Social
+190,Liceo de Cagayan University,1955,>250,8.01,Dr. Alain Marc P. Golez,null,Northern Mindanao,Education
+191,Executive Optical,1968,"1,001 - 5,000",8.01,Dr. Maximino S. Uy,null,Metropolitan Manila,Retail and Wholesale
+192,St. Peter Life Plan,1970,"501 - 1,000",8.01,Jonathan B. Vitangcol,null,Metropolitan Manila,Business Services & Supplies
+193,Reed Elsevier Shared Services,2010,"1,001 - 5,000",8,Mark Lwin,null,Ilocos Region,Business Services & Supplies
+194,FAST Logistics,1945,>10000,8,William Joseph B. Chiongbian Ii,null,Central Visayas,Transportation and Logistics
+195,EEI,1931,"1,001 - 5,000",8,Henry D. Antonio,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+196,Palawan Pawnshop,1985,"1,001 - 5,000",8,Bobby Castro,null,Mimaropa,Banking and Financial Services
+197,iQor,1953,>10000,7.99,Chris Crowley,null,California,Business Services & Supplies
+198,Acquire BPO,2005,"1,001 - 5,000",7.99,Dana Andel,null,Metropolitan Manila,Business Services & Supplies
+199,Lexmark Research & Development,1991,"1,001 - 5,000",7.98,Allen Waugerman,null,Central Visayas,"IT, Internet, Software & Services"
+200,Huawei,1987,>250,7.98,Mr. Ren Zhengfei,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+201,Wipro,2007,"1,001 - 5,000",7.97,Aseem Roy,null,Central Visayas,Business Services & Supplies
+202,National Grid,2009,"1,001 - 5,000",7.97,Anthony Almeda,null,Metropolitan Manila,Utilities
+203,AXA Philippines,1999,>250,7.97,Ayman Kandil,null,Metropolitan Manila,Insurance
+204,Century Properties Group,1986,"1,001 - 5,000",7.97,Jose Marco R Antonio,null,Metropolitan Manila,Real Estate
+205,McDonald's,1981,>10000,7.96,Kenneth Yang,null,Metropolitan Manila,Restaurants
+206,Analog Devices,2010,"5,001 - 10,000",7.96,Vincent Roche,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+207,Abenson Ventures,1970,"1,001 - 5,000",7.96,Winston Lim,null,Metropolitan Manila,Retail and Wholesale
+208,Autoliv,1953,>250,7.96,Mikael Bratt,null,Central Visayas,Automotive (Automotive and Suppliers)
+209,Ace Promotion And Marketing,1977,"1,001 - 5,000",7.95,Arnel Cruz,null,Metropolitan Manila,Professional Services
+210,KCC Malls,1989,>250,7.95,Arvin T. Chan,null,Soccsksargen,Retail and Wholesale
+211,Asurion,1994,"1,001 - 5,000",7.95,Tim Stadthaus,null,Tennessee,Professional Services
+212,Everise,2016,"1,001 - 5,000",7.95,Sudhir Agarwal,null,Metropolitan Manila,Business Services & Supplies
+213,Department of Environment & Natural Resources,1987,"1,001 - 5,000",7.94,Maria Antonia Yulo-Loyzaga,null,Metropolitan Manila,Government Services
+214,Smart Communications,1991,"5,001 - 10,000",7.94,Manuel V. Pangilinan,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+215,Cloudstaff Modern Workforce,2010,"5,001 - 10,000",7.94,Lloyd Ernst,null,New South Wales,Business Services & Supplies
+216,IQVIA,1982,"501 - 1,000",7.93,Ari Bousbib,null,Metropolitan Manila,Business Services & Supplies
+217,AAI Worldwide Logistics,1981,"501 - 1,000",7.93,Agnes V. Mariano,null,Metropolitan Manila,Transportation and Logistics
+218,Factset,1978,"1,001 - 5,000",7.93,Philip Snow,null,Metropolitan Manila,Professional Services
+219,Century Pacific Foods,1978,"1,001 - 5,000",7.93,Teodoro Alexander Po,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+220,Bayer,1863,"1,001 - 5,000",7.93,Bill Anderson,null,Metropolitan Manila,Drugs & Biotechnology
+221,Ninja Van,2014,"5,001 - 10,000",7.92,Lai Chang Wen,null,Metropolitan Manila,Transportation and Logistics
+222,Shopee,2015,>250,7.92,Chris Feng,null,Metropolitan Manila,Retail and Wholesale
+223,OfficePartners360,2006,"1,001 - 5,000",7.92,Tim Boylan,null,Central Visayas,Professional Services
+224,South Star Drug,1937,"1,001 - 5,000",7.92,Robina Y. Gokongwei-Pe,null,Metropolitan Manila,Retail and Wholesale
+225,Virtual Staffing Solutions,2018,"1,001 - 5,000",7.91,Brian Hiener,null,Eastern Visayas,Business Services & Supplies
+226,AMTI (Accent Micro Technologies),1996,>250,7.91,Allyxon Cua,null,Metropolitan Manila,"IT, Internet, Software & Services"
+227,Robinsons Land,1980,"1,001 - 5,000",7.91,Lance Y. Gokongwei,null,Metropolitan Manila,Real Estate
+228,Agribusiness Rural Bank,1978,>250,7.9,"Atty. Luis A. Vera Cruz, Jr.",null,Metropolitan Manila,Banking and Financial Services
+229,Tata Consultancy Services,2008,"1,001 - 5,000",7.9,Shiju Varghese,null,Metropolitan Manila,Professional Services
+230,Emapta Versatile Services,2010,"5,001 - 10,000",7.9,Tim Vorbach,null,Metropolitan Manila,Business Services & Supplies
+231,ARDCI Microfinance,1998,"501 - 1,000",7.9,Victor T. Bernal,null,Bicol,Banking and Financial Services
+232,Ingram Micro,2009,"1,001 - 5,000",7.9,Paul Bay,null,Metropolitan Manila,"IT, Internet, Software & Services"
+233,The Insular Life Assurance Company,1910,"501 - 1,000",7.89,Raoul Antonio E. Littaua,null,Metropolitan Manila,Insurance
+234,CitiGroup,1902,"5,001 - 10,000",7.89,Paul A. Favila,null,Metropolitan Manila,Banking and Financial Services
+235,Cebu Doctors’ University Hospital,1972,"1,001 - 5,000",7.89,Dr. Philip Anthony Sto. Domingo Larrazabal,null,Central Visayas,Healthcare & Social
+236,Development Bank of The Philippines,1958,"1,001 - 5,000",7.88,Michael O. De Jesus,null,Metropolitan Manila,Banking and Financial Services
+237,First Sumiden Circuits,1966,>250,7.88,Mr. Toshiyuki Morimoto,null,Calabarzon,"Engineering, Manufacturing"
+238,Willis Towers Watson,2016,>250,7.88,Carl Hess,null,Metropolitan Manila,Professional Services
+239,Alliance Select Foods International,2003,>250,7.88,Mr. Jeoffrey P. Yulo,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+240,Megaworld,1989,"1,001 - 5,000",7.87,Dr. Andrew L. Tan,null,Metropolitan Manila,Real Estate
+241,VXI Global Holdings,2003,"1,001 - 5,000",7.87,David Zhou,null,Metropolitan Manila,Business Services & Supplies
+242,Chong Hua Hospital,1909,"1,001 - 5,000",7.87,Dr. Helen Po,null,Central Visayas,Healthcare & Social
+243,Universal Robina,1954,>10000,7.87,Irwin C. Lee,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+244,Metro Retail Stores Group,1982,"5,001 - 10,000",7.86,Frank S. Gaisano,null,Metropolitan Manila,Retail and Wholesale
+245,SGV,1946,"5,001 - 10,000",7.86,Wilson P. Tan,null,Metropolitan Manila,Professional Services
+246,FWD Life Insurance,2013,"5,001 - 10,000",7.86,Antonio Manuel Jumbing De Rosas,null,Metropolitan Manila,Insurance
+247,STI Education Systems Holdings,1928,>250,7.86,Monico V. Jacob,null,Metropolitan Manila,Education
+248,Vicente Sotto Memorial Medical Center,1913,>250,7.86,"Gerardo M. Aquino Jr., Md",null,Central Visayas,Healthcare & Social
+249,University of Cebu,1964,"1,001 - 5,000",7.85,Atty. Augusto W. Go,null,Central Visayas,Education
+250,Starbucks,1997,"1,001 - 5,000",7.85,Noey Lopez,null,Metropolitan Manila,Restaurants
+251,City Savings Bank,1965,>250,7.85,Manuel Santiago Jr.,null,Central Visayas,Banking and Financial Services
+252,Amkor Technology,1968,>250,7.85,Giel Rutten,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+253,Alturas Supermarket,1982,"1,001 - 5,000",7.85,Raymond Uy,null,Central Visayas,Retail and Wholesale
+254,Holcim Philippines,1964,"501 - 1,000",7.85,Nicolas George,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+255,Adventist University of the Philippines,1917,>250,7.85,Arceli H. Rosario,null,Calabarzon,Education
+256,Conduent,2017,"1,001 - 5,000",7.84,Cliff Skelton,null,New Jersey,Business Services & Supplies
+257,Pricewaterhousecoopers (PwC),1922,"1,001 - 5,000",7.84,"Nonito S. Esteban Ii, Carlos Hilario Mateo",null,Metropolitan Manila,Professional Services
+258,HGS,2004,"1,001 - 5,000",7.84,Pushkar Misra,null,Metropolitan Manila,Business Services & Supplies
+259,East West Banking,1994,"5,001 - 10,000",7.84,Jacqueline S. Fernandez,null,Metropolitan Manila,Banking and Financial Services
+260,Leslie Corporation,1960,"501 - 1,000",7.84,Bobby Wong,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+261,Tsuneishi Heavy Industries,1994,>10000,7.84,Yasuaki Seto,null,Central Visayas,"Engineering, Manufacturing"
+262,M Lhuillier,1988,"501 - 1,000",7.84,Michael Lhuillier,null,Metropolitan Manila,Banking and Financial Services
+263,Department of Information and Communications Technology,2004,"1,001 - 5,000",7.84,Ivan John E. Uy,null,Metropolitan Manila,Government Services
+264,Acabar Marketing International,1996,"1,001 - 5,000",7.82,Ma. Mildred B. Umali,null,Metropolitan Manila,Professional Services
+265,Teletech Customer Care Management,2001,>10000,7.82,Kenneth Tuchman,null,Metropolitan Manila,Business Services & Supplies
+266,Lazada,2012,"1,001 - 5,000",7.82,Carlos Otermin Barrera,null,Metropolitan Manila,Retail and Wholesale
+267,Access Healthcare,2011,>250,7.81,Anurag Jain,null,Metropolitan Manila,Health Care Equipment & Services
+268,Sterling Global Call Center,2003,"1,001 - 5,000",7.8,Mark Marcelo,null,Metropolitan Manila,Business Services & Supplies
+269,Stefanini IT Solutions,1987,>250,7.8,Marco Stefanini,null,Metropolitan Manila,"IT, Internet, Software & Services"
+270,PayPal,2019,"1,001 - 5,000",7.8,Alex Chriss,null,Metropolitan Manila,Banking and Financial Services
+271,TPG Telecom,2009,"1,001 - 5,000",7.79,Iñaki Berroeta,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+272,Home Credit,2013,"1,001 - 5,000",7.78,David Minol,null,Metropolitan Manila,Banking and Financial Services
+273,Collabera Technologies,2010,"1,001 - 5,000",7.78,Mehul Shah,null,Metropolitan Manila,"IT, Internet, Software & Services"
+274,Xavier University,1933,"501 - 1,000",7.78,"Fr. Mars P. Tan, S.J.",null,Northern Mindanao,Education
+275,Asia Brewery,1982,>250,7.77,Lucio Tan Ph. D,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+276,Texas Instruments,1979,>250,7.77,Haviv Ilan,null,Cordillera Administrative Region,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+277,Alexander Mann Solutions,1996,"501 - 1,000",7.77,David Leigh,null,Metropolitan Manila,Professional Services
+278,Punongbayan & Araullo,1988,>250,7.76,Benjamin R. Punongbayan,null,Metropolitan Manila,Business Services & Supplies
+279,Japan Aviation Electronics Industry,1996,>250,7.76,"Tsutomu Onohara, Masayuki Muraki",null,Calabarzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+280,Seatrium,1963,>250,7.76,Mr. Chris Ong,null,Central Luzon,"Engineering, Manufacturing"
+281,Suyen,1987,"1,001 - 5,000",7.76,Ben Chan,null,Metropolitan Manila,Retail and Wholesale
+282,Pioneer Insurance & Surety,1954,"501 - 1,000",7.76,Ma. Bertola D. Medialdea,null,Metropolitan Manila,Insurance
+283,Omega Healthcare,2003,"501 - 1,000",7.75,Anurag Mehta,null,Metropolitan Manila,"IT, Internet, Software & Services"
+284,Cebu Pacific Air,1996,"1,001 - 5,000",7.75,Michael Szucs,null,Metropolitan Manila,Transportation and Logistics
+285,TDCX,1995,"1,001 - 5,000",7.75,Laurent Junique,null,Metropolitan Manila,Business Services & Supplies
+286,Sutherland,2005,>10000,7.74,Dilip Vellodi,null,Metropolitan Manila,Business Services & Supplies
+287,Zuellig Pharma,1922,>250,7.74,Jannette A. Jakosalem,null,Metropolitan Manila,Health Care Equipment & Services
+288,Mbuilders Trading,,>250,7.74,null,null,null,Business Services & Supplies
+289,LBC Express Holdings,1945,>250,7.74,Miguel Angel A. Camahort,null,Metropolitan Manila,Transportation and Logistics
+290,Six Eleven,2005,>250,7.74,Michael Bian,null,Davao Region,Business Services & Supplies
+291,Teleperformance,1996,>250,7.73,Miguel O. Cojuangco,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+292,CTC BPO,2004,>250,7.72,Tony Espinoza,null,Central Visayas,Business Services & Supplies
+293,Flash Express,2021,>250,7.72,Komsan Saelee,null,Metropolitan Manila,Transportation and Logistics
+294,Infor,2002,>250,7.71,Kevin Samuelson,null,Metropolitan Manila,"IT, Internet, Software & Services"
+295,Union Bank of the Philippines,1968,>250,7.71,Edwin R. Bautista,null,Metropolitan Manila,Banking and Financial Services
+296,The D.I.Y. (Do It Yourself) Shop,2005,>250,7.7,Ms. Roselle Andaya,null,Metropolitan Manila,Retail and Wholesale
+297,Foodpanda,2014,>250,7.7,Dan Marogy,null,Metropolitan Manila,Transportation and Logistics
+298,Results CX,1990,>250,7.7,Rajesh Subramaniam,null,Metropolitan Manila,Professional Services
+299,Denso,1995,"1,001 - 5,000",7.7,Shinnosuke Hayashi,null,Calabarzon,"Engineering, Manufacturing"
+300,Ubiquity,2012,>250,7.69,Matt Nyren,null,Western Visayas,Business Services & Supplies
+201,Wipro,2007,"1,001 - 5,000",7.97,Aseem Roy,null,Central Visayas,Business Services & Supplies
+202,National Grid,2009,"1,001 - 5,000",7.97,Anthony Almeda,null,Metropolitan Manila,Utilities
+203,AXA Philippines,1999,>250,7.97,Ayman Kandil,null,Metropolitan Manila,Insurance
+204,Century Properties Group,1986,"1,001 - 5,000",7.97,Jose Marco R Antonio,null,Metropolitan Manila,Real Estate
+205,McDonald's,1981,>10000,7.96,Kenneth Yang,null,Metropolitan Manila,Restaurants
+206,Analog Devices,2010,"5,001 - 10,000",7.96,Vincent Roche,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+207,Abenson Ventures,1970,"1,001 - 5,000",7.96,Winston Lim,null,Metropolitan Manila,Retail and Wholesale
+208,Autoliv,1953,>250,7.96,Mikael Bratt,null,Central Visayas,Automotive (Automotive and Suppliers)
+209,Ace Promotion And Marketing,1977,"1,001 - 5,000",7.95,Arnel Cruz,null,Metropolitan Manila,Professional Services
+210,KCC Malls,1989,>250,7.95,Arvin T. Chan,null,Soccsksargen,Retail and Wholesale
+211,Asurion,1994,"1,001 - 5,000",7.95,Tim Stadthaus,null,Tennessee,Professional Services
+212,Everise,2016,"1,001 - 5,000",7.95,Sudhir Agarwal,null,Metropolitan Manila,Business Services & Supplies
+213,Department of Environment & Natural Resources,1987,"1,001 - 5,000",7.94,Maria Antonia Yulo-Loyzaga,null,Metropolitan Manila,Government Services
+214,Smart Communications,1991,"5,001 - 10,000",7.94,Manuel V. Pangilinan,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+215,Cloudstaff Modern Workforce,2010,"5,001 - 10,000",7.94,Lloyd Ernst,null,New South Wales,Business Services & Supplies
+216,IQVIA,1982,"501 - 1,000",7.93,Ari Bousbib,null,Metropolitan Manila,Business Services & Supplies
+217,AAI Worldwide Logistics,1981,"501 - 1,000",7.93,Agnes V. Mariano,null,Metropolitan Manila,Transportation and Logistics
+218,Factset,1978,"1,001 - 5,000",7.93,Philip Snow,null,Metropolitan Manila,Professional Services
+219,Century Pacific Foods,1978,"1,001 - 5,000",7.93,Teodoro Alexander Po,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+220,Bayer,1863,"1,001 - 5,000",7.93,Bill Anderson,null,Metropolitan Manila,Drugs & Biotechnology
+221,Ninja Van,2014,"5,001 - 10,000",7.92,Lai Chang Wen,null,Metropolitan Manila,Transportation and Logistics
+222,Shopee,2015,>250,7.92,Chris Feng,null,Metropolitan Manila,Retail and Wholesale
+223,OfficePartners360,2006,"1,001 - 5,000",7.92,Tim Boylan,null,Central Visayas,Professional Services
+224,South Star Drug,1937,"1,001 - 5,000",7.92,Robina Y. Gokongwei-Pe,null,Metropolitan Manila,Retail and Wholesale
+225,Virtual Staffing Solutions,2018,"1,001 - 5,000",7.91,Brian Hiener,null,Eastern Visayas,Business Services & Supplies
+226,AMTI (Accent Micro Technologies),1996,>250,7.91,Allyxon Cua,null,Metropolitan Manila,"IT, Internet, Software & Services"
+227,Robinsons Land,1980,"1,001 - 5,000",7.91,Lance Y. Gokongwei,null,Metropolitan Manila,Real Estate
+228,Agribusiness Rural Bank,1978,>250,7.9,"Atty. Luis A. Vera Cruz, Jr.",null,Metropolitan Manila,Banking and Financial Services
+229,Tata Consultancy Services,2008,"1,001 - 5,000",7.9,Shiju Varghese,null,Metropolitan Manila,Professional Services
+230,Emapta Versatile Services,2010,"5,001 - 10,000",7.9,Tim Vorbach,null,Metropolitan Manila,Business Services & Supplies
+231,ARDCI Microfinance,1998,"501 - 1,000",7.9,Victor T. Bernal,null,Bicol,Banking and Financial Services
+232,Ingram Micro,2009,"1,001 - 5,000",7.9,Paul Bay,null,Metropolitan Manila,"IT, Internet, Software & Services"
+233,The Insular Life Assurance Company,1910,"501 - 1,000",7.89,Raoul Antonio E. Littaua,null,Metropolitan Manila,Insurance
+234,CitiGroup,1902,"5,001 - 10,000",7.89,Paul A. Favila,null,Metropolitan Manila,Banking and Financial Services
+235,Cebu Doctors’ University Hospital,1972,"1,001 - 5,000",7.89,Dr. Philip Anthony Sto. Domingo Larrazabal,null,Central Visayas,Healthcare & Social
+236,Development Bank of The Philippines,1958,"1,001 - 5,000",7.88,Michael O. De Jesus,null,Metropolitan Manila,Banking and Financial Services
+237,First Sumiden Circuits,1966,>250,7.88,Mr. Toshiyuki Morimoto,null,Calabarzon,"Engineering, Manufacturing"
+238,Willis Towers Watson,2016,>250,7.88,Carl Hess,null,Metropolitan Manila,Professional Services
+239,Alliance Select Foods International,2003,>250,7.88,Mr. Jeoffrey P. Yulo,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+240,Megaworld,1989,"1,001 - 5,000",7.87,Dr. Andrew L. Tan,null,Metropolitan Manila,Real Estate
+241,VXI Global Holdings,2003,"1,001 - 5,000",7.87,David Zhou,null,Metropolitan Manila,Business Services & Supplies
+242,Chong Hua Hospital,1909,"1,001 - 5,000",7.87,Dr. Helen Po,null,Central Visayas,Healthcare & Social
+243,Universal Robina,1954,>10000,7.87,Irwin C. Lee,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+244,Metro Retail Stores Group,1982,"5,001 - 10,000",7.86,Frank S. Gaisano,null,Metropolitan Manila,Retail and Wholesale
+245,SGV,1946,"5,001 - 10,000",7.86,Wilson P. Tan,null,Metropolitan Manila,Professional Services
+246,FWD Life Insurance,2013,"5,001 - 10,000",7.86,Antonio Manuel Jumbing De Rosas,null,Metropolitan Manila,Insurance
+247,STI Education Systems Holdings,1928,>250,7.86,Monico V. Jacob,null,Metropolitan Manila,Education
+248,Vicente Sotto Memorial Medical Center,1913,>250,7.86,"Gerardo M. Aquino Jr., Md",null,Central Visayas,Healthcare & Social
+249,University of Cebu,1964,"1,001 - 5,000",7.85,Atty. Augusto W. Go,null,Central Visayas,Education
+250,Starbucks,1997,"1,001 - 5,000",7.85,Noey Lopez,null,Metropolitan Manila,Restaurants
+251,City Savings Bank,1965,>250,7.85,Manuel Santiago Jr.,null,Central Visayas,Banking and Financial Services
+252,Amkor Technology,1968,>250,7.85,Giel Rutten,null,Metropolitan Manila,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+253,Alturas Supermarket,1982,"1,001 - 5,000",7.85,Raymond Uy,null,Central Visayas,Retail and Wholesale
+254,Holcim Philippines,1964,"501 - 1,000",7.85,Nicolas George,null,Metropolitan Manila,"Construction, Oil & Gas Operations, Mining and Chemicals"
+255,Adventist University of the Philippines,1917,>250,7.85,Arceli H. Rosario,null,Calabarzon,Education
+256,Conduent,2017,"1,001 - 5,000",7.84,Cliff Skelton,null,New Jersey,Business Services & Supplies
+257,Pricewaterhousecoopers (PwC),1922,"1,001 - 5,000",7.84,"Nonito S. Esteban Ii, Carlos Hilario Mateo",null,Metropolitan Manila,Professional Services
+258,HGS,2004,"1,001 - 5,000",7.84,Pushkar Misra,null,Metropolitan Manila,Business Services & Supplies
+259,East West Banking,1994,"5,001 - 10,000",7.84,Jacqueline S. Fernandez,null,Metropolitan Manila,Banking and Financial Services
+260,Leslie Corporation,1960,"501 - 1,000",7.84,Bobby Wong,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+261,Tsuneishi Heavy Industries,1994,>10000,7.84,Yasuaki Seto,null,Central Visayas,"Engineering, Manufacturing"
+262,M Lhuillier,1988,"501 - 1,000",7.84,Michael Lhuillier,null,Metropolitan Manila,Banking and Financial Services
+263,Department of Information and Communications Technology,2004,"1,001 - 5,000",7.84,Ivan John E. Uy,null,Metropolitan Manila,Government Services
+264,Acabar Marketing International,1996,"1,001 - 5,000",7.82,Ma. Mildred B. Umali,null,Metropolitan Manila,Professional Services
+265,Teletech Customer Care Management,2001,>10000,7.82,Kenneth Tuchman,null,Metropolitan Manila,Business Services & Supplies
+266,Lazada,2012,"1,001 - 5,000",7.82,Carlos Otermin Barrera,null,Metropolitan Manila,Retail and Wholesale
+267,Access Healthcare,2011,>250,7.81,Anurag Jain,null,Metropolitan Manila,Health Care Equipment & Services
+268,Sterling Global Call Center,2003,"1,001 - 5,000",7.8,Mark Marcelo,null,Metropolitan Manila,Business Services & Supplies
+269,Stefanini IT Solutions,1987,>250,7.8,Marco Stefanini,null,Metropolitan Manila,"IT, Internet, Software & Services"
+270,PayPal,2019,"1,001 - 5,000",7.8,Alex Chriss,null,Metropolitan Manila,Banking and Financial Services
+271,TPG Telecom,2009,"1,001 - 5,000",7.79,Iñaki Berroeta,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+272,Home Credit,2013,"1,001 - 5,000",7.78,David Minol,null,Metropolitan Manila,Banking and Financial Services
+273,Collabera Technologies,2010,"1,001 - 5,000",7.78,Mehul Shah,null,Metropolitan Manila,"IT, Internet, Software & Services"
+274,Xavier University,1933,"501 - 1,000",7.78,"Fr. Mars P. Tan, S.J.",null,Northern Mindanao,Education
+275,Asia Brewery,1982,>250,7.77,Lucio Tan Ph. D,null,Metropolitan Manila,"Food, Soft Beverages, Alcohol & Tobacco"
+276,Texas Instruments,1979,>250,7.77,Haviv Ilan,null,Cordillera Administrative Region,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+277,Alexander Mann Solutions,1996,"501 - 1,000",7.77,David Leigh,null,Metropolitan Manila,Professional Services
+278,Punongbayan & Araullo,1988,>250,7.76,Benjamin R. Punongbayan,null,Metropolitan Manila,Business Services & Supplies
+279,Japan Aviation Electronics Industry,1996,>250,7.76,"Tsutomu Onohara, Masayuki Muraki",null,Calabarzon,"Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+280,Seatrium,1963,>250,7.76,Mr. Chris Ong,null,Central Luzon,"Engineering, Manufacturing"
+281,Suyen,1987,"1,001 - 5,000",7.76,Ben Chan,null,Metropolitan Manila,Retail and Wholesale
+282,Pioneer Insurance & Surety,1954,"501 - 1,000",7.76,Ma. Bertola D. Medialdea,null,Metropolitan Manila,Insurance
+283,Omega Healthcare,2003,"501 - 1,000",7.75,Anurag Mehta,null,Metropolitan Manila,"IT, Internet, Software & Services"
+284,Cebu Pacific Air,1996,"1,001 - 5,000",7.75,Michael Szucs,null,Metropolitan Manila,Transportation and Logistics
+285,TDCX,1995,"1,001 - 5,000",7.75,Laurent Junique,null,Metropolitan Manila,Business Services & Supplies
+286,Sutherland,2005,>10000,7.74,Dilip Vellodi,null,Metropolitan Manila,Business Services & Supplies
+287,Zuellig Pharma,1922,>250,7.74,Jannette A. Jakosalem,null,Metropolitan Manila,Health Care Equipment & Services
+288,Mbuilders Trading,,>250,7.74,null,null,null,Business Services & Supplies
+289,LBC Express Holdings,1945,>250,7.74,Miguel Angel A. Camahort,null,Metropolitan Manila,Transportation and Logistics
+290,Six Eleven,2005,>250,7.74,Michael Bian,null,Davao Region,Business Services & Supplies
+291,Teleperformance,1996,>250,7.73,Miguel O. Cojuangco,null,Metropolitan Manila,"Telecommunications Services, Cable Supplier"
+292,CTC BPO,2004,>250,7.72,Tony Espinoza,null,Central Visayas,Business Services & Supplies
+293,Flash Express,2021,>250,7.72,Komsan Saelee,null,Metropolitan Manila,Transportation and Logistics
+294,Infor,2002,>250,7.71,Kevin Samuelson,null,Metropolitan Manila,"IT, Internet, Software & Services"
+295,Union Bank of the Philippines,1968,>250,7.71,Edwin R. Bautista,null,Metropolitan Manila,Banking and Financial Services
+296,The D.I.Y. (Do It Yourself) Shop,2005,>250,7.7,Ms. Roselle Andaya,null,Metropolitan Manila,Retail and Wholesale
+297,Foodpanda,2014,>250,7.7,Dan Marogy,null,Metropolitan Manila,Transportation and Logistics
+298,Results CX,1990,>250,7.7,Rajesh Subramaniam,null,Metropolitan Manila,Professional Services
+299,Denso,1995,"1,001 - 5,000",7.7,Shinnosuke Hayashi,null,Calabarzon,"Engineering, Manufacturing"
+300,Ubiquity,2012,>250,7.69,Matt Nyren,null,Western Visayas,Business Services & Supplies

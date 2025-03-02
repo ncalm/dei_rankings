@@ -1,7 +1,7 @@
 """Utilities for the rankings module"""
 from datetime import datetime
 import openpyxl
-from rankings import logging_config
+from dei_rankings import logging_config
 
 logger = logging_config.logger
 LOAD_WAIT_SECONDS = 10
@@ -85,25 +85,42 @@ def predict_country_study_year(core_part, country_map, study_map):
 
     logger.info('Predicted year: %s', predicted_year)
 
-    # if one of the tokens is a country name that also appears in the table, it's probably
-    # the country
-    for token in tokens:
+
+    predicted_country = None
+    tokens_to_remove = []
+
+    for token in tokens[:]:  # Iterate over a copy to avoid modifying while iterating
+        logger.info("Looking for token in country map: %s", token)
+
         if token in country_map:
             predicted_country = country_map[token]
-            tokens.remove(token)
-            # else if the token ends in an s, remove it and try again
+            tokens_to_remove.append(token)
+            break
+
         elif token.endswith('s'):
-            token = token[:-1]
-            if token in country_map:
-                predicted_country = country_map[token]
+            singular_token = token[:-1]
+            if singular_token in country_map:
+                predicted_country = country_map[singular_token]
+                tokens_to_remove.append(token)
                 break
-        else:
-            logger.warning('Unable to predict country for %s', core_part)
-            return None
+
+        tokens_to_remove.append(token)  # Remove token if no match found
+
+    # Remove tokens after iteration to avoid modifying the list mid-loop
+    for token in tokens_to_remove:
+        tokens.remove(token)
+
+
+
+
+    if predicted_country is None:
+        logger.warning('Unable to predict country for %s', core_part)
+        return None
 
     logger.info('Predicted country: %s', predicted_country)
 
     # if one of the tokens is a study name that also appears in the table, it's probably the study
+    predicted_study = None
     if len(tokens) == 0:
         predicted_study = 'best'
     else:
@@ -113,8 +130,13 @@ def predict_country_study_year(core_part, country_map, study_map):
                 tokens.remove(token)
                 break
         else:
-            logger.warning('Unable to predict study for %s', core_part)
-            return None
+            predicted_country = None
+            # logger.warning('Unable to predict study for %s', core_part)
+            # return None
+
+    if predicted_study is None:
+        logger.warning('Unable to predict study for %s', core_part)
+        return None
 
     logger.info('Predicted study: %s', predicted_study)
 
