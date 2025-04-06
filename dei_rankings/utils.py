@@ -1,7 +1,7 @@
 """Utilities for the rankings module"""
 from datetime import datetime
 import openpyxl
-from dei_rankings import logging_config
+from dei_rankings import logging_config, data
 
 logger = logging_config.logger
 LOAD_WAIT_SECONDS = 10
@@ -156,8 +156,6 @@ def add_new_dataset(data_dict: dict):
 
     Returns:
         list representing the new row. Includes datetime the row was added
-    
-    
     """
 
     filepath = r'..\data\datasets.xlsx'
@@ -193,3 +191,59 @@ def add_new_dataset(data_dict: dict):
     workbook.save(filepath)
 
     return data_list
+
+
+# Function to insert data_dict to datasets table in the database
+def insert_new_dataset(data_dict):
+    """Inserts a new row into the datasets table in the database.
+
+    Arguments:
+        data_dict (dict): The country, study, year, and URL as keys of a dictionary.
+            The dict values are the values to be written to the row.
+
+    Returns:
+        bool: True if the operation was successful, False otherwise.
+    """
+    # Add 'added' and 'link_valid' fields to the data_dict
+    data_dict['added'] = datetime.now()  # Current datetime
+    data_dict['link_valid'] = 1         # Default value for link_valid
+
+    # r_statista_"&[@study]&"_"&[@country]&"_"&[@year]&".csv"
+    # This is a placeholder for the actual filename logic, if needed.
+    data_dict['filename'] = \
+        f"r_statista_{data_dict['study']}_{data_dict['country']}_{data_dict['year']}.csv"
+
+    # Get country_id from countries table
+    df_country = data.sqlselect(
+        f"SELECT country_id FROM countries WHERE country = '{data_dict['country']}' LIMIT 1"
+    )
+    if df_country.empty:
+        logger.error("No matching country_id found for country: %s", data_dict['country'])
+        return False
+    data_dict['country_id'] = int(df_country.iloc[0]['country_id'])
+
+    # Get study_id from studies table
+    df_study = data.sqlselect(
+        f"SELECT study_id FROM studies WHERE study = '{data_dict['study']}' LIMIT 1"
+    )
+    if df_study.empty:
+        logger.error("No matching study_id found for study: %s", data_dict['study'])
+        return False
+    data_dict['study_id'] = int(df_study.iloc[0]['study_id'])
+
+
+    # Prepare the SQL query
+    columns = ', '.join(data_dict.keys())
+    placeholders = ', '.join('?' * len(data_dict))
+    sql = f'INSERT INTO datasets ({columns}) VALUES ({placeholders})'
+
+    # Prepare the values
+    values = tuple(data_dict.values())
+
+    # Execute the SQL command to insert the new row
+    result = data.sqldml(sql, values)
+    if result:
+        logger.info('Inserted new dataset entry: %s', data_dict)
+    else:
+        logger.error('Failed to insert new dataset entry: %s', data_dict)
+    return result

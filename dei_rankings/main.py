@@ -84,7 +84,8 @@ if new_urls:
 
         data_dict = dict(zip(['country', 'study', 'year'], result))
         data_dict['url'] = url
-        new_row = utils.add_new_dataset(data_dict=data_dict)
+        # new_row = utils.add_new_dataset(data_dict=data_dict)
+        new_row = utils.insert_new_dataset(data_dict=data_dict)
 else:
     ws.logger.info("There were no new urls to add to the datasets file.")
     sys.exit(0)
